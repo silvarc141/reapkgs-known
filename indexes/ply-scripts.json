@@ -201,6 +201,48 @@
       }
     ]
   },
+  "ply_M7util.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
+        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
+      },
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
+        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
+      }
+    ],
+    "0.1alpha.1": [
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
+        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
+      },
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
+        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
+      }
+    ]
+  },
+  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ]
+  },
   "ply_Horizontal zoom in (center at edit cursor).eel": {
     "latest": [
       {
@@ -247,38 +289,6 @@
       }
     ]
   },
-  "ply_Transport StartStop (recording safe).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
-        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
-        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ]
-  },
-  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ]
-  },
   "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
     "latest": [
       {
@@ -311,29 +321,19 @@
       }
     ]
   },
-  "ply_M7util.jsfx": {
+  "ply_Transport StartStop (recording safe).eel": {
     "latest": [
       {
-        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
-        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
-      },
-      {
-        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
-        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
+        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
+        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
       }
     ],
-    "0.1alpha.1": [
+    "1.2.1": [
       {
-        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
-        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
-      },
-      {
-        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
-        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
+        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
+        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
       }
     ]
   },

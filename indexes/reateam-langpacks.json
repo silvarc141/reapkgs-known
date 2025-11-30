@@ -1,198 +1,31 @@
 {
-  "pt-BR Brazilian (REAPER+SWS).ReaperLangPack": {
+  "REAPER_SWS_ru_reapack-utf8.ReaperLangPack": {
     "latest": [
       {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS)%20Linux.ReaperLangPack",
-        "sha256": "0xp1m12v1g838qk7fvab7hwacdn2334f4nz5racbgh5plx1nd1xw"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
       }
     ],
-    "6.79": [
+    "1.1.2": [
       {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS)%20Linux.ReaperLangPack",
-        "sha256": "0xp1m12v1g838qk7fvab7hwacdn2334f4nz5racbgh5plx1nd1xw"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
       }
     ],
-    "6.77": [
+    "1.1": [
       {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/6a024f96586406c70d6416c7aa86cd02717e7b2e/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0nikhfld7rri411mvpma5s4awcdc2fh62abmwz4zc2cfpmjqdvpw"
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "0zxdvasgfpim5s7byh7n1j9jc1c79azbh8lk8s8z8fy8f509r0lf"
       }
     ],
-    "6.75": [
+    "1.0": [
       {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/9eed5abd243aa15283d1ea6016efc82be7b25eb0/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1ksqhvfial1g92bfn9kcwcgkshj4fz5qy0vrkabl8kqny1dpy688"
-      }
-    ],
-    "6.73": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/26ad25f738d4f039112b7fd30c64271431112a4a/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0dcn44dnygykgbfhqjz2wkwas1b9lnplgwsh8zrvnsqih5f7djvq"
-      }
-    ],
-    "6.72": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/ad9e4fbd6b4652b1ac6c7e90d9bb152e734ec21e/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1m5cfxxbsra57mrmp9gzim1vja1822hjng7i4ac8ii9j3j55yzv9"
-      }
-    ],
-    "6.71": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/86f9d6b834ebf8ae4a74bdde3aedbd49e4656484/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "18im0l10sc8kpr38mnhax1wfmqnlhykraxbanwnblvrvjzyicir9"
-      }
-    ],
-    "6.69": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/b4b2e97093511b6b3974a04cfd9dc250759364bc/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1q7cb01mkfig36p4413qnibngrs1by26wghhqgh6dyhv0550ppcz"
-      }
-    ],
-    "6.68": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/c39df88f5262a23500d6b179b39ee06590323f5f/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1nkrdm8l0yi3n8lfqlzplv1fyc2fiaf8y1zw641xk2y8q892iv46"
-      }
-    ],
-    "6.60": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/873b8125eea737ea534514689c77dcaea36bc1ce/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "02zyg4x8i27knnfysz8mfr4wcppy0gkfmjnjcszmmvl1pgi8hmg5"
-      }
-    ],
-    "6.58": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/9ff57f26a00a4d070a19bead344fe0bb2afe2877/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1dysga0kmzx876qks70895f9a5jqr3y77anw34ig08hkb5ahp301"
-      }
-    ],
-    "6.57": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/1d41d72e9f7bb582c00667c22498c9c7410786dc/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "01m4ysvv93ny4w3pp5zanggd3xinbhhr3kg9c2npr9yxknncbk5q"
-      }
-    ],
-    "6.53-1": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/06c1ac0340a225330b64789a3c5f41e5fbd41374/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "07ncryg61d004sqv8n2q48i1jdqldvjlqa19aqk5i2xnd57jlb1w"
-      }
-    ],
-    "6.53": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/c841ce79e8d03fe7112e29c9893edb151de4c4b6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0nvny4v441fwinzsn901qlxqxlrx9fkn1hlal3c6yvfmhd03g87l"
-      }
-    ],
-    "6.52": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/3b63d9b64d44853f1f7c93eb587ed3e491617581/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0c0prdsrla6z3lh54m0x25ckjyssrvh99pnjdjq5mx02jijyyb74"
-      }
-    ],
-    "6.51": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/b1660b864855bd8963bfc09d42bf2612a9e6e781/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "06wgc3hvk31z8k9dmcpwb76zpjvyrwkigq72v91xwjbg8iqaawci"
-      }
-    ],
-    "6.49": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/0abff8036058787553c41619022941e3b37ae3a8/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "01n79i49chb09d20xi78c2kkqw9yappiadn7lj5lry4n3nr68srg"
-      }
-    ],
-    "6.47": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/c44c5f612d1a382ed66781c1b557ddd7a077dd1c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1w1r89sxiy8c1hfscfcpqa1hpppxwk18bpf3k64g747vky2c8l3r"
-      }
-    ],
-    "6.46-1": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/3ca1cf40c16db29ac40196f6912341d45f82d21f/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0xqs7m2zn346hq9i8xglncdbrrr7jiag0qzmq0z9i3d3q0vg6dvd"
-      }
-    ],
-    "6.46": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/610d27f0886968744f5481d3ea76d23c3fe93c0b/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1dwbmnx58badjjr961ps53sigvln8ymic4qb9ngzxhvrgp0pq9qh"
-      }
-    ],
-    "6.43-1": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/6b552e34d9c8ab2285693c2ead073e30338bad70/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "15yg6b13pzgic25yaggl427ghdphwi305wz9sb0kzmfiazkwcgxb"
-      }
-    ],
-    "6.43": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/41675bb007e9a87d6d56f7631fe7064deeb563d6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0szmg181qwixgp32pjrx1r0zz50vyafknix3q9hn3pvqiv8nannv"
-      }
-    ],
-    "6.42": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/97f3fde79f5eff5011307d535272bd652b9b6929/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1mi8fkvjk2h8az6zja82pnrlf2nv5w3kcsh1zfkgjlvv8w3z68kj"
-      }
-    ],
-    "6.41": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/c013b7a3af428fd971bbc4c5830af693cef33681/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1nfdvq22vy531dh5dcz2ha699pr3gm520iw9nwb1nagj0ihdwdc1"
-      }
-    ],
-    "6.39": [
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/8d81512d5a06d6929f14a497118cd8ade406cd12/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "0fd34wyk54n1rxhnfprpribq3260fss76v34lvarnali0cbi04di"
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "1akqyz023h4gz5pn3i7m0ncdnm1r1i93gqdcnj61ym4b7gpqz778"
       }
     ]
   },
@@ -436,33 +269,200 @@
       }
     ]
   },
-  "REAPER_SWS_ru_reapack-utf8.ReaperLangPack": {
+  "pt-BR Brazilian (REAPER+SWS).ReaperLangPack": {
     "latest": [
       {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS)%20Linux.ReaperLangPack",
+        "sha256": "0xp1m12v1g838qk7fvab7hwacdn2334f4nz5racbgh5plx1nd1xw"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
       }
     ],
-    "1.1.2": [
+    "6.79": [
       {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS)%20Linux.ReaperLangPack",
+        "sha256": "0xp1m12v1g838qk7fvab7hwacdn2334f4nz5racbgh5plx1nd1xw"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
       }
     ],
-    "1.1": [
+    "6.77": [
       {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "0zxdvasgfpim5s7byh7n1j9jc1c79azbh8lk8s8z8fy8f509r0lf"
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/6a024f96586406c70d6416c7aa86cd02717e7b2e/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0nikhfld7rri411mvpma5s4awcdc2fh62abmwz4zc2cfpmjqdvpw"
       }
     ],
-    "1.0": [
+    "6.75": [
       {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "1akqyz023h4gz5pn3i7m0ncdnm1r1i93gqdcnj61ym4b7gpqz778"
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/9eed5abd243aa15283d1ea6016efc82be7b25eb0/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1ksqhvfial1g92bfn9kcwcgkshj4fz5qy0vrkabl8kqny1dpy688"
+      }
+    ],
+    "6.73": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/26ad25f738d4f039112b7fd30c64271431112a4a/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0dcn44dnygykgbfhqjz2wkwas1b9lnplgwsh8zrvnsqih5f7djvq"
+      }
+    ],
+    "6.72": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/ad9e4fbd6b4652b1ac6c7e90d9bb152e734ec21e/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1m5cfxxbsra57mrmp9gzim1vja1822hjng7i4ac8ii9j3j55yzv9"
+      }
+    ],
+    "6.71": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/86f9d6b834ebf8ae4a74bdde3aedbd49e4656484/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "18im0l10sc8kpr38mnhax1wfmqnlhykraxbanwnblvrvjzyicir9"
+      }
+    ],
+    "6.69": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/b4b2e97093511b6b3974a04cfd9dc250759364bc/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1q7cb01mkfig36p4413qnibngrs1by26wghhqgh6dyhv0550ppcz"
+      }
+    ],
+    "6.68": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/c39df88f5262a23500d6b179b39ee06590323f5f/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1nkrdm8l0yi3n8lfqlzplv1fyc2fiaf8y1zw641xk2y8q892iv46"
+      }
+    ],
+    "6.60": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/873b8125eea737ea534514689c77dcaea36bc1ce/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "02zyg4x8i27knnfysz8mfr4wcppy0gkfmjnjcszmmvl1pgi8hmg5"
+      }
+    ],
+    "6.58": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/9ff57f26a00a4d070a19bead344fe0bb2afe2877/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1dysga0kmzx876qks70895f9a5jqr3y77anw34ig08hkb5ahp301"
+      }
+    ],
+    "6.57": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/1d41d72e9f7bb582c00667c22498c9c7410786dc/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "01m4ysvv93ny4w3pp5zanggd3xinbhhr3kg9c2npr9yxknncbk5q"
+      }
+    ],
+    "6.53-1": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/06c1ac0340a225330b64789a3c5f41e5fbd41374/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "07ncryg61d004sqv8n2q48i1jdqldvjlqa19aqk5i2xnd57jlb1w"
+      }
+    ],
+    "6.53": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/c841ce79e8d03fe7112e29c9893edb151de4c4b6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0nvny4v441fwinzsn901qlxqxlrx9fkn1hlal3c6yvfmhd03g87l"
+      }
+    ],
+    "6.52": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/3b63d9b64d44853f1f7c93eb587ed3e491617581/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0c0prdsrla6z3lh54m0x25ckjyssrvh99pnjdjq5mx02jijyyb74"
+      }
+    ],
+    "6.51": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/b1660b864855bd8963bfc09d42bf2612a9e6e781/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "06wgc3hvk31z8k9dmcpwb76zpjvyrwkigq72v91xwjbg8iqaawci"
+      }
+    ],
+    "6.49": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/0abff8036058787553c41619022941e3b37ae3a8/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "01n79i49chb09d20xi78c2kkqw9yappiadn7lj5lry4n3nr68srg"
+      }
+    ],
+    "6.47": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/c44c5f612d1a382ed66781c1b557ddd7a077dd1c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1w1r89sxiy8c1hfscfcpqa1hpppxwk18bpf3k64g747vky2c8l3r"
+      }
+    ],
+    "6.46-1": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/3ca1cf40c16db29ac40196f6912341d45f82d21f/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0xqs7m2zn346hq9i8xglncdbrrr7jiag0qzmq0z9i3d3q0vg6dvd"
+      }
+    ],
+    "6.46": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/610d27f0886968744f5481d3ea76d23c3fe93c0b/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1dwbmnx58badjjr961ps53sigvln8ymic4qb9ngzxhvrgp0pq9qh"
+      }
+    ],
+    "6.43-1": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/6b552e34d9c8ab2285693c2ead073e30338bad70/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "15yg6b13pzgic25yaggl427ghdphwi305wz9sb0kzmfiazkwcgxb"
+      }
+    ],
+    "6.43": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/41675bb007e9a87d6d56f7631fe7064deeb563d6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0szmg181qwixgp32pjrx1r0zz50vyafknix3q9hn3pvqiv8nannv"
+      }
+    ],
+    "6.42": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/97f3fde79f5eff5011307d535272bd652b9b6929/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1mi8fkvjk2h8az6zja82pnrlf2nv5w3kcsh1zfkgjlvv8w3z68kj"
+      }
+    ],
+    "6.41": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/c013b7a3af428fd971bbc4c5830af693cef33681/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1nfdvq22vy531dh5dcz2ha699pr3gm520iw9nwb1nagj0ihdwdc1"
+      }
+    ],
+    "6.39": [
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/8d81512d5a06d6929f14a497118cd8ade406cd12/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "0fd34wyk54n1rxhnfprpribq3260fss76v34lvarnali0cbi04di"
       }
     ]
   },

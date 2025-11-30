@@ -7151,17 +7151,34 @@
     "latest": [
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Tags/BirdBird_Track Tags.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/9841d13ec2922e03de2e0cb39ce48873127ead41/Track%20Tags/BirdBird_Track%20Tags.lua",
-        "sha256": "0ajka1g1mvrdwnffy0qwnbay86mrjifgzjx76vz3xjr42hmci4rb"
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/eec561db5605a2d20aec6e8abb190ab12f78785d/Track%20Tags/BirdBird_Track%20Tags.lua",
+        "sha256": "07ma7q4q7kjqwm0286nb9k0yxr25vgzn3kd4rhr5r6kvl8r1swjb"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Tags/libraries/functions.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/9841d13ec2922e03de2e0cb39ce48873127ead41/Track%20Tags/libraries/functions.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/eec561db5605a2d20aec6e8abb190ab12f78785d/Track%20Tags/libraries/functions.lua",
         "sha256": "01q1b1f52pasayzqvs7s3kdh6h32g7475ai5i9pgfxalf6m1qa36"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Tags/libraries/json.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/9841d13ec2922e03de2e0cb39ce48873127ead41/Track%20Tags/libraries/json.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/eec561db5605a2d20aec6e8abb190ab12f78785d/Track%20Tags/libraries/json.lua",
+        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
+      }
+    ],
+    "0.6.2": [
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Track Tags/BirdBird_Track Tags.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/eec561db5605a2d20aec6e8abb190ab12f78785d/Track%20Tags/BirdBird_Track%20Tags.lua",
+        "sha256": "07ma7q4q7kjqwm0286nb9k0yxr25vgzn3kd4rhr5r6kvl8r1swjb"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Track Tags/libraries/functions.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/eec561db5605a2d20aec6e8abb190ab12f78785d/Track%20Tags/libraries/functions.lua",
+        "sha256": "01q1b1f52pasayzqvs7s3kdh6h32g7475ai5i9pgfxalf6m1qa36"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Track Tags/libraries/json.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/eec561db5605a2d20aec6e8abb190ab12f78785d/Track%20Tags/libraries/json.lua",
         "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
       }
     ],

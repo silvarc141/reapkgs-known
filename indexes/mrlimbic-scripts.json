@@ -15,6 +15,22 @@
       }
     ]
   },
+  "mrlimbic_square_pusher_distorion.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ]
+  },
   "mrlimbic_LCR_mono_panner.jsfx": {
     "latest": [
       {
@@ -59,19 +75,19 @@
       }
     ]
   },
-  "4-ch limiter.jsfx": {
+  "4-ch sidechain compressor.jsfx": {
     "latest": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
+        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
+        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
       }
     ]
   },
@@ -119,35 +135,35 @@
       }
     ]
   },
-  "mrlimbic_square_pusher_distorion.jsfx": {
+  "Dopp Wobbler.jsfx": {
     "latest": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
+        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
+        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
       }
     ]
   },
-  "4-ch sidechain compressor.jsfx": {
+  "4-ch limiter.jsfx": {
     "latest": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
-        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
-        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
       }
     ]
   },
@@ -164,22 +180,6 @@
         "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band joiner.jsfx",
         "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20joiner.jsfx",
         "sha256": "19xd246ylgc8jc67shfl6c8by6raliiw86khl0b14426svza9x4p"
-      }
-    ]
-  },
-  "Dopp Wobbler.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
-        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
-        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
       }
     ]
   },
@@ -231,6 +231,45 @@
       }
     ]
   },
+  "mrlimbic_create regions from item groups.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
+      }
+    ]
+  },
+  "mrlimbic_import timecoded regions from tab-delimited CSV.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
+        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
+        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
+      }
+    ]
+  },
   "mrlimbic_ffprobe scene detect.lua": {
     "latest": [
       {
@@ -267,45 +306,6 @@
         "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
         "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
         "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
-      }
-    ]
-  },
-  "mrlimbic_import timecoded regions from tab-delimited CSV.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
-        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
-        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
-      }
-    ]
-  },
-  "mrlimbic_create regions from item groups.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
       }
     ]
   },
