@@ -1749,59 +1749,6 @@
       }
     ]
   },
-  "FileManager.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
-        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
-        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/ee336a8c316e3e69b93346dfc0d7f5a3c6e4e7aa/ImGui_Tools/FileManager.lua",
-        "sha256": "0ia1c7b9y18yy96dnmivmc2nbmhqigcidnpkby43kg1qvrncqymf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/83bdb98a77f333514472564977d603d7200c3fac/ImGui_Tools/FileManager.lua",
-        "sha256": "16dqphk0d1hlb1nw08lwm2nzry0b4g87k2vyzxcvqzr0d4yfkf12"
-      }
-    ]
-  },
-  "Sexan_Chunk_Viewer.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/1440abe4cebb885b9b07a5c342b291d1e038a762/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "sha256": "07dprrg6gn7p8cc2h13pzxfnj6lpivp71p6q0b85lzr7bz6fidm7"
-      }
-    ]
-  },
   "Lil_Item_Homie.lua": {
     "latest": [
       {
@@ -2041,6 +1988,59 @@
       }
     ]
   },
+  "Sexan_Chunk_Viewer.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/1440abe4cebb885b9b07a5c342b291d1e038a762/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "sha256": "07dprrg6gn7p8cc2h13pzxfnj6lpivp71p6q0b85lzr7bz6fidm7"
+      }
+    ]
+  },
+  "FileManager.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
+        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
+        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/ee336a8c316e3e69b93346dfc0d7f5a3c6e4e7aa/ImGui_Tools/FileManager.lua",
+        "sha256": "0ia1c7b9y18yy96dnmivmc2nbmhqigcidnpkby43kg1qvrncqymf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/83bdb98a77f333514472564977d603d7200c3fac/ImGui_Tools/FileManager.lua",
+        "sha256": "16dqphk0d1hlb1nw08lwm2nzry0b4g87k2vyzxcvqzr0d4yfkf12"
+      }
+    ]
+  },
   "Sexan_Create VCA master from selection.lua": {
     "latest": [
       {
@@ -2106,22 +2106,6 @@
       }
     ]
   },
-  "Sexan_Folder record monitor arming childs.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Track/Sexan_Folder record monitor arming childs.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/ae31f5a8c70237a3cb6ac96a94188c14f6d21d42/Track/Sexan_Folder%20record%20monitor%20arming%20childs.lua",
-        "sha256": "16nblrsw4k3d3bxgfhv5icx34xv8lx327zj6b937pq6sba0sadvv"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Sexan_Scripts/Track/Sexan_Folder record monitor arming childs.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/ae31f5a8c70237a3cb6ac96a94188c14f6d21d42/Track/Sexan_Folder%20record%20monitor%20arming%20childs.lua",
-        "sha256": "16nblrsw4k3d3bxgfhv5icx34xv8lx327zj6b937pq6sba0sadvv"
-      }
-    ]
-  },
   "Sexan_Remove selected VCA master and its slaves with all flags.lua": {
     "latest": [
       {
@@ -2145,61 +2129,19 @@
       }
     ]
   },
-  "Sexan_FX_Browser_Parser.lua": {
+  "Sexan_Folder record monitor arming childs.lua": {
     "latest": [
       {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/c19e77d6994c9b41c73aa39db396475128255ad6/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0fmq5c5hrb7ffiavqnvvy2i33q6klkz97ylr5xkyaml0fnhlydbp"
+        "path": "Scripts/Sexan_Scripts/Track/Sexan_Folder record monitor arming childs.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/ae31f5a8c70237a3cb6ac96a94188c14f6d21d42/Track/Sexan_Folder%20record%20monitor%20arming%20childs.lua",
+        "sha256": "16nblrsw4k3d3bxgfhv5icx34xv8lx327zj6b937pq6sba0sadvv"
       }
     ],
-    "1.6": [
+    "1.01": [
       {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/c19e77d6994c9b41c73aa39db396475128255ad6/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0fmq5c5hrb7ffiavqnvvy2i33q6klkz97ylr5xkyaml0fnhlydbp"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/fdb972b2d6f5f3b71fe9c98843604cc142029f53/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "1gg5j2xwgqwi5ww68pj69n61hgsxarw5mga6d77bl14y14ns2pv7"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/b7fdede98936a8581e95c2c29c2a9820372174f1/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0lc10025jl6qp53j0x7xrhhjw3m6wib3hkigbcx47d2w0rwscg55"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/7ca8a9194960e164315238d65ca6841db828e690/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0k9nprn7nvrg10ypml0j1hcvgq1vrq3sx4s0sbs9gy2bw5m1f9y8"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/dac3e5e2f1d0bedd7006fe85e1fd8437b38bb80e/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0qqlzh8n4v2fkv2xqkph7zm4cxg9bnghqh49r9qjgdnkv2mxxlxa"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/42b6a5773acdbd0e470f7aeb41d16ccd8f08dc2b/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0mzr14dg7rgdz5g2ncvqj42wvf2xd5j56l1927x4qr598qr4gbfl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/d59611ccf63a29855353b4c7ad765ea21285fde3/FX/Sexan_FX_Browser_Parser.lua",
-        "sha256": "0jf5dr0470sqhxb3r7f0imjfkan1kqr60x37sclxxpmhc71nflhg"
+        "path": "Scripts/Sexan_Scripts/Track/Sexan_Folder record monitor arming childs.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/ae31f5a8c70237a3cb6ac96a94188c14f6d21d42/Track/Sexan_Folder%20record%20monitor%20arming%20childs.lua",
+        "sha256": "16nblrsw4k3d3bxgfhv5icx34xv8lx327zj6b937pq6sba0sadvv"
       }
     ]
   },
@@ -2524,6 +2466,64 @@
         "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_ParserV7.lua",
         "url": "https://github.com/GoranKovac/ReaScripts/raw/f646c372285b8dcb4f6f0fd4416a20ec73d9460c/FX/Sexan_FX_Browser_ParserV7.lua",
         "sha256": "1mhd77j95iszgd9dxhs9fpkrw88pfj8ja8h2i8msx066hs7icsh3"
+      }
+    ]
+  },
+  "Sexan_FX_Browser_Parser.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/c19e77d6994c9b41c73aa39db396475128255ad6/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0fmq5c5hrb7ffiavqnvvy2i33q6klkz97ylr5xkyaml0fnhlydbp"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/c19e77d6994c9b41c73aa39db396475128255ad6/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0fmq5c5hrb7ffiavqnvvy2i33q6klkz97ylr5xkyaml0fnhlydbp"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/fdb972b2d6f5f3b71fe9c98843604cc142029f53/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "1gg5j2xwgqwi5ww68pj69n61hgsxarw5mga6d77bl14y14ns2pv7"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/b7fdede98936a8581e95c2c29c2a9820372174f1/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0lc10025jl6qp53j0x7xrhhjw3m6wib3hkigbcx47d2w0rwscg55"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/7ca8a9194960e164315238d65ca6841db828e690/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0k9nprn7nvrg10ypml0j1hcvgq1vrq3sx4s0sbs9gy2bw5m1f9y8"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/dac3e5e2f1d0bedd7006fe85e1fd8437b38bb80e/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0qqlzh8n4v2fkv2xqkph7zm4cxg9bnghqh49r9qjgdnkv2mxxlxa"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/42b6a5773acdbd0e470f7aeb41d16ccd8f08dc2b/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0mzr14dg7rgdz5g2ncvqj42wvf2xd5j56l1927x4qr598qr4gbfl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/FX/Sexan_FX_Browser_Parser.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/d59611ccf63a29855353b4c7ad765ea21285fde3/FX/Sexan_FX_Browser_Parser.lua",
+        "sha256": "0jf5dr0470sqhxb3r7f0imjfkan1kqr60x37sclxxpmhc71nflhg"
       }
     ]
   },

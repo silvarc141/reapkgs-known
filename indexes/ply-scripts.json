@@ -1,68 +1,4 @@
 {
-  "ply_5.1 output router.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
-        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
-        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
-      }
-    ]
-  },
-  "ply_output_switcher.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
-        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
-        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
-      }
-    ]
-  },
-  "ply_Add empty items on selected tracks within time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Items Editing/ply_Add empty items on selected tracks within time selection.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/57446c55502ad19487e34dc31857d4033775da7e/Items%20Editing/ply_Add%20empty%20items%20on%20selected%20tracks%20within%20time%20selection.lua",
-        "sha256": "1p6kwwznka1wl23y88y7dd2kwl3mdag95k7hcybxj9s65kzj2dk0"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/ply Scripts/Items Editing/ply_Add empty items on selected tracks within time selection.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/57446c55502ad19487e34dc31857d4033775da7e/Items%20Editing/ply_Add%20empty%20items%20on%20selected%20tracks%20within%20time%20selection.lua",
-        "sha256": "1p6kwwznka1wl23y88y7dd2kwl3mdag95k7hcybxj9s65kzj2dk0"
-      }
-    ]
-  },
-  "ply_Synchronize and heal selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Items Editing/ply_Synchronize and heal selected items.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Items%20Editing/ply_Synchronize%20and%20heal%20selected%20items.lua",
-        "sha256": "025kz3wqkmxhg6x1anafqjb7ygwxz0n6cmxlw3wxckh67j1mcnj0"
-      }
-    ],
-    "0.2.1": [
-      {
-        "path": "Scripts/ply Scripts/Items Editing/ply_Synchronize and heal selected items.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Items%20Editing/ply_Synchronize%20and%20heal%20selected%20items.lua",
-        "sha256": "025kz3wqkmxhg6x1anafqjb7ygwxz0n6cmxlw3wxckh67j1mcnj0"
-      }
-    ]
-  },
   "ply_Delete marker.lua": {
     "latest": [
       {
@@ -227,38 +163,6 @@
       }
     ]
   },
-  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ]
-  },
-  "ply_Horizontal zoom in (center at edit cursor).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
-      }
-    ]
-  },
   "ply_Playhead vs selected track items and markers window.lua": {
     "latest": [
       {
@@ -289,22 +193,6 @@
       }
     ]
   },
-  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ]
-  },
   "ply_Horizontal zoom out (center at edit cursor).eel": {
     "latest": [
       {
@@ -321,6 +209,38 @@
       }
     ]
   },
+  "ply_Horizontal zoom in (center at edit cursor).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ]
+  },
+  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ]
+  },
   "ply_Transport StartStop (recording safe).eel": {
     "latest": [
       {
@@ -334,6 +254,22 @@
         "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
         "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
         "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
+      }
+    ]
+  },
+  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
       }
     ]
   },
@@ -499,6 +435,70 @@
         "path": "Scripts/ply Scripts/Items Editing/Source-Destination/ply_Source-Destination setup.lua",
         "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Items%20Editing/Source-Destination/ply_Source-Destination%20setup.lua",
         "sha256": "1v3hhhx402q63grw4g2ds3m6mzv5zisn6ka6i75iyiizhnc3nla4"
+      }
+    ]
+  },
+  "ply_Synchronize and heal selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Items Editing/ply_Synchronize and heal selected items.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Items%20Editing/ply_Synchronize%20and%20heal%20selected%20items.lua",
+        "sha256": "025kz3wqkmxhg6x1anafqjb7ygwxz0n6cmxlw3wxckh67j1mcnj0"
+      }
+    ],
+    "0.2.1": [
+      {
+        "path": "Scripts/ply Scripts/Items Editing/ply_Synchronize and heal selected items.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Items%20Editing/ply_Synchronize%20and%20heal%20selected%20items.lua",
+        "sha256": "025kz3wqkmxhg6x1anafqjb7ygwxz0n6cmxlw3wxckh67j1mcnj0"
+      }
+    ]
+  },
+  "ply_Add empty items on selected tracks within time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Items Editing/ply_Add empty items on selected tracks within time selection.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/57446c55502ad19487e34dc31857d4033775da7e/Items%20Editing/ply_Add%20empty%20items%20on%20selected%20tracks%20within%20time%20selection.lua",
+        "sha256": "1p6kwwznka1wl23y88y7dd2kwl3mdag95k7hcybxj9s65kzj2dk0"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/ply Scripts/Items Editing/ply_Add empty items on selected tracks within time selection.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/57446c55502ad19487e34dc31857d4033775da7e/Items%20Editing/ply_Add%20empty%20items%20on%20selected%20tracks%20within%20time%20selection.lua",
+        "sha256": "1p6kwwznka1wl23y88y7dd2kwl3mdag95k7hcybxj9s65kzj2dk0"
+      }
+    ]
+  },
+  "ply_output_switcher.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
+        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
+        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
+      }
+    ]
+  },
+  "ply_5.1 output router.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
+        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
+        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
       }
     ]
   }
