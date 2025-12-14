@@ -1,80 +1,4 @@
 {
-  "MMC locate.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
-        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
-        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3fb29fa4232a7176304f97201288b43b450ef5ca/JSFX/MMC%20locate.jsfx",
-        "sha256": "0zxl4129mp7lzrqbcms5ppid8r9c2ys6x5xfa19mcigkjqsi9pjb"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/ad590a46743c39f1b9ca3a7a4e2f3e740cd7d633/JSFX/MMC%20locate.jsfx",
-        "sha256": "1wz3m33xncbyc7v4pw3m0cf8icrc0df8xfzqnmlciacsxf6gccfb"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/5b9cbdf4955434c2bba1fa4b9319c0a63129feda/JSFX/MMC%20locate.jsfx",
-        "sha256": "1cwmzrh4bs0mznna2ba8ikf5g8i35ymykb1fl0gfz01pav4h5vw8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/83e519639a31ce8f1cab41862b97300b9f4b9404/JSFX/MMC%20locate.jsfx",
-        "sha256": "09p14fnhw1qr9c2v34qfg34lalxkqjriz7f0f5f8pqbqhrgsm412"
-      }
-    ]
-  },
-  "4-ch 4-band joiner.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band joiner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20joiner.jsfx",
-        "sha256": "19xd246ylgc8jc67shfl6c8by6raliiw86khl0b14426svza9x4p"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band joiner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20joiner.jsfx",
-        "sha256": "19xd246ylgc8jc67shfl6c8by6raliiw86khl0b14426svza9x4p"
-      }
-    ]
-  },
-  "mrlimbic_square_pusher_distorion.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
-      }
-    ]
-  },
   "mrlimbic_LCR_mono_panner.jsfx": {
     "latest": [
       {
@@ -119,35 +43,47 @@
       }
     ]
   },
-  "4-ch limiter.jsfx": {
+  "MMC locate.jsfx": {
     "latest": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
+        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
+        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3fb29fa4232a7176304f97201288b43b450ef5ca/JSFX/MMC%20locate.jsfx",
+        "sha256": "0zxl4129mp7lzrqbcms5ppid8r9c2ys6x5xfa19mcigkjqsi9pjb"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/ad590a46743c39f1b9ca3a7a4e2f3e740cd7d633/JSFX/MMC%20locate.jsfx",
+        "sha256": "1wz3m33xncbyc7v4pw3m0cf8icrc0df8xfzqnmlciacsxf6gccfb"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/5b9cbdf4955434c2bba1fa4b9319c0a63129feda/JSFX/MMC%20locate.jsfx",
+        "sha256": "1cwmzrh4bs0mznna2ba8ikf5g8i35ymykb1fl0gfz01pav4h5vw8"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
-      }
-    ]
-  },
-  "4-ch 4-band splitter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
-        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
-        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/83e519639a31ce8f1cab41862b97300b9f4b9404/JSFX/MMC%20locate.jsfx",
+        "sha256": "09p14fnhw1qr9c2v34qfg34lalxkqjriz7f0f5f8pqbqhrgsm412"
       }
     ]
   },
@@ -180,6 +116,70 @@
         "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
         "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
         "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+      }
+    ]
+  },
+  "4-ch limiter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+      }
+    ]
+  },
+  "4-ch 4-band joiner.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band joiner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20joiner.jsfx",
+        "sha256": "19xd246ylgc8jc67shfl6c8by6raliiw86khl0b14426svza9x4p"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band joiner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20joiner.jsfx",
+        "sha256": "19xd246ylgc8jc67shfl6c8by6raliiw86khl0b14426svza9x4p"
+      }
+    ]
+  },
+  "mrlimbic_square_pusher_distorion.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ]
+  },
+  "4-ch 4-band splitter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
+        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
+        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
       }
     ]
   },
@@ -231,6 +231,45 @@
       }
     ]
   },
+  "mrlimbic_create regions from item groups.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
+      }
+    ]
+  },
+  "mrlimbic_import timecoded regions from tab-delimited CSV.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
+        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
+        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
+      }
+    ]
+  },
   "mrlimbic_ffprobe scene detect.lua": {
     "latest": [
       {
@@ -267,45 +306,6 @@
         "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
         "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
         "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
-      }
-    ]
-  },
-  "mrlimbic_import timecoded regions from tab-delimited CSV.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
-        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
-        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
-      }
-    ]
-  },
-  "mrlimbic_create regions from item groups.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
       }
     ]
   },

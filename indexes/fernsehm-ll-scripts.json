@@ -15,54 +15,6 @@
       }
     ]
   },
-  "fernsehmuell_Pause_(K).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
-        "sha256": "0j6dvy349abjdna05clkcsklmz7yfijmayry8974f20fp6v48cdd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
-        "sha256": "0j6dvy349abjdna05clkcsklmz7yfijmayry8974f20fp6v48cdd"
-      }
-    ]
-  },
-  "fernsehmuell_Go_to_next_event.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/612fc948d029ca22f7edc070c955b3bd8835671f/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
-        "sha256": "1x30g05lw2252387cfcvgh3xf6pdi4zvjh0wn15vimyca7lrxlhz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/612fc948d029ca22f7edc070c955b3bd8835671f/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
-        "sha256": "1x30g05lw2252387cfcvgh3xf6pdi4zvjh0wn15vimyca7lrxlhz"
-      }
-    ]
-  },
-  "fernsehmuell_Forward_Play_Shuttle_(L).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
-        "sha256": "0q83ash0lzgbh3gp4hmhg21pax5lf5yhaa4xpda1d46mimk1hrch"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
-        "sha256": "0q83ash0lzgbh3gp4hmhg21pax5lf5yhaa4xpda1d46mimk1hrch"
-      }
-    ]
-  },
   "fernsehmuell_Clear_IN_Marks_(D).lua": {
     "latest": [
       {
@@ -76,173 +28,6 @@
         "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_IN_Marks_(D).lua",
         "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_IN_Marks_(D).lua",
         "sha256": "07jarhi93jyp163i734gm7mvv0v18kwyszmr918d0spvng5xv99d"
-      }
-    ]
-  },
-  "fernsehmuell_Clear_Both_Marks_(G).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
-        "sha256": "0i3mdmzz7h6bnwbj6s8jn7ciwk374dz5hlxwsdfhb03fnip8jjz7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
-        "sha256": "0i3mdmzz7h6bnwbj6s8jn7ciwk374dz5hlxwsdfhb03fnip8jjz7"
-      }
-    ]
-  },
-  "fernsehmuell_Reverse_Play_Shuttle_Background.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
-        "sha256": "005b6fv4zsnlfv859s950ammh5k5k24paspf7b4mzphcnairdzxn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
-        "sha256": "005b6fv4zsnlfv859s950ammh5k5k24paspf7b4mzphcnairdzxn"
-      }
-    ]
-  },
-  "fernsehmuell_Reverse_Play_Shuttle_(J).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/5ec2f9892af6a85d09af6cad045d598d5e12deba/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
-        "sha256": "144w0fdcsd8psvx70f3px2is4y8rr9azpc13dwjrlyv7343ypfww"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/5ec2f9892af6a85d09af6cad045d598d5e12deba/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
-        "sha256": "144w0fdcsd8psvx70f3px2is4y8rr9azpc13dwjrlyv7343ypfww"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
-        "sha256": "0mg2dhb67mpbh3ssgabprhrv4ngdqyrj1k0ccqnns78iwx9vzxnl"
-      }
-    ]
-  },
-  "fernsehmuell_MarkClip_(T).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
-        "sha256": "1xd91bka8xk97j6jckcn07mdkq60aiw5k91cqa2110ag0lrgiqca"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
-        "sha256": "1xd91bka8xk97j6jckcn07mdkq60aiw5k91cqa2110ag0lrgiqca"
-      }
-    ]
-  },
-  "fernsehmuell_GotoOUT_(W).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
-        "sha256": "1pclyl2hr3zj9716vwgyd7y9p5lph76yh3gm8zv8104i7d09nqal"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
-        "sha256": "1pclyl2hr3zj9716vwgyd7y9p5lph76yh3gm8zv8104i7d09nqal"
-      }
-    ]
-  },
-  "fernsehmuell_Extract_(X).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
-        "sha256": "1brql7c1z7cslk4cfqrlssldp7zhbyb6rhvql0r4hby1q4kz3kb0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
-        "sha256": "1brql7c1z7cslk4cfqrlssldp7zhbyb6rhvql0r4hby1q4kz3kb0"
-      }
-    ]
-  },
-  "fernsehmuell_Step_backwards_40ms_(3).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
-        "sha256": "1jn7va5wi2dzk6g6sxnxfmmc59a6mziprjzpaxh8aanvm193m4kn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
-        "sha256": "1jn7va5wi2dzk6g6sxnxfmmc59a6mziprjzpaxh8aanvm193m4kn"
-      }
-    ]
-  },
-  "fernsehmuell_GotoIN_(Q).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
-        "sha256": "01y3rhw4wjs9jprdz8ydrf4l4fvlnh2wgapc1f5mh5vh75panicy"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
-        "sha256": "01y3rhw4wjs9jprdz8ydrf4l4fvlnh2wgapc1f5mh5vh75panicy"
-      }
-    ]
-  },
-  "fernsehmuell_SetOUT_(O).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
-        "sha256": "1hwjn7psp2xhrxmkz16wxqcl4baxjk64mp8gryzqflq61z8phhhz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
-        "sha256": "1hwjn7psp2xhrxmkz16wxqcl4baxjk64mp8gryzqflq61z8phhhz"
-      }
-    ]
-  },
-  "fernsehmuell_Clear_OUT_Marks_(F).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
-        "sha256": "0cp37i62h339i9ms1i7sy4brm0fr408gvsd1yr0yyvwz7agh055i"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
-        "sha256": "0cp37i62h339i9ms1i7sy4brm0fr408gvsd1yr0yyvwz7agh055i"
       }
     ]
   },
@@ -294,19 +79,35 @@
       }
     ]
   },
-  "fernsehmuell_Step_backwards_400ms_(1).lua": {
+  "fernsehmuell_Clear_OUT_Marks_(F).lua": {
     "latest": [
       {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
-        "sha256": "0x32cv39saxvziqb1y33cicvcmbj68ynbnscssw4ssdzc6s0w0m0"
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
+        "sha256": "0cp37i62h339i9ms1i7sy4brm0fr408gvsd1yr0yyvwz7agh055i"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
-        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
-        "sha256": "0x32cv39saxvziqb1y33cicvcmbj68ynbnscssw4ssdzc6s0w0m0"
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua",
+        "sha256": "0cp37i62h339i9ms1i7sy4brm0fr408gvsd1yr0yyvwz7agh055i"
+      }
+    ]
+  },
+  "fernsehmuell_Clear_Both_Marks_(G).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
+        "sha256": "0i3mdmzz7h6bnwbj6s8jn7ciwk374dz5hlxwsdfhb03fnip8jjz7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua",
+        "sha256": "0i3mdmzz7h6bnwbj6s8jn7ciwk374dz5hlxwsdfhb03fnip8jjz7"
       }
     ]
   },
@@ -326,6 +127,77 @@
       }
     ]
   },
+  "fernsehmuell_Reverse_Play_Shuttle_Background.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
+        "sha256": "005b6fv4zsnlfv859s950ammh5k5k24paspf7b4mzphcnairdzxn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua",
+        "sha256": "005b6fv4zsnlfv859s950ammh5k5k24paspf7b4mzphcnairdzxn"
+      }
+    ]
+  },
+  "fernsehmuell_Reverse_Play_Shuttle_(J).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/5ec2f9892af6a85d09af6cad045d598d5e12deba/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
+        "sha256": "144w0fdcsd8psvx70f3px2is4y8rr9azpc13dwjrlyv7343ypfww"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/5ec2f9892af6a85d09af6cad045d598d5e12deba/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
+        "sha256": "144w0fdcsd8psvx70f3px2is4y8rr9azpc13dwjrlyv7343ypfww"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua",
+        "sha256": "0mg2dhb67mpbh3ssgabprhrv4ngdqyrj1k0ccqnns78iwx9vzxnl"
+      }
+    ]
+  },
+  "fernsehmuell_Pause_(K).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
+        "sha256": "0j6dvy349abjdna05clkcsklmz7yfijmayry8974f20fp6v48cdd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua",
+        "sha256": "0j6dvy349abjdna05clkcsklmz7yfijmayry8974f20fp6v48cdd"
+      }
+    ]
+  },
+  "fernsehmuell_MarkClip_(T).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
+        "sha256": "1xd91bka8xk97j6jckcn07mdkq60aiw5k91cqa2110ag0lrgiqca"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua",
+        "sha256": "1xd91bka8xk97j6jckcn07mdkq60aiw5k91cqa2110ag0lrgiqca"
+      }
+    ]
+  },
   "fernsehmuell_Lift_(Y).lua": {
     "latest": [
       {
@@ -339,6 +211,134 @@
         "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Lift_(Y).lua",
         "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Lift_(Y).lua",
         "sha256": "1chbirppi4vhf7q4h5fxx0hmjzw4al5zknch0ja00viwdaf9kz5m"
+      }
+    ]
+  },
+  "fernsehmuell_SetOUT_(O).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
+        "sha256": "1hwjn7psp2xhrxmkz16wxqcl4baxjk64mp8gryzqflq61z8phhhz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua",
+        "sha256": "1hwjn7psp2xhrxmkz16wxqcl4baxjk64mp8gryzqflq61z8phhhz"
+      }
+    ]
+  },
+  "fernsehmuell_Step_backwards_40ms_(3).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
+        "sha256": "1jn7va5wi2dzk6g6sxnxfmmc59a6mziprjzpaxh8aanvm193m4kn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua",
+        "sha256": "1jn7va5wi2dzk6g6sxnxfmmc59a6mziprjzpaxh8aanvm193m4kn"
+      }
+    ]
+  },
+  "fernsehmuell_Step_backwards_400ms_(1).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
+        "sha256": "0x32cv39saxvziqb1y33cicvcmbj68ynbnscssw4ssdzc6s0w0m0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua",
+        "sha256": "0x32cv39saxvziqb1y33cicvcmbj68ynbnscssw4ssdzc6s0w0m0"
+      }
+    ]
+  },
+  "fernsehmuell_GotoOUT_(W).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
+        "sha256": "1pclyl2hr3zj9716vwgyd7y9p5lph76yh3gm8zv8104i7d09nqal"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua",
+        "sha256": "1pclyl2hr3zj9716vwgyd7y9p5lph76yh3gm8zv8104i7d09nqal"
+      }
+    ]
+  },
+  "fernsehmuell_GotoIN_(Q).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
+        "sha256": "01y3rhw4wjs9jprdz8ydrf4l4fvlnh2wgapc1f5mh5vh75panicy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua",
+        "sha256": "01y3rhw4wjs9jprdz8ydrf4l4fvlnh2wgapc1f5mh5vh75panicy"
+      }
+    ]
+  },
+  "fernsehmuell_Go_to_next_event.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/612fc948d029ca22f7edc070c955b3bd8835671f/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
+        "sha256": "1x30g05lw2252387cfcvgh3xf6pdi4zvjh0wn15vimyca7lrxlhz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/612fc948d029ca22f7edc070c955b3bd8835671f/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua",
+        "sha256": "1x30g05lw2252387cfcvgh3xf6pdi4zvjh0wn15vimyca7lrxlhz"
+      }
+    ]
+  },
+  "fernsehmuell_Forward_Play_Shuttle_(L).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
+        "sha256": "0q83ash0lzgbh3gp4hmhg21pax5lf5yhaa4xpda1d46mimk1hrch"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua",
+        "sha256": "0q83ash0lzgbh3gp4hmhg21pax5lf5yhaa4xpda1d46mimk1hrch"
+      }
+    ]
+  },
+  "fernsehmuell_Extract_(X).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
+        "sha256": "1brql7c1z7cslk4cfqrlssldp7zhbyb6rhvql0r4hby1q4kz3kb0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Fernsehmüll Scripts/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
+        "url": "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua",
+        "sha256": "1brql7c1z7cslk4cfqrlssldp7zhbyb6rhvql0r4hby1q4kz3kb0"
       }
     ]
   }
