@@ -1,24 +1,93 @@
 {
-  "amp_sim.jsfx": {
+  "bus_comp.jsfx": {
     "latest": [
       {
-        "path": "Effects/chokehold JSFX/Instrument FX/amp_sim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Instrument%20FX/amp_sim.jsfx",
-        "sha256": "0vip6r1m0h9365al6czw27zwcfsvfc0q3l2k89q4g0y6xzw74ys2"
+        "path": "Effects/chokehold JSFX/Dynamics/bus_comp.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/bus_comp.jsfx",
+        "sha256": "15qpjx1gj781adx95763204qdilwsc2hyxl8nppdjp5bk0awhzxp"
       }
     ],
     "1.8.3": [
       {
-        "path": "Effects/chokehold JSFX/Instrument FX/amp_sim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Instrument%20FX/amp_sim.jsfx",
-        "sha256": "0vip6r1m0h9365al6czw27zwcfsvfc0q3l2k89q4g0y6xzw74ys2"
+        "path": "Effects/chokehold JSFX/Dynamics/bus_comp.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/bus_comp.jsfx",
+        "sha256": "15qpjx1gj781adx95763204qdilwsc2hyxl8nppdjp5bk0awhzxp"
       }
     ],
     "1.8.2": [
       {
-        "path": "Effects/chokehold JSFX/Instrument FX/amp_sim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Instrument%20FX/amp_sim.jsfx",
-        "sha256": "0bl46z2qagdgaiim93ign88dz3kw5fyzbpdp8pfa3p4b1dm5l1yn"
+        "path": "Effects/chokehold JSFX/Dynamics/bus_comp.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/bus_comp.jsfx",
+        "sha256": "1xhpm46n5rjcc1dbrhhpy65dsfiq54s63dd9ix39zk4l6km5a8pw"
+      }
+    ]
+  },
+  "gate_expander.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/gate_expander.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/gate_expander.jsfx",
+        "sha256": "0y5wddxpii1kpxa4vqr07if1j040rl4aphcak0mg723q19k3gkhr"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/gate_expander.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/gate_expander.jsfx",
+        "sha256": "0y5wddxpii1kpxa4vqr07if1j040rl4aphcak0mg723q19k3gkhr"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/gate_expander.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/gate_expander.jsfx",
+        "sha256": "03yg4ai0j9kgpfmjpqm5s15pabcvk9qksgsh9qpy2q0yzrji7yvb"
+      }
+    ]
+  },
+  "consolidator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/consolidator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/consolidator.jsfx",
+        "sha256": "1m3i56xpbs230p5skc5418383d1qsl87cz1hh4dbr0p675a8r2fy"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/consolidator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/consolidator.jsfx",
+        "sha256": "1m3i56xpbs230p5skc5418383d1qsl87cz1hh4dbr0p675a8r2fy"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/consolidator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/consolidator.jsfx",
+        "sha256": "0qj6lhys84hxvyyn13sp384s8vrfx5d6pq9jrm5lr7c6phzrjpb9"
+      }
+    ]
+  },
+  "track_comp.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/track_comp.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/track_comp.jsfx",
+        "sha256": "082mys8fsaa6gxrnrcphay3pkl2zbzyhyfxxw6sywxs9v87wxm1a"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/track_comp.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/track_comp.jsfx",
+        "sha256": "082mys8fsaa6gxrnrcphay3pkl2zbzyhyfxxw6sywxs9v87wxm1a"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Dynamics/track_comp.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/track_comp.jsfx",
+        "sha256": "1yrab8zwschjpzb5hwyyfn8q3001rzysi357pxy727jf09h5qhgq"
       }
     ]
   },
@@ -42,6 +111,29 @@
         "path": "Effects/chokehold JSFX/Instrument FX/chug_thug.jsfx",
         "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Instrument%20FX/chug_thug.jsfx",
         "sha256": "0gbmq9z2zcvhpa48p3l9b4709nv0dj6yzn3ipvbc2njccb6v7byn"
+      }
+    ]
+  },
+  "amp_sim.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Instrument FX/amp_sim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Instrument%20FX/amp_sim.jsfx",
+        "sha256": "0vip6r1m0h9365al6czw27zwcfsvfc0q3l2k89q4g0y6xzw74ys2"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Instrument FX/amp_sim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Instrument%20FX/amp_sim.jsfx",
+        "sha256": "0vip6r1m0h9365al6czw27zwcfsvfc0q3l2k89q4g0y6xzw74ys2"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Instrument FX/amp_sim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Instrument%20FX/amp_sim.jsfx",
+        "sha256": "0bl46z2qagdgaiim93ign88dz3kw5fyzbpdp8pfa3p4b1dm5l1yn"
       }
     ]
   },
@@ -114,98 +206,6 @@
       }
     ]
   },
-  "consolidator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/consolidator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/consolidator.jsfx",
-        "sha256": "1m3i56xpbs230p5skc5418383d1qsl87cz1hh4dbr0p675a8r2fy"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/consolidator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/consolidator.jsfx",
-        "sha256": "1m3i56xpbs230p5skc5418383d1qsl87cz1hh4dbr0p675a8r2fy"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/consolidator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/consolidator.jsfx",
-        "sha256": "0qj6lhys84hxvyyn13sp384s8vrfx5d6pq9jrm5lr7c6phzrjpb9"
-      }
-    ]
-  },
-  "bus_comp.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/bus_comp.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/bus_comp.jsfx",
-        "sha256": "15qpjx1gj781adx95763204qdilwsc2hyxl8nppdjp5bk0awhzxp"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/bus_comp.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/bus_comp.jsfx",
-        "sha256": "15qpjx1gj781adx95763204qdilwsc2hyxl8nppdjp5bk0awhzxp"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/bus_comp.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/bus_comp.jsfx",
-        "sha256": "1xhpm46n5rjcc1dbrhhpy65dsfiq54s63dd9ix39zk4l6km5a8pw"
-      }
-    ]
-  },
-  "track_comp.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/track_comp.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/track_comp.jsfx",
-        "sha256": "082mys8fsaa6gxrnrcphay3pkl2zbzyhyfxxw6sywxs9v87wxm1a"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/track_comp.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/track_comp.jsfx",
-        "sha256": "082mys8fsaa6gxrnrcphay3pkl2zbzyhyfxxw6sywxs9v87wxm1a"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/track_comp.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/track_comp.jsfx",
-        "sha256": "1yrab8zwschjpzb5hwyyfn8q3001rzysi357pxy727jf09h5qhgq"
-      }
-    ]
-  },
-  "gate_expander.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/gate_expander.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/gate_expander.jsfx",
-        "sha256": "0y5wddxpii1kpxa4vqr07if1j040rl4aphcak0mg723q19k3gkhr"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/gate_expander.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Dynamics/gate_expander.jsfx",
-        "sha256": "0y5wddxpii1kpxa4vqr07if1j040rl4aphcak0mg723q19k3gkhr"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Dynamics/gate_expander.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Dynamics/gate_expander.jsfx",
-        "sha256": "03yg4ai0j9kgpfmjpqm5s15pabcvk9qksgsh9qpy2q0yzrji7yvb"
-      }
-    ]
-  },
   "dc_filter.jsfx": {
     "latest": [
       {
@@ -275,65 +275,111 @@
       }
     ]
   },
-  "m-s_fader.jsfx": {
+  "impulse_generator.jsfx": {
     "latest": [
       {
-        "path": "Effects/chokehold JSFX/Stereo/m-s_fader.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/m-s_fader.jsfx",
-        "sha256": "1g33dkv9bfqg4m6q28y6swa68wmqbgabiq8p01qlsln3dnximlix"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Stereo/m-s_fader.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/m-s_fader.jsfx",
-        "sha256": "1g33dkv9bfqg4m6q28y6swa68wmqbgabiq8p01qlsln3dnximlix"
-      }
-    ]
-  },
-  "stereo_pan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Stereo/stereo_pan.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_pan.jsfx",
-        "sha256": "0qvksf55kg7cy00j3518mb3xfwx4b9mxfwrwzgg5qdndhk24z45m"
+        "path": "Effects/chokehold JSFX/Utility/impulse_generator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/impulse_generator.jsfx",
+        "sha256": "0axhmkq5xns6az7l7vx6nk6byyrlwvav10dfpznfwaj26hjn404l"
       }
     ],
     "1.8.3": [
       {
-        "path": "Effects/chokehold JSFX/Stereo/stereo_pan.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_pan.jsfx",
-        "sha256": "0qvksf55kg7cy00j3518mb3xfwx4b9mxfwrwzgg5qdndhk24z45m"
+        "path": "Effects/chokehold JSFX/Utility/impulse_generator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/impulse_generator.jsfx",
+        "sha256": "0axhmkq5xns6az7l7vx6nk6byyrlwvav10dfpznfwaj26hjn404l"
       }
     ],
     "1.8.2": [
       {
-        "path": "Effects/chokehold JSFX/Stereo/stereo_pan.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/stereo_pan.jsfx",
-        "sha256": "05llw4lfg48vrarn1kxbvdbk30wqm63h873vf0hqv3x3s2zg45w2"
+        "path": "Effects/chokehold JSFX/Utility/impulse_generator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/impulse_generator.jsfx",
+        "sha256": "0953s9skai3y8dh74ip1gasiv4s2iwyq6z1fa4x5pidl1mjkw1i4"
       }
     ]
   },
-  "stereo_bleed_remover.jsfx": {
+  "volume_range_trim.jsfx": {
     "latest": [
       {
-        "path": "Effects/chokehold JSFX/Stereo/stereo_bleed_remover.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_bleed_remover.jsfx",
-        "sha256": "0gsajvsyib8wxf72jnpiv5dc7lxbmzcnvjrgzxfjyff55bd2r1g6"
+        "path": "Effects/chokehold JSFX/Utility/volume_range_trim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_range_trim.jsfx",
+        "sha256": "0rmlng3jikd5w7424yq1kwgahkmww9a05wc7xcylsv2g17m7zdsj"
       }
     ],
     "1.8.3": [
       {
-        "path": "Effects/chokehold JSFX/Stereo/stereo_bleed_remover.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_bleed_remover.jsfx",
-        "sha256": "0gsajvsyib8wxf72jnpiv5dc7lxbmzcnvjrgzxfjyff55bd2r1g6"
+        "path": "Effects/chokehold JSFX/Utility/volume_range_trim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_range_trim.jsfx",
+        "sha256": "0rmlng3jikd5w7424yq1kwgahkmww9a05wc7xcylsv2g17m7zdsj"
       }
     ],
     "1.8.2": [
       {
-        "path": "Effects/chokehold JSFX/Stereo/stereo_bleed_remover.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/stereo_bleed_remover.jsfx",
-        "sha256": "1sa91mk9hsaabscrjgwxmjdc6v5azqw8n44xvqbb2sinm8npnfiw"
+        "path": "Effects/chokehold JSFX/Utility/volume_range_trim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/volume_range_trim.jsfx",
+        "sha256": "18qqbg4x5q1gv0jzbnkn3bqsi65pk4yqqkz9wx7218vqwh0i4d3v"
+      }
+    ]
+  },
+  "volume_trim.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/volume_trim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_trim.jsfx",
+        "sha256": "0x5h78r33zlrwawb3kplm4nynd0vgrlbb7llr0r3pv9s5nz7m5q6"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/volume_trim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_trim.jsfx",
+        "sha256": "0x5h78r33zlrwawb3kplm4nynd0vgrlbb7llr0r3pv9s5nz7m5q6"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/volume_trim.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/volume_trim.jsfx",
+        "sha256": "1j0b5azry5s6iyaqixr74xzyfy6rcp4pk0v2kvx4w1mbjrdds5qf"
+      }
+    ]
+  },
+  "dc_offset.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/dc_offset.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/dc_offset.jsfx",
+        "sha256": "0dmg0qxg90y3nhngmlws0c2j2hnivnhyiqxk7zvdqf45c3iy752s"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/dc_offset.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/dc_offset.jsfx",
+        "sha256": "0dmg0qxg90y3nhngmlws0c2j2hnivnhyiqxk7zvdqf45c3iy752s"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/dc_offset.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/dc_offset.jsfx",
+        "sha256": "0s4ncqq86qz0m58yii4xn8azfwdl0c2hr61m2b05wgk26ggd9k40"
+      }
+    ]
+  },
+  "string_tuning_calculator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/string_tuning_calculator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/9ca4235f5ea0bf72e293fe5c5fb4695c1eda8575/Utility/string_tuning_calculator.jsfx",
+        "sha256": "0f2fk5yxy67dswnxbg0cvmjn2ywsc7dz9r5ja8pi4j08xirgy6zj"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Utility/string_tuning_calculator.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/9ca4235f5ea0bf72e293fe5c5fb4695c1eda8575/Utility/string_tuning_calculator.jsfx",
+        "sha256": "0f2fk5yxy67dswnxbg0cvmjn2ywsc7dz9r5ja8pi4j08xirgy6zj"
       }
     ]
   },
@@ -498,6 +544,52 @@
       }
     ]
   },
+  "sine_clipper.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Clipper/sine_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/sine_clipper.jsfx",
+        "sha256": "19xmz720pnfda5sypm7225jsg0s7pxrx7h9ys55csk8ng1a36h78"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Clipper/sine_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/sine_clipper.jsfx",
+        "sha256": "19xmz720pnfda5sypm7225jsg0s7pxrx7h9ys55csk8ng1a36h78"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Clipper/sine_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Clipper/sine_clipper.jsfx",
+        "sha256": "0wdra7w6kq8sgb3kg6prh1606l29iqbdlvwfi0br5w6cpan9qhlw"
+      }
+    ]
+  },
+  "clipping_algorithm_comparison.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Clipper/clipping_algorithm_comparison.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/15de77c9906dac1c51a8b3f23a2cc4fa36a2cd9c/Clipper/clipping_algorithm_comparison.jsfx",
+        "sha256": "039a5jifwyqd9qhpmja4sl6jpvy8yg7xyzqj7hhbjsargabv8s86"
+      }
+    ],
+    "1.8.3b": [
+      {
+        "path": "Effects/chokehold JSFX/Clipper/clipping_algorithm_comparison.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/15de77c9906dac1c51a8b3f23a2cc4fa36a2cd9c/Clipper/clipping_algorithm_comparison.jsfx",
+        "sha256": "039a5jifwyqd9qhpmja4sl6jpvy8yg7xyzqj7hhbjsargabv8s86"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Clipper/clipping_algorithm_comparison.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/90de3f4ed9ce85bb38285d6a71c97acc5bbfba84/Clipper/clipping_algorithm_comparison.jsfx",
+        "sha256": "0c9w4xpicf2yllqn46p8fi5766s1wir0fn2am3f7kdgjnmw7nd8x"
+      }
+    ]
+  },
   "staging_clipper.jsfx": {
     "latest": [
       {
@@ -537,42 +629,26 @@
       }
     ]
   },
-  "clipping_algorithm_comparison.jsfx": {
+  "hard_clipper.jsfx": {
     "latest": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/clipping_algorithm_comparison.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/15de77c9906dac1c51a8b3f23a2cc4fa36a2cd9c/Clipper/clipping_algorithm_comparison.jsfx",
-        "sha256": "039a5jifwyqd9qhpmja4sl6jpvy8yg7xyzqj7hhbjsargabv8s86"
-      }
-    ],
-    "1.8.3b": [
-      {
-        "path": "Effects/chokehold JSFX/Clipper/clipping_algorithm_comparison.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/15de77c9906dac1c51a8b3f23a2cc4fa36a2cd9c/Clipper/clipping_algorithm_comparison.jsfx",
-        "sha256": "039a5jifwyqd9qhpmja4sl6jpvy8yg7xyzqj7hhbjsargabv8s86"
+        "path": "Effects/chokehold JSFX/Clipper/hard_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/hard_clipper.jsfx",
+        "sha256": "07xsbz8miajsa5dffyfz5xignp59iqagf0np6cpl4hsyfkrxqcs8"
       }
     ],
     "1.8.3": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/clipping_algorithm_comparison.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/90de3f4ed9ce85bb38285d6a71c97acc5bbfba84/Clipper/clipping_algorithm_comparison.jsfx",
-        "sha256": "0c9w4xpicf2yllqn46p8fi5766s1wir0fn2am3f7kdgjnmw7nd8x"
-      }
-    ]
-  },
-  "loud_clipper.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Clipper/loud_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f707571cc0ce7d1406c73ccdbb28110e54af2787/Clipper/loud_clipper.jsfx",
-        "sha256": "00qzk9cj37ylj2wj6id575bnv5a83hwig4jnj4qk4ia7zpf6d0hj"
+        "path": "Effects/chokehold JSFX/Clipper/hard_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/hard_clipper.jsfx",
+        "sha256": "07xsbz8miajsa5dffyfz5xignp59iqagf0np6cpl4hsyfkrxqcs8"
       }
     ],
-    "1.8.3": [
+    "1.8.2": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/loud_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f707571cc0ce7d1406c73ccdbb28110e54af2787/Clipper/loud_clipper.jsfx",
-        "sha256": "00qzk9cj37ylj2wj6id575bnv5a83hwig4jnj4qk4ia7zpf6d0hj"
+        "path": "Effects/chokehold JSFX/Clipper/hard_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Clipper/hard_clipper.jsfx",
+        "sha256": "0hmhr226bbn185ipzzsc0gxcz1plnzpjsqrgs77r90z7qv96i6cv"
       }
     ]
   },
@@ -613,49 +689,81 @@
       }
     ]
   },
-  "hard_clipper.jsfx": {
+  "loud_clipper.jsfx": {
     "latest": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/hard_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/hard_clipper.jsfx",
-        "sha256": "07xsbz8miajsa5dffyfz5xignp59iqagf0np6cpl4hsyfkrxqcs8"
+        "path": "Effects/chokehold JSFX/Clipper/loud_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f707571cc0ce7d1406c73ccdbb28110e54af2787/Clipper/loud_clipper.jsfx",
+        "sha256": "00qzk9cj37ylj2wj6id575bnv5a83hwig4jnj4qk4ia7zpf6d0hj"
       }
     ],
     "1.8.3": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/hard_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/hard_clipper.jsfx",
-        "sha256": "07xsbz8miajsa5dffyfz5xignp59iqagf0np6cpl4hsyfkrxqcs8"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Clipper/hard_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Clipper/hard_clipper.jsfx",
-        "sha256": "0hmhr226bbn185ipzzsc0gxcz1plnzpjsqrgs77r90z7qv96i6cv"
+        "path": "Effects/chokehold JSFX/Clipper/loud_clipper.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f707571cc0ce7d1406c73ccdbb28110e54af2787/Clipper/loud_clipper.jsfx",
+        "sha256": "00qzk9cj37ylj2wj6id575bnv5a83hwig4jnj4qk4ia7zpf6d0hj"
       }
     ]
   },
-  "sine_clipper.jsfx": {
+  "stereo_bleed_remover.jsfx": {
     "latest": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/sine_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/sine_clipper.jsfx",
-        "sha256": "19xmz720pnfda5sypm7225jsg0s7pxrx7h9ys55csk8ng1a36h78"
+        "path": "Effects/chokehold JSFX/Stereo/stereo_bleed_remover.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_bleed_remover.jsfx",
+        "sha256": "0gsajvsyib8wxf72jnpiv5dc7lxbmzcnvjrgzxfjyff55bd2r1g6"
       }
     ],
     "1.8.3": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/sine_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Clipper/sine_clipper.jsfx",
-        "sha256": "19xmz720pnfda5sypm7225jsg0s7pxrx7h9ys55csk8ng1a36h78"
+        "path": "Effects/chokehold JSFX/Stereo/stereo_bleed_remover.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_bleed_remover.jsfx",
+        "sha256": "0gsajvsyib8wxf72jnpiv5dc7lxbmzcnvjrgzxfjyff55bd2r1g6"
       }
     ],
     "1.8.2": [
       {
-        "path": "Effects/chokehold JSFX/Clipper/sine_clipper.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Clipper/sine_clipper.jsfx",
-        "sha256": "0wdra7w6kq8sgb3kg6prh1606l29iqbdlvwfi0br5w6cpan9qhlw"
+        "path": "Effects/chokehold JSFX/Stereo/stereo_bleed_remover.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/stereo_bleed_remover.jsfx",
+        "sha256": "1sa91mk9hsaabscrjgwxmjdc6v5azqw8n44xvqbb2sinm8npnfiw"
+      }
+    ]
+  },
+  "stereo_pan.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Stereo/stereo_pan.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_pan.jsfx",
+        "sha256": "0qvksf55kg7cy00j3518mb3xfwx4b9mxfwrwzgg5qdndhk24z45m"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Stereo/stereo_pan.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Stereo/stereo_pan.jsfx",
+        "sha256": "0qvksf55kg7cy00j3518mb3xfwx4b9mxfwrwzgg5qdndhk24z45m"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Stereo/stereo_pan.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/stereo_pan.jsfx",
+        "sha256": "05llw4lfg48vrarn1kxbvdbk30wqm63h873vf0hqv3x3s2zg45w2"
+      }
+    ]
+  },
+  "m-s_fader.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Stereo/m-s_fader.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/m-s_fader.jsfx",
+        "sha256": "1g33dkv9bfqg4m6q28y6swa68wmqbgabiq8p01qlsln3dnximlix"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Stereo/m-s_fader.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Stereo/m-s_fader.jsfx",
+        "sha256": "1g33dkv9bfqg4m6q28y6swa68wmqbgabiq8p01qlsln3dnximlix"
       }
     ]
   },
@@ -679,114 +787,6 @@
         "path": "Effects/chokehold JSFX/Generator/test_signals.jsfx",
         "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Generator/test_signals.jsfx",
         "sha256": "0bbxyrlnbbfp4khlwfrrbwzn10diz4flz5sfah30700j2x50v6mf"
-      }
-    ]
-  },
-  "volume_range_trim.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/volume_range_trim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_range_trim.jsfx",
-        "sha256": "0rmlng3jikd5w7424yq1kwgahkmww9a05wc7xcylsv2g17m7zdsj"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/volume_range_trim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_range_trim.jsfx",
-        "sha256": "0rmlng3jikd5w7424yq1kwgahkmww9a05wc7xcylsv2g17m7zdsj"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/volume_range_trim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/volume_range_trim.jsfx",
-        "sha256": "18qqbg4x5q1gv0jzbnkn3bqsi65pk4yqqkz9wx7218vqwh0i4d3v"
-      }
-    ]
-  },
-  "dc_offset.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/dc_offset.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/dc_offset.jsfx",
-        "sha256": "0dmg0qxg90y3nhngmlws0c2j2hnivnhyiqxk7zvdqf45c3iy752s"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/dc_offset.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/dc_offset.jsfx",
-        "sha256": "0dmg0qxg90y3nhngmlws0c2j2hnivnhyiqxk7zvdqf45c3iy752s"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/dc_offset.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/dc_offset.jsfx",
-        "sha256": "0s4ncqq86qz0m58yii4xn8azfwdl0c2hr61m2b05wgk26ggd9k40"
-      }
-    ]
-  },
-  "string_tuning_calculator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/string_tuning_calculator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/9ca4235f5ea0bf72e293fe5c5fb4695c1eda8575/Utility/string_tuning_calculator.jsfx",
-        "sha256": "0f2fk5yxy67dswnxbg0cvmjn2ywsc7dz9r5ja8pi4j08xirgy6zj"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/string_tuning_calculator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/9ca4235f5ea0bf72e293fe5c5fb4695c1eda8575/Utility/string_tuning_calculator.jsfx",
-        "sha256": "0f2fk5yxy67dswnxbg0cvmjn2ywsc7dz9r5ja8pi4j08xirgy6zj"
-      }
-    ]
-  },
-  "volume_trim.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/volume_trim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_trim.jsfx",
-        "sha256": "0x5h78r33zlrwawb3kplm4nynd0vgrlbb7llr0r3pv9s5nz7m5q6"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/volume_trim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/volume_trim.jsfx",
-        "sha256": "0x5h78r33zlrwawb3kplm4nynd0vgrlbb7llr0r3pv9s5nz7m5q6"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/volume_trim.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/volume_trim.jsfx",
-        "sha256": "1j0b5azry5s6iyaqixr74xzyfy6rcp4pk0v2kvx4w1mbjrdds5qf"
-      }
-    ]
-  },
-  "impulse_generator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/impulse_generator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/impulse_generator.jsfx",
-        "sha256": "0axhmkq5xns6az7l7vx6nk6byyrlwvav10dfpznfwaj26hjn404l"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/impulse_generator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Utility/impulse_generator.jsfx",
-        "sha256": "0axhmkq5xns6az7l7vx6nk6byyrlwvav10dfpznfwaj26hjn404l"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Utility/impulse_generator.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Utility/impulse_generator.jsfx",
-        "sha256": "0953s9skai3y8dh74ip1gasiv4s2iwyq6z1fa4x5pidl1mjkw1i4"
       }
     ]
   },
@@ -834,29 +834,6 @@
       }
     ]
   },
-  "stereo_checker.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chokehold JSFX/Metering/stereo_checker.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Metering/stereo_checker.jsfx",
-        "sha256": "074bcmnz0sxjq4jziz42p81ir3dzkxd2rl23p59408a88kdij88s"
-      }
-    ],
-    "1.8.3": [
-      {
-        "path": "Effects/chokehold JSFX/Metering/stereo_checker.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Metering/stereo_checker.jsfx",
-        "sha256": "074bcmnz0sxjq4jziz42p81ir3dzkxd2rl23p59408a88kdij88s"
-      }
-    ],
-    "1.8.2": [
-      {
-        "path": "Effects/chokehold JSFX/Metering/stereo_checker.jsfx",
-        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Metering/stereo_checker.jsfx",
-        "sha256": "189hgyfl3wsx8jibnp1qpnidasd8z8q9qqxpzx7shhc0mhak5cp3"
-      }
-    ]
-  },
   "correlation_meter.jsfx": {
     "latest": [
       {
@@ -900,6 +877,29 @@
         "path": "Effects/chokehold JSFX/Metering/phase_scope.jsfx",
         "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Metering/phase_scope.jsfx",
         "sha256": "0v0qz2ni29yjzgw2rajxic8gsapmjzvb7s1axvlbb1q5hlfh42a9"
+      }
+    ]
+  },
+  "stereo_checker.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chokehold JSFX/Metering/stereo_checker.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Metering/stereo_checker.jsfx",
+        "sha256": "074bcmnz0sxjq4jziz42p81ir3dzkxd2rl23p59408a88kdij88s"
+      }
+    ],
+    "1.8.3": [
+      {
+        "path": "Effects/chokehold JSFX/Metering/stereo_checker.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/060238b83b20f6b6f86b5abb014dcef8e56bf788/Metering/stereo_checker.jsfx",
+        "sha256": "074bcmnz0sxjq4jziz42p81ir3dzkxd2rl23p59408a88kdij88s"
+      }
+    ],
+    "1.8.2": [
+      {
+        "path": "Effects/chokehold JSFX/Metering/stereo_checker.jsfx",
+        "url": "https://github.com/chkhld/jsfx/raw/f7533b7f004d37953f24bc742d6e58e7dc967f73/Metering/stereo_checker.jsfx",
+        "sha256": "189hgyfl3wsx8jibnp1qpnidasd8z8q9qqxpzx7shhc0mhak5cp3"
       }
     ]
   }

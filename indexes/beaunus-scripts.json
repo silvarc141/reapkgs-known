@@ -15,6 +15,22 @@
       }
     ]
   },
+  "beaunus_Gravity.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Beaunus Scripts/JSFX/beaunus_Gravity.jsfx",
+        "url": "https://github.com/beaunus/REAPER-ReaScripts/raw/1b924fdb4e2f27a9f1635d4a4921cfb4b3a3ba1e/JSFX/beaunus_Gravity.jsfx",
+        "sha256": "14ysfkgal2g40964da8yrlyddgl735mai8c6p9d1l8p7km0j20b3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Beaunus Scripts/JSFX/beaunus_Gravity.jsfx",
+        "url": "https://github.com/beaunus/REAPER-ReaScripts/raw/1b924fdb4e2f27a9f1635d4a4921cfb4b3a3ba1e/JSFX/beaunus_Gravity.jsfx",
+        "sha256": "14ysfkgal2g40964da8yrlyddgl735mai8c6p9d1l8p7km0j20b3"
+      }
+    ]
+  },
   "beaunus_Wave Shaper.jsfx": {
     "latest": [
       {
@@ -51,22 +67,6 @@
         "path": "Effects/Beaunus Scripts/JSFX/beaunus_Rectify.jsfx",
         "url": "https://github.com/beaunus/REAPER-ReaScripts/raw/1b924fdb4e2f27a9f1635d4a4921cfb4b3a3ba1e/JSFX/beaunus_Rectify.jsfx",
         "sha256": "04c77phkzgah5dn65w4h141r75bgibzax6zww6jqhywsz2w1vwf7"
-      }
-    ]
-  },
-  "beaunus_Gravity.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Beaunus Scripts/JSFX/beaunus_Gravity.jsfx",
-        "url": "https://github.com/beaunus/REAPER-ReaScripts/raw/1b924fdb4e2f27a9f1635d4a4921cfb4b3a3ba1e/JSFX/beaunus_Gravity.jsfx",
-        "sha256": "14ysfkgal2g40964da8yrlyddgl735mai8c6p9d1l8p7km0j20b3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Beaunus Scripts/JSFX/beaunus_Gravity.jsfx",
-        "url": "https://github.com/beaunus/REAPER-ReaScripts/raw/1b924fdb4e2f27a9f1635d4a4921cfb4b3a3ba1e/JSFX/beaunus_Gravity.jsfx",
-        "sha256": "14ysfkgal2g40964da8yrlyddgl735mai8c6p9d1l8p7km0j20b3"
       }
     ]
   },
