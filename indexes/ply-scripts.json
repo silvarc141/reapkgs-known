@@ -1,36 +1,4 @@
 {
-  "ply_Export positions of selected items to clipboard.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Items Properties/ply_Export positions of selected items to clipboard.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Items%20Properties/ply_Export%20positions%20of%20selected%20items%20to%20clipboard.lua",
-        "sha256": "0p59sh64c1xkarli2nwyqv8v8c7fzs124jfkfizm5wbwzw1ny446"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/ply Scripts/Items Properties/ply_Export positions of selected items to clipboard.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Items%20Properties/ply_Export%20positions%20of%20selected%20items%20to%20clipboard.lua",
-        "sha256": "0p59sh64c1xkarli2nwyqv8v8c7fzs124jfkfizm5wbwzw1ny446"
-      }
-    ]
-  },
-  "ply_Insert marker with ID larger than 10 at playback position (dialog).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
-        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
-        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
-      }
-    ]
-  },
   "ply_Delete marker.lua": {
     "latest": [
       {
@@ -137,6 +105,38 @@
       }
     ]
   },
+  "ply_Insert marker with ID larger than 10 at playback position (dialog).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
+        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
+      }
+    ],
+    "1.2.1": [
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
+        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
+      }
+    ]
+  },
+  "ply_Export positions of selected items to clipboard.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Items Properties/ply_Export positions of selected items to clipboard.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Items%20Properties/ply_Export%20positions%20of%20selected%20items%20to%20clipboard.lua",
+        "sha256": "0p59sh64c1xkarli2nwyqv8v8c7fzs124jfkfizm5wbwzw1ny446"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/ply Scripts/Items Properties/ply_Export positions of selected items to clipboard.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Items%20Properties/ply_Export%20positions%20of%20selected%20items%20to%20clipboard.lua",
+        "sha256": "0p59sh64c1xkarli2nwyqv8v8c7fzs124jfkfizm5wbwzw1ny446"
+      }
+    ]
+  },
   "ply_M7util.jsfx": {
     "latest": [
       {
@@ -160,70 +160,6 @@
         "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
         "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
         "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
-      }
-    ]
-  },
-  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ]
-  },
-  "ply_Transport StartStop (recording safe).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
-        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
-        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ]
-  },
-  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ]
-  },
-  "ply_Horizontal zoom out (center at edit cursor).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
       }
     ]
   },
@@ -257,6 +193,54 @@
       }
     ]
   },
+  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ]
+  },
+  "ply_Horizontal zoom out (center at edit cursor).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
+      }
+    ]
+  },
+  "ply_Transport StartStop (recording safe).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
+        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
+      }
+    ],
+    "1.2.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
+        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
+      }
+    ]
+  },
   "ply_Horizontal zoom in (center at edit cursor).eel": {
     "latest": [
       {
@@ -270,6 +254,22 @@
         "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
         "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
         "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ]
+  },
+  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
       }
     ]
   },

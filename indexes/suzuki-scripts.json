@@ -5227,6 +5227,61 @@
       }
     ]
   },
+  "Suzuki_Set last touched track or take FX (inside Container) input and output channel pin mappings to stereo channels (User Input).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input and output channel pin mappings to stereo channels (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6a379b6c58db8af58fd6b1cd207f77aa39bbe962/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua",
+        "sha256": "186c7pds5279zg4r982msr1cs5ss1fysgyh9s82gk28x4xybzi45"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input and output channel pin mappings to stereo channels (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6a379b6c58db8af58fd6b1cd207f77aa39bbe962/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua",
+        "sha256": "186c7pds5279zg4r982msr1cs5ss1fysgyh9s82gk28x4xybzi45"
+      }
+    ]
+  },
+  "Suzuki_Paste channel pin mappings into last touched track or take FX (inside Container) stereo input and output channel pin mappings.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Paste channel pin mappings into last touched track or take FX (inside Container) stereo input and output channel pin mappings.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Paste%20channel%20pin%20mappings%20into%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20stereo%20input%20and%20output%20channel%20pin%20mappings.lua",
+        "sha256": "1zjqpjadhsgisf07mhhd8kd4idz2117v6j387ia0xiz7klsq0gvr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Paste channel pin mappings into last touched track or take FX (inside Container) stereo input and output channel pin mappings.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Paste%20channel%20pin%20mappings%20into%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20stereo%20input%20and%20output%20channel%20pin%20mappings.lua",
+        "sha256": "1zjqpjadhsgisf07mhhd8kd4idz2117v6j387ia0xiz7klsq0gvr"
+      }
+    ]
+  },
+  "Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/89a6ceb53c6beaadf11e7c200beafa9c2e52de4f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2031-32.lua",
+        "sha256": "0d85rwgdz73xc034v0fq15ba24hk7kyp5swij2x6mps1jm56wmvg"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/89a6ceb53c6beaadf11e7c200beafa9c2e52de4f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2031-32.lua",
+        "sha256": "0d85rwgdz73xc034v0fq15ba24hk7kyp5swij2x6mps1jm56wmvg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e2a0273584f10e98ee8df739f8114ca080c195a7/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2031-32.lua",
+        "sha256": "1s509vn6n5pybjqfmc96q8sphkcmly0b3xyc4cl260v2fi1m9gra"
+      }
+    ]
+  },
   "Suzuki_Set last touched track or take FX (inside Container) input channel pin mappings to stereo channels (User Input).lua": {
     "latest": [
       {
@@ -5243,74 +5298,51 @@
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua": {
+  "Suzuki_Copy stereo input and output channel pin mappings from last touched track or take FX (inside Container).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6c0fe02498cddced4ac55bde0460666f4c05f1af/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua",
-        "sha256": "1xdjhmikjhqc2r2czx3agvi2vcy0j6ri1b1fyafdqbhfah56zv95"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6c0fe02498cddced4ac55bde0460666f4c05f1af/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua",
-        "sha256": "1xdjhmikjhqc2r2czx3agvi2vcy0j6ri1b1fyafdqbhfah56zv95"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo input and output channel pin mappings from last touched track or take FX (inside Container).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Copy%20stereo%20input%20and%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
+        "sha256": "0ibrznii2kqs3lbxliybla5zg3km1rnx7hppxkfxmq7if06y5njv"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e2a0273584f10e98ee8df739f8114ca080c195a7/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua",
-        "sha256": "18s4dpqkzl50w6psm70vq79gy1iy455skdjqjaz03w9zn1bqk6bl"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo input and output channel pin mappings from last touched track or take FX (inside Container).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Copy%20stereo%20input%20and%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
+        "sha256": "0ibrznii2kqs3lbxliybla5zg3km1rnx7hppxkfxmq7if06y5njv"
       }
     ]
   },
-  "Suzuki_Close all floating track FX (inside Container) windows for selected tracks (excl. master track).lua": {
+  "Suzuki_Close all track and take (incl. input and monitoring) FX chain windows (incl. master track).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (excl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/fe10cd3b6f6ab727b03216b0d46fea069df0a2f8/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(excl.%20master%20track).lua",
-        "sha256": "07ycx6aqwa6gbgz4xnzwi10h2jlvvkk1mz3r3n2186wfh7dcnqhd"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all track and take (incl. input and monitoring) FX chain windows (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20chain%20windows%20(incl.%20master%20track).lua",
+        "sha256": "1l4axy1k13f4b389nqc5y8z2wb9qn7cx2v3iwldlzsdb6yh0hhfg"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (excl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/fe10cd3b6f6ab727b03216b0d46fea069df0a2f8/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(excl.%20master%20track).lua",
-        "sha256": "07ycx6aqwa6gbgz4xnzwi10h2jlvvkk1mz3r3n2186wfh7dcnqhd"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all track and take (incl. input and monitoring) FX chain windows (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20chain%20windows%20(incl.%20master%20track).lua",
+        "sha256": "1l4axy1k13f4b389nqc5y8z2wb9qn7cx2v3iwldlzsdb6yh0hhfg"
       }
     ]
   },
-  "Suzuki_Close all floating track FX (inside Container) windows for all tracks (incl. master track).lua": {
+  "Suzuki_Copy stereo output channel pin mappings from last touched track or take FX (inside Container).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "1s0h9lkly15f0y1k9yflp6v4rri0qhd7gbwh3mcynbc5ng4s21kh"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo output channel pin mappings from last touched track or take FX (inside Container).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9685a4b1f20db1a2450cb5e44a6b0d50e551244f/FX/Suzuki_Copy%20stereo%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
+        "sha256": "1lh9p54pfcdzki8w83dhi9rp2zdv4c7y6wa4gymgxzizpfrk62vf"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "1s0h9lkly15f0y1k9yflp6v4rri0qhd7gbwh3mcynbc5ng4s21kh"
-      }
-    ]
-  },
-  "Suzuki_Close all floating track FX (inside Container) windows for all tracks (excl. master track).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (excl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(excl.%20master%20track).lua",
-        "sha256": "17sif20b623kin5y0vij2rassbhs8k4s3xz5rkwa8g6gmf39v9ay"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (excl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(excl.%20master%20track).lua",
-        "sha256": "17sif20b623kin5y0vij2rassbhs8k4s3xz5rkwa8g6gmf39v9ay"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo output channel pin mappings from last touched track or take FX (inside Container).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9685a4b1f20db1a2450cb5e44a6b0d50e551244f/FX/Suzuki_Copy%20stereo%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
+        "sha256": "1lh9p54pfcdzki8w83dhi9rp2zdv4c7y6wa4gymgxzizpfrk62vf"
       }
     ]
   },
@@ -5327,148 +5359,6 @@
         "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output channel pin mappings to stereo channels (User Input).lua",
         "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8114401a0a5cf26e1965584571c94898a3652c99/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua",
         "sha256": "00v5ng42cdj60czqsjisaxd7c3adnqin7z4cs7knzddxn7pwdxxg"
-      }
-    ]
-  },
-  "Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for selected tracks (incl. master track).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for selected tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "0f2fzdhnki26i3awxqjfqrqx105dz1m8p1bxdhpqdjlmq64pjh69"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for selected tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "0f2fzdhnki26i3awxqjfqrqx105dz1m8p1bxdhpqdjlmq64pjh69"
-      }
-    ]
-  },
-  "Suzuki_Close all floating track and take (incl. input and monitoring) FX (inside Container) windows (incl. master track).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track and take (incl. input and monitoring) FX (inside Container) windows (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20(incl.%20master%20track).lua",
-        "sha256": "01qd232ly5jk547byk3zcbg6r0sib44w3p2lcsv5a70dpn08l89d"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track and take (incl. input and monitoring) FX (inside Container) windows (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20(incl.%20master%20track).lua",
-        "sha256": "01qd232ly5jk547byk3zcbg6r0sib44w3p2lcsv5a70dpn08l89d"
-      }
-    ]
-  },
-  "Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for all tracks (incl. master track).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for all tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "1xb6s5z6x18dd9x6ip0sh0vkglcyvxbi30855161xqsd5cs1ifsb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for all tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "1xb6s5z6x18dd9x6ip0sh0vkglcyvxbi30855161xqsd5cs1ifsb"
-      }
-    ]
-  },
-  "Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9469b5f1e16ae804d6e1ca19f048b0a3c22719a5/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20mappings%20(User%20Input).lua",
-        "sha256": "1gqc4yc608637nr7fy2fnzvnccdpp9ygj8w6symz9lap1ms66wyl"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9469b5f1e16ae804d6e1ca19f048b0a3c22719a5/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20mappings%20(User%20Input).lua",
-        "sha256": "1gqc4yc608637nr7fy2fnzvnccdpp9ygj8w6symz9lap1ms66wyl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e22ff0d462f7c1cdf26d4b30eff3a1e00b043ca3/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20mappings%20(User%20Input).lua",
-        "sha256": "1fcvy8kpan3adx989g79839ybkg9k3fk4s0pqawf26hq5m0k75yw"
-      }
-    ]
-  },
-  "Suzuki_Toggle map to the root container parameter for last touched track or take FX parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Toggle map to the root container parameter for last touched track or take FX parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/7e33f8234a5b378c1917e2a4cdd9abf18790deda/FX/Suzuki_Toggle%20map%20to%20the%20root%20container%20parameter%20for%20last%20touched%20track%20or%20take%20FX%20parameter.lua",
-        "sha256": "1qw945yw37ywnvksz2xdm8ipa8qwapfp6zfpbx44bnnvpgalahdr"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Toggle map to the root container parameter for last touched track or take FX parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/7e33f8234a5b378c1917e2a4cdd9abf18790deda/FX/Suzuki_Toggle%20map%20to%20the%20root%20container%20parameter%20for%20last%20touched%20track%20or%20take%20FX%20parameter.lua",
-        "sha256": "1qw945yw37ywnvksz2xdm8ipa8qwapfp6zfpbx44bnnvpgalahdr"
-      }
-    ]
-  },
-  "Suzuki_Close all floating take FX (inside Container) windows.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating take FX (inside Container) windows.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20take%20FX%20(inside%20Container)%20windows.lua",
-        "sha256": "1nffjjdz7pkrjy6q9j6xm1rfnp45wy77bpq1n2rgk6g2ys2hysbr"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating take FX (inside Container) windows.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20take%20FX%20(inside%20Container)%20windows.lua",
-        "sha256": "1nffjjdz7pkrjy6q9j6xm1rfnp45wy77bpq1n2rgk6g2ys2hysbr"
-      }
-    ]
-  },
-  "Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 127-128.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 127-128.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20127-128.lua",
-        "sha256": "02v4f50d1dqf1m5pfglhkql25yxa6rc13q19mrvkrz0yfcv4ldbk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 127-128.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20127-128.lua",
-        "sha256": "02v4f50d1dqf1m5pfglhkql25yxa6rc13q19mrvkrz0yfcv4ldbk"
-      }
-    ]
-  },
-  "Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/56550ea21139faa1a463aaf459293c6b0b42e311/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20mappings%20(User%20Input).lua",
-        "sha256": "1dgg8fxgfxx3q5mddmk8qq00vs7hw59grnmsa70zl6zd5kqkww2w"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/56550ea21139faa1a463aaf459293c6b0b42e311/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20mappings%20(User%20Input).lua",
-        "sha256": "1dgg8fxgfxx3q5mddmk8qq00vs7hw59grnmsa70zl6zd5kqkww2w"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/a4d751777e5b2653584f6d57a0e06b48a44b8fbc/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20mappings%20(User%20Input).lua",
-        "sha256": "1xzx9px3v5j8xx2vpcas9g5m7m57l7ydadmrhhdyhif7q9zkn6ih"
       }
     ]
   },
@@ -5495,6 +5385,29 @@
       }
     ]
   },
+  "Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9469b5f1e16ae804d6e1ca19f048b0a3c22719a5/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20mappings%20(User%20Input).lua",
+        "sha256": "1gqc4yc608637nr7fy2fnzvnccdpp9ygj8w6symz9lap1ms66wyl"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9469b5f1e16ae804d6e1ca19f048b0a3c22719a5/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20mappings%20(User%20Input).lua",
+        "sha256": "1gqc4yc608637nr7fy2fnzvnccdpp9ygj8w6symz9lap1ms66wyl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) input and output channel mappings (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e22ff0d462f7c1cdf26d4b30eff3a1e00b043ca3/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20mappings%20(User%20Input).lua",
+        "sha256": "1fcvy8kpan3adx989g79839ybkg9k3fk4s0pqawf26hq5m0k75yw"
+      }
+    ]
+  },
   "Suzuki_Set last touched track or take FX (inside Container) output channel pin mappings to stereo channels and send it to a new track in bus (User Input).lua": {
     "latest": [
       {
@@ -5511,51 +5424,58 @@
       }
     ]
   },
-  "Suzuki_Copy stereo output channel pin mappings from last touched track or take FX (inside Container).lua": {
+  "Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo output channel pin mappings from last touched track or take FX (inside Container).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9685a4b1f20db1a2450cb5e44a6b0d50e551244f/FX/Suzuki_Copy%20stereo%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
-        "sha256": "1lh9p54pfcdzki8w83dhi9rp2zdv4c7y6wa4gymgxzizpfrk62vf"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6c0fe02498cddced4ac55bde0460666f4c05f1af/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua",
+        "sha256": "1xdjhmikjhqc2r2czx3agvi2vcy0j6ri1b1fyafdqbhfah56zv95"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6c0fe02498cddced4ac55bde0460666f4c05f1af/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua",
+        "sha256": "1xdjhmikjhqc2r2czx3agvi2vcy0j6ri1b1fyafdqbhfah56zv95"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo output channel pin mappings from last touched track or take FX (inside Container).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9685a4b1f20db1a2450cb5e44a6b0d50e551244f/FX/Suzuki_Copy%20stereo%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
-        "sha256": "1lh9p54pfcdzki8w83dhi9rp2zdv4c7y6wa4gymgxzizpfrk62vf"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 63-64.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e2a0273584f10e98ee8df739f8114ca080c195a7/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua",
+        "sha256": "18s4dpqkzl50w6psm70vq79gy1iy455skdjqjaz03w9zn1bqk6bl"
       }
     ]
   },
-  "Suzuki_Copy stereo input and output channel pin mappings from last touched track or take FX (inside Container).lua": {
+  "Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for all tracks (incl. master track).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo input and output channel pin mappings from last touched track or take FX (inside Container).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Copy%20stereo%20input%20and%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
-        "sha256": "0ibrznii2kqs3lbxliybla5zg3km1rnx7hppxkfxmq7if06y5njv"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for all tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "1xb6s5z6x18dd9x6ip0sh0vkglcyvxbi30855161xqsd5cs1ifsb"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Copy stereo input and output channel pin mappings from last touched track or take FX (inside Container).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Copy%20stereo%20input%20and%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
-        "sha256": "0ibrznii2kqs3lbxliybla5zg3km1rnx7hppxkfxmq7if06y5njv"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for all tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "1xb6s5z6x18dd9x6ip0sh0vkglcyvxbi30855161xqsd5cs1ifsb"
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 95-96.lua": {
+  "Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 125-126.lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 95-96.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/309425b12f4c4fb3e2964a0cb9eb8d90e40b9390/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%2095-96.lua",
-        "sha256": "1lryyfzd53di2wljcc96crgkwz0pvj6nvikd9m6nxn4g1jr3fy2n"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 125-126.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20125-126.lua",
+        "sha256": "0gb63x6vrw5ghgjnlmqy4kk0qql5my8ipd98yg7z7j1809397ygs"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 95-96.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/309425b12f4c4fb3e2964a0cb9eb8d90e40b9390/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%2095-96.lua",
-        "sha256": "1lryyfzd53di2wljcc96crgkwz0pvj6nvikd9m6nxn4g1jr3fy2n"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 125-126.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20125-126.lua",
+        "sha256": "0gb63x6vrw5ghgjnlmqy4kk0qql5my8ipd98yg7z7j1809397ygs"
       }
     ]
   },
@@ -5591,19 +5511,19 @@
       }
     ]
   },
-  "Suzuki_Close all floating track FX (inside Container) windows for selected tracks (incl. master track).lua": {
+  "Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 127-128.lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/85cab3ce205527ef17eb748aee3a308fbe979e29/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "0dck6r55l0cabmdxg2s7cyakwyriyzz8hb6v4ddgqvjdkx305dap"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 127-128.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20127-128.lua",
+        "sha256": "02v4f50d1dqf1m5pfglhkql25yxa6rc13q19mrvkrz0yfcv4ldbk"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/85cab3ce205527ef17eb748aee3a308fbe979e29/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
-        "sha256": "0dck6r55l0cabmdxg2s7cyakwyriyzz8hb6v4ddgqvjdkx305dap"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 127-128.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20127-128.lua",
+        "sha256": "02v4f50d1dqf1m5pfglhkql25yxa6rc13q19mrvkrz0yfcv4ldbk"
       }
     ]
   },
@@ -5630,42 +5550,42 @@
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua": {
+  "Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/89a6ceb53c6beaadf11e7c200beafa9c2e52de4f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2031-32.lua",
-        "sha256": "0d85rwgdz73xc034v0fq15ba24hk7kyp5swij2x6mps1jm56wmvg"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/56550ea21139faa1a463aaf459293c6b0b42e311/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20mappings%20(User%20Input).lua",
+        "sha256": "1dgg8fxgfxx3q5mddmk8qq00vs7hw59grnmsa70zl6zd5kqkww2w"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/89a6ceb53c6beaadf11e7c200beafa9c2e52de4f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2031-32.lua",
-        "sha256": "0d85rwgdz73xc034v0fq15ba24hk7kyp5swij2x6mps1jm56wmvg"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/56550ea21139faa1a463aaf459293c6b0b42e311/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20mappings%20(User%20Input).lua",
+        "sha256": "1dgg8fxgfxx3q5mddmk8qq00vs7hw59grnmsa70zl6zd5kqkww2w"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input stereo channels to 31-32.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e2a0273584f10e98ee8df739f8114ca080c195a7/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2031-32.lua",
-        "sha256": "1s509vn6n5pybjqfmc96q8sphkcmly0b3xyc4cl260v2fi1m9gra"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Add stereo channels to last touched track or take FX (inside Container) output channel mappings (User Input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/a4d751777e5b2653584f6d57a0e06b48a44b8fbc/FX/Suzuki_Add%20stereo%20channels%20to%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20mappings%20(User%20Input).lua",
+        "sha256": "1xzx9px3v5j8xx2vpcas9g5m7m57l7ydadmrhhdyhif7q9zkn6ih"
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) input and output channel pin mappings to stereo channels (User Input).lua": {
+  "Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 95-96.lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input and output channel pin mappings to stereo channels (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6a379b6c58db8af58fd6b1cd207f77aa39bbe962/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua",
-        "sha256": "186c7pds5279zg4r982msr1cs5ss1fysgyh9s82gk28x4xybzi45"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 95-96.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/309425b12f4c4fb3e2964a0cb9eb8d90e40b9390/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%2095-96.lua",
+        "sha256": "1lryyfzd53di2wljcc96crgkwz0pvj6nvikd9m6nxn4g1jr3fy2n"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) input and output channel pin mappings to stereo channels (User Input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6a379b6c58db8af58fd6b1cd207f77aa39bbe962/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua",
-        "sha256": "186c7pds5279zg4r982msr1cs5ss1fysgyh9s82gk28x4xybzi45"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 95-96.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/309425b12f4c4fb3e2964a0cb9eb8d90e40b9390/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%2095-96.lua",
+        "sha256": "1lryyfzd53di2wljcc96crgkwz0pvj6nvikd9m6nxn4g1jr3fy2n"
       }
     ]
   },
@@ -5685,38 +5605,6 @@
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 125-126.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 125-126.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20125-126.lua",
-        "sha256": "0gb63x6vrw5ghgjnlmqy4kk0qql5my8ipd98yg7z7j1809397ygs"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Set last touched track or take FX (inside Container) output stereo channels to 125-126.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20125-126.lua",
-        "sha256": "0gb63x6vrw5ghgjnlmqy4kk0qql5my8ipd98yg7z7j1809397ygs"
-      }
-    ]
-  },
-  "Suzuki_Paste channel pin mappings into last touched track or take FX (inside Container) stereo input and output channel pin mappings.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Paste channel pin mappings into last touched track or take FX (inside Container) stereo input and output channel pin mappings.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Paste%20channel%20pin%20mappings%20into%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20stereo%20input%20and%20output%20channel%20pin%20mappings.lua",
-        "sha256": "1zjqpjadhsgisf07mhhd8kd4idz2117v6j387ia0xiz7klsq0gvr"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Paste channel pin mappings into last touched track or take FX (inside Container) stereo input and output channel pin mappings.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Paste%20channel%20pin%20mappings%20into%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20stereo%20input%20and%20output%20channel%20pin%20mappings.lua",
-        "sha256": "1zjqpjadhsgisf07mhhd8kd4idz2117v6j387ia0xiz7klsq0gvr"
-      }
-    ]
-  },
   "Suzuki_Copy stereo input channel pin mappings from last touched track or take FX (inside Container).lua": {
     "latest": [
       {
@@ -5733,35 +5621,154 @@
       }
     ]
   },
-  "Suzuki_Close all track and take (incl. input and monitoring) FX chain windows (incl. master track).lua": {
+  "Suzuki_Close all floating track FX (inside Container) windows for selected tracks (incl. master track).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all track and take (incl. input and monitoring) FX chain windows (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20chain%20windows%20(incl.%20master%20track).lua",
-        "sha256": "1l4axy1k13f4b389nqc5y8z2wb9qn7cx2v3iwldlzsdb6yh0hhfg"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/85cab3ce205527ef17eb748aee3a308fbe979e29/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "0dck6r55l0cabmdxg2s7cyakwyriyzz8hb6v4ddgqvjdkx305dap"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all track and take (incl. input and monitoring) FX chain windows (incl. master track).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20chain%20windows%20(incl.%20master%20track).lua",
-        "sha256": "1l4axy1k13f4b389nqc5y8z2wb9qn7cx2v3iwldlzsdb6yh0hhfg"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/85cab3ce205527ef17eb748aee3a308fbe979e29/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "0dck6r55l0cabmdxg2s7cyakwyriyzz8hb6v4ddgqvjdkx305dap"
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua": {
+  "Suzuki_Close all floating track FX (inside Container) windows for all tracks (incl. master track).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
-        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "1s0h9lkly15f0y1k9yflp6v4rri0qhd7gbwh3mcynbc5ng4s21kh"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
-        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "1s0h9lkly15f0y1k9yflp6v4rri0qhd7gbwh3mcynbc5ng4s21kh"
+      }
+    ]
+  },
+  "Suzuki_Close all floating track FX (inside Container) windows for all tracks (excl. master track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (excl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(excl.%20master%20track).lua",
+        "sha256": "17sif20b623kin5y0vij2rassbhs8k4s3xz5rkwa8g6gmf39v9ay"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for all tracks (excl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6df36d7908a56b5158e379360159d7ce2df55503/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20all%20tracks%20(excl.%20master%20track).lua",
+        "sha256": "17sif20b623kin5y0vij2rassbhs8k4s3xz5rkwa8g6gmf39v9ay"
+      }
+    ]
+  },
+  "Suzuki_Toggle map to the root container parameter for last touched track or take FX parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Toggle map to the root container parameter for last touched track or take FX parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/7e33f8234a5b378c1917e2a4cdd9abf18790deda/FX/Suzuki_Toggle%20map%20to%20the%20root%20container%20parameter%20for%20last%20touched%20track%20or%20take%20FX%20parameter.lua",
+        "sha256": "1qw945yw37ywnvksz2xdm8ipa8qwapfp6zfpbx44bnnvpgalahdr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Toggle map to the root container parameter for last touched track or take FX parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/7e33f8234a5b378c1917e2a4cdd9abf18790deda/FX/Suzuki_Toggle%20map%20to%20the%20root%20container%20parameter%20for%20last%20touched%20track%20or%20take%20FX%20parameter.lua",
+        "sha256": "1qw945yw37ywnvksz2xdm8ipa8qwapfp6zfpbx44bnnvpgalahdr"
+      }
+    ]
+  },
+  "Suzuki_Close all floating track and take (incl. input and monitoring) FX (inside Container) windows (incl. master track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track and take (incl. input and monitoring) FX (inside Container) windows (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20(incl.%20master%20track).lua",
+        "sha256": "01qd232ly5jk547byk3zcbg6r0sib44w3p2lcsv5a70dpn08l89d"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track and take (incl. input and monitoring) FX (inside Container) windows (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20(incl.%20master%20track).lua",
+        "sha256": "01qd232ly5jk547byk3zcbg6r0sib44w3p2lcsv5a70dpn08l89d"
+      }
+    ]
+  },
+  "Suzuki_Close all floating take FX (inside Container) windows.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating take FX (inside Container) windows.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20take%20FX%20(inside%20Container)%20windows.lua",
+        "sha256": "1nffjjdz7pkrjy6q9j6xm1rfnp45wy77bpq1n2rgk6g2ys2hysbr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating take FX (inside Container) windows.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20take%20FX%20(inside%20Container)%20windows.lua",
+        "sha256": "1nffjjdz7pkrjy6q9j6xm1rfnp45wy77bpq1n2rgk6g2ys2hysbr"
+      }
+    ]
+  },
+  "Suzuki_Close all floating track FX (inside Container) windows for selected tracks (excl. master track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (excl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/fe10cd3b6f6ab727b03216b0d46fea069df0a2f8/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(excl.%20master%20track).lua",
+        "sha256": "07ycx6aqwa6gbgz4xnzwi10h2jlvvkk1mz3r3n2186wfh7dcnqhd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track FX (inside Container) windows for selected tracks (excl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/fe10cd3b6f6ab727b03216b0d46fea069df0a2f8/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(excl.%20master%20track).lua",
+        "sha256": "07ycx6aqwa6gbgz4xnzwi10h2jlvvkk1mz3r3n2186wfh7dcnqhd"
+      }
+    ]
+  },
+  "Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for selected tracks (incl. master track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for selected tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "0f2fzdhnki26i3awxqjfqrqx105dz1m8p1bxdhpqdjlmq64pjh69"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/FX/Suzuki_Close all floating track (incl. input and monitoring) FX (inside Container) windows for selected tracks (incl. master track).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20floating%20track%20(incl.%20input%20and%20monitoring)%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua",
+        "sha256": "0f2fzdhnki26i3awxqjfqrqx105dz1m8p1bxdhpqdjlmq64pjh69"
+      }
+    ]
+  },
+  "Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c2ec5e58bf5e8f63b23a6386bed9d217343f06d9/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0d1l7zvsridkly6xamkbp9wpjvvxhq0y8kygijqz6q8l2z6hf5p9"
       }
     ]
   },
@@ -5811,29 +5818,6 @@
       }
     ]
   },
-  "Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
-        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
-        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c91b44efdc568a35d489c2977f39e39936880ea7/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
-        "sha256": "0dg04byccig93zbn50jwvb25aw2y1ig6sn68spchcqr6yqy3n4cy"
-      }
-    ]
-  },
   "Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua": {
     "latest": [
       {
@@ -5857,26 +5841,26 @@
       }
     ]
   },
-  "Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua": {
+  "Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
+        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
+        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c2ec5e58bf5e8f63b23a6386bed9d217343f06d9/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0d1l7zvsridkly6xamkbp9wpjvvxhq0y8kygijqz6q8l2z6hf5p9"
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c91b44efdc568a35d489c2977f39e39936880ea7/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
+        "sha256": "0dg04byccig93zbn50jwvb25aw2y1ig6sn68spchcqr6yqy3n4cy"
       }
     ]
   },
@@ -5893,6 +5877,22 @@
         "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua",
         "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Toggle%20link%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20follower%20to%20the%20lead%20parameter.lua",
         "sha256": "1vjj750z6gck34mb4z4jcss55jrp638bczj4lv6x29pxc7fxnf38"
+      }
+    ]
+  },
+  "Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
+        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
+        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
       }
     ]
   },

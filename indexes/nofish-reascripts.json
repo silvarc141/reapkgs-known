@@ -1,27 +1,4 @@
 {
-  "Smart toggle mute note(s) (under mouse).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/MIDI Editor/Smart toggle mute note(s) (under mouse).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/aa3d7477331cd30de99caab14e368d99835dd1c8/MIDI%20Editor/Smart%20toggle%20mute%20note(s)%20(under%20mouse).lua",
-        "sha256": "1v44l20fv74i7fcnyzxl7psn2rr5cf0d3ssj4klqii93bcclcxli"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/MIDI Editor/Smart toggle mute note(s) (under mouse).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/aa3d7477331cd30de99caab14e368d99835dd1c8/MIDI%20Editor/Smart%20toggle%20mute%20note(s)%20(under%20mouse).lua",
-        "sha256": "1v44l20fv74i7fcnyzxl7psn2rr5cf0d3ssj4klqii93bcclcxli"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/nofish ReaScripts/MIDI Editor/Smart toggle mute note(s) (under mouse).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e24b6073ada3eef2fad289bcb8f35062978af7be/MIDI%20Editor/Smart%20toggle%20mute%20note(s)%20(under%20mouse).lua",
-        "sha256": "0n7dqkpycpwlg2jv1n89qcwqzqxi21cvwv8f9mlih841drll6fip"
-      }
-    ]
-  },
   "Show midi note name in tooltip_nofish mod.lua": {
     "latest": [
       {
@@ -42,6 +19,29 @@
         "path": "Scripts/nofish ReaScripts/MIDI Editor/Show midi note name in tooltip_nofish mod.lua",
         "url": "https://github.com/nofishonfriday/ReaScripts/raw/35f053b941ef7c5cd17b9cff999f53cd5159671c/MIDI%20Editor/Show%20midi%20note%20name%20in%20tooltip_nofish%20mod.lua",
         "sha256": "0fp88x84kqsmd9canl9ax62clvbh29k2zvizmks35ldcy69z2vcx"
+      }
+    ]
+  },
+  "Smart toggle mute note(s) (under mouse).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/MIDI Editor/Smart toggle mute note(s) (under mouse).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/aa3d7477331cd30de99caab14e368d99835dd1c8/MIDI%20Editor/Smart%20toggle%20mute%20note(s)%20(under%20mouse).lua",
+        "sha256": "1v44l20fv74i7fcnyzxl7psn2rr5cf0d3ssj4klqii93bcclcxli"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/MIDI Editor/Smart toggle mute note(s) (under mouse).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/aa3d7477331cd30de99caab14e368d99835dd1c8/MIDI%20Editor/Smart%20toggle%20mute%20note(s)%20(under%20mouse).lua",
+        "sha256": "1v44l20fv74i7fcnyzxl7psn2rr5cf0d3ssj4klqii93bcclcxli"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/nofish ReaScripts/MIDI Editor/Smart toggle mute note(s) (under mouse).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e24b6073ada3eef2fad289bcb8f35062978af7be/MIDI%20Editor/Smart%20toggle%20mute%20note(s)%20(under%20mouse).lua",
+        "sha256": "0n7dqkpycpwlg2jv1n89qcwqzqxi21cvwv8f9mlih841drll6fip"
       }
     ]
   },
@@ -93,134 +93,41 @@
       }
     ]
   },
-  "nofish_Delete muted items from item selection.lua": {
+  "nofish_Normalize take pan (Loudness based).lua": {
     "latest": [
       {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Delete muted items from item selection.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/editing/nofish_Delete%20muted%20items%20from%20item%20selection.lua",
-        "sha256": "0b73xyjpjpz7s7cifpjas29yv0vriziai3d359h670b0k6avkkdn"
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
+        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
+      },
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
+        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
       }
     ],
-    "1.0": [
+    "1.0.1": [
       {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Delete muted items from item selection.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/editing/nofish_Delete%20muted%20items%20from%20item%20selection.lua",
-        "sha256": "0b73xyjpjpz7s7cifpjas29yv0vriziai3d359h670b0k6avkkdn"
-      }
-    ]
-  },
-  "nofish_Unselect muted items.lua": {
-    "latest": [
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
+        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
+      },
       {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Unselect muted items.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Unselect%20muted%20items.lua",
-        "sha256": "02jnr4l3giq3d42mrgjvvgagj7z9llvghqqig3knn0cc81jlf2jx"
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
+        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
       }
     ],
-    "1.0": [
+    "1.00": [
       {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Unselect muted items.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Unselect%20muted%20items.lua",
-        "sha256": "02jnr4l3giq3d42mrgjvvgagj7z9llvghqqig3knn0cc81jlf2jx"
-      }
-    ]
-  },
-  "nofish_Select next item (in time) across tracks.lua": {
-    "latest": [
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
+        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
+      },
       {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Select next item (in time) across tracks.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/41238a479c399fe3ca5a0a607b920d6c6ad07cdf/editing/nofish_Select%20next%20item%20(in%20time)%20across%20tracks.lua",
-        "sha256": "1lxxni2fg8xdp3b63icp1namwi3ijdr12lkm3wmm90z71jp1gk5s"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Select next item (in time) across tracks.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/41238a479c399fe3ca5a0a607b920d6c6ad07cdf/editing/nofish_Select%20next%20item%20(in%20time)%20across%20tracks.lua",
-        "sha256": "1lxxni2fg8xdp3b63icp1namwi3ijdr12lkm3wmm90z71jp1gk5s"
-      }
-    ]
-  },
-  "nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/621afe92bb104965105a71993d26bd5dcfea1f6a/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
-        "sha256": "0frhkwl418lr7x2l8asp74iazz2hks4hpg7rasjwlmsn2ap1f9sm"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/621afe92bb104965105a71993d26bd5dcfea1f6a/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
-        "sha256": "0frhkwl418lr7x2l8asp74iazz2hks4hpg7rasjwlmsn2ap1f9sm"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/424458c45c187caf45815d9669461394ad7e0f4f/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
-        "sha256": "0vx96547bz6c6f7j5yklmriy9x922hz3dwh01ipl1r5dfdmygj87"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/89ec298a33911285efe699302698bb098d796d2c/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
-        "sha256": "0y309j3cp0rxd4hvr8mld03zlchfxprm7vpr9fpv8mkh6bzzlf7v"
-      }
-    ]
-  },
-  "nofish_Select muted items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Select muted items.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Select%20muted%20items.lua",
-        "sha256": "16idpwhbnjgazc19bwrn2p3lgy6h6ja18hh16bjc6177ka8nzxd0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/editing/nofish_Select muted items.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Select%20muted%20items.lua",
-        "sha256": "16idpwhbnjgazc19bwrn2p3lgy6h6ja18hh16bjc6177ka8nzxd0"
-      }
-    ]
-  },
-  "nofish_Normalize loudness of selected items active take to X LUFS max short term.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/cebd837ce969f4a0306a9372301520fb972dbdfa/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "0w38lfwxr4sh4v3agh9z3ifsfv2pbzd4x63s0ih9hz8ms7igwa9d"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e431fac20627a4836e619024c879fb1f8839b3b4/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "0agchmfag0jsgsr20bh6ly75l7rwdxx9g7pxcsf2lmaidva20zz1"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2e27047e6017334988d95dd6b07d5e0286743433/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "1rwdnvbdkrb4fhv3cv6s7sd57vfp34sg30awwybwpyrk8ccpafjg"
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
+        "sha256": "0r0rkschvdg2w0qjcwnc53s303avg942jcrhi1k099xnpx5rw648"
       }
     ]
   },
@@ -261,60 +168,6 @@
       }
     ]
   },
-  "nofish_Normalize take pan (Loudness based).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
-        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
-      },
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
-        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
-        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
-      },
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
-        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
-        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
-      },
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
-        "sha256": "0r0rkschvdg2w0qjcwnc53s303avg942jcrhi1k099xnpx5rw648"
-      }
-    ]
-  },
-  "nofish_Set normalize loudness to X LUFS max short term target value.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
-        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
-        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
-      }
-    ]
-  },
   "nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua": {
     "latest": [
       {
@@ -335,6 +188,75 @@
         "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
         "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
         "sha256": "1h2fffs1lkbcz5vya02hknh4q0s0r7d90py8pknfsz8g0n23mxq3"
+      }
+    ]
+  },
+  "nofish_Analyze loudness (integrated) per channel of selected items active take.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
+        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
+        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
+      }
+    ]
+  },
+  "nofish_Set normalize loudness to X LUFS max short term target value.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
+        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
+        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
+      }
+    ]
+  },
+  "nofish_Normalize loudness of selected items active take to X LUFS max short term.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/cebd837ce969f4a0306a9372301520fb972dbdfa/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "0w38lfwxr4sh4v3agh9z3ifsfv2pbzd4x63s0ih9hz8ms7igwa9d"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e431fac20627a4836e619024c879fb1f8839b3b4/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "0agchmfag0jsgsr20bh6ly75l7rwdxx9g7pxcsf2lmaidva20zz1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2e27047e6017334988d95dd6b07d5e0286743433/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "1rwdnvbdkrb4fhv3cv6s7sd57vfp34sg30awwybwpyrk8ccpafjg"
       }
     ]
   },
@@ -377,22 +299,6 @@
       }
     ]
   },
-  "nofish_Analyze loudness (integrated) per channel of selected items active take.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
-        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
-        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
-      }
-    ]
-  },
   "nofish_Set normalize loudness to X LUFS max momentary target value.lua": {
     "latest": [
       {
@@ -409,139 +315,19 @@
       }
     ]
   },
-  "nofish_Print visible (within item start end) take markers on seleted tracks to console.lua": {
+  "nofish_Solo (exclusive) last focused FX - no GUI.lua": {
     "latest": [
       {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c7f995d574fb2b4b25c8c354692c560b09b861e/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
-        "sha256": "08afw3gxv5diqs971zgk4hh25ai4b0kvziznspg3h5hq533cnl9k"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c7f995d574fb2b4b25c8c354692c560b09b861e/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
-        "sha256": "08afw3gxv5diqs971zgk4hh25ai4b0kvziznspg3h5hq533cnl9k"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/d3e7e8500e2961bf35f85d56c903a2c95657df84/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
-        "sha256": "175daswbld0ry2xcbq242fa0swxyphdijfz0r7xylar57wj81nm1"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/84cca995394235d331555567b72a60b8c3ce0a85/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
-        "sha256": "0v39jsr9w0bnk7k0i52bns22dzrsxq0b49rq96qb94kkpp8src0w"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e4b4dd69919bb260e45b529349eaa7917517bc2a/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
-        "sha256": "12fd264xbkxw5yw5bg2lmip6y3nbxkrf1xl4w7lhg1hnsvd9km96"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/a8e1d7e2e693787b353dac98ad03bdb90dcacf48/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
-        "sha256": "18pvrb2mgmbplznil9hx8akx0lc404m67fivx9dmzh11m57wagdx"
-      }
-    ]
-  },
-  "nofish_Realtime clock.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Realtime clock.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Realtime%20clock.lua",
-        "sha256": "1g6w44n710b132jz6x6i2f51sqvwk44qymp2wszf5spa47iycb1a"
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI.lua",
+        "sha256": "116lla9ipd1qfcwqrlf6gqwzqz8sgla3x23ahdzmj1f5i68d51j5"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Realtime clock.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Realtime%20clock.lua",
-        "sha256": "1g6w44n710b132jz6x6i2f51sqvwk44qymp2wszf5spa47iycb1a"
-      }
-    ]
-  },
-  "nofish_Needle dropping.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Needle dropping.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/5a35e2bbc69c7c035d424f57bfa9001f3b39f663/misc/nofish_Needle%20dropping.lua",
-        "sha256": "09jcjf2gr2n4rgdam79qbg9k5jcmbhp29jm58kmzg83ndd74rsgj"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Needle dropping.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/5a35e2bbc69c7c035d424f57bfa9001f3b39f663/misc/nofish_Needle%20dropping.lua",
-        "sha256": "09jcjf2gr2n4rgdam79qbg9k5jcmbhp29jm58kmzg83ndd74rsgj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Needle dropping.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7ccc4f80a82ed2ac26f95d6d1fe5bd5307fb9420/misc/nofish_Needle%20dropping.lua",
-        "sha256": "1f7426g1zshbmwqaz6hnsx3r7cy14jia16ach21zr0z2jgw903zw"
-      }
-    ]
-  },
-  "nofish_Save track FX chains (for sel tracks).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7a36d6ff60cc3e4ff7e253c02e69ead36576e6e3/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
-        "sha256": "05qr4hvndrwbl52x008rpg8xmf8s9jq2k5cxd69462cc6lxbq3h1"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7a36d6ff60cc3e4ff7e253c02e69ead36576e6e3/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
-        "sha256": "05qr4hvndrwbl52x008rpg8xmf8s9jq2k5cxd69462cc6lxbq3h1"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7b6027431872c7b765ebd91d080267f3b0fa3eab/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
-        "sha256": "1j4i50g3wpvv11gv9aqc92cwwq27b6gjrnqf5fijv2xfdalyz7nx"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/dd1e8144d7267848cceb339e213a931d6bb285df/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
-        "sha256": "0hr1cnp92brv9yxyy41q6jw3asaw275vzxjdymh9lb4qhgqp18l3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
-        "sha256": "1m01shc06flf1blbkwr0bz12dx0vznph8ikm4ia0j8wdc2m9h21y"
-      }
-    ]
-  },
-  "nofish_Normalize selected items active take to X dBFS true peak.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Normalize selected items active take to X dBFS true peak.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c7edf396d1db3cdb673f383afc1ad0cacc6199a5/misc/nofish_Normalize%20selected%20items%20active%20take%20to%20X%20dBFS%20true%20peak.lua",
-        "sha256": "1q790xcnibc2cljpwf996sms04hpsffd6w5cslzw94fbh44vkckf"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Normalize selected items active take to X dBFS true peak.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c7edf396d1db3cdb673f383afc1ad0cacc6199a5/misc/nofish_Normalize%20selected%20items%20active%20take%20to%20X%20dBFS%20true%20peak.lua",
-        "sha256": "1q790xcnibc2cljpwf996sms04hpsffd6w5cslzw94fbh44vkckf"
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI.lua",
+        "sha256": "116lla9ipd1qfcwqrlf6gqwzqz8sgla3x23ahdzmj1f5i68d51j5"
       }
     ]
   },
@@ -591,58 +377,19 @@
       }
     ]
   },
-  "nofish_Write tracknames to textfile.eel": {
+  "nofish_Toggle Ignore mousewheel on all faders.lua": {
     "latest": [
       {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Write tracknames to textfile.eel",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9f8c562d419f97520e0e4536708d7b0ae9e99e28/misc/nofish_Write%20tracknames%20to%20textfile.eel",
-        "sha256": "0n75wvi4phpp2ipvqg3a4zhnym16m0yxsyyjaz5n7wr4rinwb7p4"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Write tracknames to textfile.eel",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9f8c562d419f97520e0e4536708d7b0ae9e99e28/misc/nofish_Write%20tracknames%20to%20textfile.eel",
-        "sha256": "0n75wvi4phpp2ipvqg3a4zhnym16m0yxsyyjaz5n7wr4rinwb7p4"
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Toggle Ignore mousewheel on all faders.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2fb4543cc70459cc224f12814b9b52eefbac9f96/misc/nofish_Toggle%20Ignore%20mousewheel%20on%20all%20faders.lua",
+        "sha256": "0x01z9w6z0ibm57sh6x1gqcg7jkl18jr4dir91s950wqldnw3dfn"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Write tracknames to textfile.eel",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Write%20tracknames%20to%20textfile.eel",
-        "sha256": "0sl46jqak2xa36ilcj6x87zjj3c123mgkl86asah5wq28ld09czl"
-      }
-    ]
-  },
-  "nofish_run action - wait x sec - run next action (example).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_run action - wait x sec - run next action (example).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6eb01ea89afe161677231b85c645cccb4f072cb0/misc/nofish_run%20action%20-%20wait%20x%20sec%20-%20run%20next%20action%20(example).lua",
-        "sha256": "0y4gmdk15qapxk3vas57znai3fwghb4j1pc2jvxvmbn72ifj91qr"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_run action - wait x sec - run next action (example).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6eb01ea89afe161677231b85c645cccb4f072cb0/misc/nofish_run%20action%20-%20wait%20x%20sec%20-%20run%20next%20action%20(example).lua",
-        "sha256": "0y4gmdk15qapxk3vas57znai3fwghb4j1pc2jvxvmbn72ifj91qr"
-      }
-    ]
-  },
-  "nofish_List tracknames in console.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_List tracknames in console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/misc/nofish_List%20tracknames%20in%20console.lua",
-        "sha256": "1fj92zjj9hk2jrwik783myy594m5arf3yl554ngnr53hj4vjvx0q"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_List tracknames in console.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/misc/nofish_List%20tracknames%20in%20console.lua",
-        "sha256": "1fj92zjj9hk2jrwik783myy594m5arf3yl554ngnr53hj4vjvx0q"
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Toggle Ignore mousewheel on all faders.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2fb4543cc70459cc224f12814b9b52eefbac9f96/misc/nofish_Toggle%20Ignore%20mousewheel%20on%20all%20faders.lua",
+        "sha256": "0x01z9w6z0ibm57sh6x1gqcg7jkl18jr4dir91s950wqldnw3dfn"
       }
     ]
   },
@@ -669,6 +416,222 @@
       }
     ]
   },
+  "nofish_Solo (exclusive) last focused FX - no GUI (w_undo point).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI (w_undo point).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI%20(w_undo%20point).lua",
+        "sha256": "0i4z1grnymc1kpi3r9l3v9abr4ahhfpr2syszxlfgz8r1ffy2jp5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI (w_undo point).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI%20(w_undo%20point).lua",
+        "sha256": "0i4z1grnymc1kpi3r9l3v9abr4ahhfpr2syszxlfgz8r1ffy2jp5"
+      }
+    ]
+  },
+  "nofish_Print visible (within item start end) take markers on seleted tracks to console.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c7f995d574fb2b4b25c8c354692c560b09b861e/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
+        "sha256": "08afw3gxv5diqs971zgk4hh25ai4b0kvziznspg3h5hq533cnl9k"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c7f995d574fb2b4b25c8c354692c560b09b861e/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
+        "sha256": "08afw3gxv5diqs971zgk4hh25ai4b0kvziznspg3h5hq533cnl9k"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/d3e7e8500e2961bf35f85d56c903a2c95657df84/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
+        "sha256": "175daswbld0ry2xcbq242fa0swxyphdijfz0r7xylar57wj81nm1"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/84cca995394235d331555567b72a60b8c3ce0a85/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
+        "sha256": "0v39jsr9w0bnk7k0i52bns22dzrsxq0b49rq96qb94kkpp8src0w"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e4b4dd69919bb260e45b529349eaa7917517bc2a/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
+        "sha256": "12fd264xbkxw5yw5bg2lmip6y3nbxkrf1xl4w7lhg1hnsvd9km96"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Print visible (within item start end) take markers on seleted tracks to console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/a8e1d7e2e693787b353dac98ad03bdb90dcacf48/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua",
+        "sha256": "18pvrb2mgmbplznil9hx8akx0lc404m67fivx9dmzh11m57wagdx"
+      }
+    ]
+  },
+  "nofish_Reset Mix - selected tracks (for stem export).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - selected tracks (for stem export).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/a50203dc3c35f8766abce43061a6ed4ae32afd03/misc/nofish_Reset%20Mix%20-%20selected%20tracks%20(for%20stem%20export).lua",
+        "sha256": "1zdasa5ag03a6gdwpyp51c61x2jj4z38hq0w414d1a5dbwkcb0in"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - selected tracks (for stem export).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/a50203dc3c35f8766abce43061a6ed4ae32afd03/misc/nofish_Reset%20Mix%20-%20selected%20tracks%20(for%20stem%20export).lua",
+        "sha256": "1zdasa5ag03a6gdwpyp51c61x2jj4z38hq0w414d1a5dbwkcb0in"
+      }
+    ]
+  },
+  "nofish_Realtime clock.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Realtime clock.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Realtime%20clock.lua",
+        "sha256": "1g6w44n710b132jz6x6i2f51sqvwk44qymp2wszf5spa47iycb1a"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Realtime clock.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Realtime%20clock.lua",
+        "sha256": "1g6w44n710b132jz6x6i2f51sqvwk44qymp2wszf5spa47iycb1a"
+      }
+    ]
+  },
+  "nofish_Reset Mix - all tracks (for stem export).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - all tracks (for stem export).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c8db8931787593b5679c718eba9e7199f4252208/misc/nofish_Reset%20Mix%20-%20all%20tracks%20(for%20stem%20export).lua",
+        "sha256": "0407w02pwzwxnsq78534ryilr2kdrnyzdqwvckddab7pqkv4nhi3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - all tracks (for stem export).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c8db8931787593b5679c718eba9e7199f4252208/misc/nofish_Reset%20Mix%20-%20all%20tracks%20(for%20stem%20export).lua",
+        "sha256": "0407w02pwzwxnsq78534ryilr2kdrnyzdqwvckddab7pqkv4nhi3"
+      }
+    ]
+  },
+  "nofish_List tracknames in console.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_List tracknames in console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/misc/nofish_List%20tracknames%20in%20console.lua",
+        "sha256": "1fj92zjj9hk2jrwik783myy594m5arf3yl554ngnr53hj4vjvx0q"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_List tracknames in console.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/misc/nofish_List%20tracknames%20in%20console.lua",
+        "sha256": "1fj92zjj9hk2jrwik783myy594m5arf3yl554ngnr53hj4vjvx0q"
+      }
+    ]
+  },
+  "nofish_run action - wait x sec - run next action (example).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_run action - wait x sec - run next action (example).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6eb01ea89afe161677231b85c645cccb4f072cb0/misc/nofish_run%20action%20-%20wait%20x%20sec%20-%20run%20next%20action%20(example).lua",
+        "sha256": "0y4gmdk15qapxk3vas57znai3fwghb4j1pc2jvxvmbn72ifj91qr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_run action - wait x sec - run next action (example).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6eb01ea89afe161677231b85c645cccb4f072cb0/misc/nofish_run%20action%20-%20wait%20x%20sec%20-%20run%20next%20action%20(example).lua",
+        "sha256": "0y4gmdk15qapxk3vas57znai3fwghb4j1pc2jvxvmbn72ifj91qr"
+      }
+    ]
+  },
+  "nofish_Save track FX chains (for sel tracks).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7a36d6ff60cc3e4ff7e253c02e69ead36576e6e3/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
+        "sha256": "05qr4hvndrwbl52x008rpg8xmf8s9jq2k5cxd69462cc6lxbq3h1"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7a36d6ff60cc3e4ff7e253c02e69ead36576e6e3/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
+        "sha256": "05qr4hvndrwbl52x008rpg8xmf8s9jq2k5cxd69462cc6lxbq3h1"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7b6027431872c7b765ebd91d080267f3b0fa3eab/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
+        "sha256": "1j4i50g3wpvv11gv9aqc92cwwq27b6gjrnqf5fijv2xfdalyz7nx"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/dd1e8144d7267848cceb339e213a931d6bb285df/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
+        "sha256": "0hr1cnp92brv9yxyy41q6jw3asaw275vzxjdymh9lb4qhgqp18l3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Save track FX chains (for sel tracks).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Save%20track%20FX%20chains%20(for%20sel%20tracks).lua",
+        "sha256": "1m01shc06flf1blbkwr0bz12dx0vznph8ikm4ia0j8wdc2m9h21y"
+      }
+    ]
+  },
+  "nofish_Needle dropping.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Needle dropping.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/5a35e2bbc69c7c035d424f57bfa9001f3b39f663/misc/nofish_Needle%20dropping.lua",
+        "sha256": "09jcjf2gr2n4rgdam79qbg9k5jcmbhp29jm58kmzg83ndd74rsgj"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Needle dropping.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/5a35e2bbc69c7c035d424f57bfa9001f3b39f663/misc/nofish_Needle%20dropping.lua",
+        "sha256": "09jcjf2gr2n4rgdam79qbg9k5jcmbhp29jm58kmzg83ndd74rsgj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Needle dropping.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7ccc4f80a82ed2ac26f95d6d1fe5bd5307fb9420/misc/nofish_Needle%20dropping.lua",
+        "sha256": "1f7426g1zshbmwqaz6hnsx3r7cy14jia16ach21zr0z2jgw903zw"
+      }
+    ]
+  },
+  "nofish_Solo (exclusive) last focused FX - GUI.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - GUI.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20GUI.lua",
+        "sha256": "149gv80l96kgp747b8r5rfdgg0mhhp2g094krsnqw82n59zp1s33"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - GUI.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20GUI.lua",
+        "sha256": "149gv80l96kgp747b8r5rfdgg0mhhp2g094krsnqw82n59zp1s33"
+      }
+    ]
+  },
   "nofish_Dynamic mixer.lua": {
     "latest": [
       {
@@ -692,54 +655,6 @@
       }
     ]
   },
-  "nofish_Toggle Ignore mousewheel on all faders.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Toggle Ignore mousewheel on all faders.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2fb4543cc70459cc224f12814b9b52eefbac9f96/misc/nofish_Toggle%20Ignore%20mousewheel%20on%20all%20faders.lua",
-        "sha256": "0x01z9w6z0ibm57sh6x1gqcg7jkl18jr4dir91s950wqldnw3dfn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Toggle Ignore mousewheel on all faders.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2fb4543cc70459cc224f12814b9b52eefbac9f96/misc/nofish_Toggle%20Ignore%20mousewheel%20on%20all%20faders.lua",
-        "sha256": "0x01z9w6z0ibm57sh6x1gqcg7jkl18jr4dir91s950wqldnw3dfn"
-      }
-    ]
-  },
-  "nofish_Reset Mix - all tracks (for stem export).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - all tracks (for stem export).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c8db8931787593b5679c718eba9e7199f4252208/misc/nofish_Reset%20Mix%20-%20all%20tracks%20(for%20stem%20export).lua",
-        "sha256": "0407w02pwzwxnsq78534ryilr2kdrnyzdqwvckddab7pqkv4nhi3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - all tracks (for stem export).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c8db8931787593b5679c718eba9e7199f4252208/misc/nofish_Reset%20Mix%20-%20all%20tracks%20(for%20stem%20export).lua",
-        "sha256": "0407w02pwzwxnsq78534ryilr2kdrnyzdqwvckddab7pqkv4nhi3"
-      }
-    ]
-  },
-  "nofish_Solo (exclusive) last focused FX - no GUI.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI.lua",
-        "sha256": "116lla9ipd1qfcwqrlf6gqwzqz8sgla3x23ahdzmj1f5i68d51j5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI.lua",
-        "sha256": "116lla9ipd1qfcwqrlf6gqwzqz8sgla3x23ahdzmj1f5i68d51j5"
-      }
-    ]
-  },
   "nofish_Bypass master volume envelope.lua": {
     "latest": [
       {
@@ -756,54 +671,6 @@
       }
     ]
   },
-  "nofish_Solo (exclusive) last focused FX - GUI.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - GUI.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20GUI.lua",
-        "sha256": "149gv80l96kgp747b8r5rfdgg0mhhp2g094krsnqw82n59zp1s33"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - GUI.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20GUI.lua",
-        "sha256": "149gv80l96kgp747b8r5rfdgg0mhhp2g094krsnqw82n59zp1s33"
-      }
-    ]
-  },
-  "nofish_Solo (exclusive) last focused FX - no GUI (w_undo point).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI (w_undo point).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI%20(w_undo%20point).lua",
-        "sha256": "0i4z1grnymc1kpi3r9l3v9abr4ahhfpr2syszxlfgz8r1ffy2jp5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Solo (exclusive) last focused FX - no GUI (w_undo point).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/6615f78272f76e52967fb56b93933bfdf4a52b72/misc/nofish_Solo%20(exclusive)%20last%20focused%20FX%20-%20no%20GUI%20(w_undo%20point).lua",
-        "sha256": "0i4z1grnymc1kpi3r9l3v9abr4ahhfpr2syszxlfgz8r1ffy2jp5"
-      }
-    ]
-  },
-  "nofish_Reset Mix - selected tracks (for stem export).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - selected tracks (for stem export).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/a50203dc3c35f8766abce43061a6ed4ae32afd03/misc/nofish_Reset%20Mix%20-%20selected%20tracks%20(for%20stem%20export).lua",
-        "sha256": "1zdasa5ag03a6gdwpyp51c61x2jj4z38hq0w414d1a5dbwkcb0in"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/misc/nofish_Reset Mix - selected tracks (for stem export).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/a50203dc3c35f8766abce43061a6ed4ae32afd03/misc/nofish_Reset%20Mix%20-%20selected%20tracks%20(for%20stem%20export).lua",
-        "sha256": "1zdasa5ag03a6gdwpyp51c61x2jj4z38hq0w414d1a5dbwkcb0in"
-      }
-    ]
-  },
   "nofish_Set all items to timebase Time if at least containing one audio or video take else to timebase Beats (pos., length, rate).lua": {
     "latest": [
       {
@@ -817,6 +684,139 @@
         "path": "Scripts/nofish ReaScripts/misc/nofish_Set all items to timebase Time if at least containing one audio or video take else to timebase Beats (pos., length, rate).lua",
         "url": "https://github.com/nofishonfriday/ReaScripts/raw/8730db7b1fa5eadcf37cb0ada109ca54a48c2e06/misc/nofish_Set%20all%20items%20to%20timebase%20Time%20if%20at%20least%20containing%20one%20audio%20or%20video%20take%20else%20to%20timebase%20Beats%20(pos.,%20length,%20rate).lua",
         "sha256": "029ihp3q8684n74hnq08clbqqvzbq3asy1s8921wy4wjal2n70xx"
+      }
+    ]
+  },
+  "nofish_Write tracknames to textfile.eel": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Write tracknames to textfile.eel",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9f8c562d419f97520e0e4536708d7b0ae9e99e28/misc/nofish_Write%20tracknames%20to%20textfile.eel",
+        "sha256": "0n75wvi4phpp2ipvqg3a4zhnym16m0yxsyyjaz5n7wr4rinwb7p4"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Write tracknames to textfile.eel",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9f8c562d419f97520e0e4536708d7b0ae9e99e28/misc/nofish_Write%20tracknames%20to%20textfile.eel",
+        "sha256": "0n75wvi4phpp2ipvqg3a4zhnym16m0yxsyyjaz5n7wr4rinwb7p4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Write tracknames to textfile.eel",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Write%20tracknames%20to%20textfile.eel",
+        "sha256": "0sl46jqak2xa36ilcj6x87zjj3c123mgkl86asah5wq28ld09czl"
+      }
+    ]
+  },
+  "nofish_Normalize selected items active take to X dBFS true peak.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Normalize selected items active take to X dBFS true peak.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c7edf396d1db3cdb673f383afc1ad0cacc6199a5/misc/nofish_Normalize%20selected%20items%20active%20take%20to%20X%20dBFS%20true%20peak.lua",
+        "sha256": "1q790xcnibc2cljpwf996sms04hpsffd6w5cslzw94fbh44vkckf"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/nofish ReaScripts/misc/nofish_Normalize selected items active take to X dBFS true peak.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c7edf396d1db3cdb673f383afc1ad0cacc6199a5/misc/nofish_Normalize%20selected%20items%20active%20take%20to%20X%20dBFS%20true%20peak.lua",
+        "sha256": "1q790xcnibc2cljpwf996sms04hpsffd6w5cslzw94fbh44vkckf"
+      }
+    ]
+  },
+  "nofish_Unselect muted items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Unselect muted items.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Unselect%20muted%20items.lua",
+        "sha256": "02jnr4l3giq3d42mrgjvvgagj7z9llvghqqig3knn0cc81jlf2jx"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Unselect muted items.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Unselect%20muted%20items.lua",
+        "sha256": "02jnr4l3giq3d42mrgjvvgagj7z9llvghqqig3knn0cc81jlf2jx"
+      }
+    ]
+  },
+  "nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/621afe92bb104965105a71993d26bd5dcfea1f6a/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
+        "sha256": "0frhkwl418lr7x2l8asp74iazz2hks4hpg7rasjwlmsn2ap1f9sm"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/621afe92bb104965105a71993d26bd5dcfea1f6a/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
+        "sha256": "0frhkwl418lr7x2l8asp74iazz2hks4hpg7rasjwlmsn2ap1f9sm"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/424458c45c187caf45815d9669461394ad7e0f4f/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
+        "sha256": "0vx96547bz6c6f7j5yklmriy9x922hz3dwh01ipl1r5dfdmygj87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Split items at time selection, else at edit cursor, crossfading to the left.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/89ec298a33911285efe699302698bb098d796d2c/editing/nofish_Split%20items%20at%20time%20selection,%20else%20at%20edit%20cursor,%20crossfading%20to%20the%20left.lua",
+        "sha256": "0y309j3cp0rxd4hvr8mld03zlchfxprm7vpr9fpv8mkh6bzzlf7v"
+      }
+    ]
+  },
+  "nofish_Delete muted items from item selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Delete muted items from item selection.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/editing/nofish_Delete%20muted%20items%20from%20item%20selection.lua",
+        "sha256": "0b73xyjpjpz7s7cifpjas29yv0vriziai3d359h670b0k6avkkdn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Delete muted items from item selection.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c2f497bd9eee531f3dd4dafd88189e35dd86ff16/editing/nofish_Delete%20muted%20items%20from%20item%20selection.lua",
+        "sha256": "0b73xyjpjpz7s7cifpjas29yv0vriziai3d359h670b0k6avkkdn"
+      }
+    ]
+  },
+  "nofish_Select next item (in time) across tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Select next item (in time) across tracks.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/41238a479c399fe3ca5a0a607b920d6c6ad07cdf/editing/nofish_Select%20next%20item%20(in%20time)%20across%20tracks.lua",
+        "sha256": "1lxxni2fg8xdp3b63icp1namwi3ijdr12lkm3wmm90z71jp1gk5s"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Select next item (in time) across tracks.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/41238a479c399fe3ca5a0a607b920d6c6ad07cdf/editing/nofish_Select%20next%20item%20(in%20time)%20across%20tracks.lua",
+        "sha256": "1lxxni2fg8xdp3b63icp1namwi3ijdr12lkm3wmm90z71jp1gk5s"
+      }
+    ]
+  },
+  "nofish_Select muted items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Select muted items.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Select%20muted%20items.lua",
+        "sha256": "16idpwhbnjgazc19bwrn2p3lgy6h6ja18hh16bjc6177ka8nzxd0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/editing/nofish_Select muted items.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/b2164c73328bb0fa62bdb335327ace9c325e6dab/editing/nofish_Select%20muted%20items.lua",
+        "sha256": "16idpwhbnjgazc19bwrn2p3lgy6h6ja18hh16bjc6177ka8nzxd0"
       }
     ]
   }

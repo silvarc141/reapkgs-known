@@ -2527,122 +2527,6 @@
       }
     ]
   },
-  "Sexan_Multi_project_time_counter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "08di6038msiqgalgbhvk6b7scwrp4jnm4162iv1hkj2fjqah3jwf"
-      }
-    ],
-    "1.45": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "08di6038msiqgalgbhvk6b7scwrp4jnm4162iv1hkj2fjqah3jwf"
-      }
-    ],
-    "1.44": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/8bb0a0ef6b5f5b38c8bd09bd977f8c0021e1ca7c/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "133d1ipkxvhzzbi38w6a23k104564b986kvy3mbmspyff688q9vx"
-      }
-    ],
-    "1.43": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/48bf22cea52e2d3b1afb8b98c23e103496989746/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "0pnj6jy3a8zlvfj1k6h3wa2i0hixjz6pzvpcwbb1pr5zqd7b3wj0"
-      }
-    ],
-    "1.42": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/765fa0e6eb4303d6de8858d1939aca1b59beb672/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "1hcvi40ah8zp0ai3rv417x5klx1n217pjf3lchw4hlc2cgiqmp13"
-      }
-    ],
-    "1.41": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/0840d751308128b96d034ccb017e1af87e919c92/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "1z1nzsbzwwqbgd2w3gwnwxmjmlnkz64gayvbahsbzszwa84nqdi1"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/584101a12312625352984585de560029d40d97cc/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "0836gzfxx532wjyj1j911l66s7miavdf78kfmsaihmm9kk0s9065"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/2ebed35a1ca048667224742e442491ff9d6eb0d5/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "1jd6zm42ljcxav62gv5xp5b7mm0l6l01b45pnq5gkl7bmyhcnm7q"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/07e692a4c26d1cac727212deb0515e4aa035ae71/Project/Sexan_Multi_project_time_counter.lua",
-        "sha256": "09rbwgmq3vpfk4lapz6a67w62p4b98jxqx3slnmzpybgkqbz6dqv"
-      }
-    ]
-  },
-  "Sexan_Project time counter with AFK mode.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "0nqp6h3a213g0yihz7802dx44d3rc922fifwlm6aml6mjwcxjq5d"
-      }
-    ],
-    "1.40": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "0nqp6h3a213g0yihz7802dx44d3rc922fifwlm6aml6mjwcxjq5d"
-      }
-    ],
-    "1.38": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/fde2b0f51281accbca0002061a107fb3ecc32864/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "1plqzvglgsl71cjgyr2k7cflhlar5jdnzflfm26dysk9x3bnp6q3"
-      }
-    ],
-    "1.37": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/f8b2f35ac33a1178599b92c11eb357ba47ee11dd/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "153an0dblzk8l86cg6vh42sf50gkrhzff95z8gjnl8s3g8rm7r3k"
-      }
-    ],
-    "1.36": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/a3e67329754a213f9f4b09efb933283986696fdb/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "1nw7zjip4aqlz9a18m7id24qyhh03nj58xphf2bxsiyvk95fg0hq"
-      }
-    ],
-    "1.35": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/10ca0a43a9782cd897546590860b500288a16c95/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "14db7avwparl40g8ps7pbfmgysradw7x3mjdv492j71spp29h5gw"
-      }
-    ],
-    "1.31": [
-      {
-        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/530d66124dfb322f9f4a5b9dbd3bdd3738677207/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
-        "sha256": "15qv770pm1fl7vy7p786k8w7vnh9z9pdfsp0nwp1g3aap426dc22"
-      }
-    ]
-  },
   "Sexan_ParaNormal_FX_Router.lua": {
     "latest": [
       {
@@ -23879,6 +23763,122 @@
       }
     ]
   },
+  "Sexan_Project time counter with AFK mode.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "0nqp6h3a213g0yihz7802dx44d3rc922fifwlm6aml6mjwcxjq5d"
+      }
+    ],
+    "1.40": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "0nqp6h3a213g0yihz7802dx44d3rc922fifwlm6aml6mjwcxjq5d"
+      }
+    ],
+    "1.38": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/fde2b0f51281accbca0002061a107fb3ecc32864/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "1plqzvglgsl71cjgyr2k7cflhlar5jdnzflfm26dysk9x3bnp6q3"
+      }
+    ],
+    "1.37": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/f8b2f35ac33a1178599b92c11eb357ba47ee11dd/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "153an0dblzk8l86cg6vh42sf50gkrhzff95z8gjnl8s3g8rm7r3k"
+      }
+    ],
+    "1.36": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/a3e67329754a213f9f4b09efb933283986696fdb/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "1nw7zjip4aqlz9a18m7id24qyhh03nj58xphf2bxsiyvk95fg0hq"
+      }
+    ],
+    "1.35": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/10ca0a43a9782cd897546590860b500288a16c95/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "14db7avwparl40g8ps7pbfmgysradw7x3mjdv492j71spp29h5gw"
+      }
+    ],
+    "1.31": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Project time counter with AFK mode.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/530d66124dfb322f9f4a5b9dbd3bdd3738677207/Project/Sexan_Project%20time%20counter%20with%20AFK%20mode.lua",
+        "sha256": "15qv770pm1fl7vy7p786k8w7vnh9z9pdfsp0nwp1g3aap426dc22"
+      }
+    ]
+  },
+  "Sexan_Multi_project_time_counter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "08di6038msiqgalgbhvk6b7scwrp4jnm4162iv1hkj2fjqah3jwf"
+      }
+    ],
+    "1.45": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/22a60533b38d8d9485c3bdf0b64e2af3d865d0c3/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "08di6038msiqgalgbhvk6b7scwrp4jnm4162iv1hkj2fjqah3jwf"
+      }
+    ],
+    "1.44": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/8bb0a0ef6b5f5b38c8bd09bd977f8c0021e1ca7c/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "133d1ipkxvhzzbi38w6a23k104564b986kvy3mbmspyff688q9vx"
+      }
+    ],
+    "1.43": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/48bf22cea52e2d3b1afb8b98c23e103496989746/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "0pnj6jy3a8zlvfj1k6h3wa2i0hixjz6pzvpcwbb1pr5zqd7b3wj0"
+      }
+    ],
+    "1.42": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/765fa0e6eb4303d6de8858d1939aca1b59beb672/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "1hcvi40ah8zp0ai3rv417x5klx1n217pjf3lchw4hlc2cgiqmp13"
+      }
+    ],
+    "1.41": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/0840d751308128b96d034ccb017e1af87e919c92/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "1z1nzsbzwwqbgd2w3gwnwxmjmlnkz64gayvbahsbzszwa84nqdi1"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/584101a12312625352984585de560029d40d97cc/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "0836gzfxx532wjyj1j911l66s7miavdf78kfmsaihmm9kk0s9065"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/2ebed35a1ca048667224742e442491ff9d6eb0d5/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "1jd6zm42ljcxav62gv5xp5b7mm0l6l01b45pnq5gkl7bmyhcnm7q"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Sexan_Scripts/Project/Sexan_Multi_project_time_counter.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/07e692a4c26d1cac727212deb0515e4aa035ae71/Project/Sexan_Multi_project_time_counter.lua",
+        "sha256": "09rbwgmq3vpfk4lapz6a67w62p4b98jxqx3slnmzpybgkqbz6dqv"
+      }
+    ]
+  },
   "Sexan_ReaSpaghetti.lua": {
     "latest": [
       {
@@ -32536,6 +32536,103 @@
       }
     ]
   },
+  "Sexan_Set Item and take volume of previous odd to next even items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/e7790da80f8a9f262c539d201d94f09a70226069/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
+        "sha256": "1hy6dqkrksf2cnn102wrqg0iwsdrbvc1r48mnk1rk8z0mpw9a8vl"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/e7790da80f8a9f262c539d201d94f09a70226069/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
+        "sha256": "1hy6dqkrksf2cnn102wrqg0iwsdrbvc1r48mnk1rk8z0mpw9a8vl"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/92c3db3071d39c8c81c9e1bb976943a195a62239/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
+        "sha256": "0362hcmlm0mx93xbdnccsvfy24m01z6m091i57902jwx1mnn3zhr"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/89287dd8f974355ad0d5ce685add6212bb63fbb5/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
+        "sha256": "1w9l3jzp5zw1r7gpcncnq7y2a82qsj5vb8sksvh6nzwjwb07kfwh"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/4137e3be05cfbe53112c92f33f06ea8f5e59f917/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
+        "sha256": "1l9w50x734b3yj765hcn1y5j853pc5xlfqx4q3a91590gmwinwsr"
+      }
+    ]
+  },
+  "Sexan_select all other items on track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/20246c998d2cfc4b8b6bc07c428f51e6aefb6ee9/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
+        "sha256": "1gidn97ifg0yy3nhimmhmbg4f998c3ph837z61rr1ay6sqmsz1zr"
+      }
+    ],
+    "1.13": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/20246c998d2cfc4b8b6bc07c428f51e6aefb6ee9/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
+        "sha256": "1gidn97ifg0yy3nhimmhmbg4f998c3ph837z61rr1ay6sqmsz1zr"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/33651c6f6b03a0ce3c3ee9c1ee8baf164973bbd3/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
+        "sha256": "1qzk1bv12dnacc7jb6vrap1sz331q4wxdid4rv93xzjaggvaqvpq"
+      }
+    ],
+    "1.11": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/848b165442d46b96e4c8375ce7efffe8f1564e35/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
+        "sha256": "01iallccvfbkyynpck90jzpc8pwq66rh1zhq6s434vdj97xm1fl2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/d63e3c72f3465d141c53588fb2ae9e9a73ac9de5/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
+        "sha256": "0nh1jywpayrfykqky0ghwjj1hd9rq8ag482gdfg6p055xh1fddx6"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/6a3c64a9d772059cbae28d173df4d0559405b430/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
+        "sha256": "1xvnxdivx4pg74cxfsgj87cf9x1y56x24429lj4m7d6zn88bawfi"
+      }
+    ]
+  },
+  "Sexan_SmartSplit items crossfade left or right.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_SmartSplit items crossfade left or right.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/9dc010345cce2e7f660ea4a3bb1805339636d72b/Items/Sexan_SmartSplit%20items%20crossfade%20left%20or%20right.lua",
+        "sha256": "1rsj8yxck1np0n8cz71m2sw9p0568x5af64gn0aizm6hryp4fsj4"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Sexan_Scripts/Items/Sexan_SmartSplit items crossfade left or right.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/9dc010345cce2e7f660ea4a3bb1805339636d72b/Items/Sexan_SmartSplit%20items%20crossfade%20left%20or%20right.lua",
+        "sha256": "1rsj8yxck1np0n8cz71m2sw9p0568x5af64gn0aizm6hryp4fsj4"
+      }
+    ]
+  },
   "Sexan_Track_versions_gui.lua": {
     "latest": [
       {
@@ -32631,103 +32728,6 @@
         "path": "Scripts/Sexan_Scripts/Alpha/Sexan_Track_versions_gui.lua",
         "url": "https://github.com/GoranKovac/ReaScripts/raw/debc068cf76ebd729475274825c77298dc58485a/Alpha/Sexan_Track_versions_gui.lua",
         "sha256": "1x40y1073g0vdvnx67vhfidbywvxn06avwl94kp18lk0n7jgfahd"
-      }
-    ]
-  },
-  "Sexan_select all other items on track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/20246c998d2cfc4b8b6bc07c428f51e6aefb6ee9/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
-        "sha256": "1gidn97ifg0yy3nhimmhmbg4f998c3ph837z61rr1ay6sqmsz1zr"
-      }
-    ],
-    "1.13": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/20246c998d2cfc4b8b6bc07c428f51e6aefb6ee9/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
-        "sha256": "1gidn97ifg0yy3nhimmhmbg4f998c3ph837z61rr1ay6sqmsz1zr"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/33651c6f6b03a0ce3c3ee9c1ee8baf164973bbd3/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
-        "sha256": "1qzk1bv12dnacc7jb6vrap1sz331q4wxdid4rv93xzjaggvaqvpq"
-      }
-    ],
-    "1.11": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/848b165442d46b96e4c8375ce7efffe8f1564e35/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
-        "sha256": "01iallccvfbkyynpck90jzpc8pwq66rh1zhq6s434vdj97xm1fl2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/d63e3c72f3465d141c53588fb2ae9e9a73ac9de5/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
-        "sha256": "0nh1jywpayrfykqky0ghwjj1hd9rq8ag482gdfg6p055xh1fddx6"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_select all other items on track.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/6a3c64a9d772059cbae28d173df4d0559405b430/Items/Sexan_select%20all%20other%20items%20on%20track.lua",
-        "sha256": "1xvnxdivx4pg74cxfsgj87cf9x1y56x24429lj4m7d6zn88bawfi"
-      }
-    ]
-  },
-  "Sexan_Set Item and take volume of previous odd to next even items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/e7790da80f8a9f262c539d201d94f09a70226069/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
-        "sha256": "1hy6dqkrksf2cnn102wrqg0iwsdrbvc1r48mnk1rk8z0mpw9a8vl"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/e7790da80f8a9f262c539d201d94f09a70226069/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
-        "sha256": "1hy6dqkrksf2cnn102wrqg0iwsdrbvc1r48mnk1rk8z0mpw9a8vl"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/92c3db3071d39c8c81c9e1bb976943a195a62239/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
-        "sha256": "0362hcmlm0mx93xbdnccsvfy24m01z6m091i57902jwx1mnn3zhr"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/89287dd8f974355ad0d5ce685add6212bb63fbb5/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
-        "sha256": "1w9l3jzp5zw1r7gpcncnq7y2a82qsj5vb8sksvh6nzwjwb07kfwh"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_Set Item and take volume of previous odd to next even items.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/4137e3be05cfbe53112c92f33f06ea8f5e59f917/Items/Sexan_Set%20Item%20and%20take%20volume%20of%20previous%20odd%20to%20next%20even%20items.lua",
-        "sha256": "1l9w50x734b3yj765hcn1y5j853pc5xlfqx4q3a91590gmwinwsr"
-      }
-    ]
-  },
-  "Sexan_SmartSplit items crossfade left or right.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_SmartSplit items crossfade left or right.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/9dc010345cce2e7f660ea4a3bb1805339636d72b/Items/Sexan_SmartSplit%20items%20crossfade%20left%20or%20right.lua",
-        "sha256": "1rsj8yxck1np0n8cz71m2sw9p0568x5af64gn0aizm6hryp4fsj4"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Sexan_Scripts/Items/Sexan_SmartSplit items crossfade left or right.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/9dc010345cce2e7f660ea4a3bb1805339636d72b/Items/Sexan_SmartSplit%20items%20crossfade%20left%20or%20right.lua",
-        "sha256": "1rsj8yxck1np0n8cz71m2sw9p0568x5af64gn0aizm6hryp4fsj4"
       }
     ]
   },

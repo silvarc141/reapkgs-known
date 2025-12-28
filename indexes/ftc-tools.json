@@ -2477,63 +2477,109 @@
       }
     ]
   },
-  "Auto-hide tracks in TCP that have no items in current measure.lua": {
+  "Auto-hide silent tracks during playback.lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "0hgy4xdzrrm1bfcnngjln84mxpx23165y9dbzaphkip75fm0xpq2"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/eaee85946c1e5fa48e358af2f24156ca5648d48f/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1izyf3zdzgz4yh9q5dscf76krcnljkhdzkrkxpy6lyphk9kak8zw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2d81990c06336f9be73a1d2027f6ba65c92db4ea/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1w2s92m1xn3293dwz0sv7l3vy1na72kxj5bj5y65kb8g3wc9wsmf"
-      }
-    ]
-  },
-  "Toggle show only selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
-        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
+        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
-        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
+        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
-        "sha256": "14h5vs91dfrzjficgsprajpdipkmi5j7mc26w8a0khc2dr9mx3lz"
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
+        "sha256": "1k7xz26vd2zw2xnri5p80xhlywh3zp4nqv2by5yh3xkl12irbf38"
+      }
+    ]
+  },
+  "Auto-hide silent tracks in TCP during playback.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "0ilb18k7313dcf600pfvm9gxmp1xvdb9579vmdhnjjbn5ygxzrak"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0243a542bd35cd5039b8d4cc5ffc7ee83fcce094/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "18xli8dhd4jc3qspadk97hipn1jid8cdal2g2qzfzfbifv9kbq5f"
+      }
+    ]
+  },
+  "Auto-hide tracks that have no items in current measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1i4v2q4fwsjzmpmpm46a0xv1yib4jnxxrrx3hnxrl4jd34wripbp"
+      }
+    ]
+  },
+  "Toggle show only tracks with receives in mixer.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0afa8aed09dc7f69b6788ec7a5774e837b34438d/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "158nyibyqknj68dr9v1gsim6x88mx61prd47510k3vwz79isn8w4"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "147jz027m23dxzn2h0apnvcib89dyc2knxi15d4nmc9v8g9bnrwi"
       }
     ]
   },
@@ -2581,36 +2627,6 @@
       }
     ]
   },
-  "Auto-hide silent tracks in TCP during playback.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "0ilb18k7313dcf600pfvm9gxmp1xvdb9579vmdhnjjbn5ygxzrak"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0243a542bd35cd5039b8d4cc5ffc7ee83fcce094/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "18xli8dhd4jc3qspadk97hipn1jid8cdal2g2qzfzfbifv9kbq5f"
-      }
-    ]
-  },
   "Auto-hide tracks in TCP that have no items in time selection.lua": {
     "latest": [
       {
@@ -2641,6 +2657,66 @@
       }
     ]
   },
+  "Toggle show only selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
+        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
+        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
+        "sha256": "14h5vs91dfrzjficgsprajpdipkmi5j7mc26w8a0khc2dr9mx3lz"
+      }
+    ]
+  },
+  "Auto-hide tracks in TCP that have no items in current measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "0hgy4xdzrrm1bfcnngjln84mxpx23165y9dbzaphkip75fm0xpq2"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/eaee85946c1e5fa48e358af2f24156ca5648d48f/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1izyf3zdzgz4yh9q5dscf76krcnljkhdzkrkxpy6lyphk9kak8zw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2d81990c06336f9be73a1d2027f6ba65c92db4ea/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1w2s92m1xn3293dwz0sv7l3vy1na72kxj5bj5y65kb8g3wc9wsmf"
+      }
+    ]
+  },
   "Auto-hide tracks that have no items in time selection.lua": {
     "latest": [
       {
@@ -2664,79 +2740,65 @@
       }
     ]
   },
-  "Toggle show only tracks with receives in mixer.lua": {
+  "Colorize unthemeable areas to match active theme.lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
+        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
       }
     ],
-    "1.0.2": [
+    "1.1.0": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0afa8aed09dc7f69b6788ec7a5774e837b34438d/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "158nyibyqknj68dr9v1gsim6x88mx61prd47510k3vwz79isn8w4"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
+        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "147jz027m23dxzn2h0apnvcib89dyc2knxi15d4nmc9v8g9bnrwi"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e057b6fba968b1644fa3661218784777267248d4/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
+        "sha256": "1lg8b24ba1dc9zq2flyjhqsdm3y6dy7mk2rm88l7q4wnm0rc331c"
       }
     ]
   },
-  "Auto-hide tracks that have no items in current measure.lua": {
+  "Set unthemeable area colors (override).lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
+        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1i4v2q4fwsjzmpmpm46a0xv1yib4jnxxrrx3hnxrl4jd34wripbp"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
+        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
       }
     ]
   },
-  "Auto-hide silent tracks during playback.lua": {
+  "Colorize active theme to match unthemeable areas.lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
-        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
+        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
-        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
+        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
-        "sha256": "1k7xz26vd2zw2xnri5p80xhlywh3zp4nqv2by5yh3xkl12irbf38"
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
+        "sha256": "1akmpncws8ggbd58wyk3r9ihp3bf669lb2f572p61znkiyadzzxb"
       }
     ]
   },
@@ -9214,6 +9276,134 @@
       }
     ]
   },
+  "FTC_MeMagic.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/54e43ab7cf0ee6568e3e13c2f6d217b266a7f0df/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1dasw3hxwxfr2mv9672l7cw1faamxnl5a7zfylrh6a02g2zy76k6"
+      }
+    ],
+    "1.3.4": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/54e43ab7cf0ee6568e3e13c2f6d217b266a7f0df/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1dasw3hxwxfr2mv9672l7cw1faamxnl5a7zfylrh6a02g2zy76k6"
+      }
+    ],
+    "1.3.3": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0a4125c79df1d735726d4ff182c357b11faebd97/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "02d5nly7g96xz9k8rqpfvmsbs9yvwpd1l82yxfzjyj44mg94dcbk"
+      }
+    ],
+    "1.3.2": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/37f5f4f75683e5a7c4f0404a2ac1a62b1cff3665/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1ggzqzx7d3p4rm7wcwv8r7zalfcbba50jf1ysbcypyp1g2zlzs3f"
+      }
+    ],
+    "1.3.1": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/f8d2c43ebfe097742ac68ae401c7a998d5c214d0/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "0rzijhma3g3m8g875bavpflv79rrg7znhsfr5yl2krlmnyy50bk1"
+      }
+    ],
+    "1.3.0": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c481e48468be3ad57b8613a4cd9a00bfc39e499e/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "0l2zvmna4vddprnyraw78208in3ylvbpxdfv4fnv4nlpi2a11s52"
+      }
+    ],
+    "1.2.0": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/4e9796b36cfb80fabc7b97cd5ffe17daf1b122d5/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1fjznh25vxlkhwh603zd2xnbb1zxsfppwr6b1vy4s9383s5mkbpw"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/99e6ee75c30f1990dc559d51207c74a8f44acda4/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1bsfi2qb8h703nfzr3djw5sn8vxynmkm62sasizn0f0yd55x5wl6"
+      }
+    ],
+    "1.0.9": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/27a12daf75775152d97b07af6aa9b8d5a94a8cd0/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "0ncp2lxxzqr9hkkznsh4fnyc7smyxjdcrxhrc16dsy2aql6ff3jq"
+      }
+    ],
+    "1.0.8": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e468b7a97bf190f53146999be04871414a823b60/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1xkw4gfmpmi1ym821a4hdcmy7lfpskzkh1fnbpix5f9nywy9cazb"
+      }
+    ],
+    "1.0.7": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa5006a9e9426b1f9ed35933a742902abe4b197c/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1hgzvifpaa2qj5ygmlrawyg210f97y7xvw65ncsb7370vb2d2l1p"
+      }
+    ],
+    "1.0.6": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e8bc43740f188b88bdb87634e7f492a90efbfa78/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1jfvq5n8m9ypzszws6v25gs4x4dglxlfgg1bq3f2rp28ham4xi9n"
+      }
+    ],
+    "1.0.5": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/9873b2adee8841dd5ffdcc194ebc1932a6984835/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1m2raqwz5wf5h4izrjhb81sx69s79gs49xgmgrz5fb3xxs4blyx9"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/ab85cf75cc22eec7a366c6466a2fd0cc292b140f/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "19rbn30piy2khadyrynndj4pbp4148sxl7smhj70qvr670fq20k9"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/90b941a877e6c61ae25cbac3dd89e5989ca39923/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "059477k8wq8s59zm6vwj750r4p2flm4xbc0rhz39qqxwxwkdymyf"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/071afa7619e732846a5df4bee1503212a975fbdc/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1xd2idbypcbzk465p1kggqmxv5h0pggvb875n3vcm16x7s066120"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e0adcd9d1352034d83ec5e5122731c5e4a2a7f36/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "1f9lia55r8qchy942qjmg7kcrvjx3d667mz087wf52dqicn4izl9"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/a31f60e095b97bc4ae89a45424ad0882bf34167e/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
+        "sha256": "0rhqacwnxj17v2r7s9dyycpx38k59nx86mxgzd69ykmi7msmw8yi"
+      }
+    ]
+  },
   "FTC_Multi edit scroll.lua": {
     "latest": [
       {
@@ -9498,134 +9688,6 @@
       }
     ]
   },
-  "FTC_MeMagic.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/54e43ab7cf0ee6568e3e13c2f6d217b266a7f0df/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1dasw3hxwxfr2mv9672l7cw1faamxnl5a7zfylrh6a02g2zy76k6"
-      }
-    ],
-    "1.3.4": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/54e43ab7cf0ee6568e3e13c2f6d217b266a7f0df/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1dasw3hxwxfr2mv9672l7cw1faamxnl5a7zfylrh6a02g2zy76k6"
-      }
-    ],
-    "1.3.3": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0a4125c79df1d735726d4ff182c357b11faebd97/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "02d5nly7g96xz9k8rqpfvmsbs9yvwpd1l82yxfzjyj44mg94dcbk"
-      }
-    ],
-    "1.3.2": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/37f5f4f75683e5a7c4f0404a2ac1a62b1cff3665/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1ggzqzx7d3p4rm7wcwv8r7zalfcbba50jf1ysbcypyp1g2zlzs3f"
-      }
-    ],
-    "1.3.1": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/f8d2c43ebfe097742ac68ae401c7a998d5c214d0/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "0rzijhma3g3m8g875bavpflv79rrg7znhsfr5yl2krlmnyy50bk1"
-      }
-    ],
-    "1.3.0": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c481e48468be3ad57b8613a4cd9a00bfc39e499e/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "0l2zvmna4vddprnyraw78208in3ylvbpxdfv4fnv4nlpi2a11s52"
-      }
-    ],
-    "1.2.0": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/4e9796b36cfb80fabc7b97cd5ffe17daf1b122d5/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1fjznh25vxlkhwh603zd2xnbb1zxsfppwr6b1vy4s9383s5mkbpw"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/99e6ee75c30f1990dc559d51207c74a8f44acda4/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1bsfi2qb8h703nfzr3djw5sn8vxynmkm62sasizn0f0yd55x5wl6"
-      }
-    ],
-    "1.0.9": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/27a12daf75775152d97b07af6aa9b8d5a94a8cd0/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "0ncp2lxxzqr9hkkznsh4fnyc7smyxjdcrxhrc16dsy2aql6ff3jq"
-      }
-    ],
-    "1.0.8": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e468b7a97bf190f53146999be04871414a823b60/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1xkw4gfmpmi1ym821a4hdcmy7lfpskzkh1fnbpix5f9nywy9cazb"
-      }
-    ],
-    "1.0.7": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa5006a9e9426b1f9ed35933a742902abe4b197c/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1hgzvifpaa2qj5ygmlrawyg210f97y7xvw65ncsb7370vb2d2l1p"
-      }
-    ],
-    "1.0.6": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e8bc43740f188b88bdb87634e7f492a90efbfa78/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1jfvq5n8m9ypzszws6v25gs4x4dglxlfgg1bq3f2rp28ham4xi9n"
-      }
-    ],
-    "1.0.5": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/9873b2adee8841dd5ffdcc194ebc1932a6984835/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1m2raqwz5wf5h4izrjhb81sx69s79gs49xgmgrz5fb3xxs4blyx9"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/ab85cf75cc22eec7a366c6466a2fd0cc292b140f/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "19rbn30piy2khadyrynndj4pbp4148sxl7smhj70qvr670fq20k9"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/90b941a877e6c61ae25cbac3dd89e5989ca39923/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "059477k8wq8s59zm6vwj750r4p2flm4xbc0rhz39qqxwxwkdymyf"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/071afa7619e732846a5df4bee1503212a975fbdc/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1xd2idbypcbzk465p1kggqmxv5h0pggvb875n3vcm16x7s066120"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e0adcd9d1352034d83ec5e5122731c5e4a2a7f36/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "1f9lia55r8qchy942qjmg7kcrvjx3d667mz087wf52dqicn4izl9"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/MIDI Editor Magic/FTC_MeMagic.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/a31f60e095b97bc4ae89a45424ad0882bf34167e/MIDI%20Editor%20Magic/FTC_MeMagic.lua",
-        "sha256": "0rhqacwnxj17v2r7s9dyycpx38k59nx86mxgzd69ykmi7msmw8yi"
-      }
-    ]
-  },
   "FTC_Record takes without new splits (extend items).lua": {
     "latest": [
       {
@@ -9728,33 +9790,33 @@
       }
     ]
   },
-  "FTC_Side Mixer.lua": {
+  "FTC_Split selected items and divide MIDI content.lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/844edc80fa8900f49a86e3db8b92cb8539885f53/Various/FTC_Side%20Mixer.lua",
-        "sha256": "0j74h6vb3yb0fhbhs8wz2k4iglrk9byvyym1j4n401mw6ir4fjdr"
+        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/607fd5dec3aa50af4538f3d00cf2ee25d49c3cd7/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
+        "sha256": "01cbnk71hf8lfpy14mp96x35vzpi7d5ah9ga9p2gkj4a3ymf3xlf"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/607fd5dec3aa50af4538f3d00cf2ee25d49c3cd7/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
+        "sha256": "01cbnk71hf8lfpy14mp96x35vzpi7d5ah9ga9p2gkj4a3ymf3xlf"
       }
     ],
     "1.0.2": [
       {
-        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/844edc80fa8900f49a86e3db8b92cb8539885f53/Various/FTC_Side%20Mixer.lua",
-        "sha256": "0j74h6vb3yb0fhbhs8wz2k4iglrk9byvyym1j4n401mw6ir4fjdr"
+        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2affbf74b516e9bdc2f2071c455510e389ad96c6/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
+        "sha256": "1rchl2096vdpf15x4c5syc29y2rvga94k7p16gli5q2nhhy690w4"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c06e44063caf47120447efe0aaa65c9a8cd9e519/Various/FTC_Side%20Mixer.lua",
-        "sha256": "00fjlwq6gzj0dvjgv5wxmlknbdfgmkgifmkmlsr6y24zwp9p291v"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6a6ed3a39801deb73221fefe75094fa5a2d3cbc4/Various/FTC_Side%20Mixer.lua",
-        "sha256": "0l2787y5ssb6hb1bdklrbs404j1r3h03yiwl6lf3v7amz81qf4ia"
+        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/1747a3a9cfe82003c5d1b2eba26e90a7ca58e654/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
+        "sha256": "08bigv5751g29pflwp6wgkp8sp6jd3rlcrk5m1xz68klbgdhrhw9"
       }
     ]
   },
@@ -10131,36 +10193,6 @@
       }
     ]
   },
-  "FTC_Split selected items and divide MIDI content.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/607fd5dec3aa50af4538f3d00cf2ee25d49c3cd7/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
-        "sha256": "01cbnk71hf8lfpy14mp96x35vzpi7d5ah9ga9p2gkj4a3ymf3xlf"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/607fd5dec3aa50af4538f3d00cf2ee25d49c3cd7/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
-        "sha256": "01cbnk71hf8lfpy14mp96x35vzpi7d5ah9ga9p2gkj4a3ymf3xlf"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2affbf74b516e9bdc2f2071c455510e389ad96c6/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
-        "sha256": "1rchl2096vdpf15x4c5syc29y2rvga94k7p16gli5q2nhhy690w4"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Various/FTC_Split selected items and divide MIDI content.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/1747a3a9cfe82003c5d1b2eba26e90a7ca58e654/Various/FTC_Split%20selected%20items%20and%20divide%20MIDI%20content.lua",
-        "sha256": "08bigv5751g29pflwp6wgkp8sp6jd3rlcrk5m1xz68klbgdhrhw9"
-      }
-    ]
-  },
   "Drag & drop lanes.lua": {
     "latest": [
       {
@@ -10237,35 +10269,33 @@
       }
     ]
   },
-  "Keep only one floating fx open at the same position, exclude master track.lua": {
+  "FTC_Side Mixer.lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
-        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
+        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/844edc80fa8900f49a86e3db8b92cb8539885f53/Various/FTC_Side%20Mixer.lua",
+        "sha256": "0j74h6vb3yb0fhbhs8wz2k4iglrk9byvyym1j4n401mw6ir4fjdr"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/844edc80fa8900f49a86e3db8b92cb8539885f53/Various/FTC_Side%20Mixer.lua",
+        "sha256": "0j74h6vb3yb0fhbhs8wz2k4iglrk9byvyym1j4n401mw6ir4fjdr"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c06e44063caf47120447efe0aaa65c9a8cd9e519/Various/FTC_Side%20Mixer.lua",
+        "sha256": "00fjlwq6gzj0dvjgv5wxmlknbdfgmkgifmkmlsr6y24zwp9p291v"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
-        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
-      }
-    ]
-  },
-  "Keep only one floating fx open and centered in screen, exclude master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
-        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
-        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
+        "path": "Scripts/FTC Tools/Various/FTC_Side Mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6a6ed3a39801deb73221fefe75094fa5a2d3cbc4/Various/FTC_Side%20Mixer.lua",
+        "sha256": "0l2787y5ssb6hb1bdklrbs404j1r3h03yiwl6lf3v7amz81qf4ia"
       }
     ]
   },
@@ -10319,6 +10349,38 @@
         "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
         "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/77cfa6934990505a31e5dbcb4c84b587e84933d0/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
         "sha256": "1kzsxz72mbi9hqgq0s0jxx17scmx0cw27vabip7wmn58hmi89hm1"
+      }
+    ]
+  },
+  "Keep only one floating fx open and centered in screen, exclude master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
+        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
+        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
+      }
+    ]
+  },
+  "Keep only one floating fx open at the same position, exclude master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
+        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
+        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
       }
     ]
   },
@@ -11072,6 +11134,205 @@
       }
     ]
   },
+  "Move razor edit up by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
+      }
+    ]
+  },
+  "Resize razor edit up by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "0cvshpv5l8prwkz2f3yyshsqx5cw80skc1rgz1zf8nv87fzrnwna"
+      }
+    ]
+  },
+  "Resize razor edit right by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
+      }
+    ]
+  },
+  "Resize razor edit right by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
+      }
+    ]
+  },
+  "Move razor edit left by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
+      }
+    ]
+  },
+  "Resize razor edit left by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
+      }
+    ]
+  },
+  "Resize razor edit left by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
+      }
+    ]
+  },
+  "Move razor edit left by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
+      }
+    ]
+  },
+  "Move razor edit right by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
+      }
+    ]
+  },
+  "Resize razor edit down by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
+      }
+    ]
+  },
+  "Move razor edit right by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
+      }
+    ]
+  },
+  "Move razor edit down by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
+      }
+    ]
+  },
   "Nymphes Control Freak.jsfx": {
     "latest": [
       {
@@ -11099,267 +11360,6 @@
         "path": "Effects/FTC Tools/JSFX/Nymphes Control Freak.jsfx",
         "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/d2a686f700a41a6a516ec2dca557d5cd2d5bb919/JSFX/Nymphes%20Control%20Freak.jsfx",
         "sha256": "0hqvwh0hkk42p66mghkmzk8ynzln82ycvx6wmgn1qqc1r4gs5x7g"
-      }
-    ]
-  },
-  "Resize razor edit right by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
-      }
-    ]
-  },
-  "Move razor edit up by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
-      }
-    ]
-  },
-  "Move razor edit right by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
-      }
-    ]
-  },
-  "Resize razor edit down by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
-      }
-    ]
-  },
-  "Move razor edit left by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
-      }
-    ]
-  },
-  "Move razor edit right by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
-      }
-    ]
-  },
-  "Resize razor edit left by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
-      }
-    ]
-  },
-  "Resize razor edit up by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "0cvshpv5l8prwkz2f3yyshsqx5cw80skc1rgz1zf8nv87fzrnwna"
-      }
-    ]
-  },
-  "Resize razor edit left by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
-      }
-    ]
-  },
-  "Move razor edit down by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
-      }
-    ]
-  },
-  "Resize razor edit right by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
-      }
-    ]
-  },
-  "Move razor edit left by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
-      }
-    ]
-  },
-  "Set unthemeable area colors (override).lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
-        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
-        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
-      }
-    ]
-  },
-  "Colorize unthemeable areas to match active theme.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
-        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
-        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e057b6fba968b1644fa3661218784777267248d4/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
-        "sha256": "1lg8b24ba1dc9zq2flyjhqsdm3y6dy7mk2rm88l7q4wnm0rc331c"
-      }
-    ]
-  },
-  "Colorize active theme to match unthemeable areas.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
-        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
-        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
-        "sha256": "1akmpncws8ggbd58wyk3r9ihp3bf669lb2f572p61znkiyadzzxb"
       }
     ]
   },
@@ -11410,108 +11410,6 @@
         "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
         "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20settings.lua",
         "sha256": "0vv82fwjqp8zzxqziyjq8m2gzlzhwc01l0fqgx07mfwcvy8xy0m8"
-      }
-    ]
-  },
-  "Toggle show left docker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
-      }
-    ],
-    "1.5.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
-      }
-    ],
-    "1.4.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5031f603296472e4f2836aa3ecafc10b3b19a07e/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "0bn2gbgy06s071qpgzd96b10rznvdc9rj168ynrs9gr6whr8mq6i"
-      }
-    ],
-    "1.3.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b9fda079377113ed6f4639b5ab31087ca97d0493/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "1r1ayxl47sk5cvp2ngzjxsjfx47d7r8h8yiwnr7n9kbphbkh8m7h"
-      }
-    ],
-    "1.2.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/69d2b1b4b42747d9d61ff440a7654f7d40ec66b2/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "1h8lrfh5pq8j4idqq2fhq33xr5011csjazhc1njixhahxp9i1xdc"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2523d21922eda889c9151e657b7207b96ad08594/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "106l0npjnw56ja0hp65k9hs4mhz8rpyz61rqwcsslg0vi8kkka45"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa6595bbc8be9b4b1b9906200ad6d11e0724f833/Dockers/Toggle%20show%20left%20docker.lua",
-        "sha256": "01109p07i3dg32vllzzzydq8pj1ym8akhb8lk7sm8xnb9y0xjnjh"
-      }
-    ]
-  },
-  "Toggle show right docker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
-      }
-    ],
-    "1.5.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
-      }
-    ],
-    "1.4.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5031f603296472e4f2836aa3ecafc10b3b19a07e/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "0bn2gbgy06s071qpgzd96b10rznvdc9rj168ynrs9gr6whr8mq6i"
-      }
-    ],
-    "1.3.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b9fda079377113ed6f4639b5ab31087ca97d0493/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "1r1ayxl47sk5cvp2ngzjxsjfx47d7r8h8yiwnr7n9kbphbkh8m7h"
-      }
-    ],
-    "1.2.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/69d2b1b4b42747d9d61ff440a7654f7d40ec66b2/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "1h8lrfh5pq8j4idqq2fhq33xr5011csjazhc1njixhahxp9i1xdc"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2523d21922eda889c9151e657b7207b96ad08594/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "106l0npjnw56ja0hp65k9hs4mhz8rpyz61rqwcsslg0vi8kkka45"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa6595bbc8be9b4b1b9906200ad6d11e0724f833/Dockers/Toggle%20show%20right%20docker.lua",
-        "sha256": "01109p07i3dg32vllzzzydq8pj1ym8akhb8lk7sm8xnb9y0xjnjh"
       }
     ]
   },
@@ -11613,6 +11511,108 @@
       {
         "path": "Scripts/FTC Tools/Dockers/Toggle show bottom docker.lua",
         "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa6595bbc8be9b4b1b9906200ad6d11e0724f833/Dockers/Toggle%20show%20bottom%20docker.lua",
+        "sha256": "01109p07i3dg32vllzzzydq8pj1ym8akhb8lk7sm8xnb9y0xjnjh"
+      }
+    ]
+  },
+  "Toggle show left docker.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
+      }
+    ],
+    "1.5.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
+      }
+    ],
+    "1.4.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5031f603296472e4f2836aa3ecafc10b3b19a07e/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "0bn2gbgy06s071qpgzd96b10rznvdc9rj168ynrs9gr6whr8mq6i"
+      }
+    ],
+    "1.3.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b9fda079377113ed6f4639b5ab31087ca97d0493/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "1r1ayxl47sk5cvp2ngzjxsjfx47d7r8h8yiwnr7n9kbphbkh8m7h"
+      }
+    ],
+    "1.2.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/69d2b1b4b42747d9d61ff440a7654f7d40ec66b2/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "1h8lrfh5pq8j4idqq2fhq33xr5011csjazhc1njixhahxp9i1xdc"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2523d21922eda889c9151e657b7207b96ad08594/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "106l0npjnw56ja0hp65k9hs4mhz8rpyz61rqwcsslg0vi8kkka45"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show left docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa6595bbc8be9b4b1b9906200ad6d11e0724f833/Dockers/Toggle%20show%20left%20docker.lua",
+        "sha256": "01109p07i3dg32vllzzzydq8pj1ym8akhb8lk7sm8xnb9y0xjnjh"
+      }
+    ]
+  },
+  "Toggle show right docker.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20right%20docker.lua",
+        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
+      }
+    ],
+    "1.5.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/19840d2354ae2fe98e1fef5da8c6807b870506d1/Dockers/Toggle%20show%20right%20docker.lua",
+        "sha256": "0qlb3bdx574gzf1ywvhii5d91v2bywrmcpgwazaj24mdfp4y5ik0"
+      }
+    ],
+    "1.4.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5031f603296472e4f2836aa3ecafc10b3b19a07e/Dockers/Toggle%20show%20right%20docker.lua",
+        "sha256": "0bn2gbgy06s071qpgzd96b10rznvdc9rj168ynrs9gr6whr8mq6i"
+      }
+    ],
+    "1.3.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b9fda079377113ed6f4639b5ab31087ca97d0493/Dockers/Toggle%20show%20right%20docker.lua",
+        "sha256": "1r1ayxl47sk5cvp2ngzjxsjfx47d7r8h8yiwnr7n9kbphbkh8m7h"
+      }
+    ],
+    "1.2.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/69d2b1b4b42747d9d61ff440a7654f7d40ec66b2/Dockers/Toggle%20show%20right%20docker.lua",
+        "sha256": "1h8lrfh5pq8j4idqq2fhq33xr5011csjazhc1njixhahxp9i1xdc"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2523d21922eda889c9151e657b7207b96ad08594/Dockers/Toggle%20show%20right%20docker.lua",
+        "sha256": "106l0npjnw56ja0hp65k9hs4mhz8rpyz61rqwcsslg0vi8kkka45"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Dockers/Toggle show right docker.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/aa6595bbc8be9b4b1b9906200ad6d11e0724f833/Dockers/Toggle%20show%20right%20docker.lua",
         "sha256": "01109p07i3dg32vllzzzydq8pj1ym8akhb8lk7sm8xnb9y0xjnjh"
       }
     ]

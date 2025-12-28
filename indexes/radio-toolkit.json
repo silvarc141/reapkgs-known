@@ -1,41 +1,4 @@
 {
-  "tomtjes_Add marker at end of adjacent items (across tracks).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
-        "sha256": "1gypifs4dkbgmab0v8b48nx5dcrj4ad2friy6rrddimdl10qggc4"
-      }
-    ],
-    "1.6 2024-07-07": [
-      {
-        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
-        "sha256": "1gypifs4dkbgmab0v8b48nx5dcrj4ad2friy6rrddimdl10qggc4"
-      }
-    ],
-    "1.6-pre1 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8c1825bc1ea34227af121d297ba3961e1a39d09f/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
-        "sha256": "1cas21slwy8ahm38byj60mv78ah55h40gjkaxd8r87k74w54149x"
-      }
-    ],
-    "1.1 2024-07-04": [
-      {
-        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b1ca6dc9c2b4db0fc776597b2389bff68a1e6fdc/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
-        "sha256": "1g0cmg76vwdc8bscpika6v9a8w8mqvcm9ywh9vfwlws7k9vkdw9v"
-      }
-    ],
-    "1.0 2024-06-21": [
-      {
-        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
-        "sha256": "0vd18q4n8mchv7wffkyrj7iaavh5h9i9vybcmqxi6vpz3naj0i14"
-      }
-    ]
-  },
   "tomtjes_Add marker at beginning of adjacent items (across tracks).lua": {
     "latest": [
       {
@@ -135,65 +98,40 @@
       }
     ]
   },
-  "tomtjes_Create regions from adjacent items on same track.lua": {
+  "tomtjes_Add marker at end of adjacent items (across tracks).lua": {
     "latest": [
       {
-        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
-        "sha256": "0mbb1w9jmwkgjly00j2viizda3wacdv9sgnrb9gs5ml8ww2fd46v"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
+        "sha256": "1gypifs4dkbgmab0v8b48nx5dcrj4ad2friy6rrddimdl10qggc4"
       }
     ],
-    "1.1 2024-07-07": [
+    "1.6 2024-07-07": [
       {
-        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
-        "sha256": "0mbb1w9jmwkgjly00j2viizda3wacdv9sgnrb9gs5ml8ww2fd46v"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
+        "sha256": "1gypifs4dkbgmab0v8b48nx5dcrj4ad2friy6rrddimdl10qggc4"
       }
     ],
-    "1.1-pre2 2024-07-06": [
+    "1.6-pre1 2024-07-06": [
       {
-        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/a2bacb763eebaded58ad837c6ffabf80d8c7a5d1/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
-        "sha256": "00h6gssp682w006s0ya95ilqay3m14k7lpgicpqpjcalqmr4hkka"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/a2bacb763eebaded58ad837c6ffabf80d8c7a5d1/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8c1825bc1ea34227af121d297ba3961e1a39d09f/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
+        "sha256": "1cas21slwy8ahm38byj60mv78ah55h40gjkaxd8r87k74w54149x"
       }
     ],
-    "1.1-pre1 2024-07-06": [
+    "1.1 2024-07-04": [
       {
-        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8c1825bc1ea34227af121d297ba3961e1a39d09f/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
-        "sha256": "07cwisx1d66ic71x73yarxpib6izd7ln3hc927s8qghpjhdp4ny6"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8c1825bc1ea34227af121d297ba3961e1a39d09f/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b1ca6dc9c2b4db0fc776597b2389bff68a1e6fdc/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
+        "sha256": "1g0cmg76vwdc8bscpika6v9a8w8mqvcm9ywh9vfwlws7k9vkdw9v"
       }
     ],
-    "1.0.2 2022-01-28": [
+    "1.0 2024-06-21": [
       {
-        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
-        "sha256": "1v6h0jmqxwhmaxbp75f4spgmclwhzq8iglw4k1xm72w5l70kxw6x"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
-        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+        "path": "Scripts/Radio Toolkit/Markers/tomtjes_Add marker at end of adjacent items (across tracks).lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Markers/tomtjes_Add%20marker%20at%20end%20of%20adjacent%20items%20(across%20tracks).lua",
+        "sha256": "0vd18q4n8mchv7wffkyrj7iaavh5h9i9vybcmqxi6vpz3naj0i14"
       }
     ]
   },
@@ -268,6 +206,68 @@
         "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_across_tracks.png",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/dd6c2e7dfb6b1533bca05018d5e2c8e8183ca558/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_across_tracks.png",
         "sha256": "1kpc402a8ckxx64v3i9bl3bh830h4awsk0j5ppjfwqvl85c72007"
+      }
+    ]
+  },
+  "tomtjes_Create regions from adjacent items on same track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
+        "sha256": "0mbb1w9jmwkgjly00j2viizda3wacdv9sgnrb9gs5ml8ww2fd46v"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+      }
+    ],
+    "1.1 2024-07-07": [
+      {
+        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
+        "sha256": "0mbb1w9jmwkgjly00j2viizda3wacdv9sgnrb9gs5ml8ww2fd46v"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/92f7c687e65408be6e621b138eb4887b2750d892/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+      }
+    ],
+    "1.1-pre2 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/a2bacb763eebaded58ad837c6ffabf80d8c7a5d1/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
+        "sha256": "00h6gssp682w006s0ya95ilqay3m14k7lpgicpqpjcalqmr4hkka"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/a2bacb763eebaded58ad837c6ffabf80d8c7a5d1/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+      }
+    ],
+    "1.1-pre1 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8c1825bc1ea34227af121d297ba3961e1a39d09f/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
+        "sha256": "07cwisx1d66ic71x73yarxpib6izd7ln3hc927s8qghpjhdp4ny6"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8c1825bc1ea34227af121d297ba3961e1a39d09f/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
+      }
+    ],
+    "1.0.2 2022-01-28": [
+      {
+        "path": "Scripts/Radio Toolkit/Regions/tomtjes_Create regions from adjacent items on same track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Regions/tomtjes_Create%20regions%20from%20adjacent%20items%20on%20same%20track.lua",
+        "sha256": "1v6h0jmqxwhmaxbp75f4spgmclwhzq8iglw4k1xm72w5l70kxw6x"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Regions/toolbar_icons/tomtjes_toolbar_region_adjacent_items_same_track.png",
+        "sha256": "15sh3f2y1g1yyji58v20jxgbsp2c97k5gs9j34ckg2d2p02fwxn9"
       }
     ]
   },
@@ -389,6 +389,38 @@
       }
     ]
   },
+  "tomtjes_Split item on track according to info items on other track, copy notes to take names.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
+        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
+      }
+    ],
+    "0.1 2016-09-19": [
+      {
+        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
+        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
+      }
+    ]
+  },
+  "tomtjes_Glue adjacent items on track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Items/tomtjes_Glue adjacent items on track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Items/tomtjes_Glue%20adjacent%20items%20on%20track.lua",
+        "sha256": "1ng0r674jxy919fads49jbzs2hxsqhsfn2d2v8lcp1d1cwvil03n"
+      }
+    ],
+    "1.0 2020-09-11": [
+      {
+        "path": "Scripts/Radio Toolkit/Items/tomtjes_Glue adjacent items on track.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Items/tomtjes_Glue%20adjacent%20items%20on%20track.lua",
+        "sha256": "1ng0r674jxy919fads49jbzs2hxsqhsfn2d2v8lcp1d1cwvil03n"
+      }
+    ]
+  },
   "tomtjes_Extend end of adjacent items (across tracks).lua": {
     "latest": [
       {
@@ -423,38 +455,6 @@
         "path": "Scripts/Radio Toolkit/Items/tomtjes_Extend end of adjacent items (across tracks).lua",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Items/tomtjes_Extend%20end%20of%20adjacent%20items%20(across%20tracks).lua",
         "sha256": "1s3a8z7yyc3lwcalpakcg8apzwyrs1ppkzv5cwdqk1xh475d94gi"
-      }
-    ]
-  },
-  "tomtjes_Split item on track according to info items on other track, copy notes to take names.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
-        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
-      }
-    ],
-    "0.1 2016-09-19": [
-      {
-        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
-        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
-      }
-    ]
-  },
-  "tomtjes_Glue adjacent items on track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Items/tomtjes_Glue adjacent items on track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Items/tomtjes_Glue%20adjacent%20items%20on%20track.lua",
-        "sha256": "1ng0r674jxy919fads49jbzs2hxsqhsfn2d2v8lcp1d1cwvil03n"
-      }
-    ],
-    "1.0 2020-09-11": [
-      {
-        "path": "Scripts/Radio Toolkit/Items/tomtjes_Glue adjacent items on track.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Items/tomtjes_Glue%20adjacent%20items%20on%20track.lua",
-        "sha256": "1ng0r674jxy919fads49jbzs2hxsqhsfn2d2v8lcp1d1cwvil03n"
       }
     ]
   },
@@ -495,22 +495,6 @@
       }
     ]
   },
-  "tomtjes_Set inpoint = outpoint if inpoint = 0.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Time Selection/tomtjes_Set inpoint = outpoint if inpoint = 0.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b45465e74117ad22538c79dd1945794f4403a8c/Time%20Selection/tomtjes_Set%20inpoint%20=%20outpoint%20if%20inpoint%20=%200.lua",
-        "sha256": "14bfji7snb3k0cxqk3wi8qxq20b9p4vfv1j3mxrc03v60j87d7xx"
-      }
-    ],
-    "1.0 2017-03-14": [
-      {
-        "path": "Scripts/Radio Toolkit/Time Selection/tomtjes_Set inpoint = outpoint if inpoint = 0.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b45465e74117ad22538c79dd1945794f4403a8c/Time%20Selection/tomtjes_Set%20inpoint%20=%20outpoint%20if%20inpoint%20=%200.lua",
-        "sha256": "14bfji7snb3k0cxqk3wi8qxq20b9p4vfv1j3mxrc03v60j87d7xx"
-      }
-    ]
-  },
   "tomtjes_Set inpoint = beginning of item if inpoint = 0.lua": {
     "latest": [
       {
@@ -524,6 +508,22 @@
         "path": "Scripts/Radio Toolkit/Time Selection/tomtjes_Set inpoint = beginning of item if inpoint = 0.lua",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b45465e74117ad22538c79dd1945794f4403a8c/Time%20Selection/tomtjes_Set%20inpoint%20=%20beginning%20of%20item%20if%20inpoint%20=%200.lua",
         "sha256": "0jx167n7j58xrifi3rp2rr7q5ylamlrac1dwr85asqfpnyw7336j"
+      }
+    ]
+  },
+  "tomtjes_Set inpoint = outpoint if inpoint = 0.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Time Selection/tomtjes_Set inpoint = outpoint if inpoint = 0.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b45465e74117ad22538c79dd1945794f4403a8c/Time%20Selection/tomtjes_Set%20inpoint%20=%20outpoint%20if%20inpoint%20=%200.lua",
+        "sha256": "14bfji7snb3k0cxqk3wi8qxq20b9p4vfv1j3mxrc03v60j87d7xx"
+      }
+    ],
+    "1.0 2017-03-14": [
+      {
+        "path": "Scripts/Radio Toolkit/Time Selection/tomtjes_Set inpoint = outpoint if inpoint = 0.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b45465e74117ad22538c79dd1945794f4403a8c/Time%20Selection/tomtjes_Set%20inpoint%20=%20outpoint%20if%20inpoint%20=%200.lua",
+        "sha256": "14bfji7snb3k0cxqk3wi8qxq20b9p4vfv1j3mxrc03v60j87d7xx"
       }
     ]
   },
@@ -804,22 +804,6 @@
       }
     ]
   },
-  "tomtjes_Show Project Length.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
-        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
-      }
-    ],
-    "1.0 2023-12-20": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
-        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
-      }
-    ]
-  },
   "tomtjes_Calculate total length of items on selected tracks.lua": {
     "latest": [
       {
@@ -833,6 +817,22 @@
         "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Calculate total length of items on selected tracks.lua",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Calculate%20total%20length%20of%20items%20on%20selected%20tracks.lua",
         "sha256": "0bhpkgip9vkrsyg92c8ifqz7wdsn65lhs2qcww1ind0mbp14xdlm"
+      }
+    ]
+  },
+  "tomtjes_Show Project Length.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
+        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
+      }
+    ],
+    "1.0 2023-12-20": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
+        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
       }
     ]
   },

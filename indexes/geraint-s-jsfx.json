@@ -604,6 +604,167 @@
       }
     ]
   },
+  "MIDI Harmony": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
+        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
+      }
+    ],
+    "1.0.5": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
+        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1qc1fid01145sd08sz7famh3zdl6chj8w1v2qz95mbm3l9vmr0gx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/piano-ui.jsfx-inc",
+        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1vd7zr3cq5ij2a039sdgd7375akqbrgfybwi12q5ipmizc2ly4v6"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ]
+  },
   "Droplets": {
     "latest": [
       {
@@ -1031,167 +1192,6 @@
         "path": "Effects/Geraint's JSFX/MIDI/Droplets/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Droplets/1.0.0/Droplets/ui-lib.jsfx-inc",
         "sha256": "1wzf03i77phlg27ns1azkijlb2v0xlaxgclg3n2szl3la49rmsg8"
-      }
-    ]
-  },
-  "MIDI Harmony": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
-        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
-      }
-    ],
-    "1.0.5": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
-        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1qc1fid01145sd08sz7famh3zdl6chj8w1v2qz95mbm3l9vmr0gx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/piano-ui.jsfx-inc",
-        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1vd7zr3cq5ij2a039sdgd7375akqbrgfybwi12q5ipmizc2ly4v6"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ]
   },
@@ -4462,6 +4462,131 @@
       }
     ]
   },
+  "Smooth Limiter": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0nmm1znfyb4ri9wpf9g9dzfa784hyfwfb346s49dqrb7b015xyq0"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0zkxqdjqk67xrarv6b35497a3m2abghv2ijl56fqjghc9rzfdcsv"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "02s0419306m3g9xww3sbdkv1bmjmiy8bc27mifvc423bmfmxlw61"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "1ws97jm8szkb2hm8p90fa5m5w0raf3bw138k9npp1gsj8z6q1g14"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0d5hvhzfdwzn43s00yvw68bjczjdbxfih8b7c25ni2r223sq4bnx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
+      }
+    ]
+  },
   "Panalysis": {
     "latest": [
       {
@@ -4694,59 +4819,6 @@
       }
     ]
   },
-  "Vocoder": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
-        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
-        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/Vocoder.jsfx",
-        "sha256": "195vbqav777jqanbafs4bmslds2snalcmyim2xwgdfpizcs4ndbx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ]
-  },
   "Level Meter": {
     "latest": [
       {
@@ -4800,128 +4872,56 @@
       }
     ]
   },
-  "Smooth Limiter": {
+  "Vocoder": {
     "latest": [
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
+        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
       },
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
       },
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0nmm1znfyb4ri9wpf9g9dzfa784hyfwfb346s49dqrb7b015xyq0"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0zkxqdjqk67xrarv6b35497a3m2abghv2ijl56fqjghc9rzfdcsv"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "02s0419306m3g9xww3sbdkv1bmjmiy8bc27mifvc423bmfmxlw61"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
       }
     ],
     "1.0.1": [
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "1ws97jm8szkb2hm8p90fa5m5w0raf3bw138k9npp1gsj8z6q1g14"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
+        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
       },
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
       }
     ],
     "1.0.0": [
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0d5hvhzfdwzn43s00yvw68bjczjdbxfih8b7c25ni2r223sq4bnx"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/Vocoder.jsfx",
+        "sha256": "195vbqav777jqanbafs4bmslds2snalcmyim2xwgdfpizcs4ndbx"
       },
       {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
       }
     ]
   },
