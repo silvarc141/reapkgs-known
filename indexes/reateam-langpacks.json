@@ -466,22 +466,6 @@
       }
     ]
   },
-  "SpanishLA.ReaperLangPack": {
-    "latest": [
-      {
-        "path": "LangPack/SpanishLA.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
-        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
-      }
-    ],
-    "6.45": [
-      {
-        "path": "LangPack/SpanishLA.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
-        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
-      }
-    ]
-  },
   "MIDI Editor actions (active take only) vs (all editable).ReaperLangPack": {
     "latest": [
       {
@@ -495,6 +479,22 @@
         "path": "LangPack/MIDI Editor actions (active take only) vs (all editable).ReaperLangPack",
         "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/MIDI%20Editor%20actions%20(active%20take%20only)%20vs%20(all%20editable).ReaperLangPack",
         "sha256": "1qr02122hrr3ipxys5s1232rzpzxxhf1z3p8f7l0y6fpq32z60v0"
+      }
+    ]
+  },
+  "SpanishLA.ReaperLangPack": {
+    "latest": [
+      {
+        "path": "LangPack/SpanishLA.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
+        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
+      }
+    ],
+    "6.45": [
+      {
+        "path": "LangPack/SpanishLA.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
+        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
       }
     ]
   }

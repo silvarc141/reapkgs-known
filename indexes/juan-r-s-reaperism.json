@@ -1,4 +1,59 @@
 {
+  "MIDI-Fret-and-pick.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
+        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
+        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+      }
+    ]
+  },
+  "NOP-instrument.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
+        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
+        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
+      }
+    ]
+  },
+  "MIDI-round-robin-midi_channelize.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "sha256": "00lirp64p9hhyk4synjk2rcw8fwx8qbxx5qjf152c68y6n8b73iv"
+      }
+    ]
+  },
   "MIDI-floating-split.jsfx": {
     "latest": [
       {
@@ -29,54 +84,6 @@
       }
     ]
   },
-  "MIDI-mirror-invert-keyboard.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
-      }
-    ]
-  },
-  "NOP-instrument.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
-        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
-        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
-      }
-    ]
-  },
-  "MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
-      }
-    ]
-  },
   "MIDI-round-robin-midi_transpose.jsfx": {
     "latest": [
       {
@@ -100,42 +107,111 @@
       }
     ]
   },
-  "MIDI-Fret-and-pick.jsfx": {
+  "MIDI-mirror-invert-keyboard.jsfx": {
     "latest": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
-        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
       }
     ],
-    "1.04": [
+    "1.01": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
-        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
       }
     ]
   },
-  "MIDI-round-robin-midi_channelize.jsfx": {
+  "MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx": {
     "latest": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
       }
     ],
     "1.03": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
+      }
+    ]
+  },
+  "juan_r - Toggle horizontal zoom.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
+        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
       }
     ],
-    "1.02": [
+    "1.0": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "sha256": "00lirp64p9hhyk4synjk2rcw8fwx8qbxx5qjf152c68y6n8b73iv"
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
+        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
+      }
+    ]
+  },
+  "juan_r - Set time selection to region at PLAY cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/cc6c40cb9c96eb6c3358c2ae581481ae1612ad1f/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
+        "sha256": "1b1ghww94r199mrxj4jy6s4ybm3vx1v066aivbdh68nmiwjndlj5"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/cc6c40cb9c96eb6c3358c2ae581481ae1612ad1f/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
+        "sha256": "1b1ghww94r199mrxj4jy6s4ybm3vx1v066aivbdh68nmiwjndlj5"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/63c5d35cdc29e852a3930fa93bccc80bea659991/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
+        "sha256": "1z49sg00rirkbha7aca11v3mpp2sf1d145fwp4xjq85wxfzx4yrh"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/dcf6a17c33b87d1d9cb34d8759337e96e950a6e3/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
+        "sha256": "01066nxz2vf6n1w3ki922p3wsj37kmh4n4dby0kfyc0ydgkz1360"
+      }
+    ]
+  },
+  "juan_r - Set region at PLAY cursor to time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/3b2637a46e8000bd20bf10a4b338f37798152e62/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
+        "sha256": "0hbhckyjf1zmimrigw79bkdfk4wkzmvdz1vjc0b4v8hp689fyx5s"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/3b2637a46e8000bd20bf10a4b338f37798152e62/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
+        "sha256": "0hbhckyjf1zmimrigw79bkdfk4wkzmvdz1vjc0b4v8hp689fyx5s"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/70fca2b66f3b5549a75a943908ff482bb9d88518/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
+        "sha256": "0ya6b7a2b609gns74ixb6xvqxqaxbg3k2kx2llkij8d050bk7yax"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/2f7d261af306439437de482b3f590290215765d6/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
+        "sha256": "0g0iwy29ryrjagsjdmk7h8j7inigzvw5pvl7b1h5fgl05hhizdp1"
       }
     ]
   },
@@ -173,82 +249,6 @@
         "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
         "url": "https://github.com/juanriccio/Reaperism/raw/b128fcd57c046ff90f10a3f2aea6a782e9e2cb67/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
         "sha256": "068zd7h6zl4ii2a70b649r1h407fim6cd4c2njc48nvmz4dvd1ky"
-      }
-    ]
-  },
-  "juan_r - Set region at PLAY cursor to time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/3b2637a46e8000bd20bf10a4b338f37798152e62/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
-        "sha256": "0hbhckyjf1zmimrigw79bkdfk4wkzmvdz1vjc0b4v8hp689fyx5s"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/3b2637a46e8000bd20bf10a4b338f37798152e62/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
-        "sha256": "0hbhckyjf1zmimrigw79bkdfk4wkzmvdz1vjc0b4v8hp689fyx5s"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/70fca2b66f3b5549a75a943908ff482bb9d88518/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
-        "sha256": "0ya6b7a2b609gns74ixb6xvqxqaxbg3k2kx2llkij8d050bk7yax"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/2f7d261af306439437de482b3f590290215765d6/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
-        "sha256": "0g0iwy29ryrjagsjdmk7h8j7inigzvw5pvl7b1h5fgl05hhizdp1"
-      }
-    ]
-  },
-  "juan_r - Set time selection to region at PLAY cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/cc6c40cb9c96eb6c3358c2ae581481ae1612ad1f/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
-        "sha256": "1b1ghww94r199mrxj4jy6s4ybm3vx1v066aivbdh68nmiwjndlj5"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/cc6c40cb9c96eb6c3358c2ae581481ae1612ad1f/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
-        "sha256": "1b1ghww94r199mrxj4jy6s4ybm3vx1v066aivbdh68nmiwjndlj5"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/63c5d35cdc29e852a3930fa93bccc80bea659991/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
-        "sha256": "1z49sg00rirkbha7aca11v3mpp2sf1d145fwp4xjq85wxfzx4yrh"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set time selection to region at PLAY cursor.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/dcf6a17c33b87d1d9cb34d8759337e96e950a6e3/ReaScripts/juan_r%20-%20Set%20time%20selection%20to%20region%20at%20PLAY%20cursor.lua",
-        "sha256": "01066nxz2vf6n1w3ki922p3wsj37kmh4n4dby0kfyc0ydgkz1360"
-      }
-    ]
-  },
-  "juan_r - Toggle horizontal zoom.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
-        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
-        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
       }
     ]
   }

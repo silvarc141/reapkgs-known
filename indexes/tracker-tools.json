@@ -188,53 +188,6 @@
         "sha256": "1k7r454bjmmmpj7ga7iz3nz14fiw52dscn2vc0j8k5md16nbq6z8"
       }
     ],
-    "3.33": [
-      {
-        "path": "Scripts/Tracker tools/Tracker/Hackey Trackey Channel Cycler.jsfx",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/Hackey%20Trackey%20Channel%20Cycler.jsfx",
-        "sha256": "0rkfh4mfv0win05fpp99sigfjsj2c8vh71yr77jyqilzfw6rawrr"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/Hackey_MIDI_Detector.jsfx",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/Hackey_MIDI_Detector.jsfx",
-        "sha256": "1k5a5pa2cn3h62zyp3ryqx3gw03yrk2acxv5s8r9zcw77sy7f5bc"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/Hackey_Sample_Playback.jsfx",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/Hackey_Sample_Playback.jsfx",
-        "sha256": "0mgx4qzckql03lyr2zqfg73265kv9aa660cd84kdl6p97sd0r0as"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/hackey_trackey_load_sample.lua",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/hackey_trackey_load_sample.lua",
-        "sha256": "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/hackey_trackey_tracker.lua",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/hackey_trackey_tracker.lua",
-        "sha256": "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/htp_midi.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/htp_midi.jsfx-inc",
-        "sha256": "1m63jg69p22hh1a1gkcs3dc8i4dg1zzwrwxn0v8fsr069naqaxvy"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/htp_sample_editor.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/htp_sample_editor.jsfx-inc",
-        "sha256": "1s7s1k3haajdy4rgnd8fvc9yznkn4sw1lm6cd24s1v9vziq168aq"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/scales.lua",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/scales.lua",
-        "sha256": "1lz4fayajiwrylsslsw375wgbyrljihwx22vpqw1ca6k8iz49lbl"
-      },
-      {
-        "path": "Scripts/Tracker tools/Tracker/tracker.lua",
-        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/tracker.lua",
-        "sha256": "03hpks8zwwwgjpivgwxd7n56cyfhrpyis4lgmwq77cjnca2c2p5c"
-      }
-    ],
     "3.32": [
       {
         "path": "Scripts/Tracker tools/Tracker/Hackey Trackey Channel Cycler.jsfx",
@@ -280,6 +233,53 @@
         "path": "Scripts/Tracker tools/Tracker/tracker.lua",
         "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/a76a44f8cceacefd091595511b70f0a145d5387d/Tracker/tracker.lua",
         "sha256": "0yqs41az7xaqgirdlw5q7jn0dbw66z0dby70s7inkvqs569p8vc4"
+      }
+    ],
+    "3.33": [
+      {
+        "path": "Scripts/Tracker tools/Tracker/Hackey Trackey Channel Cycler.jsfx",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/Hackey%20Trackey%20Channel%20Cycler.jsfx",
+        "sha256": "0rkfh4mfv0win05fpp99sigfjsj2c8vh71yr77jyqilzfw6rawrr"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/Hackey_MIDI_Detector.jsfx",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/Hackey_MIDI_Detector.jsfx",
+        "sha256": "1k5a5pa2cn3h62zyp3ryqx3gw03yrk2acxv5s8r9zcw77sy7f5bc"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/Hackey_Sample_Playback.jsfx",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/Hackey_Sample_Playback.jsfx",
+        "sha256": "0mgx4qzckql03lyr2zqfg73265kv9aa660cd84kdl6p97sd0r0as"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/hackey_trackey_load_sample.lua",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/hackey_trackey_load_sample.lua",
+        "sha256": "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/hackey_trackey_tracker.lua",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/hackey_trackey_tracker.lua",
+        "sha256": "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/htp_midi.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/htp_midi.jsfx-inc",
+        "sha256": "1m63jg69p22hh1a1gkcs3dc8i4dg1zzwrwxn0v8fsr069naqaxvy"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/htp_sample_editor.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/htp_sample_editor.jsfx-inc",
+        "sha256": "1s7s1k3haajdy4rgnd8fvc9yznkn4sw1lm6cd24s1v9vziq168aq"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/scales.lua",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/scales.lua",
+        "sha256": "1lz4fayajiwrylsslsw375wgbyrljihwx22vpqw1ca6k8iz49lbl"
+      },
+      {
+        "path": "Scripts/Tracker tools/Tracker/tracker.lua",
+        "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/71671c40d77e9b1e5357494bd070615155611355/Tracker/tracker.lua",
+        "sha256": "03hpks8zwwwgjpivgwxd7n56cyfhrpyis4lgmwq77cjnca2c2p5c"
       }
     ],
     "3.31": [

@@ -604,167 +604,6 @@
       }
     ]
   },
-  "MIDI Harmony": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
-        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
-      }
-    ],
-    "1.0.5": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
-        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1qc1fid01145sd08sz7famh3zdl6chj8w1v2qz95mbm3l9vmr0gx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/piano-ui.jsfx-inc",
-        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
-        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/MIDI%20Harmony.jsfx",
-        "sha256": "1vd7zr3cq5ij2a039sdgd7375akqbrgfybwi12q5ipmizc2ly4v6"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ]
-  },
   "Droplets": {
     "latest": [
       {
@@ -1192,6 +1031,167 @@
         "path": "Effects/Geraint's JSFX/MIDI/Droplets/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Droplets/1.0.0/Droplets/ui-lib.jsfx-inc",
         "sha256": "1wzf03i77phlg27ns1azkijlb2v0xlaxgclg3n2szl3la49rmsg8"
+      }
+    ]
+  },
+  "MIDI Harmony": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
+        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
+      }
+    ],
+    "1.0.5": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "0id7g2piv8d3hqi2m1ydlz4js9m8qfnibdx0rpfpmrrhag8l25bx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/piano-ui.jsfx-inc",
+        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.5/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1qc1fid01145sd08sz7famh3zdl6chj8w1v2qz95mbm3l9vmr0gx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/piano-ui.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/piano-ui.jsfx-inc",
+        "sha256": "0rs20rwkly6anappxykm27am684sgm1pza7s5r7bsgh2x24swvi1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0rsyid1fdqpnkw5k5lvs67nhpdirxvb87bs4sanxc4w7vzcyh43k"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.4/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "04y1r8hvc633kmcy016c6s0lpj1y7yjqy20jhbx9q05jkkm3ypg2"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.3/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/MIDI%20Harmony.jsfx.rpl",
+        "sha256": "038z7hy74i1k6h55zpxcyfhpx1dm9gbl4kywxwxplmlznq8mmk90"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.2/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1164fv1xwn0rywvl693wj83skjwdwzj2a5dxljk7bba10cizl5gi"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.1/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/MIDI Harmony.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/MIDI%20Harmony.jsfx",
+        "sha256": "1vd7zr3cq5ij2a039sdgd7375akqbrgfybwi12q5ipmizc2ly4v6"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/MIDI/MIDI-Harmony/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/MIDI-Harmony/1.0.0/MIDI-Harmony/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ]
   },
@@ -1658,140 +1658,6 @@
       {
         "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ]
-  },
-  "Hammer And String": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ]
@@ -4148,6 +4014,140 @@
       }
     ]
   },
+  "Hammer And String": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ]
+  },
   "Spectrum Matcher": {
     "latest": [
       {
@@ -4819,59 +4819,6 @@
       }
     ]
   },
-  "Level Meter": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/Level Meter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/Level%20Meter.jsfx",
-        "sha256": "138rx8ymiyjsw624vi8k7zklrvqckj5pm45wvk0n1q5p9gjzqcry"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/filter-utils.jsfx-inc",
-        "sha256": "0rf80kar631z8xnpngs4hxhi29jzsr5d13znsvyv9l2zdj3b4bl3"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "0.1.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/Level Meter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/Level%20Meter.jsfx",
-        "sha256": "138rx8ymiyjsw624vi8k7zklrvqckj5pm45wvk0n1q5p9gjzqcry"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/filter-utils.jsfx-inc",
-        "sha256": "0rf80kar631z8xnpngs4hxhi29jzsr5d13znsvyv9l2zdj3b4bl3"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "0.1.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/Level Meter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.0/Level-Meter/Level%20Meter.jsfx",
-        "sha256": "0hwbpivv2wq5gr6jfsj52g65sq8j1jgvy03n840spqcqi92x3hdz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.0/Level-Meter/filter-utils.jsfx-inc",
-        "sha256": "0rf80kar631z8xnpngs4hxhi29jzsr5d13znsvyv9l2zdj3b4bl3"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.0/Level-Meter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ]
-  },
   "Vocoder": {
     "latest": [
       {
@@ -4922,6 +4869,59 @@
         "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
         "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
         "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ]
+  },
+  "Level Meter": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/Level Meter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/Level%20Meter.jsfx",
+        "sha256": "138rx8ymiyjsw624vi8k7zklrvqckj5pm45wvk0n1q5p9gjzqcry"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/filter-utils.jsfx-inc",
+        "sha256": "0rf80kar631z8xnpngs4hxhi29jzsr5d13znsvyv9l2zdj3b4bl3"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "0.1.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/Level Meter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/Level%20Meter.jsfx",
+        "sha256": "138rx8ymiyjsw624vi8k7zklrvqckj5pm45wvk0n1q5p9gjzqcry"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/filter-utils.jsfx-inc",
+        "sha256": "0rf80kar631z8xnpngs4hxhi29jzsr5d13znsvyv9l2zdj3b4bl3"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.1/Level-Meter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "0.1.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/Level Meter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.0/Level-Meter/Level%20Meter.jsfx",
+        "sha256": "0hwbpivv2wq5gr6jfsj52g65sq8j1jgvy03n840spqcqi92x3hdz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.0/Level-Meter/filter-utils.jsfx-inc",
+        "sha256": "0rf80kar631z8xnpngs4hxhi29jzsr5d13znsvyv9l2zdj3b4bl3"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Level-Meter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Level-Meter/0.1.0/Level-Meter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
       }
     ]
   },

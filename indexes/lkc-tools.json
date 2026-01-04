@@ -63,135 +63,6 @@
       }
     ]
   },
-  "LKC - 1 frame fadein to all selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadein to all selected items.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadein%20to%20all%20selected%20items.lua",
-        "sha256": "0vxmxw8nzij4y1yhzd0f04c2y2101pfibagn7ijrlm3bqj6n3fgn"
-      },
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadeout to all selected items.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadeout%20to%20all%20selected%20items.lua",
-        "sha256": "1l0z7dmsf193n16w60s6yy37zgijjfgb25bnmwrng3k5l0i6d52y"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadein to all selected items.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadein%20to%20all%20selected%20items.lua",
-        "sha256": "0vxmxw8nzij4y1yhzd0f04c2y2101pfibagn7ijrlm3bqj6n3fgn"
-      },
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadeout to all selected items.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadeout%20to%20all%20selected%20items.lua",
-        "sha256": "1l0z7dmsf193n16w60s6yy37zgijjfgb25bnmwrng3k5l0i6d52y"
-      }
-    ]
-  },
-  "LKC - Move items vertically - obey time selection (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically - obey time selection (mousewheel).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/a4e9c0739c61557b4af733a0080d81be5787f920/Misc/LKC%20-%20Move%20items%20vertically%20-%20obey%20time%20selection%20(mousewheel).lua",
-        "sha256": "1klmmxr1h01d5jfzwmac6lfz18zi2s43599pgd1704h0scgf4800"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically - obey time selection (mousewheel).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/a4e9c0739c61557b4af733a0080d81be5787f920/Misc/LKC%20-%20Move%20items%20vertically%20-%20obey%20time%20selection%20(mousewheel).lua",
-        "sha256": "1klmmxr1h01d5jfzwmac6lfz18zi2s43599pgd1704h0scgf4800"
-      }
-    ]
-  },
-  "LKC - Move items vertically (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically (mousewheel).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/d75b33e85b1dfd3a0264c5b9350483d6066e255e/Misc/LKC%20-%20Move%20items%20vertically%20(mousewheel).lua",
-        "sha256": "1qkhx0h5ydmjprak0iwbwvmy9xwqp1zachknf9ypszpq9vjnjj7n"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically (mousewheel).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/d75b33e85b1dfd3a0264c5b9350483d6066e255e/Misc/LKC%20-%20Move%20items%20vertically%20(mousewheel).lua",
-        "sha256": "1qkhx0h5ydmjprak0iwbwvmy9xwqp1zachknf9ypszpq9vjnjj7n"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically (mousewheel).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/fc9e0217f8b83026fd8e6f8411f198aebea5a1ed/Misc/LKC%20-%20Move%20items%20vertically%20(mousewheel).lua",
-        "sha256": "0cp367mv22l013mryzwxrribw9c04w1d99ab56xkcb3qmxj0zg6d"
-      }
-    ]
-  },
-  "LKC - Declutter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Declutter.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/2adba5cbdeab56cc107a8926aff83ef807113b8d/Misc/LKC%20-%20Declutter.lua",
-        "sha256": "1gvxwljyrz6x966qmqijkxi97xbzpxw2zj1r2xiyydgrqp5jypnv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Declutter.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/2adba5cbdeab56cc107a8926aff83ef807113b8d/Misc/LKC%20-%20Declutter.lua",
-        "sha256": "1gvxwljyrz6x966qmqijkxi97xbzpxw2zj1r2xiyydgrqp5jypnv"
-      }
-    ]
-  },
-  "LKC - Toggle Move Mode.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Toggle Move Mode.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/7431a4613346657d9e1b3fb78b46d565373a0be1/Misc/LKC%20-%20Toggle%20Move%20Mode.lua",
-        "sha256": "0rjs0sjsdxhz5c38yn2b81whdik390nnfbgpm1s0alvhb0b1sqs2"
-      }
-    ],
-    "1.10": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Toggle Move Mode.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/7431a4613346657d9e1b3fb78b46d565373a0be1/Misc/LKC%20-%20Toggle%20Move%20Mode.lua",
-        "sha256": "0rjs0sjsdxhz5c38yn2b81whdik390nnfbgpm1s0alvhb0b1sqs2"
-      }
-    ]
-  },
-  "LKC - Mousewheel gain.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/60779b9f94e144311a32363c6b881112e3b84a0e/Misc/LKC%20-%20Mousewheel%20gain.lua",
-        "sha256": "0s6viv935d3f1cjr0bxqg3bj5syq07v23pwa46xjrppjmdwvk51x"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/60779b9f94e144311a32363c6b881112e3b84a0e/Misc/LKC%20-%20Mousewheel%20gain.lua",
-        "sha256": "0s6viv935d3f1cjr0bxqg3bj5syq07v23pwa46xjrppjmdwvk51x"
-      }
-    ]
-  },
-  "LKC - Create marker at edit cursor position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Create marker at edit cursor position.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/adf0c71ef76b8390b2b6e07cda850d4401fad681/Misc/LKC%20-%20Create%20marker%20at%20edit%20cursor%20position.lua",
-        "sha256": "1cznqnind71b30c3l28cka9qil60q9zc1f7zhs72sg5lxqrb0bjz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Misc/LKC - Create marker at edit cursor position.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/adf0c71ef76b8390b2b6e07cda850d4401fad681/Misc/LKC%20-%20Create%20marker%20at%20edit%20cursor%20position.lua",
-        "sha256": "1cznqnind71b30c3l28cka9qil60q9zc1f7zhs72sg5lxqrb0bjz"
-      }
-    ]
-  },
   "LKC - Count MIDI notes in project.lua": {
     "latest": [
       {
@@ -208,19 +79,19 @@
       }
     ]
   },
-  "LKC - Align selected items to markers inside time selection.lua": {
+  "LKC - Move items vertically - obey time selection (mousewheel).lua": {
     "latest": [
       {
-        "path": "Scripts/LKC Tools/Misc/LKC - Align selected items to markers inside time selection.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/4655361ff46c34bc2046d69c9564c9bf748eaeef/Misc/LKC%20-%20Align%20selected%20items%20to%20markers%20inside%20time%20selection.lua",
-        "sha256": "0wn9jnf4ybppfa6qigdfhnb1w6ki1818ikchxjq13ifgrznch83i"
+        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically - obey time selection (mousewheel).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/a4e9c0739c61557b4af733a0080d81be5787f920/Misc/LKC%20-%20Move%20items%20vertically%20-%20obey%20time%20selection%20(mousewheel).lua",
+        "sha256": "1klmmxr1h01d5jfzwmac6lfz18zi2s43599pgd1704h0scgf4800"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/LKC Tools/Misc/LKC - Align selected items to markers inside time selection.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/4655361ff46c34bc2046d69c9564c9bf748eaeef/Misc/LKC%20-%20Align%20selected%20items%20to%20markers%20inside%20time%20selection.lua",
-        "sha256": "0wn9jnf4ybppfa6qigdfhnb1w6ki1818ikchxjq13ifgrznch83i"
+        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically - obey time selection (mousewheel).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/a4e9c0739c61557b4af733a0080d81be5787f920/Misc/LKC%20-%20Move%20items%20vertically%20-%20obey%20time%20selection%20(mousewheel).lua",
+        "sha256": "1klmmxr1h01d5jfzwmac6lfz18zi2s43599pgd1704h0scgf4800"
       }
     ]
   },
@@ -247,19 +118,116 @@
       }
     ]
   },
-  "LKC - Pro Paste.lua": {
+  "LKC - Create marker at edit cursor position.lua": {
     "latest": [
       {
-        "path": "Scripts/LKC Tools/Misc/LKC - Pro Paste.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/cedf9323bcf269985fd0e02b80202422b5127919/Misc/LKC%20-%20Pro%20Paste.lua",
-        "sha256": "02kcmn6wsnkrvhzhh8h6q3dyfd3g0zr4wa6l6h4hmgavym5pj46h"
+        "path": "Scripts/LKC Tools/Misc/LKC - Create marker at edit cursor position.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/adf0c71ef76b8390b2b6e07cda850d4401fad681/Misc/LKC%20-%20Create%20marker%20at%20edit%20cursor%20position.lua",
+        "sha256": "1cznqnind71b30c3l28cka9qil60q9zc1f7zhs72sg5lxqrb0bjz"
       }
     ],
-    "1.6": [
+    "1.0": [
       {
-        "path": "Scripts/LKC Tools/Misc/LKC - Pro Paste.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/cedf9323bcf269985fd0e02b80202422b5127919/Misc/LKC%20-%20Pro%20Paste.lua",
-        "sha256": "02kcmn6wsnkrvhzhh8h6q3dyfd3g0zr4wa6l6h4hmgavym5pj46h"
+        "path": "Scripts/LKC Tools/Misc/LKC - Create marker at edit cursor position.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/adf0c71ef76b8390b2b6e07cda850d4401fad681/Misc/LKC%20-%20Create%20marker%20at%20edit%20cursor%20position.lua",
+        "sha256": "1cznqnind71b30c3l28cka9qil60q9zc1f7zhs72sg5lxqrb0bjz"
+      }
+    ]
+  },
+  "LKC - Mousewheel gain 0.5db.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain 0.5db.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/804579ffee290c1578ee2f6e75f786c5cb5f268b/Misc/LKC%20-%20Mousewheel%20gain%200.5db.lua",
+        "sha256": "1y52g28frbkma1qhpaxlgmdi8by326j4vrsm1pkhrhznpycdhxpd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain 0.5db.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/804579ffee290c1578ee2f6e75f786c5cb5f268b/Misc/LKC%20-%20Mousewheel%20gain%200.5db.lua",
+        "sha256": "1y52g28frbkma1qhpaxlgmdi8by326j4vrsm1pkhrhznpycdhxpd"
+      }
+    ]
+  },
+  "LKC - Move items vertically (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically (mousewheel).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/d75b33e85b1dfd3a0264c5b9350483d6066e255e/Misc/LKC%20-%20Move%20items%20vertically%20(mousewheel).lua",
+        "sha256": "1qkhx0h5ydmjprak0iwbwvmy9xwqp1zachknf9ypszpq9vjnjj7n"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically (mousewheel).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/d75b33e85b1dfd3a0264c5b9350483d6066e255e/Misc/LKC%20-%20Move%20items%20vertically%20(mousewheel).lua",
+        "sha256": "1qkhx0h5ydmjprak0iwbwvmy9xwqp1zachknf9ypszpq9vjnjj7n"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Move items vertically (mousewheel).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/fc9e0217f8b83026fd8e6f8411f198aebea5a1ed/Misc/LKC%20-%20Move%20items%20vertically%20(mousewheel).lua",
+        "sha256": "0cp367mv22l013mryzwxrribw9c04w1d99ab56xkcb3qmxj0zg6d"
+      }
+    ]
+  },
+  "LKC - 1 frame fadein to all selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadein to all selected items.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadein%20to%20all%20selected%20items.lua",
+        "sha256": "0vxmxw8nzij4y1yhzd0f04c2y2101pfibagn7ijrlm3bqj6n3fgn"
+      },
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadeout to all selected items.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadeout%20to%20all%20selected%20items.lua",
+        "sha256": "1l0z7dmsf193n16w60s6yy37zgijjfgb25bnmwrng3k5l0i6d52y"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadein to all selected items.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadein%20to%20all%20selected%20items.lua",
+        "sha256": "0vxmxw8nzij4y1yhzd0f04c2y2101pfibagn7ijrlm3bqj6n3fgn"
+      },
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - 1 frame fadeout to all selected items.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/e0536594d367b824bd76a81e950b0bc1bc78d07a/Misc/LKC%20-%201%20frame%20fadeout%20to%20all%20selected%20items.lua",
+        "sha256": "1l0z7dmsf193n16w60s6yy37zgijjfgb25bnmwrng3k5l0i6d52y"
+      }
+    ]
+  },
+  "LKC - Align selected items to markers inside time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Align selected items to markers inside time selection.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/4655361ff46c34bc2046d69c9564c9bf748eaeef/Misc/LKC%20-%20Align%20selected%20items%20to%20markers%20inside%20time%20selection.lua",
+        "sha256": "0wn9jnf4ybppfa6qigdfhnb1w6ki1818ikchxjq13ifgrznch83i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Align selected items to markers inside time selection.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/4655361ff46c34bc2046d69c9564c9bf748eaeef/Misc/LKC%20-%20Align%20selected%20items%20to%20markers%20inside%20time%20selection.lua",
+        "sha256": "0wn9jnf4ybppfa6qigdfhnb1w6ki1818ikchxjq13ifgrznch83i"
+      }
+    ]
+  },
+  "LKC - Mousewheel gain.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/60779b9f94e144311a32363c6b881112e3b84a0e/Misc/LKC%20-%20Mousewheel%20gain.lua",
+        "sha256": "0s6viv935d3f1cjr0bxqg3bj5syq07v23pwa46xjrppjmdwvk51x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/60779b9f94e144311a32363c6b881112e3b84a0e/Misc/LKC%20-%20Mousewheel%20gain.lua",
+        "sha256": "0s6viv935d3f1cjr0bxqg3bj5syq07v23pwa46xjrppjmdwvk51x"
       }
     ]
   },
@@ -279,19 +247,51 @@
       }
     ]
   },
-  "LKC - Mousewheel gain 0.5db.lua": {
+  "LKC - Toggle Move Mode.lua": {
     "latest": [
       {
-        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain 0.5db.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/804579ffee290c1578ee2f6e75f786c5cb5f268b/Misc/LKC%20-%20Mousewheel%20gain%200.5db.lua",
-        "sha256": "1y52g28frbkma1qhpaxlgmdi8by326j4vrsm1pkhrhznpycdhxpd"
+        "path": "Scripts/LKC Tools/Misc/LKC - Toggle Move Mode.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/7431a4613346657d9e1b3fb78b46d565373a0be1/Misc/LKC%20-%20Toggle%20Move%20Mode.lua",
+        "sha256": "0rjs0sjsdxhz5c38yn2b81whdik390nnfbgpm1s0alvhb0b1sqs2"
+      }
+    ],
+    "1.10": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Toggle Move Mode.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/7431a4613346657d9e1b3fb78b46d565373a0be1/Misc/LKC%20-%20Toggle%20Move%20Mode.lua",
+        "sha256": "0rjs0sjsdxhz5c38yn2b81whdik390nnfbgpm1s0alvhb0b1sqs2"
+      }
+    ]
+  },
+  "LKC - Pro Paste.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Pro Paste.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/cedf9323bcf269985fd0e02b80202422b5127919/Misc/LKC%20-%20Pro%20Paste.lua",
+        "sha256": "02kcmn6wsnkrvhzhh8h6q3dyfd3g0zr4wa6l6h4hmgavym5pj46h"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Pro Paste.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/cedf9323bcf269985fd0e02b80202422b5127919/Misc/LKC%20-%20Pro%20Paste.lua",
+        "sha256": "02kcmn6wsnkrvhzhh8h6q3dyfd3g0zr4wa6l6h4hmgavym5pj46h"
+      }
+    ]
+  },
+  "LKC - Declutter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Misc/LKC - Declutter.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/2adba5cbdeab56cc107a8926aff83ef807113b8d/Misc/LKC%20-%20Declutter.lua",
+        "sha256": "1gvxwljyrz6x966qmqijkxi97xbzpxw2zj1r2xiyydgrqp5jypnv"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/LKC Tools/Misc/LKC - Mousewheel gain 0.5db.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/804579ffee290c1578ee2f6e75f786c5cb5f268b/Misc/LKC%20-%20Mousewheel%20gain%200.5db.lua",
-        "sha256": "1y52g28frbkma1qhpaxlgmdi8by326j4vrsm1pkhrhznpycdhxpd"
+        "path": "Scripts/LKC Tools/Misc/LKC - Declutter.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/2adba5cbdeab56cc107a8926aff83ef807113b8d/Misc/LKC%20-%20Declutter.lua",
+        "sha256": "1gvxwljyrz6x966qmqijkxi97xbzpxw2zj1r2xiyydgrqp5jypnv"
       }
     ]
   },
