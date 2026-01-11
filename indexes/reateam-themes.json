@@ -1,20 +1,4 @@
 {
-  "cfillion_Default v4.0 + width.theme": {
-    "latest": [
-      {
-        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
-        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
-        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
-      }
-    ]
-  },
   "Pet_Default_v5_Dark_Extended.theme": {
     "latest": [
       {
@@ -35,6 +19,45 @@
         "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
         "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
         "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
+      }
+    ]
+  },
+  "cfillion_Default v4.0 + width.theme": {
+    "latest": [
+      {
+        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
+        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
+        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
+      }
+    ]
+  },
+  "Pet_Default_v5_Dark.theme": {
+    "latest": [
+      {
+        "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
+        "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
+        "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
+        "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
       }
     ]
   },
@@ -59,14 +82,14 @@
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0l4y5vb6lhc5i98qcsnxf2qk7kc7k9679j92d5nam6zha0yajra7"
+        "sha256": "191a9vsv869zkg204dyxqanlkaf0prdcpwpih86f87iri618fzg7"
       }
     ],
     "15.01": [
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0l4y5vb6lhc5i98qcsnxf2qk7kc7k9679j92d5nam6zha0yajra7"
+        "sha256": "191a9vsv869zkg204dyxqanlkaf0prdcpwpih86f87iri618fzg7"
       }
     ],
     "15": [
@@ -74,29 +97,6 @@
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip",
         "sha256": "1py8d83zpflr35r50vhz2bvhbgx7fbcgysgklmgdizfhksrk71md"
-      }
-    ]
-  },
-  "Pet_Default_v5_Dark.theme": {
-    "latest": [
-      {
-        "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
-        "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
-        "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
-        "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
       }
     ]
   }

@@ -1,24 +1,17 @@
 {
-  "X-Raym_Makey Makey MIDI Notes Map.jsfx": {
+  "X-Raym_Makey Makey MIDI Notes Channel.jsfx": {
     "latest": [
       {
-        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Map.jsfx",
-        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/d900041b0375f068be69b5a67debb44ccb1c017d/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx",
-        "sha256": "1f7iny29smjp3pzdfdahzfvwmnr3vkm2lk0h1xwh81c3n43in0ds"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Map.jsfx",
-        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/d900041b0375f068be69b5a67debb44ccb1c017d/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx",
-        "sha256": "1f7iny29smjp3pzdfdahzfvwmnr3vkm2lk0h1xwh81c3n43in0ds"
+        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Channel.jsfx",
+        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Channel.jsfx",
+        "sha256": "0m66zq2941q5r5chlbximmjkp0mjccxqdkvx0b6p0s4vjmmz5dfc"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Map.jsfx",
-        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx",
-        "sha256": "01r8qg13an67a94lspnimvl73pfqpqifp2njl90q5r0l68lq73h3"
+        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Channel.jsfx",
+        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Channel.jsfx",
+        "sha256": "0m66zq2941q5r5chlbximmjkp0mjccxqdkvx0b6p0s4vjmmz5dfc"
       }
     ]
   },
@@ -45,22 +38,6 @@
       }
     ]
   },
-  "X-Raym_Makey Makey MIDI Notes Channel.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Channel.jsfx",
-        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Channel.jsfx",
-        "sha256": "0m66zq2941q5r5chlbximmjkp0mjccxqdkvx0b6p0s4vjmmz5dfc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Channel.jsfx",
-        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Channel.jsfx",
-        "sha256": "0m66zq2941q5r5chlbximmjkp0mjccxqdkvx0b6p0s4vjmmz5dfc"
-      }
-    ]
-  },
   "X-Raym_Makey Makey MIDI Notes Monitor.jsfx": {
     "latest": [
       {
@@ -74,6 +51,29 @@
         "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Monitor.jsfx",
         "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Monitor.jsfx",
         "sha256": "04f8zrwfhbzjdh1fhipyl297n40ch1vryipar0a4xfndm925n68d"
+      }
+    ]
+  },
+  "X-Raym_Makey Makey MIDI Notes Map.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Map.jsfx",
+        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/d900041b0375f068be69b5a67debb44ccb1c017d/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx",
+        "sha256": "1f7iny29smjp3pzdfdahzfvwmnr3vkm2lk0h1xwh81c3n43in0ds"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Map.jsfx",
+        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/d900041b0375f068be69b5a67debb44ccb1c017d/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx",
+        "sha256": "1f7iny29smjp3pzdfdahzfvwmnr3vkm2lk0h1xwh81c3n43in0ds"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym MIDI Makey Makey/JSFX/X-Raym_Makey Makey MIDI Notes Map.jsfx",
+        "url": "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx",
+        "sha256": "01r8qg13an67a94lspnimvl73pfqpqifp2njl90q5r0l68lq73h3"
       }
     ]
   }

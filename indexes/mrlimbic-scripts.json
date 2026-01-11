@@ -15,38 +15,6 @@
       }
     ]
   },
-  "4-ch sidechain compressor.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
-        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
-        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
-      }
-    ]
-  },
-  "4-ch limiter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
-      }
-    ]
-  },
   "4-ch 4-band joiner.jsfx": {
     "latest": [
       {
@@ -60,50 +28,6 @@
         "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band joiner.jsfx",
         "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20joiner.jsfx",
         "sha256": "19xd246ylgc8jc67shfl6c8by6raliiw86khl0b14426svza9x4p"
-      }
-    ]
-  },
-  "mrlimbic_LCR_mono_panner.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/104ea3f22b1d7e19b9bec866367202c5a23f8b38/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "sha256": "05zwqpy1lgh6ji45z5dx4x352vzswvva415b0a9l180z70drc8ah"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/104ea3f22b1d7e19b9bec866367202c5a23f8b38/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "sha256": "05zwqpy1lgh6ji45z5dx4x352vzswvva415b0a9l180z70drc8ah"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/1b6ae7601814beaa94d54ec02c75898d7c2caacc/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "sha256": "12svy8nqrn35rj6j3z08azrk74bh4pry1wpm6vxrpr66q2aa3x63"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/c0248ffaf0492354910164c7ed4ab4e38aed7a0b/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "sha256": "01qxwnv07crl08g4cjaf662jcdnrzyi0lnkgrkpy9vd9cp9q9irw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/f02a9b6cc7f1c81674468df6af5343279901a678/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "sha256": "1m6jb04yqyk3fb8vkjd6sksi5lw5knakhn3zv2fz9z2kap3yamcx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/1cbbec75568d8824f871345aa46b341aad6ae507/JSFX/mrlimbic_LCR_mono_panner.jsfx",
-        "sha256": "10zaq77cinlnbv2kzqp5l8j739vpm9qmffbv69l22bbq3xkjkbay"
       }
     ]
   },
@@ -151,6 +75,50 @@
       }
     ]
   },
+  "mrlimbic_LCR_mono_panner.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/104ea3f22b1d7e19b9bec866367202c5a23f8b38/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "sha256": "05zwqpy1lgh6ji45z5dx4x352vzswvva415b0a9l180z70drc8ah"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/104ea3f22b1d7e19b9bec866367202c5a23f8b38/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "sha256": "05zwqpy1lgh6ji45z5dx4x352vzswvva415b0a9l180z70drc8ah"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/1b6ae7601814beaa94d54ec02c75898d7c2caacc/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "sha256": "12svy8nqrn35rj6j3z08azrk74bh4pry1wpm6vxrpr66q2aa3x63"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/c0248ffaf0492354910164c7ed4ab4e38aed7a0b/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "sha256": "01qxwnv07crl08g4cjaf662jcdnrzyi0lnkgrkpy9vd9cp9q9irw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/f02a9b6cc7f1c81674468df6af5343279901a678/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "sha256": "1m6jb04yqyk3fb8vkjd6sksi5lw5knakhn3zv2fz9z2kap3yamcx"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/1cbbec75568d8824f871345aa46b341aad6ae507/JSFX/mrlimbic_LCR_mono_panner.jsfx",
+        "sha256": "10zaq77cinlnbv2kzqp5l8j739vpm9qmffbv69l22bbq3xkjkbay"
+      }
+    ]
+  },
   "4-ch 4-band splitter.jsfx": {
     "latest": [
       {
@@ -180,6 +148,38 @@
         "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
         "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
         "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ]
+  },
+  "4-ch limiter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+      }
+    ]
+  },
+  "4-ch sidechain compressor.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
+        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
+        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
       }
     ]
   },
@@ -270,6 +270,22 @@
       }
     ]
   },
+  "mrlimbic_export video items on selected track(s) as EDL(s).lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
+        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
+        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
+      }
+    ]
+  },
   "mrlimbic_ffprobe scene detect.lua": {
     "latest": [
       {
@@ -290,22 +306,6 @@
         "path": "Scripts/mrlimbic scripts/Video/mrlimbic_ffprobe scene detect.lua",
         "url": "https://github.com/mrlimbic/reascripts/raw/4500dfc131080b29d4ceb1d4bd5c8edcd8c67ffd/Video/mrlimbic_ffprobe%20scene%20detect.lua",
         "sha256": "1ix10sppv5j1ra2r6x29d1f569ypc74mzgyw2454qf5zwyhs7rjp"
-      }
-    ]
-  },
-  "mrlimbic_export video items on selected track(s) as EDL(s).lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
-        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
-        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
       }
     ]
   },

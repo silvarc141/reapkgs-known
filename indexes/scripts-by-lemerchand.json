@@ -766,36 +766,6 @@
       }
     ]
   },
-  "SERA - Make Pattern Clip Unique.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "1d97pa8a5pd26aak7zg32l2fdvx355p99ibmyz4hphgf7bsmzvkg"
-      }
-    ],
-    "0.5.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "04x8if6x8hhrkrmqfplb5frpwkpasrnw0pb360h7q1x98vzi53sg"
-      }
-    ]
-  },
   "SERA - Toggle Pattern Clip.lua": {
     "latest": [
       {
@@ -833,33 +803,33 @@
       }
     ]
   },
-  "SERA - Create Pattern Clip.lua": {
+  "SERA - Make Pattern Clip Unique.lua": {
     "latest": [
       {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
       }
     ],
     "0.5.2": [
       {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "1d97pa8a5pd26aak7zg32l2fdvx355p99ibmyz4hphgf7bsmzvkg"
       }
     ],
     "0.5.1": [
       {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "1qzqbmyyxpfg6dp2rzfdkdlm3xynrlgxi4a69l9c3nq0x5nxp68a"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "07n40yb528zs3wvbhq8lrnmvh3dax3i8z56zgmrgdb6r87wakk2i"
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "04x8if6x8hhrkrmqfplb5frpwkpasrnw0pb360h7q1x98vzi53sg"
       }
     ]
   },
@@ -890,6 +860,36 @@
         "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
         "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Draw%20Tool.lua",
         "sha256": "0181mdp7kj28hgdap8w0vzv1jdna8q40hm64n0bzhnd5yivp6j6q"
+      }
+    ]
+  },
+  "SERA - Create Pattern Clip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+      }
+    ],
+    "0.5.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "1qzqbmyyxpfg6dp2rzfdkdlm3xynrlgxi4a69l9c3nq0x5nxp68a"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "07n40yb528zs3wvbhq8lrnmvh3dax3i8z56zgmrgdb6r87wakk2i"
       }
     ]
   },

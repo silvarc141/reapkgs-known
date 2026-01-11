@@ -1067,6 +1067,22 @@
       }
     ]
   },
+  "Rename FX Instance.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
+        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
+        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
+      }
+    ]
+  },
   "Open floating \"Recent Projects\" menu at mouse position.lua": {
     "latest": [
       {
@@ -1101,22 +1117,6 @@
         "path": "Scripts/Souk21 ReaPack/Scripts/Open floating \"Recent Projects\" menu at mouse position.lua",
         "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/01dd6b84c436a406ef06e499c1da50844e476b60/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
         "sha256": "0rhpmmscvk6w9m477mzxdm48mvmk4a7xpaz0xvzd32388cw5n01l"
-      }
-    ]
-  },
-  "Rename FX Instance.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
-        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
-        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
       }
     ]
   }
