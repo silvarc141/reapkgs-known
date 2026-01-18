@@ -1,17 +1,17 @@
 {
-  "Notes to 12 channel.jsfx": {
+  "MIDI Keyvel Filter.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ]
   },
@@ -45,22 +45,6 @@
       }
     ]
   },
-  "MIDI Keyvel Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ]
-  },
   "Notes to CC.jsfx": {
     "latest": [
       {
@@ -77,97 +61,19 @@
       }
     ]
   },
-  "QuickFilter.jsfx": {
+  "Notes to 12 channel.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ]
-  },
-  "skfilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
-        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
-        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter.jsfx",
-        "sha256": "145xdx93h6i59fnlr0wbrljw12bshzhr8qc9plx6h4759aal5d42"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
       }
     ]
   },
@@ -3696,226 +3602,196 @@
       }
     ]
   },
-  "jsdrumsynth.jsfx": {
+  "jsdrumpad.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx",
-        "sha256": "01mplpczb66rka3qrr3nqi57k0fprri0mzsvm1mzgqbc94nmbylp"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx",
+        "sha256": "0d6gh4pa9c3kms8khdlrb97s5qcmvnvqwr1vnk1xdvhq96pbx4ak"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx.RPL",
-        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx.RPL",
+        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "sha256": "1jj5p2ifbnmhpjssp3lnazdxng01vcjb58x0n9nwibw9f027160q"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.1.0": [
+    "1.2.0": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx",
-        "sha256": "01mplpczb66rka3qrr3nqi57k0fprri0mzsvm1mzgqbc94nmbylp"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx",
+        "sha256": "0d6gh4pa9c3kms8khdlrb97s5qcmvnvqwr1vnk1xdvhq96pbx4ak"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx.RPL",
-        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx.RPL",
+        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "sha256": "1jj5p2ifbnmhpjssp3lnazdxng01vcjb58x0n9nwibw9f027160q"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.0.3": [
+    "1.1.3": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth.jsfx",
-        "sha256": "18nsvqmrlp3l840r12wxwydgqdda4jg3r6w55aphn4pma7z1zdlc"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad.jsfx",
+        "sha256": "0xm4v8n4i5jy3lf056j3xijii1zv94b86fkdhh9l134qpjy0ng75"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth.jsfx.RPL",
-        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad.jsfx.RPL",
+        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "sha256": "1jj5p2ifbnmhpjssp3lnazdxng01vcjb58x0n9nwibw9f027160q"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.0.2": [
+    "1.1.2": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth.jsfx",
-        "sha256": "0zijanay13f1qnkrszlgdqpsqgil283l6prc4p00q4nkggzswmdm"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad.jsfx",
+        "sha256": "1d4s3w4biw2f0mjybzabnbqp2011lsdf6n4k0afd8npi2z5gsdqb"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth.jsfx.RPL",
-        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad.jsfx.RPL",
+        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "sha256": "0y5kg94kq7kgy35qmlcynz51y0cdfpp5ykbdmarny33k4d51bpv8"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.0.1": [
+    "1.1.1": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth.jsfx",
-        "sha256": "1qss3cd1bdr1c080vskpk3z2zxr2ch4hilfzzrchx05zksb2lnmq"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad.jsfx",
+        "sha256": "0qx7jgr7va4ca5pqlljh3qxbd6brvm236qvwrv8mybp7p99cqgfq"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth.jsfx.RPL",
-        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad.jsfx.RPL",
+        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "sha256": "0y5kg94kq7kgy35qmlcynz51y0cdfpp5ykbdmarny33k4d51bpv8"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth.jsfx",
-        "sha256": "0nadsjh0rmbp80r6vc5zwb15yy8sai9alkyx35xdrr6cj35w3c7i"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad.jsfx",
+        "sha256": "0m4jy631jq3hgd1h4nmz5rgpnvjggz1y7sqyba44bc123kwwx1ig"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth.jsfx.RPL",
-        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
+        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad.jsfx.RPL",
+        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
-        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.envlib.jsfx-inc",
+        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
-        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
+        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
-        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
+        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.pad.jsfx-inc",
-        "sha256": "1l1c5b5114vixxv4ld1ijy2j1xn6dc5i3hy83p4w97nwf096w8da"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ]
@@ -8983,196 +8859,226 @@
       }
     ]
   },
-  "jsdrumpad.jsfx": {
+  "jsdrumsynth.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx",
-        "sha256": "0d6gh4pa9c3kms8khdlrb97s5qcmvnvqwr1vnk1xdvhq96pbx4ak"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx",
+        "sha256": "01mplpczb66rka3qrr3nqi57k0fprri0mzsvm1mzgqbc94nmbylp"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx.RPL",
-        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx.RPL",
+        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "sha256": "1jj5p2ifbnmhpjssp3lnazdxng01vcjb58x0n9nwibw9f027160q"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.2.0": [
+    "1.1.0": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx",
-        "sha256": "0d6gh4pa9c3kms8khdlrb97s5qcmvnvqwr1vnk1xdvhq96pbx4ak"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx",
+        "sha256": "01mplpczb66rka3qrr3nqi57k0fprri0mzsvm1mzgqbc94nmbylp"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad.jsfx.RPL",
-        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth.jsfx.RPL",
+        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "sha256": "1jj5p2ifbnmhpjssp3lnazdxng01vcjb58x0n9nwibw9f027160q"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/d7966756914e979287464fe53340d07f0471e3cf/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.1.3": [
+    "1.0.3": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad.jsfx",
-        "sha256": "0xm4v8n4i5jy3lf056j3xijii1zv94b86fkdhh9l134qpjy0ng75"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth.jsfx",
+        "sha256": "18nsvqmrlp3l840r12wxwydgqdda4jg3r6w55aphn4pma7z1zdlc"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad.jsfx.RPL",
-        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth.jsfx.RPL",
+        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "sha256": "1jj5p2ifbnmhpjssp3lnazdxng01vcjb58x0n9nwibw9f027160q"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.1.2": [
+    "1.0.2": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad.jsfx",
-        "sha256": "1d4s3w4biw2f0mjybzabnbqp2011lsdf6n4k0afd8npi2z5gsdqb"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth.jsfx",
+        "sha256": "0zijanay13f1qnkrszlgdqpsqgil283l6prc4p00q4nkggzswmdm"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad.jsfx.RPL",
-        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth.jsfx.RPL",
+        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/bf2a369a3457532ed34bd64ba543e474bf75487f/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "sha256": "0y5kg94kq7kgy35qmlcynz51y0cdfpp5ykbdmarny33k4d51bpv8"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.1.1": [
+    "1.0.1": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad.jsfx",
-        "sha256": "0qx7jgr7va4ca5pqlljh3qxbd6brvm236qvwrv8mybp7p99cqgfq"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth.jsfx",
+        "sha256": "1qss3cd1bdr1c080vskpk3z2zxr2ch4hilfzzrchx05zksb2lnmq"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad.jsfx.RPL",
-        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth.jsfx.RPL",
+        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/fb4c63ad6f76e44b77024d11635a568e4e6911f8/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "sha256": "0y5kg94kq7kgy35qmlcynz51y0cdfpp5ykbdmarny33k4d51bpv8"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/92b9e0ad085d952ab3fd3584c0a66484c1b86d88/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
-    "1.1": [
+    "1.0": [
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad.jsfx",
-        "sha256": "0m4jy631jq3hgd1h4nmz5rgpnvjggz1y7sqyba44bc123kwwx1ig"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth.jsfx",
+        "sha256": "0nadsjh0rmbp80r6vc5zwb15yy8sai9alkyx35xdrr6cj35w3c7i"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad.jsfx.RPL",
-        "sha256": "1zmdqv9759m4y6d1mvkm8rdk9lmq8ir62rj4gp4632hcjc9l74mi"
+        "path": "Effects/Tilr/Synth/jsdrumsynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth.jsfx.RPL",
+        "sha256": "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.envlib.jsfx-inc",
-        "sha256": "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.envlib.jsfx-inc",
+        "sha256": "1iw9fhvg0glgwr3w2k8672nvz9x74a58mk2vvjj3a30pzs6zs444"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.gfxlib.jsfx-inc",
-        "sha256": "10mlvlcirn6lw0z3w5kjyaidyrwn5rilg4l65q10p9zp7lmiaqz2"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc",
+        "sha256": "11wnhfcczbs05kmdz250q7v4ff60l9s7v7n36y1vwfvnr79kgvr0"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.mouselib.jsfx-inc",
-        "sha256": "0f2wn6sf29clc393rmiwrm8phslgvb8744ahivsnjwbl8xgvalvk"
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.mouselib.jsfx-inc",
+        "sha256": "18pfidb9kimfr41520k7dh9xrg48r5c81da4d0d34pj73zkyss20"
       },
       {
-        "path": "Effects/Tilr/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumpad/dp.svf_filter.jsfx-inc",
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.pad.jsfx-inc",
+        "sha256": "1l1c5b5114vixxv4ld1ijy2j1xn6dc5i3hy83p4w97nwf096w8da"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc",
         "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ]
@@ -9341,52 +9247,6 @@
       }
     ]
   },
-  "QuickDualDelay.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ]
-  },
   "QuickDelay.jsfx": {
     "latest": [
       {
@@ -9433,6 +9293,52 @@
       }
     ]
   },
+  "QuickDualDelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ]
+  },
   "quickdist.jsfx": {
     "latest": [
       {
@@ -9468,6 +9374,100 @@
         "path": "Effects/Tilr/Distortion/quickdist.jsfx",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/89366a4c6f6ffd788d2cb1020467c4c6319b9be6/Distortion/quickdist.jsfx",
         "sha256": "03fcbmky7jfsl1kqw1cv4ivxjm23fbbw6agdl6wmnssmw8dhi79n"
+      }
+    ]
+  },
+  "skfilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
+        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
+        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter.jsfx",
+        "sha256": "145xdx93h6i59fnlr0wbrljw12bshzhr8qc9plx6h4759aal5d42"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ]
+  },
+  "QuickFilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ]
   },

@@ -766,6 +766,36 @@
       }
     ]
   },
+  "SERA - Draw Tool.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "172kb90zpx29y1kvhsaqnzq5jm92zliwg30x3r214xg6x0bly73b"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "0181mdp7kj28hgdap8w0vzv1jdna8q40hm64n0bzhnd5yivp6j6q"
+      }
+    ]
+  },
   "SERA - Toggle Pattern Clip.lua": {
     "latest": [
       {
@@ -830,36 +860,6 @@
         "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
         "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
         "sha256": "04x8if6x8hhrkrmqfplb5frpwkpasrnw0pb360h7q1x98vzi53sg"
-      }
-    ]
-  },
-  "SERA - Draw Tool.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "172kb90zpx29y1kvhsaqnzq5jm92zliwg30x3r214xg6x0bly73b"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "0181mdp7kj28hgdap8w0vzv1jdna8q40hm64n0bzhnd5yivp6j6q"
       }
     ]
   },
