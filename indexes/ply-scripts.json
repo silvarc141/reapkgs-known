@@ -195,6 +195,22 @@
       }
     ]
   },
+  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ]
+  },
   "ply_Playhead vs selected track items and markers window.lua": {
     "latest": [
       {
@@ -225,35 +241,19 @@
       }
     ]
   },
-  "ply_Horizontal zoom in (center at edit cursor).eel": {
+  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
     "latest": [
       {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
-      }
-    ]
-  },
-  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
       }
     ]
   },
@@ -273,6 +273,22 @@
       }
     ]
   },
+  "ply_Horizontal zoom in (center at edit cursor).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ]
+  },
   "ply_Transport StartStop (recording safe).eel": {
     "latest": [
       {
@@ -286,22 +302,6 @@
         "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
         "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
         "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ]
-  },
-  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
       }
     ]
   },

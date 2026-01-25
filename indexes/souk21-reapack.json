@@ -1,129 +1,47 @@
 {
-  "Key Sequences.lua": {
+  "PlayState Mixer.jsfx": {
     "latest": [
       {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/0574190a4548f15af0d82cd558b4c0cca010d2e9/Scripts/Key%20Sequences.lua",
-        "sha256": "16sipwqi8wfimp5ci6f3704xn4zsqkk29v106z3q6wpn744c7yc0"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/0574190a4548f15af0d82cd558b4c0cca010d2e9/Scripts/Key%20Sequences.lua",
-        "sha256": "16sipwqi8wfimp5ci6f3704xn4zsqkk29v106z3q6wpn744c7yc0"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2b21b18288f1411d6cb9b107fc18639254ed9b61/Scripts/Key%20Sequences.lua",
-        "sha256": "0zlrn0x2vsbk9p42cbl6zk1j1q6hqgkybp34qmn9ihajdj6n3ar9"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/c2e0b6dd85243e726a9e74b8b8ee28de74872255/Scripts/Key%20Sequences.lua",
-        "sha256": "1s2m9dcfgg5wj9g8i9vp3nqwa525x6mjn3j920pkld81616awclr"
-      }
-    ],
-    "2.0beta7": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/c3b5451ecceaa13f89d19ba7ae293e81de9f42c4/Scripts/Key%20Sequences.lua",
-        "sha256": "1ydd1n2vyk35w7xlah0z4j1zhbby9zm059rsxmlgkldqrn99byd4"
-      }
-    ],
-    "2.0beta6": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4fd41d4f24b00f30689726fcf85afc5ad4dd0177/Scripts/Key%20Sequences.lua",
-        "sha256": "1psn6sddlvw8f9wvig5hrxbbp75pywnifpnmmv4yjwirqrs0lr8v"
-      }
-    ],
-    "2.0beta5": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4e6bb06caac544078faced84986a35160866b485/Scripts/Key%20Sequences.lua",
-        "sha256": "1plibf7f3svwn3jbbf34v2sn4272qnds6mwqvbn096fa9b71sgf6"
-      }
-    ],
-    "2.0beta4": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e3723dfaba7a989f9db997f3046e9ca446594ff/Scripts/Key%20Sequences.lua",
-        "sha256": "1x8bkwvwcif4p196lp2v26y3z0x83x6bx7snawq0p9b76wdds2x6"
-      }
-    ],
-    "2.0beta3": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/db9f234941b1270d7528d6855338a193c44099ba/Scripts/Key%20Sequences.lua",
-        "sha256": "0yrbvsy8mbjknj08h645ix31srqkannh0hqys40b30ldcpa4g203"
-      }
-    ],
-    "2.0beta2": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/973de03f0e071a377784df77a8c7f0d327c295cb/Scripts/Key%20Sequences.lua",
-        "sha256": "02fpsflsxv4kkq20zlsb9qa6nham756j08imvgdcq4prgb4jfb2v"
-      }
-    ],
-    "2.0beta1": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4757519e2e23149d0f8d2ff23f23980b6960cf14/Scripts/Key%20Sequences.lua",
-        "sha256": "19s8sq6kff9ab8ndj60la3b0qbbdianc32p8cbyxxmyjlldfq0id"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/f87a154dc8177eb4889fd82d158b072d31e06d8d/Scripts/Key%20Sequences.lua",
-        "sha256": "1k5c81lr27kalsvh16l6fbbrh6qr3wdnpw2r034wjgv0krlrq4nj"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/da71ac7f172a5896cd6c54f56e20366416dd01c6/Scripts/Key%20Sequences.lua",
-        "sha256": "1jfc4n9lbsgj63ggcc0xi00gkdkzah9rbv41s21grpfpfy1kavcw"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2dd905ec555a857a0738e3126093a43a141d6b37/Scripts/Key%20Sequences.lua",
-        "sha256": "0yphp93majzkh5gddq854kq89ylly89fbf08nry72iwy595k0bpg"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a2c423a543a5017b310fad45a076141864cb3d3d/Scripts/Key%20Sequences.lua",
-        "sha256": "14r4g49zhcg0icxk3zwjn60ibijy5az6y7czxk3z4pa6gkdh3syb"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25844ecee42f7218f7cff1e66b8e9ad2c3d0ff37/Scripts/Key%20Sequences.lua",
-        "sha256": "0pqapk578a2za3lizaal44xq6ciwi5hj019dl9krdzfdb02mh8b7"
+        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
+        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/857da0d8c9bdcf2cb0973e0a32d40ba05c77d44d/Scripts/Key%20Sequences.lua",
-        "sha256": "0xcp75g5hf9zl45vcpmqf9g4hwh0bnnij4q78nc0h9r2xf7vv1ax"
+        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
+        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/9ba7c7f12ebed0a1042e233bd2470c1c77cbfa35/Scripts/Key%20Sequences.lua",
-        "sha256": "0f62872d79n7ddybfxvjbl0xcfjqqhgkssdnzjcdw638kamddnjh"
+        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/91558b5be7a7d6e1fc448c9cb26c2edfb8b0f475/JSFX/PlayState%20Mixer.jsfx",
+        "sha256": "0fgfy9y58y3w1ajpz16diqbk9j2vds88dmqs5mnfiw2v8fgrz89k"
+      }
+    ]
+  },
+  "MIDI Velocity Compressor.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/f2585b7e8f2ee8484289ed51d5634bf384bdcd68/JSFX/MIDI%20Velocity%20Compressor.jsfx",
+        "sha256": "0m171gr8c0f7i049n7rh1bkdxrwggk3bkzvkffc3vjdb2c63aymg"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/f2585b7e8f2ee8484289ed51d5634bf384bdcd68/JSFX/MIDI%20Velocity%20Compressor.jsfx",
+        "sha256": "0m171gr8c0f7i049n7rh1bkdxrwggk3bkzvkffc3vjdb2c63aymg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a34846dd7ba00ffce8f27f26d993ec570f15f1ad/JSFX/MIDI%20Velocity%20Compressor.jsfx",
+        "sha256": "10cv2cxdjmk8c9bkgi10n26gzk4m3inx7fz442whc5d5byzqs6dd"
       }
     ]
   },
@@ -1021,19 +939,131 @@
       }
     ]
   },
-  "Rename FX Instance.lua": {
+  "Key Sequences.lua": {
     "latest": [
       {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
-        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/0574190a4548f15af0d82cd558b4c0cca010d2e9/Scripts/Key%20Sequences.lua",
+        "sha256": "16sipwqi8wfimp5ci6f3704xn4zsqkk29v106z3q6wpn744c7yc0"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/0574190a4548f15af0d82cd558b4c0cca010d2e9/Scripts/Key%20Sequences.lua",
+        "sha256": "16sipwqi8wfimp5ci6f3704xn4zsqkk29v106z3q6wpn744c7yc0"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2b21b18288f1411d6cb9b107fc18639254ed9b61/Scripts/Key%20Sequences.lua",
+        "sha256": "0zlrn0x2vsbk9p42cbl6zk1j1q6hqgkybp34qmn9ihajdj6n3ar9"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/c2e0b6dd85243e726a9e74b8b8ee28de74872255/Scripts/Key%20Sequences.lua",
+        "sha256": "1s2m9dcfgg5wj9g8i9vp3nqwa525x6mjn3j920pkld81616awclr"
+      }
+    ],
+    "2.0beta7": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/c3b5451ecceaa13f89d19ba7ae293e81de9f42c4/Scripts/Key%20Sequences.lua",
+        "sha256": "1ydd1n2vyk35w7xlah0z4j1zhbby9zm059rsxmlgkldqrn99byd4"
+      }
+    ],
+    "2.0beta6": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4fd41d4f24b00f30689726fcf85afc5ad4dd0177/Scripts/Key%20Sequences.lua",
+        "sha256": "1psn6sddlvw8f9wvig5hrxbbp75pywnifpnmmv4yjwirqrs0lr8v"
+      }
+    ],
+    "2.0beta5": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4e6bb06caac544078faced84986a35160866b485/Scripts/Key%20Sequences.lua",
+        "sha256": "1plibf7f3svwn3jbbf34v2sn4272qnds6mwqvbn096fa9b71sgf6"
+      }
+    ],
+    "2.0beta4": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e3723dfaba7a989f9db997f3046e9ca446594ff/Scripts/Key%20Sequences.lua",
+        "sha256": "1x8bkwvwcif4p196lp2v26y3z0x83x6bx7snawq0p9b76wdds2x6"
+      }
+    ],
+    "2.0beta3": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/db9f234941b1270d7528d6855338a193c44099ba/Scripts/Key%20Sequences.lua",
+        "sha256": "0yrbvsy8mbjknj08h645ix31srqkannh0hqys40b30ldcpa4g203"
+      }
+    ],
+    "2.0beta2": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/973de03f0e071a377784df77a8c7f0d327c295cb/Scripts/Key%20Sequences.lua",
+        "sha256": "02fpsflsxv4kkq20zlsb9qa6nham756j08imvgdcq4prgb4jfb2v"
+      }
+    ],
+    "2.0beta1": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4757519e2e23149d0f8d2ff23f23980b6960cf14/Scripts/Key%20Sequences.lua",
+        "sha256": "19s8sq6kff9ab8ndj60la3b0qbbdianc32p8cbyxxmyjlldfq0id"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/f87a154dc8177eb4889fd82d158b072d31e06d8d/Scripts/Key%20Sequences.lua",
+        "sha256": "1k5c81lr27kalsvh16l6fbbrh6qr3wdnpw2r034wjgv0krlrq4nj"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/da71ac7f172a5896cd6c54f56e20366416dd01c6/Scripts/Key%20Sequences.lua",
+        "sha256": "1jfc4n9lbsgj63ggcc0xi00gkdkzah9rbv41s21grpfpfy1kavcw"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2dd905ec555a857a0738e3126093a43a141d6b37/Scripts/Key%20Sequences.lua",
+        "sha256": "0yphp93majzkh5gddq854kq89ylly89fbf08nry72iwy595k0bpg"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a2c423a543a5017b310fad45a076141864cb3d3d/Scripts/Key%20Sequences.lua",
+        "sha256": "14r4g49zhcg0icxk3zwjn60ibijy5az6y7czxk3z4pa6gkdh3syb"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25844ecee42f7218f7cff1e66b8e9ad2c3d0ff37/Scripts/Key%20Sequences.lua",
+        "sha256": "0pqapk578a2za3lizaal44xq6ciwi5hj019dl9krdzfdb02mh8b7"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/857da0d8c9bdcf2cb0973e0a32d40ba05c77d44d/Scripts/Key%20Sequences.lua",
+        "sha256": "0xcp75g5hf9zl45vcpmqf9g4hwh0bnnij4q78nc0h9r2xf7vv1ax"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
-        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
+        "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/9ba7c7f12ebed0a1042e233bd2470c1c77cbfa35/Scripts/Key%20Sequences.lua",
+        "sha256": "0f62872d79n7ddybfxvjbl0xcfjqqhgkssdnzjcdw638kamddnjh"
       }
     ]
   },
@@ -1074,49 +1104,19 @@
       }
     ]
   },
-  "MIDI Velocity Compressor.jsfx": {
+  "Rename FX Instance.lua": {
     "latest": [
       {
-        "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/f2585b7e8f2ee8484289ed51d5634bf384bdcd68/JSFX/MIDI%20Velocity%20Compressor.jsfx",
-        "sha256": "0m171gr8c0f7i049n7rh1bkdxrwggk3bkzvkffc3vjdb2c63aymg"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/f2585b7e8f2ee8484289ed51d5634bf384bdcd68/JSFX/MIDI%20Velocity%20Compressor.jsfx",
-        "sha256": "0m171gr8c0f7i049n7rh1bkdxrwggk3bkzvkffc3vjdb2c63aymg"
+        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
+        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a34846dd7ba00ffce8f27f26d993ec570f15f1ad/JSFX/MIDI%20Velocity%20Compressor.jsfx",
-        "sha256": "10cv2cxdjmk8c9bkgi10n26gzk4m3inx7fz442whc5d5byzqs6dd"
-      }
-    ]
-  },
-  "PlayState Mixer.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
-        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
-        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/91558b5be7a7d6e1fc448c9cb26c2edfb8b0f475/JSFX/PlayState%20Mixer.jsfx",
-        "sha256": "0fgfy9y58y3w1ajpz16diqbk9j2vds88dmqs5mnfiw2v8fgrz89k"
+        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
+        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
       }
     ]
   }

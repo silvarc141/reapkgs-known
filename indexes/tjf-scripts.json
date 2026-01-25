@@ -54,314 +54,446 @@
       }
     ]
   },
-  "TJF Cycle Through Take Channels.lua": {
+  "TJF Fade In to Edit Cursor Or Mouse (Hover Mode Dependant).lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels.lua",
-        "sha256": "11w230if7ikqvxqs9cqpskiadnwp29wlj4l1pmfhgab2hz6k75db"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels.lua",
-        "sha256": "11w230if7ikqvxqs9cqpskiadnwp29wlj4l1pmfhgab2hz6k75db"
-      }
-    ]
-  },
-  "TJF Route All Mono Sounds to Center Channel via Takes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Route All Mono Sounds to Center Channel via Takes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Route%20All%20Mono%20Sounds%20to%20Center%20Channel%20via%20Takes.lua",
-        "sha256": "031fvj6qb07jpsrhz9jrpzkdqkyk06yk0l803pl3dl3k6aq9gavf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Route All Mono Sounds to Center Channel via Takes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Route%20All%20Mono%20Sounds%20to%20Center%20Channel%20via%20Takes.lua",
-        "sha256": "031fvj6qb07jpsrhz9jrpzkdqkyk06yk0l803pl3dl3k6aq9gavf"
-      }
-    ]
-  },
-  "TJF Toggle Mute (Match First Selected).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Mute (Match First Selected).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Mute%20(Match%20First%20Selected).lua",
-        "sha256": "1xnkf3hwxg6mf05a9r94bdbacm33yac0bhvzmr44lh4iq6z9pr78"
-      }
-    ],
-    "2.5": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Mute (Match First Selected).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Mute%20(Match%20First%20Selected).lua",
-        "sha256": "1xnkf3hwxg6mf05a9r94bdbacm33yac0bhvzmr44lh4iq6z9pr78"
-      }
-    ]
-  },
-  "TJF Smart (or Possibly Anger Inducing) Mute Item Toggle.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Smart (or Possibly Anger Inducing) Mute Item Toggle.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Smart%20(or%20Possibly%20Anger%20Inducing)%20Mute%20Item%20Toggle.lua",
-        "sha256": "0vx94bdgppna2zcm8387r3srhd7kcqlkz1pq7vdcjicgsan1swqn"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Smart (or Possibly Anger Inducing) Mute Item Toggle.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Smart%20(or%20Possibly%20Anger%20Inducing)%20Mute%20Item%20Toggle.lua",
-        "sha256": "0vx94bdgppna2zcm8387r3srhd7kcqlkz1pq7vdcjicgsan1swqn"
-      }
-    ]
-  },
-  "TJF Toggle Take Channel stereo flip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Take Channel stereo flip.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Take%20Channel%20stereo%20flip.lua",
-        "sha256": "1k0rnzsiwd3wlwiimn3k0pv9zxalxzr2x0ncnxma51kwjna5h9dp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Take Channel stereo flip.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Take%20Channel%20stereo%20flip.lua",
-        "sha256": "1k0rnzsiwd3wlwiimn3k0pv9zxalxzr2x0ncnxma51kwjna5h9dp"
-      }
-    ]
-  },
-  "TJF Simple UCS Format and Rename Items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Simple UCS Format and Rename Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Simple%20UCS%20Format%20and%20Rename%20Items.lua",
-        "sha256": "097q26rsjsk6qpds27c2i96q50wm7n2s1b0badsnzfliivwn013s"
-      }
-    ],
-    "3.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Simple UCS Format and Rename Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Simple%20UCS%20Format%20and%20Rename%20Items.lua",
-        "sha256": "097q26rsjsk6qpds27c2i96q50wm7n2s1b0badsnzfliivwn013s"
-      }
-    ]
-  },
-  "TJF Explode Media Items into new Mono Items for each Channel of Source Media.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Explode Media Items into new Mono Items for each Channel of Source Media.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/18a6ef02c22ffb3f7bcc0e3b0ef4c914f0bd5058/Editing/Takes/TJF%20Explode%20Media%20Items%20into%20new%20Mono%20Items%20for%20each%20Channel%20of%20Source%20Media.lua",
-        "sha256": "0hg8bvgsnh0z1xpfxw4mp7b6ip8zm8s10zyz90qsm9lljmll184i"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Explode Media Items into new Mono Items for each Channel of Source Media.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/18a6ef02c22ffb3f7bcc0e3b0ef4c914f0bd5058/Editing/Takes/TJF%20Explode%20Media%20Items%20into%20new%20Mono%20Items%20for%20each%20Channel%20of%20Source%20Media.lua",
-        "sha256": "0hg8bvgsnh0z1xpfxw4mp7b6ip8zm8s10zyz90qsm9lljmll184i"
-      }
-    ]
-  },
-  "TJF Rename and Format Items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/2dbc2b7ac8d3f1c9d010ea6dde17312c91d8b8d9/Editing/Takes/TJF%20Rename%20and%20Format%20Items.lua",
-        "sha256": "0x1jzqlhyywdmk4g67bsjkrz3fv8aq5hq9qsdxyi7m8cw9pf49ly"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/2dbc2b7ac8d3f1c9d010ea6dde17312c91d8b8d9/Editing/Takes/TJF%20Rename%20and%20Format%20Items.lua",
-        "sha256": "0x1jzqlhyywdmk4g67bsjkrz3fv8aq5hq9qsdxyi7m8cw9pf49ly"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Rename%20and%20Format%20Items.lua",
-        "sha256": "1bi2g8h1z3lnqrzb2pyrj1i3995cy78khz2l30dq7shirz016kfx"
-      }
-    ]
-  },
-  "TJF Set Take to Mono.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Set Take to Mono.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Set%20Take%20to%20Mono.lua",
-        "sha256": "1xlznfvccjz24g1wgb0y7jy86201n5b7habwikhprj9k3781fgyx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Set Take to Mono.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Set%20Take%20to%20Mono.lua",
-        "sha256": "1xlznfvccjz24g1wgb0y7jy86201n5b7habwikhprj9k3781fgyx"
-      }
-    ]
-  },
-  "TJF Cycle Through Take Channels (Stereo).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels (Stereo).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels%20(Stereo).lua",
-        "sha256": "158ilrm7kg7yz9nkfldz812prvaylkqqary1y45zdm52z3374rrl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels (Stereo).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels%20(Stereo).lua",
-        "sha256": "158ilrm7kg7yz9nkfldz812prvaylkqqary1y45zdm52z3374rrl"
-      }
-    ]
-  },
-  "TJF Add Sync Point (Hover Mode Dependent).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Add Sync Point (Hover Mode Dependent).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ef09ae17636a6529dce4f5fab8730b76c1ecf8f7/Editing/Takes/TJF%20Add%20Sync%20Point%20(Hover%20Mode%20Dependent).lua",
-        "sha256": "0i895n0vwd44aprhwqzbqlij66fgz13iq0xhw2f7nzdgj2x05djg"
-      }
-    ],
-    "2.01": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Add Sync Point (Hover Mode Dependent).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ef09ae17636a6529dce4f5fab8730b76c1ecf8f7/Editing/Takes/TJF%20Add%20Sync%20Point%20(Hover%20Mode%20Dependent).lua",
-        "sha256": "0i895n0vwd44aprhwqzbqlij66fgz13iq0xhw2f7nzdgj2x05djg"
-      }
-    ]
-  },
-  "TJF Rename and Format Items and SOURCE.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items and SOURCE.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Rename%20and%20Format%20Items%20and%20SOURCE.lua",
-        "sha256": "13mfn2qhvhf4b67n8g7wiw88lk6s2yvzhkk13iphg2hmsxyqz8vr"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade In to Edit Cursor Or Mouse (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20In%20to%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "1ybi389gkw06qgc8k7c2qmjxlvahb4yawzadwk030dx7q1ay8a27"
       }
     ],
     "2.1": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items and SOURCE.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Rename%20and%20Format%20Items%20and%20SOURCE.lua",
-        "sha256": "13mfn2qhvhf4b67n8g7wiw88lk6s2yvzhkk13iphg2hmsxyqz8vr"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade In to Edit Cursor Or Mouse (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20In%20to%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "1ybi389gkw06qgc8k7c2qmjxlvahb4yawzadwk030dx7q1ay8a27"
       }
     ]
   },
-  "TJF ESCAPE KEY.lua": {
+  "TJF SmartFade.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF ESCAPE KEY.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20ESCAPE%20KEY.lua",
-        "sha256": "0r91g1cy0mrdxns7lyjq3xn9k9b17hirwcgpdg97vq7rci3ibwjn"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/6dc6b9830ff6f099c7155e78a3c39d1f13136247/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1m80z3w4d7xbiv3nlqm4dd0qkzm8f7h1hfgk10ixcsw3xp9daak8"
       }
     ],
-    "2.0": [
+    "1.8": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF ESCAPE KEY.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20ESCAPE%20KEY.lua",
-        "sha256": "0r91g1cy0mrdxns7lyjq3xn9k9b17hirwcgpdg97vq7rci3ibwjn"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/6dc6b9830ff6f099c7155e78a3c39d1f13136247/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1m80z3w4d7xbiv3nlqm4dd0qkzm8f7h1hfgk10ixcsw3xp9daak8"
       }
-    ]
-  },
-  "TJF OPTION TAB function similar to Pro Tools.lua": {
-    "latest": [
+    ],
+    "1.7": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF OPTION TAB function similar to Pro Tools.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20OPTION%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
-        "sha256": "0h61mmmaj87gcryhp778lhd46hfcjw99w64g9rzr1xs906x2a5if"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/3fd62f4510b12acf62bda6954a054334cbb98e79/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "0jbha02izn5kfa5cxp2y390dsxj41hz7b2scw42yihfxla43bdmp"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/0a1c77963dd332638de336d47cab75dc8e79c1d1/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1p4bkmi9zq1lamphrb8irivfzwbhg26lr1nlvkwfnq1xrdcsbhkz"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/898ad84ed80d79026fc64f2504405d7a034b7d91/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "180aqskagqj34vs8vxvg9bn4p6l1cmlq84yn15x84c0740hpaq7z"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/f62c892851135be7056ae16b52de0235ea6e8bcb/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1vl9fh2zl1yvxq39wf9hak9k40fp6ywsl281dkap33cp92kjghpi"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/3542db0774c9c7e7997f1cf9b76a520baae0d7bb/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1rqp1ishzfrar214qpidw9b7l5gwbi5w8a1f0yskn4xgbd3bpv9l"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF OPTION TAB function similar to Pro Tools.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20OPTION%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
-        "sha256": "0h61mmmaj87gcryhp778lhd46hfcjw99w64g9rzr1xs906x2a5if"
-      }
-    ]
-  },
-  "TJF Minimize all tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Minimize all tracks.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Minimize%20all%20tracks.lua",
-        "sha256": "1g78fi1ylg0jybbcggnjp7428i33lyd07d81q3pw370wydjkddy1"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/93fa63ee24b4dd44a3b5ac32e214c5939b111d81/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1qpksa9vpxh5bc8ch629qwm9fz9s2zng52hxki7xijbz9cg3s9jq"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Minimize all tracks.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Minimize%20all%20tracks.lua",
-        "sha256": "1g78fi1ylg0jybbcggnjp7428i33lyd07d81q3pw370wydjkddy1"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20SmartFade.lua",
+        "sha256": "1zipblw0yckkrj9ycy7x82vdc7qnm9blrv14xijlp2mjlkvg6vqz"
       }
     ]
   },
-  "TJF GridLock.lua": {
+  "TJF Fade Out From Edit Cursor Or Mouse (Hover Mode Dependant).lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF GridLock.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20GridLock.lua",
-        "sha256": "1r3fyd34z3fdwvs7npdzyvr0fvm8cb4pvnvrfyci2b5i6gmybxqg"
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade Out From Edit Cursor Or Mouse (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20Out%20From%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "1i2zh8x5gzk7saqi5px38b141hrwhaljnxg6vc9i45zzxpdzkrrw"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade Out From Edit Cursor Or Mouse (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20Out%20From%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "1i2zh8x5gzk7saqi5px38b141hrwhaljnxg6vc9i45zzxpdzkrrw"
+      }
+    ]
+  },
+  "TJF GLIDE ALL envelopes to Time, RazorEdit, or Item Selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE ALL envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "1392jng8pankx5ym14y6fvy4aq6szqqnmjwz4ps7n3fz77m83zg0"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE ALL envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "1392jng8pankx5ym14y6fvy4aq6szqqnmjwz4ps7n3fz77m83zg0"
+      }
+    ]
+  },
+  "TJF Coalesce Track Volume to Take Volume.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Track Volume to Take Volume.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Track%20Volume%20to%20Take%20Volume.lua",
+        "sha256": "1npzi151kggp258wlranl789xdzrbljmk1ci1q6bkmv2hgwprpha"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Track Volume to Take Volume.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Track%20Volume%20to%20Take%20Volume.lua",
+        "sha256": "1npzi151kggp258wlranl789xdzrbljmk1ci1q6bkmv2hgwprpha"
+      }
+    ]
+  },
+  "TJF Toggle Item Pitch Envelope Visible.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Item Pitch Envelope Visible.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Item%20Pitch%20Envelope%20Visible.lua",
+        "sha256": "1n2bczc2dsa7160w4q6xv2p8hfdicjgci9ja1fzkw36lgpzl6a0z"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Item Pitch Envelope Visible.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Item%20Pitch%20Envelope%20Visible.lua",
+        "sha256": "1n2bczc2dsa7160w4q6xv2p8hfdicjgci9ja1fzkw36lgpzl6a0z"
+      }
+    ]
+  },
+  "TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "1ixh99ssnx5i676cwpjbqnlyaq8f9jqjfmysyb1hs1jj0gcc3wzy"
+      }
+    ],
+    "2.4": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "1ixh99ssnx5i676cwpjbqnlyaq8f9jqjfmysyb1hs1jj0gcc3wzy"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/fc6a4addc695e3cd989538745afe57887aa774cf/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "0qmaqz1w11dldaq3hc5nmfnh8zi8ms1ds1gyif87m13ian83cl6g"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "0rgqmnc364xj23q8ipka2x5jk1cpcl08cvmjzfjjqgfv1kracsnv"
+      }
+    ]
+  },
+  "TJF Punch Visible Envelopes 2 (razor edit support).lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Visible Envelopes 2 (razor edit support).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Visible%20Envelopes%202%20(razor%20edit%20support).lua",
+        "sha256": "00a3v720mnh1134mkkvh79djzrvbl4ssf7gvlm18hmghc23asrqg"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Visible Envelopes 2 (razor edit support).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Visible%20Envelopes%202%20(razor%20edit%20support).lua",
+        "sha256": "00a3v720mnh1134mkkvh79djzrvbl4ssf7gvlm18hmghc23asrqg"
+      }
+    ]
+  },
+  "TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Toggle%20Last%20Touched%20FX%20Envelope%20Visible,Hide%20Others.lua",
+        "sha256": "1j5ahws3qscmn1vzf2rjqmr9wlj4mzjansnvx14026ms6bqgpns5"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Toggle%20Last%20Touched%20FX%20Envelope%20Visible,Hide%20Others.lua",
+        "sha256": "1j5ahws3qscmn1vzf2rjqmr9wlj4mzjansnvx14026ms6bqgpns5"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Last%20Touched%20FX%20Envelope%20Visible,Hide%20Others.lua",
+        "sha256": "02aw6vpsnag67as5n5ps6ry49yhws3l5aww4w52xaiyxh88v3a9a"
+      }
+    ]
+  },
+  "TJF Toggle Volume (preFX) Envelope Visible for Track or Items if Items are selected.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume (preFX) Envelope Visible for Track or Items if Items are selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20(preFX)%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
+        "sha256": "1q0r7kzyajbmbwjswqfbsw3rpv8ib02df4ph5n15mf4rkjd9xkgq"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume (preFX) Envelope Visible for Track or Items if Items are selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20(preFX)%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
+        "sha256": "1q0r7kzyajbmbwjswqfbsw3rpv8ib02df4ph5n15mf4rkjd9xkgq"
+      }
+    ]
+  },
+  "TJF Toggle Volume Envelope Visible for Track or Items if Items are selected.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume Envelope Visible for Track or Items if Items are selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
+        "sha256": "140a54ry5dsxd9z8s75bz8lpf2ia7zxv1kxdi5jsh1klb32hr9bg"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume Envelope Visible for Track or Items if Items are selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
+        "sha256": "140a54ry5dsxd9z8s75bz8lpf2ia7zxv1kxdi5jsh1klb32hr9bg"
+      }
+    ]
+  },
+  "TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Show%20Last%20Touched%20FX%20Envelope%20Hide%20Others%20Deferred%20(stays%20active).lua",
+        "sha256": "0pxajzwqkar1vic5x3dsisbs63k1m267p1vkcfk320q85i68c02i"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Show%20Last%20Touched%20FX%20Envelope%20Hide%20Others%20Deferred%20(stays%20active).lua",
+        "sha256": "0pxajzwqkar1vic5x3dsisbs63k1m267p1vkcfk320q85i68c02i"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Show%20Last%20Touched%20FX%20Envelope%20Hide%20Others%20Deferred%20(stays%20active).lua",
+        "sha256": "075im0k948w981510pfzffm2w7yrm315cpw7fadcrzjfdxjyqf0x"
+      }
+    ]
+  },
+  "TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "15ljpxnwdnkkzwkigvyy0arj7bxlyiscdh3qw4al7nqyln4awzr2"
+      }
+    ],
+    "2.4": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "15ljpxnwdnkkzwkigvyy0arj7bxlyiscdh3qw4al7nqyln4awzr2"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/fc6a4addc695e3cd989538745afe57887aa774cf/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "0nn5lb2yy5hcq4whh5hzqzrbp4214da68w6pbl0fnwankx4r0xb1"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "0d080afkiz94r1kydd9y0n1yimk8cpl1ksdy9h0g72s8560mqz6a"
+      }
+    ]
+  },
+  "TJF OPTIONS - Toggle Check Edit Cursor for Protools Sytle Automation Write and Glide Functions.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF OPTIONS - Toggle Check Edit Cursor for Protools Sytle Automation Write and Glide Functions.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20OPTIONS%20-%20Toggle%20Check%20Edit%20Cursor%20for%20Protools%20Sytle%20Automation%20Write%20and%20Glide%20Functions.lua",
+        "sha256": "0hsdwlwc4qgcb1dr8np0im8a1l9b4whcmi34anrihj6f73s53k1c"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF OPTIONS - Toggle Check Edit Cursor for Protools Sytle Automation Write and Glide Functions.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20OPTIONS%20-%20Toggle%20Check%20Edit%20Cursor%20for%20Protools%20Sytle%20Automation%20Write%20and%20Glide%20Functions.lua",
+        "sha256": "0hsdwlwc4qgcb1dr8np0im8a1l9b4whcmi34anrihj6f73s53k1c"
+      }
+    ]
+  },
+  "TJF Punch Write Envelope Points to all Visible Envelopes to Time Selection or Selected Items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Write Envelope Points to all Visible Envelopes to Time Selection or Selected Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Write%20Envelope%20Points%20to%20all%20Visible%20Envelopes%20to%20Time%20Selection%20or%20Selected%20Items.lua",
+        "sha256": "0raib5gzrc0vkdvc8ii5glbkby7n106x1jqnccxspxwc4anvxndd"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF GridLock.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20GridLock.lua",
-        "sha256": "1r3fyd34z3fdwvs7npdzyvr0fvm8cb4pvnvrfyci2b5i6gmybxqg"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Write Envelope Points to all Visible Envelopes to Time Selection or Selected Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Write%20Envelope%20Points%20to%20all%20Visible%20Envelopes%20to%20Time%20Selection%20or%20Selected%20Items.lua",
+        "sha256": "0raib5gzrc0vkdvc8ii5glbkby7n106x1jqnccxspxwc4anvxndd"
       }
     ]
   },
-  "TJF Smart Move Edit Cursor to Start.lua": {
+  "TJF Add 4 Envelope Points to VISIBLE Envelopes.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to Start.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20Start.lua",
-        "sha256": "1sfl74zwfkvikcck3nqgfg5kqcmzp9x9zzw5ccmv26wzhj47jghp"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to VISIBLE Envelopes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20VISIBLE%20Envelopes.lua",
+        "sha256": "0fjqz00d6fp0dshyhb15i3clggsgl36nc7hgzhaxjvcl84krq16g"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to Start.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20Start.lua",
-        "sha256": "1sfl74zwfkvikcck3nqgfg5kqcmzp9x9zzw5ccmv26wzhj47jghp"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to VISIBLE Envelopes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20VISIBLE%20Envelopes.lua",
+        "sha256": "0fjqz00d6fp0dshyhb15i3clggsgl36nc7hgzhaxjvcl84krq16g"
       }
     ]
   },
-  "TJF set time selection to item or open item properties if time already matches.lua": {
+  "TJF Toggle Pan Envelope Visible for Track or Items if Items are selected.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF set time selection to item or open item properties if time already matches.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20set%20time%20selection%20to%20item%20or%20open%20item%20properties%20if%20time%20already%20matches.lua",
-        "sha256": "1qhw6hhyw3lgq5mbr0fqw9h0y9vcb8mm6rfcj22msj16n5yarvar"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Pan Envelope Visible for Track or Items if Items are selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Pan%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
+        "sha256": "12mmya5a9na5pg7z1q5pwbd31rvyr8il92kfcbxdvbzbqlxyliza"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Pan Envelope Visible for Track or Items if Items are selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Pan%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
+        "sha256": "12mmya5a9na5pg7z1q5pwbd31rvyr8il92kfcbxdvbzbqlxyliza"
+      }
+    ]
+  },
+  "TJF Arm ALL Envelopes Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes Selected Tracks.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes%20Selected%20Tracks.lua",
+        "sha256": "0qf9pzs04zd90crbmy1f747drmf5131hi0lk0fvf5z8rb9a0w20l"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF set time selection to item or open item properties if time already matches.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20set%20time%20selection%20to%20item%20or%20open%20item%20properties%20if%20time%20already%20matches.lua",
-        "sha256": "1qhw6hhyw3lgq5mbr0fqw9h0y9vcb8mm6rfcj22msj16n5yarvar"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes Selected Tracks.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes%20Selected%20Tracks.lua",
+        "sha256": "0qf9pzs04zd90crbmy1f747drmf5131hi0lk0fvf5z8rb9a0w20l"
       }
     ]
   },
-  "TJF Decrease Selected Track Heights.lua": {
+  "TJF GLIDE All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Decrease Selected Track Heights.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Decrease%20Selected%20Track%20Heights.lua",
-        "sha256": "0kg31c8fnzwl6kk3wn9jqf3bb1smrqbvdn21s26v7ygl5hig7pyk"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "0fkh0rsgm211by2il7albqxaa07id4wdfvamqlp40bjf3cb9axbq"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
+        "sha256": "0fkh0rsgm211by2il7albqxaa07id4wdfvamqlp40bjf3cb9axbq"
+      }
+    ]
+  },
+  "TJF Coalesce Take Volume to Track Volume.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Take Volume to Track Volume.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Take%20Volume%20to%20Track%20Volume.lua",
+        "sha256": "12dnv0487y4y2hmg3him4bx5y459w1b5qiblja9l0yvm6z9hw4sm"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Take Volume to Track Volume.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Take%20Volume%20to%20Track%20Volume.lua",
+        "sha256": "12dnv0487y4y2hmg3him4bx5y459w1b5qiblja9l0yvm6z9hw4sm"
+      }
+    ]
+  },
+  "TJF Arm ALL Envelopes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes.lua",
+        "sha256": "049iaf15xbmplpadhbvmwqz4yl9n3i7yj3qx87wndks8d9d2gaj2"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Decrease Selected Track Heights.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Decrease%20Selected%20Track%20Heights.lua",
-        "sha256": "0kg31c8fnzwl6kk3wn9jqf3bb1smrqbvdn21s26v7ygl5hig7pyk"
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes.lua",
+        "sha256": "049iaf15xbmplpadhbvmwqz4yl9n3i7yj3qx87wndks8d9d2gaj2"
+      }
+    ]
+  },
+  "TJF Add 4 Envelope Points to ALL Envelopes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to ALL Envelopes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20ALL%20Envelopes.lua",
+        "sha256": "00wvw8fsrdgs3snc636g8nfidp7zq3vl0hkqj047dpwi4qqg04gd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to ALL Envelopes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20ALL%20Envelopes.lua",
+        "sha256": "00wvw8fsrdgs3snc636g8nfidp7zq3vl0hkqj047dpwi4qqg04gd"
       }
     ]
   },
@@ -395,51 +527,19 @@
       }
     ]
   },
-  "TJF Smart Move Edit Cursor to End.lua": {
+  "TJF GridLock.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to End.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20End.lua",
-        "sha256": "0zszq9mjaqfdbhadk2z93qps6nxsywwxpn4w6f310hsfsw20irpr"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF GridLock.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20GridLock.lua",
+        "sha256": "1r3fyd34z3fdwvs7npdzyvr0fvm8cb4pvnvrfyci2b5i6gmybxqg"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to End.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20End.lua",
-        "sha256": "0zszq9mjaqfdbhadk2z93qps6nxsywwxpn4w6f310hsfsw20irpr"
-      }
-    ]
-  },
-  "TJF TAB function similar to Pro Tools.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF TAB function similar to Pro Tools.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
-        "sha256": "02blvirzmj78dqfqs8hnv4qi4ka6aac46fsxd07dpgz4iqihvrvr"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF TAB function similar to Pro Tools.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
-        "sha256": "02blvirzmj78dqfqs8hnv4qi4ka6aac46fsxd07dpgz4iqihvrvr"
-      }
-    ]
-  },
-  "TJF Move Edit Cursor to Middle of Time Selection or Selection of Items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Move Edit Cursor to Middle of Time Selection or Selection of Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Move%20Edit%20Cursor%20to%20Middle%20of%20Time%20Selection%20or%20Selection%20of%20Items.lua",
-        "sha256": "0khvskxh8gac4gwzamr4pfin2879fgavw24z2wkddirdz27ly2bn"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Move Edit Cursor to Middle of Time Selection or Selection of Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Move%20Edit%20Cursor%20to%20Middle%20of%20Time%20Selection%20or%20Selection%20of%20Items.lua",
-        "sha256": "0khvskxh8gac4gwzamr4pfin2879fgavw24z2wkddirdz27ly2bn"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF GridLock.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20GridLock.lua",
+        "sha256": "1r3fyd34z3fdwvs7npdzyvr0fvm8cb4pvnvrfyci2b5i6gmybxqg"
       }
     ]
   },
@@ -459,6 +559,22 @@
       }
     ]
   },
+  "TJF Move Edit Cursor to Middle of Time Selection or Selection of Items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Move Edit Cursor to Middle of Time Selection or Selection of Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Move%20Edit%20Cursor%20to%20Middle%20of%20Time%20Selection%20or%20Selection%20of%20Items.lua",
+        "sha256": "0khvskxh8gac4gwzamr4pfin2879fgavw24z2wkddirdz27ly2bn"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Move Edit Cursor to Middle of Time Selection or Selection of Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Move%20Edit%20Cursor%20to%20Middle%20of%20Time%20Selection%20or%20Selection%20of%20Items.lua",
+        "sha256": "0khvskxh8gac4gwzamr4pfin2879fgavw24z2wkddirdz27ly2bn"
+      }
+    ]
+  },
   "TJF Save all open dirty projects.lua": {
     "latest": [
       {
@@ -475,19 +591,51 @@
       }
     ]
   },
-  "TJF Toggle Session Stereo or 6channel.lua": {
+  "TJF Smart Move Edit Cursor to End.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Session Stereo or 6channel.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Session%20Stereo%20or%206channel.lua",
-        "sha256": "1hp4rjzym3wgw6ppinly0r1nclkdxcbxi53kzhg9s2j469vsgqjl"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to End.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20End.lua",
+        "sha256": "0zszq9mjaqfdbhadk2z93qps6nxsywwxpn4w6f310hsfsw20irpr"
       }
     ],
-    "2.0": [
+    "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Session Stereo or 6channel.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Session%20Stereo%20or%206channel.lua",
-        "sha256": "1hp4rjzym3wgw6ppinly0r1nclkdxcbxi53kzhg9s2j469vsgqjl"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to End.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20End.lua",
+        "sha256": "0zszq9mjaqfdbhadk2z93qps6nxsywwxpn4w6f310hsfsw20irpr"
+      }
+    ]
+  },
+  "TJF Smart Move Edit Cursor to Start.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to Start.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20Start.lua",
+        "sha256": "1sfl74zwfkvikcck3nqgfg5kqcmzp9x9zzw5ccmv26wzhj47jghp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Smart Move Edit Cursor to Start.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Session%20Navigation/TJF%20Smart%20Move%20Edit%20Cursor%20to%20Start.lua",
+        "sha256": "1sfl74zwfkvikcck3nqgfg5kqcmzp9x9zzw5ccmv26wzhj47jghp"
+      }
+    ]
+  },
+  "TJF Toggle Tab to Transient.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Tab to Transient.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Tab%20to%20Transient.lua",
+        "sha256": "0k95vnmk0jarzyi8n5aswkib6cr63z2hq81a6f0h7qm1jcjw1s1h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Tab to Transient.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Tab%20to%20Transient.lua",
+        "sha256": "0k95vnmk0jarzyi8n5aswkib6cr63z2hq81a6f0h7qm1jcjw1s1h"
       }
     ]
   },
@@ -507,19 +655,19 @@
       }
     ]
   },
-  "TJF Toggle Track SuperCollapsed.lua": {
+  "TJF OPTION TAB function similar to Pro Tools.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Track SuperCollapsed.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Track%20SuperCollapsed.lua",
-        "sha256": "0504wgd0i16hvzlqbmwd6x70f8rwkqxbrws2ny9qghwhjk1xq412"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF OPTION TAB function similar to Pro Tools.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20OPTION%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
+        "sha256": "0h61mmmaj87gcryhp778lhd46hfcjw99w64g9rzr1xs906x2a5if"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Track SuperCollapsed.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Track%20SuperCollapsed.lua",
-        "sha256": "0504wgd0i16hvzlqbmwd6x70f8rwkqxbrws2ny9qghwhjk1xq412"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF OPTION TAB function similar to Pro Tools.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20OPTION%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
+        "sha256": "0h61mmmaj87gcryhp778lhd46hfcjw99w64g9rzr1xs906x2a5if"
       }
     ]
   },
@@ -555,6 +703,54 @@
       }
     ]
   },
+  "TJF ESCAPE KEY.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF ESCAPE KEY.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20ESCAPE%20KEY.lua",
+        "sha256": "0r91g1cy0mrdxns7lyjq3xn9k9b17hirwcgpdg97vq7rci3ibwjn"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF ESCAPE KEY.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20ESCAPE%20KEY.lua",
+        "sha256": "0r91g1cy0mrdxns7lyjq3xn9k9b17hirwcgpdg97vq7rci3ibwjn"
+      }
+    ]
+  },
+  "TJF Toggle Track SuperCollapsed.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Track SuperCollapsed.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Track%20SuperCollapsed.lua",
+        "sha256": "0504wgd0i16hvzlqbmwd6x70f8rwkqxbrws2ny9qghwhjk1xq412"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Track SuperCollapsed.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Track%20SuperCollapsed.lua",
+        "sha256": "0504wgd0i16hvzlqbmwd6x70f8rwkqxbrws2ny9qghwhjk1xq412"
+      }
+    ]
+  },
+  "TJF Toggle Session Stereo or 6channel.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Session Stereo or 6channel.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Session%20Stereo%20or%206channel.lua",
+        "sha256": "1hp4rjzym3wgw6ppinly0r1nclkdxcbxi53kzhg9s2j469vsgqjl"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Session Stereo or 6channel.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Session%20Stereo%20or%206channel.lua",
+        "sha256": "1hp4rjzym3wgw6ppinly0r1nclkdxcbxi53kzhg9s2j469vsgqjl"
+      }
+    ]
+  },
   "TJF Cycle Track size and Zoom to Selection (if any).lua": {
     "latest": [
       {
@@ -568,6 +764,54 @@
         "path": "Scripts/TJF Scripts/Session Navigation/TJF Cycle Track size and Zoom to Selection (if any).lua",
         "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Cycle%20Track%20size%20and%20Zoom%20to%20Selection%20(if%20any).lua",
         "sha256": "1hgia0zvvhcrzxq7xxxd1dwigy0iy6wpn77s5638jkjp738pqk7d"
+      }
+    ]
+  },
+  "TJF TAB function similar to Pro Tools.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF TAB function similar to Pro Tools.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
+        "sha256": "02blvirzmj78dqfqs8hnv4qi4ka6aac46fsxd07dpgz4iqihvrvr"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF TAB function similar to Pro Tools.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20TAB%20function%20similar%20to%20Pro%20Tools.lua",
+        "sha256": "02blvirzmj78dqfqs8hnv4qi4ka6aac46fsxd07dpgz4iqihvrvr"
+      }
+    ]
+  },
+  "TJF Decrease Selected Track Heights.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Decrease Selected Track Heights.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Decrease%20Selected%20Track%20Heights.lua",
+        "sha256": "0kg31c8fnzwl6kk3wn9jqf3bb1smrqbvdn21s26v7ygl5hig7pyk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Decrease Selected Track Heights.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Decrease%20Selected%20Track%20Heights.lua",
+        "sha256": "0kg31c8fnzwl6kk3wn9jqf3bb1smrqbvdn21s26v7ygl5hig7pyk"
+      }
+    ]
+  },
+  "TJF set time selection to item or open item properties if time already matches.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF set time selection to item or open item properties if time already matches.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20set%20time%20selection%20to%20item%20or%20open%20item%20properties%20if%20time%20already%20matches.lua",
+        "sha256": "1qhw6hhyw3lgq5mbr0fqw9h0y9vcb8mm6rfcj22msj16n5yarvar"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF set time selection to item or open item properties if time already matches.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20set%20time%20selection%20to%20item%20or%20open%20item%20properties%20if%20time%20already%20matches.lua",
+        "sha256": "1qhw6hhyw3lgq5mbr0fqw9h0y9vcb8mm6rfcj22msj16n5yarvar"
       }
     ]
   },
@@ -587,19 +831,19 @@
       }
     ]
   },
-  "TJF Toggle Tab to Transient.lua": {
+  "TJF Minimize all tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Tab to Transient.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Tab%20to%20Transient.lua",
-        "sha256": "0k95vnmk0jarzyi8n5aswkib6cr63z2hq81a6f0h7qm1jcjw1s1h"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Minimize all tracks.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Minimize%20all%20tracks.lua",
+        "sha256": "1g78fi1ylg0jybbcggnjp7428i33lyd07d81q3pw370wydjkddy1"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Session Navigation/TJF Toggle Tab to Transient.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Toggle%20Tab%20to%20Transient.lua",
-        "sha256": "0k95vnmk0jarzyi8n5aswkib6cr63z2hq81a6f0h7qm1jcjw1s1h"
+        "path": "Scripts/TJF Scripts/Session Navigation/TJF Minimize all tracks.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Session%20Navigation/TJF%20Minimize%20all%20tracks.lua",
+        "sha256": "1g78fi1ylg0jybbcggnjp7428i33lyd07d81q3pw370wydjkddy1"
       }
     ]
   },
@@ -648,173 +892,6 @@
         "path": "Scripts/TJF Scripts/Editing/Tracks/TJF Remove Any Empty Tracks in Session.lua",
         "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Tracks/TJF%20Remove%20Any%20Empty%20Tracks%20in%20Session.lua",
         "sha256": "0rrx3bim41jw4qxdryxn24xcqz461nanpl06xgdyds9db3h2mj2y"
-      }
-    ]
-  },
-  "TJF Move Edit Cursor and Selection to Mouse Cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Move Edit Cursor and Selection to Mouse Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/de948915cdd14c186a6d2b5ba0e61c5758696989/Editing/TJF%20Move%20Edit%20Cursor%20and%20Selection%20to%20Mouse%20Cursor.lua",
-        "sha256": "067p2yj8gqrwn3y2p046rwkdp6msjbq78r5x483p1g1rxrzf5mij"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Move Edit Cursor and Selection to Mouse Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/de948915cdd14c186a6d2b5ba0e61c5758696989/Editing/TJF%20Move%20Edit%20Cursor%20and%20Selection%20to%20Mouse%20Cursor.lua",
-        "sha256": "067p2yj8gqrwn3y2p046rwkdp6msjbq78r5x483p1g1rxrzf5mij"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Move Edit Cursor and Selection to Mouse Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ad02f95d47ea1a319622a9a13cbd4e13c3d68b85/Editing/TJF%20Move%20Edit%20Cursor%20and%20Selection%20to%20Mouse%20Cursor.lua",
-        "sha256": "18h4jyls9r9wvpzi6hddmfffl0b8c0jmf0gl1251k4959by81y7p"
-      }
-    ]
-  },
-  "TJF Hover Mode Toggle.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Hover Mode Toggle.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Hover%20Mode%20Toggle.lua",
-        "sha256": "0a7mgzy0ai41n9ik02qadik0flg1h2y6w5i92f2qnhr8zyb1s1zd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Hover Mode Toggle.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Hover%20Mode%20Toggle.lua",
-        "sha256": "0a7mgzy0ai41n9ik02qadik0flg1h2y6w5i92f2qnhr8zyb1s1zd"
-      }
-    ]
-  },
-  "TJF Glue Item (preserve FX Chain) and then open SampleEditor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Glue Item (preserve FX Chain) and then open SampleEditor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Glue%20Item%20(preserve%20FX%20Chain)%20and%20then%20open%20SampleEditor.lua",
-        "sha256": "16kwv39zgd2m37859ldyh797rs3rcdnqvmg5qpsnmd1khyh6z5bh"
-      }
-    ],
-    "1.02.3": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Glue Item (preserve FX Chain) and then open SampleEditor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Glue%20Item%20(preserve%20FX%20Chain)%20and%20then%20open%20SampleEditor.lua",
-        "sha256": "16kwv39zgd2m37859ldyh797rs3rcdnqvmg5qpsnmd1khyh6z5bh"
-      }
-    ]
-  },
-  "TJF Split Item to Time, Glue (preserve FX Chain), and open in SampleEditor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Split Item to Time, Glue (preserve FX Chain), and open in SampleEditor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Split%20Item%20to%20Time,%20Glue%20(preserve%20FX%20Chain),%20and%20open%20in%20SampleEditor.lua",
-        "sha256": "06h3gwfwsqfihgrsq42szmfl02w2bxvfzhlqmqf22riiwvjd42ym"
-      }
-    ],
-    "1.02.3": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Split Item to Time, Glue (preserve FX Chain), and open in SampleEditor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Split%20Item%20to%20Time,%20Glue%20(preserve%20FX%20Chain),%20and%20open%20in%20SampleEditor.lua",
-        "sha256": "06h3gwfwsqfihgrsq42szmfl02w2bxvfzhlqmqf22riiwvjd42ym"
-      }
-    ]
-  },
-  "TJF Toggle Move Mode.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Move Mode.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Move%20Mode.lua",
-        "sha256": "1wnhavgy4kprmnflvw9khm6bzv0bx7ifhky9b5wsc7nbskp4rfyl"
-      }
-    ],
-    "2.10": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Move Mode.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Move%20Mode.lua",
-        "sha256": "1wnhavgy4kprmnflvw9khm6bzv0bx7ifhky9b5wsc7nbskp4rfyl"
-      }
-    ]
-  },
-  "TJF Toggle Item Lock (matches first item).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Item Lock (matches first item).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Item%20Lock%20(matches%20first%20item).lua",
-        "sha256": "0kfs3jvvlhszp88ii6gp5snww2wqkyxiwyik19xfaxr8njz77i8p"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Item Lock (matches first item).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Item%20Lock%20(matches%20first%20item).lua",
-        "sha256": "0kfs3jvvlhszp88ii6gp5snww2wqkyxiwyik19xfaxr8njz77i8p"
-      }
-    ]
-  },
-  "TJF Add Stretch Marker (Hover Mode Dependant).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Add Stretch Marker (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Add%20Stretch%20Marker%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "01za0xqaqi6fmhkl5s8q4v06ci9186dhdq1x5nn87h3cgbznrfls"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/TJF Add Stretch Marker (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Add%20Stretch%20Marker%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "01za0xqaqi6fmhkl5s8q4v06ci9186dhdq1x5nn87h3cgbznrfls"
-      }
-    ]
-  },
-  "TJF Move Edit Cursor to End of Razor Edits.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to End of Razor Edits.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20End%20of%20Razor%20Edits.lua",
-        "sha256": "1mfkn07czbwkf49nnq8glmx5j9f9w8hmzd1056q85b8v2kq5jkf0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to End of Razor Edits.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20End%20of%20Razor%20Edits.lua",
-        "sha256": "1mfkn07czbwkf49nnq8glmx5j9f9w8hmzd1056q85b8v2kq5jkf0"
-      }
-    ]
-  },
-  "TJF Move Edit Cursor to Start of Razor Edits.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to Start of Razor Edits.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20Start%20of%20Razor%20Edits.lua",
-        "sha256": "0djd64ab6wwaq6b61nmc38kfkpqx54y4gc7c3hjcgdjrpzds9yky"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to Start of Razor Edits.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20Start%20of%20Razor%20Edits.lua",
-        "sha256": "0djd64ab6wwaq6b61nmc38kfkpqx54y4gc7c3hjcgdjrpzds9yky"
-      }
-    ]
-  },
-  "TJF Adjust Razor Edit Start to Edit Cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit Start to Edit Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20Start%20to%20Edit%20Cursor.lua",
-        "sha256": "00zb7f4s4gr6gvy2vr0ajh18w8w6338m3fwp71lzm3a27nkh2yak"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit Start to Edit Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20Start%20to%20Edit%20Cursor.lua",
-        "sha256": "00zb7f4s4gr6gvy2vr0ajh18w8w6338m3fwp71lzm3a27nkh2yak"
       }
     ]
   },
@@ -918,19 +995,51 @@
       }
     ]
   },
-  "TJF Link Time Selection to Razor Edits (deferred script).lua": {
+  "TJF Razor Edit-Enclose Media Items (leave selection).lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Link Time Selection to Razor Edits (deferred script).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Link%20Time%20Selection%20to%20Razor%20Edits%20(deferred%20script).lua",
-        "sha256": "0q7lkmgaslmk7yqx9md1wmjiqj971ij561rm3fagkzy0xala5p9a"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Razor Edit-Enclose Media Items (leave selection).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/b0afb32bb174cb78fb9a6d97233d97f564a94365/Editing/Razor%20Edit/TJF%20Razor%20Edit-Enclose%20Media%20Items%20(leave%20selection).lua",
+        "sha256": "00kr6m9vmfkxz9c66yca73zg4wjd6p0nqwv99a3f6lyc3jqr9w8i"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Link Time Selection to Razor Edits (deferred script).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Link%20Time%20Selection%20to%20Razor%20Edits%20(deferred%20script).lua",
-        "sha256": "0q7lkmgaslmk7yqx9md1wmjiqj971ij561rm3fagkzy0xala5p9a"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Razor Edit-Enclose Media Items (leave selection).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/b0afb32bb174cb78fb9a6d97233d97f564a94365/Editing/Razor%20Edit/TJF%20Razor%20Edit-Enclose%20Media%20Items%20(leave%20selection).lua",
+        "sha256": "00kr6m9vmfkxz9c66yca73zg4wjd6p0nqwv99a3f6lyc3jqr9w8i"
+      }
+    ]
+  },
+  "TJF Set Time Selection to Razor Edits.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Set Time Selection to Razor Edits.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Set%20Time%20Selection%20to%20Razor%20Edits.lua",
+        "sha256": "08zay5jmnq2nafcwgjnv6c7xrlg1fp5sfsk5g80xrx4hbmarz2j3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Set Time Selection to Razor Edits.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Set%20Time%20Selection%20to%20Razor%20Edits.lua",
+        "sha256": "08zay5jmnq2nafcwgjnv6c7xrlg1fp5sfsk5g80xrx4hbmarz2j3"
+      }
+    ]
+  },
+  "TJF Export Razor Edit to New Project.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Export Razor Edit to New Project.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/a780f510972fb9dbf9cc0930d152ff28aedfe5eb/Editing/Razor%20Edit/TJF%20Export%20Razor%20Edit%20to%20New%20Project.lua",
+        "sha256": "0s6mkfwdpzra290p763gsd2qx8qsc7c7wdgfyf92wqqwvg9lgj1b"
+      }
+    ],
+    "2.7": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Export Razor Edit to New Project.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/a780f510972fb9dbf9cc0930d152ff28aedfe5eb/Editing/Razor%20Edit/TJF%20Export%20Razor%20Edit%20to%20New%20Project.lua",
+        "sha256": "0s6mkfwdpzra290p763gsd2qx8qsc7c7wdgfyf92wqqwvg9lgj1b"
       }
     ]
   },
@@ -957,19 +1066,35 @@
       }
     ]
   },
-  "TJF Export Razor Edit to New Project.lua": {
+  "TJF Adjust Razor Edit End to Edit Cursor.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Export Razor Edit to New Project.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/a780f510972fb9dbf9cc0930d152ff28aedfe5eb/Editing/Razor%20Edit/TJF%20Export%20Razor%20Edit%20to%20New%20Project.lua",
-        "sha256": "0s6mkfwdpzra290p763gsd2qx8qsc7c7wdgfyf92wqqwvg9lgj1b"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit End to Edit Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20End%20to%20Edit%20Cursor.lua",
+        "sha256": "0f0wgskn1v6m2dnqa99yivqj0cp2rk0zmgn17pikamz7zz423y3c"
       }
     ],
-    "2.7": [
+    "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Export Razor Edit to New Project.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/a780f510972fb9dbf9cc0930d152ff28aedfe5eb/Editing/Razor%20Edit/TJF%20Export%20Razor%20Edit%20to%20New%20Project.lua",
-        "sha256": "0s6mkfwdpzra290p763gsd2qx8qsc7c7wdgfyf92wqqwvg9lgj1b"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit End to Edit Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20End%20to%20Edit%20Cursor.lua",
+        "sha256": "0f0wgskn1v6m2dnqa99yivqj0cp2rk0zmgn17pikamz7zz423y3c"
+      }
+    ]
+  },
+  "TJF Link Time Selection to Razor Edits (deferred script).lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Link Time Selection to Razor Edits (deferred script).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Link%20Time%20Selection%20to%20Razor%20Edits%20(deferred%20script).lua",
+        "sha256": "0q7lkmgaslmk7yqx9md1wmjiqj971ij561rm3fagkzy0xala5p9a"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Link Time Selection to Razor Edits (deferred script).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Link%20Time%20Selection%20to%20Razor%20Edits%20(deferred%20script).lua",
+        "sha256": "0q7lkmgaslmk7yqx9md1wmjiqj971ij561rm3fagkzy0xala5p9a"
       }
     ]
   },
@@ -986,22 +1111,6 @@
         "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF LINK Razor Edit and Item Selection.lua",
         "url": "https://github.com/sonictim/TJF-Scripts/raw/b0afb32bb174cb78fb9a6d97233d97f564a94365/Editing/Razor%20Edit/TJF%20LINK%20Razor%20Edit%20and%20Item%20Selection.lua",
         "sha256": "1ysfn9p07srfd0lwin9f9l6davz9faywqa9nrqjj2wq9fv36lx8k"
-      }
-    ]
-  },
-  "TJF LINK Razor Edit Selection with Folders, Item Grouping Affects Behavior.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF LINK Razor Edit Selection with Folders, Item Grouping Affects Behavior.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/287d4cad7296afa375f8336987a0ce188337b56c/Editing/Razor%20Edit/TJF%20LINK%20Razor%20Edit%20Selection%20with%20Folders,%20Item%20Grouping%20Affects%20Behavior.lua",
-        "sha256": "1v03ykng82ya6gpzbbsi7fk1sn1pa1ja1x1qi53hzwz3fcalinps"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF LINK Razor Edit Selection with Folders, Item Grouping Affects Behavior.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/287d4cad7296afa375f8336987a0ce188337b56c/Editing/Razor%20Edit/TJF%20LINK%20Razor%20Edit%20Selection%20with%20Folders,%20Item%20Grouping%20Affects%20Behavior.lua",
-        "sha256": "1v03ykng82ya6gpzbbsi7fk1sn1pa1ja1x1qi53hzwz3fcalinps"
       }
     ]
   },
@@ -1028,51 +1137,67 @@
       }
     ]
   },
-  "TJF Set Time Selection to Razor Edits.lua": {
+  "TJF Adjust Razor Edit Start to Edit Cursor.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Set Time Selection to Razor Edits.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Set%20Time%20Selection%20to%20Razor%20Edits.lua",
-        "sha256": "08zay5jmnq2nafcwgjnv6c7xrlg1fp5sfsk5g80xrx4hbmarz2j3"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit Start to Edit Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20Start%20to%20Edit%20Cursor.lua",
+        "sha256": "00zb7f4s4gr6gvy2vr0ajh18w8w6338m3fwp71lzm3a27nkh2yak"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Set Time Selection to Razor Edits.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/add7d9e6e9ce3e5e577cf1ba59e9e4e630c39728/Editing/Razor%20Edit/TJF%20Set%20Time%20Selection%20to%20Razor%20Edits.lua",
-        "sha256": "08zay5jmnq2nafcwgjnv6c7xrlg1fp5sfsk5g80xrx4hbmarz2j3"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit Start to Edit Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20Start%20to%20Edit%20Cursor.lua",
+        "sha256": "00zb7f4s4gr6gvy2vr0ajh18w8w6338m3fwp71lzm3a27nkh2yak"
       }
     ]
   },
-  "TJF Adjust Razor Edit End to Edit Cursor.lua": {
+  "TJF LINK Razor Edit Selection with Folders, Item Grouping Affects Behavior.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit End to Edit Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20End%20to%20Edit%20Cursor.lua",
-        "sha256": "0f0wgskn1v6m2dnqa99yivqj0cp2rk0zmgn17pikamz7zz423y3c"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF LINK Razor Edit Selection with Folders, Item Grouping Affects Behavior.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/287d4cad7296afa375f8336987a0ce188337b56c/Editing/Razor%20Edit/TJF%20LINK%20Razor%20Edit%20Selection%20with%20Folders,%20Item%20Grouping%20Affects%20Behavior.lua",
+        "sha256": "1v03ykng82ya6gpzbbsi7fk1sn1pa1ja1x1qi53hzwz3fcalinps"
       }
     ],
-    "1.0": [
+    "2.1": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Adjust Razor Edit End to Edit Cursor.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8139e1115f7c6584a687ec5d24e9693f2aad49ce/Editing/Razor%20Edit/TJF%20Adjust%20Razor%20Edit%20End%20to%20Edit%20Cursor.lua",
-        "sha256": "0f0wgskn1v6m2dnqa99yivqj0cp2rk0zmgn17pikamz7zz423y3c"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF LINK Razor Edit Selection with Folders, Item Grouping Affects Behavior.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/287d4cad7296afa375f8336987a0ce188337b56c/Editing/Razor%20Edit/TJF%20LINK%20Razor%20Edit%20Selection%20with%20Folders,%20Item%20Grouping%20Affects%20Behavior.lua",
+        "sha256": "1v03ykng82ya6gpzbbsi7fk1sn1pa1ja1x1qi53hzwz3fcalinps"
       }
     ]
   },
-  "TJF Razor Edit-Enclose Media Items (leave selection).lua": {
+  "TJF Move Edit Cursor to End of Razor Edits.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Razor Edit-Enclose Media Items (leave selection).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/b0afb32bb174cb78fb9a6d97233d97f564a94365/Editing/Razor%20Edit/TJF%20Razor%20Edit-Enclose%20Media%20Items%20(leave%20selection).lua",
-        "sha256": "00kr6m9vmfkxz9c66yca73zg4wjd6p0nqwv99a3f6lyc3jqr9w8i"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to End of Razor Edits.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20End%20of%20Razor%20Edits.lua",
+        "sha256": "1mfkn07czbwkf49nnq8glmx5j9f9w8hmzd1056q85b8v2kq5jkf0"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Razor Edit-Enclose Media Items (leave selection).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/b0afb32bb174cb78fb9a6d97233d97f564a94365/Editing/Razor%20Edit/TJF%20Razor%20Edit-Enclose%20Media%20Items%20(leave%20selection).lua",
-        "sha256": "00kr6m9vmfkxz9c66yca73zg4wjd6p0nqwv99a3f6lyc3jqr9w8i"
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to End of Razor Edits.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20End%20of%20Razor%20Edits.lua",
+        "sha256": "1mfkn07czbwkf49nnq8glmx5j9f9w8hmzd1056q85b8v2kq5jkf0"
+      }
+    ]
+  },
+  "TJF Move Edit Cursor to Start of Razor Edits.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to Start of Razor Edits.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20Start%20of%20Razor%20Edits.lua",
+        "sha256": "0djd64ab6wwaq6b61nmc38kfkpqx54y4gc7c3hjcgdjrpzds9yky"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Razor Edit/TJF Move Edit Cursor to Start of Razor Edits.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/06ad9ea334095c8cfef82274cfbdd0599c336602/Editing/Razor%20Edit/TJF%20Move%20Edit%20Cursor%20to%20Start%20of%20Razor%20Edits.lua",
+        "sha256": "0djd64ab6wwaq6b61nmc38kfkpqx54y4gc7c3hjcgdjrpzds9yky"
       }
     ]
   },
@@ -1131,6 +1256,29 @@
       }
     ]
   },
+  "TJF Nudge Increase BOTH Fade legths.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase BOTH Fade legths.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20BOTH%20Fade%20legths.lua",
+        "sha256": "1bjycii0bjff5lvv4xx7zbxakzxq62zysaw9vzg9qyqd1f88s4x1"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase BOTH Fade legths.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20BOTH%20Fade%20legths.lua",
+        "sha256": "1bjycii0bjff5lvv4xx7zbxakzxq62zysaw9vzg9qyqd1f88s4x1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase BOTH Fade legths.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/3542db0774c9c7e7997f1cf9b76a520baae0d7bb/Editing/Nudge/TJF%20Nudge%20Increase%20BOTH%20Fade%20legths.lua",
+        "sha256": "1jkf5dg1ir9d147k37yiiskp6330mfljwwq3rk7q63i9z3qya5xs"
+      }
+    ]
+  },
   "TJF Nudge Decrease Fade IN legth.lua": {
     "latest": [
       {
@@ -1177,19 +1325,26 @@
       }
     ]
   },
-  "TJF_Nudge selected items volume -3db.eel": {
+  "TJF Nudge Increase Fade IN legth.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume -3db.eel",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20-3db.eel",
-        "sha256": "04k4ay2im2lpd07c0196jqz5mw6mwn8sblxya0mlalzqs02q9cdl"
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase Fade IN legth.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20Fade%20IN%20legth.lua",
+        "sha256": "0azrvww7k2v6v8nlqrlaycrhy8g9hinc7jk25k6bn6qmq0p66j6j"
       }
     ],
-    "1.0.1": [
+    "1.01": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume -3db.eel",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20-3db.eel",
-        "sha256": "04k4ay2im2lpd07c0196jqz5mw6mwn8sblxya0mlalzqs02q9cdl"
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase Fade IN legth.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20Fade%20IN%20legth.lua",
+        "sha256": "0azrvww7k2v6v8nlqrlaycrhy8g9hinc7jk25k6bn6qmq0p66j6j"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase Fade IN legth.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/3542db0774c9c7e7997f1cf9b76a520baae0d7bb/Editing/Nudge/TJF%20Nudge%20Increase%20Fade%20IN%20legth.lua",
+        "sha256": "0w0m1qwdx8kvza1n9kq10zz8qkj32k332rlvcaan9y74zjlk6s02"
       }
     ]
   },
@@ -1216,68 +1371,6 @@
       }
     ]
   },
-  "TJF Nudge Increase Fade IN legth.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase Fade IN legth.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20Fade%20IN%20legth.lua",
-        "sha256": "0azrvww7k2v6v8nlqrlaycrhy8g9hinc7jk25k6bn6qmq0p66j6j"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase Fade IN legth.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20Fade%20IN%20legth.lua",
-        "sha256": "0azrvww7k2v6v8nlqrlaycrhy8g9hinc7jk25k6bn6qmq0p66j6j"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase Fade IN legth.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/3542db0774c9c7e7997f1cf9b76a520baae0d7bb/Editing/Nudge/TJF%20Nudge%20Increase%20Fade%20IN%20legth.lua",
-        "sha256": "0w0m1qwdx8kvza1n9kq10zz8qkj32k332rlvcaan9y74zjlk6s02"
-      }
-    ]
-  },
-  "TJF_Nudge selected items volume +3db.eel": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume +3db.eel",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20+3db.eel",
-        "sha256": "05gz6dkq4pyasibyqa6m94pch19caz3zbxm9gp157hs206c33rsf"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume +3db.eel",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20+3db.eel",
-        "sha256": "05gz6dkq4pyasibyqa6m94pch19caz3zbxm9gp157hs206c33rsf"
-      }
-    ]
-  },
-  "TJF Nudge Increase BOTH Fade legths.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase BOTH Fade legths.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20BOTH%20Fade%20legths.lua",
-        "sha256": "1bjycii0bjff5lvv4xx7zbxakzxq62zysaw9vzg9qyqd1f88s4x1"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase BOTH Fade legths.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/ae6f71936122451602db362084185b9ade681e3f/Editing/Nudge/TJF%20Nudge%20Increase%20BOTH%20Fade%20legths.lua",
-        "sha256": "1bjycii0bjff5lvv4xx7zbxakzxq62zysaw9vzg9qyqd1f88s4x1"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF Nudge Increase BOTH Fade legths.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/3542db0774c9c7e7997f1cf9b76a520baae0d7bb/Editing/Nudge/TJF%20Nudge%20Increase%20BOTH%20Fade%20legths.lua",
-        "sha256": "1jkf5dg1ir9d147k37yiiskp6330mfljwwq3rk7q63i9z3qya5xs"
-      }
-    ]
-  },
   "TJF Nudge Decrease Fade OUT legth.lua": {
     "latest": [
       {
@@ -1301,349 +1394,298 @@
       }
     ]
   },
-  "TJF OPTIONS - Toggle Check Edit Cursor for Protools Sytle Automation Write and Glide Functions.lua": {
+  "TJF_Nudge selected items volume -3db.eel": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF OPTIONS - Toggle Check Edit Cursor for Protools Sytle Automation Write and Glide Functions.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20OPTIONS%20-%20Toggle%20Check%20Edit%20Cursor%20for%20Protools%20Sytle%20Automation%20Write%20and%20Glide%20Functions.lua",
-        "sha256": "0hsdwlwc4qgcb1dr8np0im8a1l9b4whcmi34anrihj6f73s53k1c"
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume -3db.eel",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20-3db.eel",
+        "sha256": "04k4ay2im2lpd07c0196jqz5mw6mwn8sblxya0mlalzqs02q9cdl"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume -3db.eel",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20-3db.eel",
+        "sha256": "04k4ay2im2lpd07c0196jqz5mw6mwn8sblxya0mlalzqs02q9cdl"
+      }
+    ]
+  },
+  "TJF_Nudge selected items volume +3db.eel": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume +3db.eel",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20+3db.eel",
+        "sha256": "05gz6dkq4pyasibyqa6m94pch19caz3zbxm9gp157hs206c33rsf"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Nudge/TJF_Nudge selected items volume +3db.eel",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Nudge/TJF_Nudge%20selected%20items%20volume%20+3db.eel",
+        "sha256": "05gz6dkq4pyasibyqa6m94pch19caz3zbxm9gp157hs206c33rsf"
+      }
+    ]
+  },
+  "TJF Playback at Half Speed once.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF Playback at Half Speed once.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Playback%20at%20Half%20Speed%20once.lua",
+        "sha256": "02b5dj36xlflwclm9b51lizz5qm6wfbjav7x7dwdxqcq3vpgm8a2"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF Playback at Half Speed once.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Playback%20at%20Half%20Speed%20once.lua",
+        "sha256": "02b5dj36xlflwclm9b51lizz5qm6wfbjav7x7dwdxqcq3vpgm8a2"
+      }
+    ]
+  },
+  "TJF Toggle Link Loop Selection to Time Selection on Playback.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Link Loop Selection to Time Selection on Playback.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Link%20Loop%20Selection%20to%20Time%20Selection%20on%20Playback.lua",
+        "sha256": "07mr2k3kqyjj5i52l4sxwh1jzrra8vwk02wkbvjr6hkcr3jg7k19"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Link Loop Selection to Time Selection on Playback.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Link%20Loop%20Selection%20to%20Time%20Selection%20on%20Playback.lua",
+        "sha256": "07mr2k3kqyjj5i52l4sxwh1jzrra8vwk02wkbvjr6hkcr3jg7k19"
+      }
+    ]
+  },
+  "TJF playback that reads insertion toggle.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF playback that reads insertion toggle.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20playback%20that%20reads%20insertion%20toggle.lua",
+        "sha256": "14c7fs8fz6wgjkwf7n6pqyxibbywlqx2r6cnhdizin0cgs2iayfc"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF playback that reads insertion toggle.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20playback%20that%20reads%20insertion%20toggle.lua",
+        "sha256": "14c7fs8fz6wgjkwf7n6pqyxibbywlqx2r6cnhdizin0cgs2iayfc"
+      }
+    ]
+  },
+  "TJF Toggle Insertion follows Playback.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Insertion follows Playback.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Insertion%20follows%20Playback.lua",
+        "sha256": "0va3rcy8yc9cy57iip3yfyvylb2q47qvbk2h7gx18szwa7lxxcvq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Insertion follows Playback.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Insertion%20follows%20Playback.lua",
+        "sha256": "0va3rcy8yc9cy57iip3yfyvylb2q47qvbk2h7gx18szwa7lxxcvq"
+      }
+    ]
+  },
+  "TJF Rename and Format Items and SOURCE.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items and SOURCE.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Rename%20and%20Format%20Items%20and%20SOURCE.lua",
+        "sha256": "13mfn2qhvhf4b67n8g7wiw88lk6s2yvzhkk13iphg2hmsxyqz8vr"
       }
     ],
     "2.1": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF OPTIONS - Toggle Check Edit Cursor for Protools Sytle Automation Write and Glide Functions.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20OPTIONS%20-%20Toggle%20Check%20Edit%20Cursor%20for%20Protools%20Sytle%20Automation%20Write%20and%20Glide%20Functions.lua",
-        "sha256": "0hsdwlwc4qgcb1dr8np0im8a1l9b4whcmi34anrihj6f73s53k1c"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items and SOURCE.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Rename%20and%20Format%20Items%20and%20SOURCE.lua",
+        "sha256": "13mfn2qhvhf4b67n8g7wiw88lk6s2yvzhkk13iphg2hmsxyqz8vr"
       }
     ]
   },
-  "TJF Toggle Volume (preFX) Envelope Visible for Track or Items if Items are selected.lua": {
+  "TJF Cycle Through Take Channels (Stereo).lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume (preFX) Envelope Visible for Track or Items if Items are selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20(preFX)%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
-        "sha256": "1q0r7kzyajbmbwjswqfbsw3rpv8ib02df4ph5n15mf4rkjd9xkgq"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume (preFX) Envelope Visible for Track or Items if Items are selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20(preFX)%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
-        "sha256": "1q0r7kzyajbmbwjswqfbsw3rpv8ib02df4ph5n15mf4rkjd9xkgq"
-      }
-    ]
-  },
-  "TJF Punch Visible Envelopes 2 (razor edit support).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Visible Envelopes 2 (razor edit support).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Visible%20Envelopes%202%20(razor%20edit%20support).lua",
-        "sha256": "00a3v720mnh1134mkkvh79djzrvbl4ssf7gvlm18hmghc23asrqg"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Visible Envelopes 2 (razor edit support).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Visible%20Envelopes%202%20(razor%20edit%20support).lua",
-        "sha256": "00a3v720mnh1134mkkvh79djzrvbl4ssf7gvlm18hmghc23asrqg"
-      }
-    ]
-  },
-  "TJF Punch Write Envelope Points to all Visible Envelopes to Time Selection or Selected Items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Write Envelope Points to all Visible Envelopes to Time Selection or Selected Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Write%20Envelope%20Points%20to%20all%20Visible%20Envelopes%20to%20Time%20Selection%20or%20Selected%20Items.lua",
-        "sha256": "0raib5gzrc0vkdvc8ii5glbkby7n106x1jqnccxspxwc4anvxndd"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels (Stereo).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels%20(Stereo).lua",
+        "sha256": "158ilrm7kg7yz9nkfldz812prvaylkqqary1y45zdm52z3374rrl"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Punch Write Envelope Points to all Visible Envelopes to Time Selection or Selected Items.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Punch%20Write%20Envelope%20Points%20to%20all%20Visible%20Envelopes%20to%20Time%20Selection%20or%20Selected%20Items.lua",
-        "sha256": "0raib5gzrc0vkdvc8ii5glbkby7n106x1jqnccxspxwc4anvxndd"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels (Stereo).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels%20(Stereo).lua",
+        "sha256": "158ilrm7kg7yz9nkfldz812prvaylkqqary1y45zdm52z3374rrl"
       }
     ]
   },
-  "TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua": {
+  "TJF Rename and Format Items.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Toggle%20Last%20Touched%20FX%20Envelope%20Visible,Hide%20Others.lua",
-        "sha256": "1j5ahws3qscmn1vzf2rjqmr9wlj4mzjansnvx14026ms6bqgpns5"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/2dbc2b7ac8d3f1c9d010ea6dde17312c91d8b8d9/Editing/Takes/TJF%20Rename%20and%20Format%20Items.lua",
+        "sha256": "0x1jzqlhyywdmk4g67bsjkrz3fv8aq5hq9qsdxyi7m8cw9pf49ly"
       }
     ],
-    "1.6": [
+    "1.1": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Toggle%20Last%20Touched%20FX%20Envelope%20Visible,Hide%20Others.lua",
-        "sha256": "1j5ahws3qscmn1vzf2rjqmr9wlj4mzjansnvx14026ms6bqgpns5"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Last Touched FX Envelope Visible,Hide Others.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Last%20Touched%20FX%20Envelope%20Visible,Hide%20Others.lua",
-        "sha256": "02aw6vpsnag67as5n5ps6ry49yhws3l5aww4w52xaiyxh88v3a9a"
-      }
-    ]
-  },
-  "TJF Add 4 Envelope Points to ALL Envelopes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to ALL Envelopes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20ALL%20Envelopes.lua",
-        "sha256": "00wvw8fsrdgs3snc636g8nfidp7zq3vl0hkqj047dpwi4qqg04gd"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/2dbc2b7ac8d3f1c9d010ea6dde17312c91d8b8d9/Editing/Takes/TJF%20Rename%20and%20Format%20Items.lua",
+        "sha256": "0x1jzqlhyywdmk4g67bsjkrz3fv8aq5hq9qsdxyi7m8cw9pf49ly"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to ALL Envelopes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20ALL%20Envelopes.lua",
-        "sha256": "00wvw8fsrdgs3snc636g8nfidp7zq3vl0hkqj047dpwi4qqg04gd"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Rename and Format Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Rename%20and%20Format%20Items.lua",
+        "sha256": "1bi2g8h1z3lnqrzb2pyrj1i3995cy78khz2l30dq7shirz016kfx"
       }
     ]
   },
-  "TJF Arm ALL Envelopes Selected Tracks.lua": {
+  "TJF Route All Mono Sounds to Center Channel via Takes.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes Selected Tracks.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes%20Selected%20Tracks.lua",
-        "sha256": "0qf9pzs04zd90crbmy1f747drmf5131hi0lk0fvf5z8rb9a0w20l"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Route All Mono Sounds to Center Channel via Takes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Route%20All%20Mono%20Sounds%20to%20Center%20Channel%20via%20Takes.lua",
+        "sha256": "031fvj6qb07jpsrhz9jrpzkdqkyk06yk0l803pl3dl3k6aq9gavf"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes Selected Tracks.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes%20Selected%20Tracks.lua",
-        "sha256": "0qf9pzs04zd90crbmy1f747drmf5131hi0lk0fvf5z8rb9a0w20l"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Route All Mono Sounds to Center Channel via Takes.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Route%20All%20Mono%20Sounds%20to%20Center%20Channel%20via%20Takes.lua",
+        "sha256": "031fvj6qb07jpsrhz9jrpzkdqkyk06yk0l803pl3dl3k6aq9gavf"
       }
     ]
   },
-  "TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua": {
+  "TJF Set Take to Mono.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "15ljpxnwdnkkzwkigvyy0arj7bxlyiscdh3qw4al7nqyln4awzr2"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Set Take to Mono.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Set%20Take%20to%20Mono.lua",
+        "sha256": "1xlznfvccjz24g1wgb0y7jy86201n5b7habwikhprj9k3781fgyx"
       }
     ],
-    "2.4": [
+    "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "15ljpxnwdnkkzwkigvyy0arj7bxlyiscdh3qw4al7nqyln4awzr2"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/fc6a4addc695e3cd989538745afe57887aa774cf/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "0nn5lb2yy5hcq4whh5hzqzrbp4214da68w6pbl0fnwankx4r0xb1"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch ALL envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Write%20Punch%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "0d080afkiz94r1kydd9y0n1yimk8cpl1ksdy9h0g72s8560mqz6a"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Set Take to Mono.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Set%20Take%20to%20Mono.lua",
+        "sha256": "1xlznfvccjz24g1wgb0y7jy86201n5b7habwikhprj9k3781fgyx"
       }
     ]
   },
-  "TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua": {
+  "TJF Explode Media Items into new Mono Items for each Channel of Source Media.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "1ixh99ssnx5i676cwpjbqnlyaq8f9jqjfmysyb1hs1jj0gcc3wzy"
-      }
-    ],
-    "2.4": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/c25a5190de133d9778e9e56aa221f7f6220ea7c1/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "1ixh99ssnx5i676cwpjbqnlyaq8f9jqjfmysyb1hs1jj0gcc3wzy"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/fc6a4addc695e3cd989538745afe57887aa774cf/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "0qmaqz1w11dldaq3hc5nmfnh8zi8ms1ds1gyif87m13ian83cl6g"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Write Punch All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Write%20Punch%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "0rgqmnc364xj23q8ipka2x5jk1cpcl08cvmjzfjjqgfv1kracsnv"
-      }
-    ]
-  },
-  "TJF GLIDE All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "0fkh0rsgm211by2il7albqxaa07id4wdfvamqlp40bjf3cb9axbq"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE All VISIBLE envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20All%20VISIBLE%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "0fkh0rsgm211by2il7albqxaa07id4wdfvamqlp40bjf3cb9axbq"
-      }
-    ]
-  },
-  "TJF GLIDE ALL envelopes to Time, RazorEdit, or Item Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE ALL envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "1392jng8pankx5ym14y6fvy4aq6szqqnmjwz4ps7n3fz77m83zg0"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF GLIDE ALL envelopes to Time, RazorEdit, or Item Selection.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20GLIDE%20ALL%20envelopes%20to%20Time,%20RazorEdit,%20or%20Item%20Selection.lua",
-        "sha256": "1392jng8pankx5ym14y6fvy4aq6szqqnmjwz4ps7n3fz77m83zg0"
-      }
-    ]
-  },
-  "TJF Toggle Pan Envelope Visible for Track or Items if Items are selected.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Pan Envelope Visible for Track or Items if Items are selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Pan%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
-        "sha256": "12mmya5a9na5pg7z1q5pwbd31rvyr8il92kfcbxdvbzbqlxyliza"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Pan Envelope Visible for Track or Items if Items are selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Pan%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
-        "sha256": "12mmya5a9na5pg7z1q5pwbd31rvyr8il92kfcbxdvbzbqlxyliza"
-      }
-    ]
-  },
-  "TJF Toggle Item Pitch Envelope Visible.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Item Pitch Envelope Visible.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Item%20Pitch%20Envelope%20Visible.lua",
-        "sha256": "1n2bczc2dsa7160w4q6xv2p8hfdicjgci9ja1fzkw36lgpzl6a0z"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Item Pitch Envelope Visible.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Item%20Pitch%20Envelope%20Visible.lua",
-        "sha256": "1n2bczc2dsa7160w4q6xv2p8hfdicjgci9ja1fzkw36lgpzl6a0z"
-      }
-    ]
-  },
-  "TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Show%20Last%20Touched%20FX%20Envelope%20Hide%20Others%20Deferred%20(stays%20active).lua",
-        "sha256": "0pxajzwqkar1vic5x3dsisbs63k1m267p1vkcfk320q85i68c02i"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4443c6fe0a7dcf6a21388197b684b9af8ad97bc9/Envelopes%20or%20Automation/TJF%20Show%20Last%20Touched%20FX%20Envelope%20Hide%20Others%20Deferred%20(stays%20active).lua",
-        "sha256": "0pxajzwqkar1vic5x3dsisbs63k1m267p1vkcfk320q85i68c02i"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Show Last Touched FX Envelope Hide Others Deferred (stays active).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Show%20Last%20Touched%20FX%20Envelope%20Hide%20Others%20Deferred%20(stays%20active).lua",
-        "sha256": "075im0k948w981510pfzffm2w7yrm315cpw7fadcrzjfdxjyqf0x"
-      }
-    ]
-  },
-  "TJF Coalesce Take Volume to Track Volume.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Take Volume to Track Volume.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Take%20Volume%20to%20Track%20Volume.lua",
-        "sha256": "12dnv0487y4y2hmg3him4bx5y459w1b5qiblja9l0yvm6z9hw4sm"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Explode Media Items into new Mono Items for each Channel of Source Media.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/18a6ef02c22ffb3f7bcc0e3b0ef4c914f0bd5058/Editing/Takes/TJF%20Explode%20Media%20Items%20into%20new%20Mono%20Items%20for%20each%20Channel%20of%20Source%20Media.lua",
+        "sha256": "0hg8bvgsnh0z1xpfxw4mp7b6ip8zm8s10zyz90qsm9lljmll184i"
       }
     ],
     "0.1": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Take Volume to Track Volume.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Take%20Volume%20to%20Track%20Volume.lua",
-        "sha256": "12dnv0487y4y2hmg3him4bx5y459w1b5qiblja9l0yvm6z9hw4sm"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Explode Media Items into new Mono Items for each Channel of Source Media.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/18a6ef02c22ffb3f7bcc0e3b0ef4c914f0bd5058/Editing/Takes/TJF%20Explode%20Media%20Items%20into%20new%20Mono%20Items%20for%20each%20Channel%20of%20Source%20Media.lua",
+        "sha256": "0hg8bvgsnh0z1xpfxw4mp7b6ip8zm8s10zyz90qsm9lljmll184i"
       }
     ]
   },
-  "TJF Coalesce Track Volume to Take Volume.lua": {
+  "TJF Toggle Take Channel stereo flip.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Track Volume to Take Volume.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Track%20Volume%20to%20Take%20Volume.lua",
-        "sha256": "1npzi151kggp258wlranl789xdzrbljmk1ci1q6bkmv2hgwprpha"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Coalesce Track Volume to Take Volume.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/8106bebf8644f4df42e271c6ab0a5366f2dc3710/Envelopes%20or%20Automation/TJF%20Coalesce%20Track%20Volume%20to%20Take%20Volume.lua",
-        "sha256": "1npzi151kggp258wlranl789xdzrbljmk1ci1q6bkmv2hgwprpha"
-      }
-    ]
-  },
-  "TJF Arm ALL Envelopes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes.lua",
-        "sha256": "049iaf15xbmplpadhbvmwqz4yl9n3i7yj3qx87wndks8d9d2gaj2"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Take Channel stereo flip.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Take%20Channel%20stereo%20flip.lua",
+        "sha256": "1k0rnzsiwd3wlwiimn3k0pv9zxalxzr2x0ncnxma51kwjna5h9dp"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Arm ALL Envelopes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Arm%20ALL%20Envelopes.lua",
-        "sha256": "049iaf15xbmplpadhbvmwqz4yl9n3i7yj3qx87wndks8d9d2gaj2"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Take Channel stereo flip.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Take%20Channel%20stereo%20flip.lua",
+        "sha256": "1k0rnzsiwd3wlwiimn3k0pv9zxalxzr2x0ncnxma51kwjna5h9dp"
       }
     ]
   },
-  "TJF Add 4 Envelope Points to VISIBLE Envelopes.lua": {
+  "TJF Cycle Through Take Channels.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to VISIBLE Envelopes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20VISIBLE%20Envelopes.lua",
-        "sha256": "0fjqz00d6fp0dshyhb15i3clggsgl36nc7hgzhaxjvcl84krq16g"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels.lua",
+        "sha256": "11w230if7ikqvxqs9cqpskiadnwp29wlj4l1pmfhgab2hz6k75db"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Add 4 Envelope Points to VISIBLE Envelopes.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Add%204%20Envelope%20Points%20to%20VISIBLE%20Envelopes.lua",
-        "sha256": "0fjqz00d6fp0dshyhb15i3clggsgl36nc7hgzhaxjvcl84krq16g"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Cycle Through Take Channels.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Cycle%20Through%20Take%20Channels.lua",
+        "sha256": "11w230if7ikqvxqs9cqpskiadnwp29wlj4l1pmfhgab2hz6k75db"
       }
     ]
   },
-  "TJF Toggle Volume Envelope Visible for Track or Items if Items are selected.lua": {
+  "TJF Smart (or Possibly Anger Inducing) Mute Item Toggle.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume Envelope Visible for Track or Items if Items are selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
-        "sha256": "140a54ry5dsxd9z8s75bz8lpf2ia7zxv1kxdi5jsh1klb32hr9bg"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Smart (or Possibly Anger Inducing) Mute Item Toggle.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Smart%20(or%20Possibly%20Anger%20Inducing)%20Mute%20Item%20Toggle.lua",
+        "sha256": "0vx94bdgppna2zcm8387r3srhd7kcqlkz1pq7vdcjicgsan1swqn"
       }
     ],
-    "2.0": [
+    "1.2": [
       {
-        "path": "Scripts/TJF Scripts/Envelopes or Automation/TJF Toggle Volume Envelope Visible for Track or Items if Items are selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Envelopes%20or%20Automation/TJF%20Toggle%20Volume%20Envelope%20Visible%20for%20Track%20or%20Items%20if%20Items%20are%20selected.lua",
-        "sha256": "140a54ry5dsxd9z8s75bz8lpf2ia7zxv1kxdi5jsh1klb32hr9bg"
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Smart (or Possibly Anger Inducing) Mute Item Toggle.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Smart%20(or%20Possibly%20Anger%20Inducing)%20Mute%20Item%20Toggle.lua",
+        "sha256": "0vx94bdgppna2zcm8387r3srhd7kcqlkz1pq7vdcjicgsan1swqn"
+      }
+    ]
+  },
+  "TJF Toggle Mute (Match First Selected).lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Mute (Match First Selected).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Mute%20(Match%20First%20Selected).lua",
+        "sha256": "1xnkf3hwxg6mf05a9r94bdbacm33yac0bhvzmr44lh4iq6z9pr78"
+      }
+    ],
+    "2.5": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Toggle Mute (Match First Selected).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Toggle%20Mute%20(Match%20First%20Selected).lua",
+        "sha256": "1xnkf3hwxg6mf05a9r94bdbacm33yac0bhvzmr44lh4iq6z9pr78"
+      }
+    ]
+  },
+  "TJF Simple UCS Format and Rename Items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Simple UCS Format and Rename Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Simple%20UCS%20Format%20and%20Rename%20Items.lua",
+        "sha256": "097q26rsjsk6qpds27c2i96q50wm7n2s1b0badsnzfliivwn013s"
+      }
+    ],
+    "3.1": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Simple UCS Format and Rename Items.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Takes/TJF%20Simple%20UCS%20Format%20and%20Rename%20Items.lua",
+        "sha256": "097q26rsjsk6qpds27c2i96q50wm7n2s1b0badsnzfliivwn013s"
+      }
+    ]
+  },
+  "TJF Add Sync Point (Hover Mode Dependent).lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Add Sync Point (Hover Mode Dependent).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ef09ae17636a6529dce4f5fab8730b76c1ecf8f7/Editing/Takes/TJF%20Add%20Sync%20Point%20(Hover%20Mode%20Dependent).lua",
+        "sha256": "0i895n0vwd44aprhwqzbqlij66fgz13iq0xhw2f7nzdgj2x05djg"
+      }
+    ],
+    "2.01": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Takes/TJF Add Sync Point (Hover Mode Dependent).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ef09ae17636a6529dce4f5fab8730b76c1ecf8f7/Editing/Takes/TJF%20Add%20Sync%20Point%20(Hover%20Mode%20Dependent).lua",
+        "sha256": "0i895n0vwd44aprhwqzbqlij66fgz13iq0xhw2f7nzdgj2x05djg"
       }
     ]
   },
@@ -1693,100 +1735,122 @@
       }
     ]
   },
-  "TJF SmartFade.lua": {
+  "TJF Split Item to Time, Glue (preserve FX Chain), and open in SampleEditor.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/6dc6b9830ff6f099c7155e78a3c39d1f13136247/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1m80z3w4d7xbiv3nlqm4dd0qkzm8f7h1hfgk10ixcsw3xp9daak8"
+        "path": "Scripts/TJF Scripts/Editing/TJF Split Item to Time, Glue (preserve FX Chain), and open in SampleEditor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Split%20Item%20to%20Time,%20Glue%20(preserve%20FX%20Chain),%20and%20open%20in%20SampleEditor.lua",
+        "sha256": "06h3gwfwsqfihgrsq42szmfl02w2bxvfzhlqmqf22riiwvjd42ym"
       }
     ],
-    "1.8": [
+    "1.02.3": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/6dc6b9830ff6f099c7155e78a3c39d1f13136247/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1m80z3w4d7xbiv3nlqm4dd0qkzm8f7h1hfgk10ixcsw3xp9daak8"
+        "path": "Scripts/TJF Scripts/Editing/TJF Split Item to Time, Glue (preserve FX Chain), and open in SampleEditor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Split%20Item%20to%20Time,%20Glue%20(preserve%20FX%20Chain),%20and%20open%20in%20SampleEditor.lua",
+        "sha256": "06h3gwfwsqfihgrsq42szmfl02w2bxvfzhlqmqf22riiwvjd42ym"
       }
-    ],
-    "1.7": [
+    ]
+  },
+  "TJF Toggle Item Lock (matches first item).lua": {
+    "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/3fd62f4510b12acf62bda6954a054334cbb98e79/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "0jbha02izn5kfa5cxp2y390dsxj41hz7b2scw42yihfxla43bdmp"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/0a1c77963dd332638de336d47cab75dc8e79c1d1/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1p4bkmi9zq1lamphrb8irivfzwbhg26lr1nlvkwfnq1xrdcsbhkz"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/898ad84ed80d79026fc64f2504405d7a034b7d91/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "180aqskagqj34vs8vxvg9bn4p6l1cmlq84yn15x84c0740hpaq7z"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/f62c892851135be7056ae16b52de0235ea6e8bcb/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1vl9fh2zl1yvxq39wf9hak9k40fp6ywsl281dkap33cp92kjghpi"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/3542db0774c9c7e7997f1cf9b76a520baae0d7bb/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1rqp1ishzfrar214qpidw9b7l5gwbi5w8a1f0yskn4xgbd3bpv9l"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/93fa63ee24b4dd44a3b5ac32e214c5939b111d81/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1qpksa9vpxh5bc8ch629qwm9fz9s2zng52hxki7xijbz9cg3s9jq"
+        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Item Lock (matches first item).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Item%20Lock%20(matches%20first%20item).lua",
+        "sha256": "0kfs3jvvlhszp88ii6gp5snww2wqkyxiwyik19xfaxr8njz77i8p"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF SmartFade.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20SmartFade.lua",
-        "sha256": "1zipblw0yckkrj9ycy7x82vdc7qnm9blrv14xijlp2mjlkvg6vqz"
+        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Item Lock (matches first item).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Item%20Lock%20(matches%20first%20item).lua",
+        "sha256": "0kfs3jvvlhszp88ii6gp5snww2wqkyxiwyik19xfaxr8njz77i8p"
       }
     ]
   },
-  "TJF Fade Out From Edit Cursor Or Mouse (Hover Mode Dependant).lua": {
+  "TJF Hover Mode Toggle.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade Out From Edit Cursor Or Mouse (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20Out%20From%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "1i2zh8x5gzk7saqi5px38b141hrwhaljnxg6vc9i45zzxpdzkrrw"
+        "path": "Scripts/TJF Scripts/Editing/TJF Hover Mode Toggle.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Hover%20Mode%20Toggle.lua",
+        "sha256": "0a7mgzy0ai41n9ik02qadik0flg1h2y6w5i92f2qnhr8zyb1s1zd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Hover Mode Toggle.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Hover%20Mode%20Toggle.lua",
+        "sha256": "0a7mgzy0ai41n9ik02qadik0flg1h2y6w5i92f2qnhr8zyb1s1zd"
+      }
+    ]
+  },
+  "TJF Add Stretch Marker (Hover Mode Dependant).lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Add Stretch Marker (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Add%20Stretch%20Marker%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "01za0xqaqi6fmhkl5s8q4v06ci9186dhdq1x5nn87h3cgbznrfls"
       }
     ],
     "2.1": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade Out From Edit Cursor Or Mouse (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20Out%20From%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "1i2zh8x5gzk7saqi5px38b141hrwhaljnxg6vc9i45zzxpdzkrrw"
+        "path": "Scripts/TJF Scripts/Editing/TJF Add Stretch Marker (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Add%20Stretch%20Marker%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "01za0xqaqi6fmhkl5s8q4v06ci9186dhdq1x5nn87h3cgbznrfls"
       }
     ]
   },
-  "TJF Fade In to Edit Cursor Or Mouse (Hover Mode Dependant).lua": {
+  "TJF Toggle Move Mode.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade In to Edit Cursor Or Mouse (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20In%20to%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "1ybi389gkw06qgc8k7c2qmjxlvahb4yawzadwk030dx7q1ay8a27"
+        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Move Mode.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Move%20Mode.lua",
+        "sha256": "1wnhavgy4kprmnflvw9khm6bzv0bx7ifhky9b5wsc7nbskp4rfyl"
       }
     ],
-    "2.1": [
+    "2.10": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Fades/TJF Fade In to Edit Cursor Or Mouse (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Fades/TJF%20Fade%20In%20to%20Edit%20Cursor%20Or%20Mouse%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "1ybi389gkw06qgc8k7c2qmjxlvahb4yawzadwk030dx7q1ay8a27"
+        "path": "Scripts/TJF Scripts/Editing/TJF Toggle Move Mode.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Toggle%20Move%20Mode.lua",
+        "sha256": "1wnhavgy4kprmnflvw9khm6bzv0bx7ifhky9b5wsc7nbskp4rfyl"
+      }
+    ]
+  },
+  "TJF Move Edit Cursor and Selection to Mouse Cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Move Edit Cursor and Selection to Mouse Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/de948915cdd14c186a6d2b5ba0e61c5758696989/Editing/TJF%20Move%20Edit%20Cursor%20and%20Selection%20to%20Mouse%20Cursor.lua",
+        "sha256": "067p2yj8gqrwn3y2p046rwkdp6msjbq78r5x483p1g1rxrzf5mij"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Move Edit Cursor and Selection to Mouse Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/de948915cdd14c186a6d2b5ba0e61c5758696989/Editing/TJF%20Move%20Edit%20Cursor%20and%20Selection%20to%20Mouse%20Cursor.lua",
+        "sha256": "067p2yj8gqrwn3y2p046rwkdp6msjbq78r5x483p1g1rxrzf5mij"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Move Edit Cursor and Selection to Mouse Cursor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/ad02f95d47ea1a319622a9a13cbd4e13c3d68b85/Editing/TJF%20Move%20Edit%20Cursor%20and%20Selection%20to%20Mouse%20Cursor.lua",
+        "sha256": "18h4jyls9r9wvpzi6hddmfffl0b8c0jmf0gl1251k4959by81y7p"
+      }
+    ]
+  },
+  "TJF Glue Item (preserve FX Chain) and then open SampleEditor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Glue Item (preserve FX Chain) and then open SampleEditor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Glue%20Item%20(preserve%20FX%20Chain)%20and%20then%20open%20SampleEditor.lua",
+        "sha256": "16kwv39zgd2m37859ldyh797rs3rcdnqvmg5qpsnmd1khyh6z5bh"
+      }
+    ],
+    "1.02.3": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/TJF Glue Item (preserve FX Chain) and then open SampleEditor.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/TJF%20Glue%20Item%20(preserve%20FX%20Chain)%20and%20then%20open%20SampleEditor.lua",
+        "sha256": "16kwv39zgd2m37859ldyh797rs3rcdnqvmg5qpsnmd1khyh6z5bh"
       }
     ]
   },
@@ -1806,19 +1870,19 @@
       }
     ]
   },
-  "TJF Trim and Fill to time selection Only if items are selected Selected.lua": {
+  "TJF Trim items left of cursor (or time selection) only if selected.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim and Fill to time selection Only if items are selected Selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20and%20Fill%20to%20time%20selection%20Only%20if%20items%20are%20selected%20Selected.lua",
-        "sha256": "0nlyc5d7a27ri4089wnig4v4rwxs3ngdms1wqajsxxcz47d9m4wg"
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items left of cursor (or time selection) only if selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20left%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
+        "sha256": "0csblflc3fnwzw69vs5klhsbmx98qj37ghxk2zrldl9hsr7243vf"
       }
     ],
-    "1.1": [
+    "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim and Fill to time selection Only if items are selected Selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20and%20Fill%20to%20time%20selection%20Only%20if%20items%20are%20selected%20Selected.lua",
-        "sha256": "0nlyc5d7a27ri4089wnig4v4rwxs3ngdms1wqajsxxcz47d9m4wg"
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items left of cursor (or time selection) only if selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20left%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
+        "sha256": "0csblflc3fnwzw69vs5klhsbmx98qj37ghxk2zrldl9hsr7243vf"
       }
     ]
   },
@@ -1838,19 +1902,35 @@
       }
     ]
   },
-  "TJF Trim items left of cursor (or time selection) only if selected.lua": {
+  "TJF Trim items right of cursor (or time selection) only if selected.lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items left of cursor (or time selection) only if selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20left%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
-        "sha256": "0csblflc3fnwzw69vs5klhsbmx98qj37ghxk2zrldl9hsr7243vf"
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items right of cursor (or time selection) only if selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20right%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
+        "sha256": "1vjqdh10ymvnqdfc2hpxyxj64a7n0jazx2lhv1zyis3xll3ikxz1"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items left of cursor (or time selection) only if selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20left%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
-        "sha256": "0csblflc3fnwzw69vs5klhsbmx98qj37ghxk2zrldl9hsr7243vf"
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items right of cursor (or time selection) only if selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20right%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
+        "sha256": "1vjqdh10ymvnqdfc2hpxyxj64a7n0jazx2lhv1zyis3xll3ikxz1"
+      }
+    ]
+  },
+  "TJF Trim and Fill to time selection Only if items are selected Selected.lua": {
+    "latest": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim and Fill to time selection Only if items are selected Selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20and%20Fill%20to%20time%20selection%20Only%20if%20items%20are%20selected%20Selected.lua",
+        "sha256": "0nlyc5d7a27ri4089wnig4v4rwxs3ngdms1wqajsxxcz47d9m4wg"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim and Fill to time selection Only if items are selected Selected.lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20and%20Fill%20to%20time%20selection%20Only%20if%20items%20are%20selected%20Selected.lua",
+        "sha256": "0nlyc5d7a27ri4089wnig4v4rwxs3ngdms1wqajsxxcz47d9m4wg"
       }
     ]
   },
@@ -1870,22 +1950,6 @@
       }
     ]
   },
-  "TJF Split Item (Hover Mode Dependant).lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Split Item (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Split%20Item%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "1nqdxchj3mrfqi4fcys52dm8qlm7r4989cfxsl793xvhvfrp0fqy"
-      }
-    ],
-    "2.01": [
-      {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Split Item (Hover Mode Dependant).lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Split%20Item%20(Hover%20Mode%20Dependant).lua",
-        "sha256": "1nqdxchj3mrfqi4fcys52dm8qlm7r4989cfxsl793xvhvfrp0fqy"
-      }
-    ]
-  },
   "TJF Trim Right side of items (Hover Mode Dependant).lua": {
     "latest": [
       {
@@ -1902,83 +1966,19 @@
       }
     ]
   },
-  "TJF Trim items right of cursor (or time selection) only if selected.lua": {
+  "TJF Split Item (Hover Mode Dependant).lua": {
     "latest": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items right of cursor (or time selection) only if selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20right%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
-        "sha256": "1vjqdh10ymvnqdfc2hpxyxj64a7n0jazx2lhv1zyis3xll3ikxz1"
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Split Item (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Split%20Item%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "1nqdxchj3mrfqi4fcys52dm8qlm7r4989cfxsl793xvhvfrp0fqy"
       }
     ],
-    "1.0": [
+    "2.01": [
       {
-        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Trim items right of cursor (or time selection) only if selected.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Trim%20items%20right%20of%20cursor%20(or%20time%20selection)%20only%20if%20selected.lua",
-        "sha256": "1vjqdh10ymvnqdfc2hpxyxj64a7n0jazx2lhv1zyis3xll3ikxz1"
-      }
-    ]
-  },
-  "TJF playback that reads insertion toggle.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF playback that reads insertion toggle.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20playback%20that%20reads%20insertion%20toggle.lua",
-        "sha256": "14c7fs8fz6wgjkwf7n6pqyxibbywlqx2r6cnhdizin0cgs2iayfc"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF playback that reads insertion toggle.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20playback%20that%20reads%20insertion%20toggle.lua",
-        "sha256": "14c7fs8fz6wgjkwf7n6pqyxibbywlqx2r6cnhdizin0cgs2iayfc"
-      }
-    ]
-  },
-  "TJF Toggle Link Loop Selection to Time Selection on Playback.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Link Loop Selection to Time Selection on Playback.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Link%20Loop%20Selection%20to%20Time%20Selection%20on%20Playback.lua",
-        "sha256": "07mr2k3kqyjj5i52l4sxwh1jzrra8vwk02wkbvjr6hkcr3jg7k19"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Link Loop Selection to Time Selection on Playback.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Link%20Loop%20Selection%20to%20Time%20Selection%20on%20Playback.lua",
-        "sha256": "07mr2k3kqyjj5i52l4sxwh1jzrra8vwk02wkbvjr6hkcr3jg7k19"
-      }
-    ]
-  },
-  "TJF Toggle Insertion follows Playback.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Insertion follows Playback.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Insertion%20follows%20Playback.lua",
-        "sha256": "0va3rcy8yc9cy57iip3yfyvylb2q47qvbk2h7gx18szwa7lxxcvq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF Toggle Insertion follows Playback.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Toggle%20Insertion%20follows%20Playback.lua",
-        "sha256": "0va3rcy8yc9cy57iip3yfyvylb2q47qvbk2h7gx18szwa7lxxcvq"
-      }
-    ]
-  },
-  "TJF Playback at Half Speed once.lua": {
-    "latest": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF Playback at Half Speed once.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Playback%20at%20Half%20Speed%20once.lua",
-        "sha256": "02b5dj36xlflwclm9b51lizz5qm6wfbjav7x7dwdxqcq3vpgm8a2"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/TJF Scripts/Playback/TJF Playback at Half Speed once.lua",
-        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Playback/TJF%20Playback%20at%20Half%20Speed%20once.lua",
-        "sha256": "02b5dj36xlflwclm9b51lizz5qm6wfbjav7x7dwdxqcq3vpgm8a2"
+        "path": "Scripts/TJF Scripts/Editing/Trim/TJF Split Item (Hover Mode Dependant).lua",
+        "url": "https://github.com/sonictim/TJF-Scripts/raw/4398c8372f2629ba49c37d5ca824392fdc415b1b/Editing/Trim/TJF%20Split%20Item%20(Hover%20Mode%20Dependant).lua",
+        "sha256": "1nqdxchj3mrfqi4fcys52dm8qlm7r4989cfxsl793xvhvfrp0fqy"
       }
     ]
   }
