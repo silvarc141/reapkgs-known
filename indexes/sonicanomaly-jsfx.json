@@ -1,4 +1,106 @@
 {
+  "5.1 Master Limiter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter.jsfx",
+        "sha256": "12y8mc7j7snz6m64bql87mkrx75np7w3i3kv3mvdds5v7iqz9z3w"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter/5.1 Master Limiter.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter/5.1%20Master%20Limiter.pdf",
+        "sha256": "0x13zkl6sa01b8xyy3gk3pdbbh5iv8jqhghhxhjqgid7kggr8c59"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter.jsfx",
+        "sha256": "12y8mc7j7snz6m64bql87mkrx75np7w3i3kv3mvdds5v7iqz9z3w"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter/5.1 Master Limiter.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter/5.1%20Master%20Limiter.pdf",
+        "sha256": "0x13zkl6sa01b8xyy3gk3pdbbh5iv8jqhghhxhjqgid7kggr8c59"
+      }
+    ]
+  },
+  "SLAX.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/SLAX.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/SLAX.jsfx",
+        "sha256": "1illdjga8a6zbzm7rf53xsjgx05bi0hkx1bx7gjillwjqy3dkqfb"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bg.png",
+        "sha256": "0qca9zyfwri86kyajhngg4cghccvfbpb3zjh9a05wf7x6v1wf1ch"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bigpot.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bigpot.png",
+        "sha256": "0k5hrjyl7m7rndrwxgk5qm66yqc7cd22yg8kfnsj7ll4yzd4y5jl"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/needles.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/needles.png",
+        "sha256": "0ck6f52q82y9jszaa5s9rrrr8kgnrwvglbz0qw72djlqhv685jrq"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/opt.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/opt.png",
+        "sha256": "0wab6a4pfhxrhq39spwdxw4kp3bp113jh62r6s1gji0wafxl72d1"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/optbut.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/optbut.png",
+        "sha256": "19js4bh9gvc64pg2rkfgjnyi87kkgr53znpjrmxbihpg04q0mdxl"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/prepot.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/prepot.png",
+        "sha256": "1b8fyvh5dkv8jmx9cpaf0f1jryy00mxv77jzhqj8v1v672v9h220"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/SLAX.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/SLAX.jsfx",
+        "sha256": "1illdjga8a6zbzm7rf53xsjgx05bi0hkx1bx7gjillwjqy3dkqfb"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bg.png",
+        "sha256": "0qca9zyfwri86kyajhngg4cghccvfbpb3zjh9a05wf7x6v1wf1ch"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bigpot.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bigpot.png",
+        "sha256": "0k5hrjyl7m7rndrwxgk5qm66yqc7cd22yg8kfnsj7ll4yzd4y5jl"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/needles.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/needles.png",
+        "sha256": "0ck6f52q82y9jszaa5s9rrrr8kgnrwvglbz0qw72djlqhv685jrq"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/opt.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/opt.png",
+        "sha256": "0wab6a4pfhxrhq39spwdxw4kp3bp113jh62r6s1gji0wafxl72d1"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/optbut.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/optbut.png",
+        "sha256": "19js4bh9gvc64pg2rkfgjnyi87kkgr53znpjrmxbihpg04q0mdxl"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/prepot.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/prepot.png",
+        "sha256": "1b8fyvh5dkv8jmx9cpaf0f1jryy00mxv77jzhqj8v1v672v9h220"
+      }
+    ]
+  },
   "Bassprofessor.jsfx": {
     "latest": [
       {
@@ -101,49 +203,49 @@
       }
     ]
   },
-  "QuadraCom.jsfx": {
+  "Bass Professor Mark II.jsfx": {
     "latest": [
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/QuadraCom.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/QuadraCom.jsfx",
-        "sha256": "17vd894vrdhiiw6ldhxssngz7vr3154nxikx4nvcnix3316w141k"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/Bass Professor Mark II.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Bass%20Professor%20Mark%20II.jsfx",
+        "sha256": "1w8fppviqh4f0l9p2gizzp4qsll6sadf6scr5mxm5vw1b5nyipig"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/QuadraCom.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/QuadraCom.pdf",
-        "sha256": "1ld1q3vd4m9m7iggcqbfsvhnzv207fld2m5hilzwwmg927cgqh82"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/bg.png",
+        "sha256": "1rds65rklg0z1vs32qm4l5v6ch7rk55xi0ziwgfnc73jbixhvcpa"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/bg.png",
-        "sha256": "1b0qvjzcymf93cbqvgpzsglsa6jv7xmk8r2rsisvy4rcdq80fn22"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
+        "sha256": "0cak4aq1d6bdar1sf8z3m2kdz28apn07ndh7jqfyl8k6062hkjz1"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/sliderknob.png",
-        "sha256": "1d8w57f2mx79a7d4ngacsxn5vvn1r0n873fv66dy60gmb8lyndfa"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Bass Professor Mark II.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Bass%20Professor%20Mark%20II.pdf",
+        "sha256": "1wpbqq85kg93padll41w6xk27s0nw6x97sy737wj5lxxpzvpsi7c"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/QuadraCom.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/QuadraCom.jsfx",
-        "sha256": "17vd894vrdhiiw6ldhxssngz7vr3154nxikx4nvcnix3316w141k"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/Bass Professor Mark II.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Bass%20Professor%20Mark%20II.jsfx",
+        "sha256": "1w8fppviqh4f0l9p2gizzp4qsll6sadf6scr5mxm5vw1b5nyipig"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/QuadraCom.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/QuadraCom.pdf",
-        "sha256": "1ld1q3vd4m9m7iggcqbfsvhnzv207fld2m5hilzwwmg927cgqh82"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/bg.png",
+        "sha256": "1rds65rklg0z1vs32qm4l5v6ch7rk55xi0ziwgfnc73jbixhvcpa"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/bg.png",
-        "sha256": "1b0qvjzcymf93cbqvgpzsglsa6jv7xmk8r2rsisvy4rcdq80fn22"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
+        "sha256": "0cak4aq1d6bdar1sf8z3m2kdz28apn07ndh7jqfyl8k6062hkjz1"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/sliderknob.png",
-        "sha256": "1d8w57f2mx79a7d4ngacsxn5vvn1r0n873fv66dy60gmb8lyndfa"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Bass Professor Mark II.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Bass%20Professor%20Mark%20II.pdf",
+        "sha256": "1wpbqq85kg93padll41w6xk27s0nw6x97sy737wj5lxxpzvpsi7c"
       }
     ]
   },
@@ -233,49 +335,197 @@
       }
     ]
   },
-  "Bass Professor Mark II.jsfx": {
+  "QuadraCom.jsfx": {
     "latest": [
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/Bass Professor Mark II.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Bass%20Professor%20Mark%20II.jsfx",
-        "sha256": "1w8fppviqh4f0l9p2gizzp4qsll6sadf6scr5mxm5vw1b5nyipig"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/QuadraCom.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/QuadraCom.jsfx",
+        "sha256": "17vd894vrdhiiw6ldhxssngz7vr3154nxikx4nvcnix3316w141k"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/bg.png",
-        "sha256": "1rds65rklg0z1vs32qm4l5v6ch7rk55xi0ziwgfnc73jbixhvcpa"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/QuadraCom.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/QuadraCom.pdf",
+        "sha256": "1ld1q3vd4m9m7iggcqbfsvhnzv207fld2m5hilzwwmg927cgqh82"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
-        "sha256": "0cak4aq1d6bdar1sf8z3m2kdz28apn07ndh7jqfyl8k6062hkjz1"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/bg.png",
+        "sha256": "1b0qvjzcymf93cbqvgpzsglsa6jv7xmk8r2rsisvy4rcdq80fn22"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Bass Professor Mark II.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Bass%20Professor%20Mark%20II.pdf",
-        "sha256": "1wpbqq85kg93padll41w6xk27s0nw6x97sy737wj5lxxpzvpsi7c"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/sliderknob.png",
+        "sha256": "1d8w57f2mx79a7d4ngacsxn5vvn1r0n873fv66dy60gmb8lyndfa"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/Bass Professor Mark II.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Bass%20Professor%20Mark%20II.jsfx",
-        "sha256": "1w8fppviqh4f0l9p2gizzp4qsll6sadf6scr5mxm5vw1b5nyipig"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/QuadraCom.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/QuadraCom.jsfx",
+        "sha256": "17vd894vrdhiiw6ldhxssngz7vr3154nxikx4nvcnix3316w141k"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/bg.png",
-        "sha256": "1rds65rklg0z1vs32qm4l5v6ch7rk55xi0ziwgfnc73jbixhvcpa"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/QuadraCom.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/QuadraCom.pdf",
+        "sha256": "1ld1q3vd4m9m7iggcqbfsvhnzv207fld2m5hilzwwmg927cgqh82"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/bassprofessormk2_gfx/vsliderhandle.png",
-        "sha256": "0cak4aq1d6bdar1sf8z3m2kdz28apn07ndh7jqfyl8k6062hkjz1"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/bg.png",
+        "sha256": "1b0qvjzcymf93cbqvgpzsglsa6jv7xmk8r2rsisvy4rcdq80fn22"
       },
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Bass Professor Mark II.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Bass%20Professor%20Mark%20II.pdf",
-        "sha256": "1wpbqq85kg93padll41w6xk27s0nw6x97sy737wj5lxxpzvpsi7c"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/quadracom_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/quadracom_gfx/sliderknob.png",
+        "sha256": "1d8w57f2mx79a7d4ngacsxn5vvn1r0n873fv66dy60gmb8lyndfa"
+      }
+    ]
+  },
+  "Surround Pan 2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/Surround Pan 2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Surround%20Pan%202.jsfx",
+        "sha256": "08jlphwj57vc35nv27s16nhk3ng2i7nnc46pqsrf0ifqf8qmp965"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Surround Pan.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Surround%20Pan.pdf",
+        "sha256": "0khn2n27vnd8cghzk0d51rq54m9gp3fzs2pndpaq4g1m46kcmfpv"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/bg.png",
+        "sha256": "0614yhdkkinxraqc04wsd5ayna8qndy7n689dk9qh1pdhs7fznxb"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/radar.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/radar.png",
+        "sha256": "1vik98h69z16nz8hp3lslzjr5kj4gam63s32lh1yy8ax8jcdbqxb"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/sliderknob.png",
+        "sha256": "1wrjdq7i51rfcvxh9y0fjd59yynhysja5lrcdh78m1ig0yhimx16"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/Surround Pan 2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Surround%20Pan%202.jsfx",
+        "sha256": "08jlphwj57vc35nv27s16nhk3ng2i7nnc46pqsrf0ifqf8qmp965"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Surround Pan.pdf",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Surround%20Pan.pdf",
+        "sha256": "0khn2n27vnd8cghzk0d51rq54m9gp3fzs2pndpaq4g1m46kcmfpv"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/bg.png",
+        "sha256": "0614yhdkkinxraqc04wsd5ayna8qndy7n689dk9qh1pdhs7fznxb"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/radar.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/radar.png",
+        "sha256": "1vik98h69z16nz8hp3lslzjr5kj4gam63s32lh1yy8ax8jcdbqxb"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/sliderknob.png",
+        "sha256": "1wrjdq7i51rfcvxh9y0fjd59yynhysja5lrcdh78m1ig0yhimx16"
+      }
+    ]
+  },
+  "HBC-2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/HBC-2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/HBC-2.jsfx",
+        "sha256": "1qgn9i5yy6iq4kjrymjgd7b4xl3zanxmmlw2pa3xa537pbhqbc4i"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/bg.png",
+        "sha256": "1cialjsx2zcw11k95mjklj5gxaxgwdpkbl1164qnjmdzhh5440yl"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/lr.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/lr.png",
+        "sha256": "09frcasxhcfy12x8fa5z2i9a7jgcbfv6riwrsg7dza4rzfmi9m5p"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/ms.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/ms.png",
+        "sha256": "075xc4bjxmm22f66vvfi6ynnlnnz82m0wds94hb1b66sf11rgmip"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/sliderknob.png",
+        "sha256": "17smpmc933sb7f8b6zxs7lfranlzdnd9zjmqyd2a7yxwwnd7kp74"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/HBC-2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/HBC-2.jsfx",
+        "sha256": "1qgn9i5yy6iq4kjrymjgd7b4xl3zanxmmlw2pa3xa537pbhqbc4i"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/bg.png",
+        "sha256": "1cialjsx2zcw11k95mjklj5gxaxgwdpkbl1164qnjmdzhh5440yl"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/lr.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/lr.png",
+        "sha256": "09frcasxhcfy12x8fa5z2i9a7jgcbfv6riwrsg7dza4rzfmi9m5p"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/ms.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/ms.png",
+        "sha256": "075xc4bjxmm22f66vvfi6ynnlnnz82m0wds94hb1b66sf11rgmip"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/sliderknob.png",
+        "sha256": "17smpmc933sb7f8b6zxs7lfranlzdnd9zjmqyd2a7yxwwnd7kp74"
+      }
+    ]
+  },
+  "VOLA2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/VOLA2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/VOLA2.jsfx",
+        "sha256": "0jrilz7xn2lbhb1j5413hdn5j99h03738ch3x964rg2mbc6078qp"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/bg.png",
+        "sha256": "0vfmgjdscc05hbd3a1fimbx0jc1vfvig5yb4dl2pj7a62bz0rvmj"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/sliderknob.png",
+        "sha256": "1sd59jisa6lwjsbks1g214aa4igsqdpqjmbawk60fd952q98bgva"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/VOLA2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/VOLA2.jsfx",
+        "sha256": "0jrilz7xn2lbhb1j5413hdn5j99h03738ch3x964rg2mbc6078qp"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/bg.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/bg.png",
+        "sha256": "0vfmgjdscc05hbd3a1fimbx0jc1vfvig5yb4dl2pj7a62bz0rvmj"
+      },
+      {
+        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/sliderknob.png",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/sliderknob.png",
+        "sha256": "1sd59jisa6lwjsbks1g214aa4igsqdpqjmbawk60fd952q98bgva"
       }
     ]
   },
@@ -355,62 +605,6 @@
       }
     ]
   },
-  "Surround Pan 2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/Surround Pan 2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Surround%20Pan%202.jsfx",
-        "sha256": "08jlphwj57vc35nv27s16nhk3ng2i7nnc46pqsrf0ifqf8qmp965"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Surround Pan.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Surround%20Pan.pdf",
-        "sha256": "0khn2n27vnd8cghzk0d51rq54m9gp3fzs2pndpaq4g1m46kcmfpv"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/bg.png",
-        "sha256": "0614yhdkkinxraqc04wsd5ayna8qndy7n689dk9qh1pdhs7fznxb"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/radar.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/radar.png",
-        "sha256": "1vik98h69z16nz8hp3lslzjr5kj4gam63s32lh1yy8ax8jcdbqxb"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/sliderknob.png",
-        "sha256": "1wrjdq7i51rfcvxh9y0fjd59yynhysja5lrcdh78m1ig0yhimx16"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/Surround Pan 2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Surround%20Pan%202.jsfx",
-        "sha256": "08jlphwj57vc35nv27s16nhk3ng2i7nnc46pqsrf0ifqf8qmp965"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/docs/Surround Pan.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/docs/Surround%20Pan.pdf",
-        "sha256": "0khn2n27vnd8cghzk0d51rq54m9gp3fzs2pndpaq4g1m46kcmfpv"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/bg.png",
-        "sha256": "0614yhdkkinxraqc04wsd5ayna8qndy7n689dk9qh1pdhs7fznxb"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/radar.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/radar.png",
-        "sha256": "1vik98h69z16nz8hp3lslzjr5kj4gam63s32lh1yy8ax8jcdbqxb"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/surroundpan2_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/surroundpan2_gfx/sliderknob.png",
-        "sha256": "1wrjdq7i51rfcvxh9y0fjd59yynhysja5lrcdh78m1ig0yhimx16"
-      }
-    ]
-  },
   "TriLeveler2.jsfx": {
     "latest": [
       {
@@ -467,135 +661,19 @@
       }
     ]
   },
-  "HBC-2.jsfx": {
+  "Skope2.jsfx": {
     "latest": [
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/HBC-2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/HBC-2.jsfx",
-        "sha256": "1qgn9i5yy6iq4kjrymjgd7b4xl3zanxmmlw2pa3xa537pbhqbc4i"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/bg.png",
-        "sha256": "1cialjsx2zcw11k95mjklj5gxaxgwdpkbl1164qnjmdzhh5440yl"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/lr.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/lr.png",
-        "sha256": "09frcasxhcfy12x8fa5z2i9a7jgcbfv6riwrsg7dza4rzfmi9m5p"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/ms.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/ms.png",
-        "sha256": "075xc4bjxmm22f66vvfi6ynnlnnz82m0wds94hb1b66sf11rgmip"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/sliderknob.png",
-        "sha256": "17smpmc933sb7f8b6zxs7lfranlzdnd9zjmqyd2a7yxwwnd7kp74"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/Skope2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Skope2.jsfx",
+        "sha256": "0r7qs56z3l6si2w6yfjwb87iyi8qxr2annr5cirhpy1klczgj7qa"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/HBC-2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/HBC-2.jsfx",
-        "sha256": "1qgn9i5yy6iq4kjrymjgd7b4xl3zanxmmlw2pa3xa537pbhqbc4i"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/bg.png",
-        "sha256": "1cialjsx2zcw11k95mjklj5gxaxgwdpkbl1164qnjmdzhh5440yl"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/lr.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/lr.png",
-        "sha256": "09frcasxhcfy12x8fa5z2i9a7jgcbfv6riwrsg7dza4rzfmi9m5p"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/ms.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/ms.png",
-        "sha256": "075xc4bjxmm22f66vvfi6ynnlnnz82m0wds94hb1b66sf11rgmip"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/hbc2_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/hbc2_gfx/sliderknob.png",
-        "sha256": "17smpmc933sb7f8b6zxs7lfranlzdnd9zjmqyd2a7yxwwnd7kp74"
-      }
-    ]
-  },
-  "SLAX.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/SLAX.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/SLAX.jsfx",
-        "sha256": "1illdjga8a6zbzm7rf53xsjgx05bi0hkx1bx7gjillwjqy3dkqfb"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bg.png",
-        "sha256": "0qca9zyfwri86kyajhngg4cghccvfbpb3zjh9a05wf7x6v1wf1ch"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bigpot.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bigpot.png",
-        "sha256": "0k5hrjyl7m7rndrwxgk5qm66yqc7cd22yg8kfnsj7ll4yzd4y5jl"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/needles.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/needles.png",
-        "sha256": "0ck6f52q82y9jszaa5s9rrrr8kgnrwvglbz0qw72djlqhv685jrq"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/opt.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/opt.png",
-        "sha256": "0wab6a4pfhxrhq39spwdxw4kp3bp113jh62r6s1gji0wafxl72d1"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/optbut.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/optbut.png",
-        "sha256": "19js4bh9gvc64pg2rkfgjnyi87kkgr53znpjrmxbihpg04q0mdxl"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/prepot.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/prepot.png",
-        "sha256": "1b8fyvh5dkv8jmx9cpaf0f1jryy00mxv77jzhqj8v1v672v9h220"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/SLAX.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/SLAX.jsfx",
-        "sha256": "1illdjga8a6zbzm7rf53xsjgx05bi0hkx1bx7gjillwjqy3dkqfb"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bg.png",
-        "sha256": "0qca9zyfwri86kyajhngg4cghccvfbpb3zjh9a05wf7x6v1wf1ch"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/bigpot.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/bigpot.png",
-        "sha256": "0k5hrjyl7m7rndrwxgk5qm66yqc7cd22yg8kfnsj7ll4yzd4y5jl"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/needles.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/needles.png",
-        "sha256": "0ck6f52q82y9jszaa5s9rrrr8kgnrwvglbz0qw72djlqhv685jrq"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/opt.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/opt.png",
-        "sha256": "0wab6a4pfhxrhq39spwdxw4kp3bp113jh62r6s1gji0wafxl72d1"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/optbut.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/optbut.png",
-        "sha256": "19js4bh9gvc64pg2rkfgjnyi87kkgr53znpjrmxbihpg04q0mdxl"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/slax_gfx/prepot.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/slax_gfx/prepot.png",
-        "sha256": "1b8fyvh5dkv8jmx9cpaf0f1jryy00mxv77jzhqj8v1v672v9h220"
+        "path": "Effects/SonicAnomaly JSFX/Plugins/Skope2.jsfx",
+        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Skope2.jsfx",
+        "sha256": "0r7qs56z3l6si2w6yfjwb87iyi8qxr2annr5cirhpy1klczgj7qa"
       }
     ]
   },
@@ -642,84 +720,6 @@
         "path": "Effects/SonicAnomaly JSFX/Plugins/leet_delay_gfx/knob_sm.png",
         "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/leet_delay_gfx/knob_sm.png",
         "sha256": "15rs2n5wmwxcrjnhwy5kf5pxa4dqwi7jw77j6yldpwxnr2jr43mr"
-      }
-    ]
-  },
-  "5.1 Master Limiter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter.jsfx",
-        "sha256": "12y8mc7j7snz6m64bql87mkrx75np7w3i3kv3mvdds5v7iqz9z3w"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter/5.1 Master Limiter.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter/5.1%20Master%20Limiter.pdf",
-        "sha256": "0x13zkl6sa01b8xyy3gk3pdbbh5iv8jqhghhxhjqgid7kggr8c59"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter.jsfx",
-        "sha256": "12y8mc7j7snz6m64bql87mkrx75np7w3i3kv3mvdds5v7iqz9z3w"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/5.1 Master Limiter/5.1 Master Limiter.pdf",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter/5.1%20Master%20Limiter.pdf",
-        "sha256": "0x13zkl6sa01b8xyy3gk3pdbbh5iv8jqhghhxhjqgid7kggr8c59"
-      }
-    ]
-  },
-  "Skope2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/Skope2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Skope2.jsfx",
-        "sha256": "0r7qs56z3l6si2w6yfjwb87iyi8qxr2annr5cirhpy1klczgj7qa"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/Skope2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/Skope2.jsfx",
-        "sha256": "0r7qs56z3l6si2w6yfjwb87iyi8qxr2annr5cirhpy1klczgj7qa"
-      }
-    ]
-  },
-  "VOLA2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/VOLA2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/VOLA2.jsfx",
-        "sha256": "0jrilz7xn2lbhb1j5413hdn5j99h03738ch3x964rg2mbc6078qp"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/bg.png",
-        "sha256": "0vfmgjdscc05hbd3a1fimbx0jc1vfvig5yb4dl2pj7a62bz0rvmj"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/sliderknob.png",
-        "sha256": "1sd59jisa6lwjsbks1g214aa4igsqdpqjmbawk60fd952q98bgva"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/VOLA2.jsfx",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/VOLA2.jsfx",
-        "sha256": "0jrilz7xn2lbhb1j5413hdn5j99h03738ch3x964rg2mbc6078qp"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/bg.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/bg.png",
-        "sha256": "0vfmgjdscc05hbd3a1fimbx0jc1vfvig5yb4dl2pj7a62bz0rvmj"
-      },
-      {
-        "path": "Effects/SonicAnomaly JSFX/Plugins/vola2_gfx/sliderknob.png",
-        "url": "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/vola2_gfx/sliderknob.png",
-        "sha256": "1sd59jisa6lwjsbks1g214aa4igsqdpqjmbawk60fd952q98bgva"
       }
     ]
   },

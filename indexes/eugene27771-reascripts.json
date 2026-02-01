@@ -165,84 +165,6 @@
       }
     ]
   },
-  "gen_Envelope-based Deesser.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
-        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
-        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/5c4e06a55e0b5d84400af23b9acf58ca2a6690af/Various/gen_Envelope-based%20Deesser.eel",
-        "sha256": "0rxg57ivjbyxx55lw29mlvm1dj9dkyad9ix5l66cdscn704q0fmw"
-      }
-    ]
-  },
-  "gen_Retrospective Record (audio).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
-        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
-      }
-    ],
-    "3.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
-        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
-      }
-    ]
-  },
-  "gen_Drum trigger.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
-        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
-        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6b0e7cc3fe379b28a27795df852374875511736b/Various/gen_Drum%20trigger.lua",
-        "sha256": "0ym5zpsqgz669xvalq2f41pp9vf918cfarw8inlfc7ahbaqd6cgh"
-      }
-    ]
-  },
-  "gen_Retrospective Record (MIDI).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
-        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
-      }
-    ],
-    "3.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
-        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
-      }
-    ]
-  },
   "gen_Envelope-based Compressor.eel": {
     "latest": [
       {
@@ -266,26 +188,19 @@
       }
     ]
   },
-  "gen_True Stereo Takes Test.eel": {
+  "gen_Retrospective Record (audio).eel": {
     "latest": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
-        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
+        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
       }
     ],
-    "1.05": [
+    "3.0": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
-        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/33239e094ab1f28344ae8ff2af823b0f021fa436/Various/gen_True%20Stereo%20Takes%20Test.eel",
-        "sha256": "19vrjx4ybcw9550hzadgvn62pm1iqjxd7082rqgprcdm3wfqgm2a"
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
+        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
       }
     ]
   },
@@ -328,6 +243,68 @@
       }
     ]
   },
+  "gen_Drum trigger.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
+        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
+        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6b0e7cc3fe379b28a27795df852374875511736b/Various/gen_Drum%20trigger.lua",
+        "sha256": "0ym5zpsqgz669xvalq2f41pp9vf918cfarw8inlfc7ahbaqd6cgh"
+      }
+    ]
+  },
+  "gen_Retrospective Record (MIDI).eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
+        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
+      }
+    ],
+    "3.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
+        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
+      }
+    ]
+  },
+  "gen_True Stereo Takes Test.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
+        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
+        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/33239e094ab1f28344ae8ff2af823b0f021fa436/Various/gen_True%20Stereo%20Takes%20Test.eel",
+        "sha256": "19vrjx4ybcw9550hzadgvn62pm1iqjxd7082rqgprcdm3wfqgm2a"
+      }
+    ]
+  },
   "gen_WAVE Generator.lua": {
     "latest": [
       {
@@ -341,6 +318,29 @@
         "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_WAVE Generator.lua",
         "url": "https://github.com/EUGEN27771/ReaScripts/raw/fc949fec5c3bdab50ec975e682e166124904a7b2/Various/gen_WAVE%20Generator.lua",
         "sha256": "1hyjddcgcy0984vg9r6glhpg1az6rzfh7sfp0ibrbic8p6fsxzaw"
+      }
+    ]
+  },
+  "gen_Envelope-based Deesser.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
+        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
+        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/5c4e06a55e0b5d84400af23b9acf58ca2a6690af/Various/gen_Envelope-based%20Deesser.eel",
+        "sha256": "0rxg57ivjbyxx55lw29mlvm1dj9dkyad9ix5l66cdscn704q0fmw"
       }
     ]
   },
@@ -593,51 +593,147 @@
       }
     ]
   },
-  "gen_Open media item (source relative).lua": {
+  "gen_Move selected item notes left within time selection (grid relative).eel": {
     "latest": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Open media item (source relative).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e28c9ab36c567245d8e0d5a2cd0342c62f9452c2/Item%20Editing/gen_Open%20media%20item%20(source%20relative).lua",
-        "sha256": "0vmz3nn9yvk337bn3ibjpqdp37v3bjwg95frhm4s6s6r0s1dah75"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes left within time selection (grid relative).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f8ae8d5651b19d22c36258eddd8fee9799e8b617/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20left%20within%20time%20selection%20(grid%20relative).eel",
+        "sha256": "1xy0ibixj2vlpl9i6hzvk1ql9xsrdlmdsgchvjysb76rw14q57m0"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Open media item (source relative).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e28c9ab36c567245d8e0d5a2cd0342c62f9452c2/Item%20Editing/gen_Open%20media%20item%20(source%20relative).lua",
-        "sha256": "0vmz3nn9yvk337bn3ibjpqdp37v3bjwg95frhm4s6s6r0s1dah75"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes left within time selection (grid relative).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f8ae8d5651b19d22c36258eddd8fee9799e8b617/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20left%20within%20time%20selection%20(grid%20relative).eel",
+        "sha256": "1xy0ibixj2vlpl9i6hzvk1ql9xsrdlmdsgchvjysb76rw14q57m0"
       }
     ]
   },
-  "gen_Stretch selected items positions and rate.lua": {
+  "gen_Adjust velocity of selected item notes within time selection.eel": {
     "latest": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Stretch selected items positions and rate.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/a7fa9c2a448714ff6f267b35704e667d2a9594c5/Item%20Editing/gen_Stretch%20selected%20items%20positions%20and%20rate.lua",
-        "sha256": "0b14afqmp1fmbfl2xq4vswk81c0lqjy1wmy8icc8y1dda57aik4g"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust velocity of selected item notes within time selection.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e9bf88da0004b0635e7a142150277e780ada60e7/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
+        "sha256": "157q2wvqvszhg6kk1lakxq5vhlwh30gbyrk1nwkrqxkrh94ll518"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Stretch selected items positions and rate.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/a7fa9c2a448714ff6f267b35704e667d2a9594c5/Item%20Editing/gen_Stretch%20selected%20items%20positions%20and%20rate.lua",
-        "sha256": "0b14afqmp1fmbfl2xq4vswk81c0lqjy1wmy8icc8y1dda57aik4g"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust velocity of selected item notes within time selection.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e9bf88da0004b0635e7a142150277e780ada60e7/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
+        "sha256": "157q2wvqvszhg6kk1lakxq5vhlwh30gbyrk1nwkrqxkrh94ll518"
       }
     ]
   },
-  "gen_Explode multichannel Audio (Non-destructive).lua": {
+  "gen_Adjust parameters of selected item notes.eel": {
     "latest": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Explode multichannel Audio (Non-destructive).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/1fb08db6ee387f973af13193a862147d26647a15/Item%20Editing/gen_Explode%20multichannel%20Audio%20(Non-destructive).lua",
-        "sha256": "1klizxjqqwp45l2py8qr335v0kis08v80vzch2msl29dgr7ik3sq"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust parameters of selected item notes.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b2e1bca9ebfbd69e2573d391072ba690e528e14e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20parameters%20of%20selected%20item%20notes.eel",
+        "sha256": "0v215z7l2n8k4jj9bppb72sj5qx2ysplxp86wknfwz06xcp3xd9s"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Explode multichannel Audio (Non-destructive).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/1fb08db6ee387f973af13193a862147d26647a15/Item%20Editing/gen_Explode%20multichannel%20Audio%20(Non-destructive).lua",
-        "sha256": "1klizxjqqwp45l2py8qr335v0kis08v80vzch2msl29dgr7ik3sq"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust parameters of selected item notes.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b2e1bca9ebfbd69e2573d391072ba690e528e14e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20parameters%20of%20selected%20item%20notes.eel",
+        "sha256": "0v215z7l2n8k4jj9bppb72sj5qx2ysplxp86wknfwz06xcp3xd9s"
+      }
+    ]
+  },
+  "gen_Adjust -10 velocity of selected item notes within time selection.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust -10 velocity of selected item notes within time selection.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f2b189346f3e26a7e9db60fd1700a7f443c30d2e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20-10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
+        "sha256": "072c3dyjlng1wghmfsqylkmxp6s2f6b69zp7wmbwwc01ahxycs6q"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust -10 velocity of selected item notes within time selection.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f2b189346f3e26a7e9db60fd1700a7f443c30d2e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20-10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
+        "sha256": "072c3dyjlng1wghmfsqylkmxp6s2f6b69zp7wmbwwc01ahxycs6q"
+      }
+    ]
+  },
+  "gen_Adjust +10 velocity of selected item notes within time selection.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust +10 velocity of selected item notes within time selection.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4e702ec2626d60b249c09ee849db9bd3d3a528fd/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20+10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
+        "sha256": "129b2yiby1fkwbc80jnk2ymsfcarqx4ps3002qcy9xwc0zd3z0kd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust +10 velocity of selected item notes within time selection.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4e702ec2626d60b249c09ee849db9bd3d3a528fd/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20+10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
+        "sha256": "129b2yiby1fkwbc80jnk2ymsfcarqx4ps3002qcy9xwc0zd3z0kd"
+      }
+    ]
+  },
+  "gen_Transpose selected item notes within time selection with prompt.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes within time selection with prompt.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/8ac8662e3940954184dcbc837eb00b8cb7699e90/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20within%20time%20selection%20with%20prompt.eel",
+        "sha256": "0di42ix106k2ag5c1b1571kfz5lbpcljqcdfmzn4hzxjyihksvsw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes within time selection with prompt.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/8ac8662e3940954184dcbc837eb00b8cb7699e90/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20within%20time%20selection%20with%20prompt.eel",
+        "sha256": "0di42ix106k2ag5c1b1571kfz5lbpcljqcdfmzn4hzxjyihksvsw"
+      }
+    ]
+  },
+  "gen_Transpose selected item notes up within time selection (one semitone).eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes up within time selection (one semitone).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e76ab1bfac1974d0da898bf0bb19828bd9be970e/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20up%20within%20time%20selection%20(one%20semitone).eel",
+        "sha256": "10r4jv27g7sirn6yw9dpphgz2bd0nn1hvg6idh94y3x90swsyry8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes up within time selection (one semitone).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e76ab1bfac1974d0da898bf0bb19828bd9be970e/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20up%20within%20time%20selection%20(one%20semitone).eel",
+        "sha256": "10r4jv27g7sirn6yw9dpphgz2bd0nn1hvg6idh94y3x90swsyry8"
+      }
+    ]
+  },
+  "gen_Transpose selected item notes down within time selection (one semitone).eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes down within time selection (one semitone).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/d77ca9f31793256645d98e33f374d93819b007c9/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20down%20within%20time%20selection%20(one%20semitone).eel",
+        "sha256": "0xvpixg4d39y3szpwg08gvcjj7nbxq1z55r77mhi9kc59hrqmk13"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes down within time selection (one semitone).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/d77ca9f31793256645d98e33f374d93819b007c9/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20down%20within%20time%20selection%20(one%20semitone).eel",
+        "sha256": "0xvpixg4d39y3szpwg08gvcjj7nbxq1z55r77mhi9kc59hrqmk13"
+      }
+    ]
+  },
+  "gen_Move selected item notes right within time selection (grid relative).eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes right within time selection (grid relative).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/9a387754dc895cf5a64e493bf63a25d1631d7ff7/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20right%20within%20time%20selection%20(grid%20relative).eel",
+        "sha256": "1g9mzjq6zjkzfl198aqq7wb8wbwjaq4g99nr4rlagzf2a3dwacgk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes right within time selection (grid relative).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/9a387754dc895cf5a64e493bf63a25d1631d7ff7/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20right%20within%20time%20selection%20(grid%20relative).eel",
+        "sha256": "1g9mzjq6zjkzfl198aqq7wb8wbwjaq4g99nr4rlagzf2a3dwacgk"
       }
     ]
   },
@@ -671,6 +767,38 @@
       }
     ]
   },
+  "gen_Vox-Deess Enveloper.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Vox-Deess Enveloper.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/92d1d30a397a52c0cad4a755e9d267aa1fd87212/Item%20Editing/gen_Vox-Deess%20Enveloper.lua",
+        "sha256": "12vgvpfigb5rx2x2ick8rq7d113998mlghha45cag7n5zj4mhcsx"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Vox-Deess Enveloper.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/92d1d30a397a52c0cad4a755e9d267aa1fd87212/Item%20Editing/gen_Vox-Deess%20Enveloper.lua",
+        "sha256": "12vgvpfigb5rx2x2ick8rq7d113998mlghha45cag7n5zj4mhcsx"
+      }
+    ]
+  },
+  "gen_Stretch selected items positions and rate.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Stretch selected items positions and rate.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/a7fa9c2a448714ff6f267b35704e667d2a9594c5/Item%20Editing/gen_Stretch%20selected%20items%20positions%20and%20rate.lua",
+        "sha256": "0b14afqmp1fmbfl2xq4vswk81c0lqjy1wmy8icc8y1dda57aik4g"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Stretch selected items positions and rate.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/a7fa9c2a448714ff6f267b35704e667d2a9594c5/Item%20Editing/gen_Stretch%20selected%20items%20positions%20and%20rate.lua",
+        "sha256": "0b14afqmp1fmbfl2xq4vswk81c0lqjy1wmy8icc8y1dda57aik4g"
+      }
+    ]
+  },
   "gen_Render selected item as new take, up to last VSTi.lua": {
     "latest": [
       {
@@ -687,22 +815,6 @@
       }
     ]
   },
-  "gen_Remove empty bars from selected MIDI items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/da65f0c0c3464c480c3e9f3bc7bea6248b8749d8/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items.lua",
-        "sha256": "0fydz10khad68vah0zbp18fda4d5v4cf5ibccvma7p6zyn6qi5pp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/da65f0c0c3464c480c3e9f3bc7bea6248b8749d8/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items.lua",
-        "sha256": "0fydz10khad68vah0zbp18fda4d5v4cf5ibccvma7p6zyn6qi5pp"
-      }
-    ]
-  },
   "gen_Remove empty bars from selected MIDI items (regard CC).lua": {
     "latest": [
       {
@@ -716,6 +828,38 @@
         "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items (regard CC).lua",
         "url": "https://github.com/EUGEN27771/ReaScripts/raw/6c0ecbeb1361dbb35ba9177d149f2275942f02ec/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items%20(regard%20CC).lua",
         "sha256": "0gcbnfd4kabd5gm0mpnl3bkxx6i2c0q4aslhcwa8q4fjhh0p6rfx"
+      }
+    ]
+  },
+  "gen_Explode multichannel Audio (Non-destructive).lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Explode multichannel Audio (Non-destructive).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/1fb08db6ee387f973af13193a862147d26647a15/Item%20Editing/gen_Explode%20multichannel%20Audio%20(Non-destructive).lua",
+        "sha256": "1klizxjqqwp45l2py8qr335v0kis08v80vzch2msl29dgr7ik3sq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Explode multichannel Audio (Non-destructive).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/1fb08db6ee387f973af13193a862147d26647a15/Item%20Editing/gen_Explode%20multichannel%20Audio%20(Non-destructive).lua",
+        "sha256": "1klizxjqqwp45l2py8qr335v0kis08v80vzch2msl29dgr7ik3sq"
+      }
+    ]
+  },
+  "gen_Remove empty bars from selected MIDI items (regard CC, grid relative).lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items (regard CC, grid relative).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/0bdde41535661a157bfeeca8313a4c088e08f562/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items%20(regard%20CC,%20grid%20relative).lua",
+        "sha256": "0iin2j3sffg6fa0xybiwzlij1znwzzv5632am3prilf4zgb6i3dv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items (regard CC, grid relative).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/0bdde41535661a157bfeeca8313a4c088e08f562/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items%20(regard%20CC,%20grid%20relative).lua",
+        "sha256": "0iin2j3sffg6fa0xybiwzlij1znwzzv5632am3prilf4zgb6i3dv"
       }
     ]
   },
@@ -751,19 +895,19 @@
       }
     ]
   },
-  "gen_Vox-Deess Enveloper.lua": {
+  "gen_Open media item (source relative).lua": {
     "latest": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Vox-Deess Enveloper.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/92d1d30a397a52c0cad4a755e9d267aa1fd87212/Item%20Editing/gen_Vox-Deess%20Enveloper.lua",
-        "sha256": "12vgvpfigb5rx2x2ick8rq7d113998mlghha45cag7n5zj4mhcsx"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Open media item (source relative).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e28c9ab36c567245d8e0d5a2cd0342c62f9452c2/Item%20Editing/gen_Open%20media%20item%20(source%20relative).lua",
+        "sha256": "0vmz3nn9yvk337bn3ibjpqdp37v3bjwg95frhm4s6s6r0s1dah75"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Vox-Deess Enveloper.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/92d1d30a397a52c0cad4a755e9d267aa1fd87212/Item%20Editing/gen_Vox-Deess%20Enveloper.lua",
-        "sha256": "12vgvpfigb5rx2x2ick8rq7d113998mlghha45cag7n5zj4mhcsx"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Open media item (source relative).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e28c9ab36c567245d8e0d5a2cd0342c62f9452c2/Item%20Editing/gen_Open%20media%20item%20(source%20relative).lua",
+        "sha256": "0vmz3nn9yvk337bn3ibjpqdp37v3bjwg95frhm4s6s6r0s1dah75"
       }
     ]
   },
@@ -783,19 +927,19 @@
       }
     ]
   },
-  "gen_Remove empty bars from selected MIDI items (regard CC, grid relative).lua": {
+  "gen_Remove empty bars from selected MIDI items.lua": {
     "latest": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items (regard CC, grid relative).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/0bdde41535661a157bfeeca8313a4c088e08f562/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items%20(regard%20CC,%20grid%20relative).lua",
-        "sha256": "0iin2j3sffg6fa0xybiwzlij1znwzzv5632am3prilf4zgb6i3dv"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/da65f0c0c3464c480c3e9f3bc7bea6248b8749d8/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items.lua",
+        "sha256": "0fydz10khad68vah0zbp18fda4d5v4cf5ibccvma7p6zyn6qi5pp"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items (regard CC, grid relative).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/0bdde41535661a157bfeeca8313a4c088e08f562/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items%20(regard%20CC,%20grid%20relative).lua",
-        "sha256": "0iin2j3sffg6fa0xybiwzlij1znwzzv5632am3prilf4zgb6i3dv"
+        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Remove empty bars from selected MIDI items.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/da65f0c0c3464c480c3e9f3bc7bea6248b8749d8/Item%20Editing/gen_Remove%20empty%20bars%20from%20selected%20MIDI%20items.lua",
+        "sha256": "0fydz10khad68vah0zbp18fda4d5v4cf5ibccvma7p6zyn6qi5pp"
       }
     ]
   },
@@ -883,150 +1027,6 @@
         "path": "Scripts/EUGENE27771-ReaScripts/Templates/GUI/gen_Simple GUI template for scripts.lua",
         "url": "https://github.com/EUGEN27771/ReaScripts/raw/272bb620a7e967d804b75704cd5f7e9b49348f97/Templates/GUI/gen_Simple%20GUI%20template%20for%20scripts.lua",
         "sha256": "1yy3idk75kqi1k296qg5ggv6yaavni84gk84vczdinwksh4dqm9b"
-      }
-    ]
-  },
-  "gen_Transpose selected item notes up within time selection (one semitone).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes up within time selection (one semitone).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e76ab1bfac1974d0da898bf0bb19828bd9be970e/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20up%20within%20time%20selection%20(one%20semitone).eel",
-        "sha256": "10r4jv27g7sirn6yw9dpphgz2bd0nn1hvg6idh94y3x90swsyry8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes up within time selection (one semitone).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e76ab1bfac1974d0da898bf0bb19828bd9be970e/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20up%20within%20time%20selection%20(one%20semitone).eel",
-        "sha256": "10r4jv27g7sirn6yw9dpphgz2bd0nn1hvg6idh94y3x90swsyry8"
-      }
-    ]
-  },
-  "gen_Transpose selected item notes down within time selection (one semitone).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes down within time selection (one semitone).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/d77ca9f31793256645d98e33f374d93819b007c9/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20down%20within%20time%20selection%20(one%20semitone).eel",
-        "sha256": "0xvpixg4d39y3szpwg08gvcjj7nbxq1z55r77mhi9kc59hrqmk13"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes down within time selection (one semitone).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/d77ca9f31793256645d98e33f374d93819b007c9/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20down%20within%20time%20selection%20(one%20semitone).eel",
-        "sha256": "0xvpixg4d39y3szpwg08gvcjj7nbxq1z55r77mhi9kc59hrqmk13"
-      }
-    ]
-  },
-  "gen_Move selected item notes right within time selection (grid relative).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes right within time selection (grid relative).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/9a387754dc895cf5a64e493bf63a25d1631d7ff7/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20right%20within%20time%20selection%20(grid%20relative).eel",
-        "sha256": "1g9mzjq6zjkzfl198aqq7wb8wbwjaq4g99nr4rlagzf2a3dwacgk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes right within time selection (grid relative).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/9a387754dc895cf5a64e493bf63a25d1631d7ff7/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20right%20within%20time%20selection%20(grid%20relative).eel",
-        "sha256": "1g9mzjq6zjkzfl198aqq7wb8wbwjaq4g99nr4rlagzf2a3dwacgk"
-      }
-    ]
-  },
-  "gen_Move selected item notes left within time selection (grid relative).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes left within time selection (grid relative).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f8ae8d5651b19d22c36258eddd8fee9799e8b617/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20left%20within%20time%20selection%20(grid%20relative).eel",
-        "sha256": "1xy0ibixj2vlpl9i6hzvk1ql9xsrdlmdsgchvjysb76rw14q57m0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Move selected item notes left within time selection (grid relative).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f8ae8d5651b19d22c36258eddd8fee9799e8b617/Item%20Editing/MIDI%20item%20adjustment/gen_Move%20selected%20item%20notes%20left%20within%20time%20selection%20(grid%20relative).eel",
-        "sha256": "1xy0ibixj2vlpl9i6hzvk1ql9xsrdlmdsgchvjysb76rw14q57m0"
-      }
-    ]
-  },
-  "gen_Adjust velocity of selected item notes within time selection.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust velocity of selected item notes within time selection.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e9bf88da0004b0635e7a142150277e780ada60e7/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
-        "sha256": "157q2wvqvszhg6kk1lakxq5vhlwh30gbyrk1nwkrqxkrh94ll518"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust velocity of selected item notes within time selection.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e9bf88da0004b0635e7a142150277e780ada60e7/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
-        "sha256": "157q2wvqvszhg6kk1lakxq5vhlwh30gbyrk1nwkrqxkrh94ll518"
-      }
-    ]
-  },
-  "gen_Adjust -10 velocity of selected item notes within time selection.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust -10 velocity of selected item notes within time selection.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f2b189346f3e26a7e9db60fd1700a7f443c30d2e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20-10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
-        "sha256": "072c3dyjlng1wghmfsqylkmxp6s2f6b69zp7wmbwwc01ahxycs6q"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust -10 velocity of selected item notes within time selection.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/f2b189346f3e26a7e9db60fd1700a7f443c30d2e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20-10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
-        "sha256": "072c3dyjlng1wghmfsqylkmxp6s2f6b69zp7wmbwwc01ahxycs6q"
-      }
-    ]
-  },
-  "gen_Adjust +10 velocity of selected item notes within time selection.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust +10 velocity of selected item notes within time selection.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4e702ec2626d60b249c09ee849db9bd3d3a528fd/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20+10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
-        "sha256": "129b2yiby1fkwbc80jnk2ymsfcarqx4ps3002qcy9xwc0zd3z0kd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust +10 velocity of selected item notes within time selection.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4e702ec2626d60b249c09ee849db9bd3d3a528fd/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20+10%20velocity%20of%20selected%20item%20notes%20within%20time%20selection.eel",
-        "sha256": "129b2yiby1fkwbc80jnk2ymsfcarqx4ps3002qcy9xwc0zd3z0kd"
-      }
-    ]
-  },
-  "gen_Adjust parameters of selected item notes.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust parameters of selected item notes.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b2e1bca9ebfbd69e2573d391072ba690e528e14e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20parameters%20of%20selected%20item%20notes.eel",
-        "sha256": "0v215z7l2n8k4jj9bppb72sj5qx2ysplxp86wknfwz06xcp3xd9s"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Adjust parameters of selected item notes.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b2e1bca9ebfbd69e2573d391072ba690e528e14e/Item%20Editing/MIDI%20item%20adjustment/gen_Adjust%20parameters%20of%20selected%20item%20notes.eel",
-        "sha256": "0v215z7l2n8k4jj9bppb72sj5qx2ysplxp86wknfwz06xcp3xd9s"
-      }
-    ]
-  },
-  "gen_Transpose selected item notes within time selection with prompt.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes within time selection with prompt.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/8ac8662e3940954184dcbc837eb00b8cb7699e90/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20within%20time%20selection%20with%20prompt.eel",
-        "sha256": "0di42ix106k2ag5c1b1571kfz5lbpcljqcdfmzn4hzxjyihksvsw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes within time selection with prompt.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/8ac8662e3940954184dcbc837eb00b8cb7699e90/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20within%20time%20selection%20with%20prompt.eel",
-        "sha256": "0di42ix106k2ag5c1b1571kfz5lbpcljqcdfmzn4hzxjyihksvsw"
       }
     ]
   }

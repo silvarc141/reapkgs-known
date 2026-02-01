@@ -715,93 +715,6 @@
       }
     ]
   },
-  "Set track outputs 1-to-1.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 for selected tracks.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 ignoring folders.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 for selected tracks.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 ignoring folders.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 for selected tracks.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "08j5j4rq72dqxs3jmfk3f20zipm33xdvbx1jsl0r1a09sizsqwlx"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 ignoring folders.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "08j5j4rq72dqxs3jmfk3f20zipm33xdvbx1jsl0r1a09sizsqwlx"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "08j5j4rq72dqxs3jmfk3f20zipm33xdvbx1jsl0r1a09sizsqwlx"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 for selected tracks.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 ignoring folders.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 for selected tracks.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 ignoring folders.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
-        "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
-      }
-    ]
-  },
   "Set track inputs 1-to-1.lua": {
     "latest": [
       {
@@ -903,6 +816,93 @@
         "path": "Scripts/BSmith96 Scripts/Routing/Set track inputs 1-to-1.lua",
         "url": "https://github.com/bsmith96/Reaper-Scripts/raw/6fd1a62a692509fec010e258c322663326f3cfe3/Routing/Set%20track%20inputs%201-to-1.lua",
         "sha256": "1x8r8hz1x6fn9zfxddcjmwd4xba6cffxrsaji4xsh0q6zrp39cjd"
+      }
+    ]
+  },
+  "Set track outputs 1-to-1.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 for selected tracks.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 ignoring folders.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 for selected tracks.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 ignoring folders.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 for selected tracks.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "08j5j4rq72dqxs3jmfk3f20zipm33xdvbx1jsl0r1a09sizsqwlx"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1 ignoring folders.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "08j5j4rq72dqxs3jmfk3f20zipm33xdvbx1jsl0r1a09sizsqwlx"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Set track outputs 1-to-1.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "08j5j4rq72dqxs3jmfk3f20zipm33xdvbx1jsl0r1a09sizsqwlx"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 for selected tracks.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 ignoring folders.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 for selected tracks.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1 ignoring folders.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
+        "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
       }
     ]
   },

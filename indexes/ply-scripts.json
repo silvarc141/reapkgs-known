@@ -195,116 +195,6 @@
       }
     ]
   },
-  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
-      }
-    ]
-  },
-  "ply_Playhead vs selected track items and markers window.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/deb3f4ee23cfea235168e7df5a0c5c800cfe7998/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
-        "sha256": "056j54x1lxa5vcz6pdjzz3i823ap4zmw7j1p3lzbi2xsrj5ixc85"
-      }
-    ],
-    "1.3.0": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/deb3f4ee23cfea235168e7df5a0c5c800cfe7998/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
-        "sha256": "056j54x1lxa5vcz6pdjzz3i823ap4zmw7j1p3lzbi2xsrj5ixc85"
-      }
-    ],
-    "1.2.0": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c6272281b98d970362e8ec526d78075b343c1e14/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
-        "sha256": "0hcsdmq9kfp4nghb8xar4mi2zqvac58prkz2bj8xif7kjhrmfxys"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
-        "sha256": "18j6lf0g60r1slnmypdls3bzydmdgpsk2icsjnvkyx9pj0p90a2h"
-      }
-    ]
-  },
-  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
-        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
-      }
-    ]
-  },
-  "ply_Horizontal zoom out (center at edit cursor).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
-      }
-    ]
-  },
-  "ply_Horizontal zoom in (center at edit cursor).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
-        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
-      }
-    ]
-  },
-  "ply_Transport StartStop (recording safe).eel": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
-        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
-        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
-      }
-    ]
-  },
   "ply_Set time selection relative to edit cursor (dialog).lua": {
     "latest": [
       {
@@ -467,6 +357,116 @@
         "path": "Scripts/ply Scripts/Items Editing/Source-Destination/ply_Source-Destination setup.lua",
         "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Items%20Editing/Source-Destination/ply_Source-Destination%20setup.lua",
         "sha256": "1v3hhhx402q63grw4g2ds3m6mzv5zisn6ka6i75iyiizhnc3nla4"
+      }
+    ]
+  },
+  "ply_Transport StartStop (recording safe).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
+        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
+      }
+    ],
+    "1.2.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Transport StartStop (recording safe).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Transport%20StartStop%20(recording%20safe).eel",
+        "sha256": "1l9rrcl5d4hkyc7bdan4i6kknipsscjrkj60am4xpz5x7468ykgs"
+      }
+    ]
+  },
+  "ply_Horizontal zoom in (center at edit cursor).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom in (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20in%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1iaqpbpval7hsdxs5vmc33hdlwngfs0dbj4nq7vidki4ar86r3p7"
+      }
+    ]
+  },
+  "ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop end (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20end%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "066j22klqll43mzwh0k9dig10c0y8lwpnpaffnymnsjfl9vwyyvz"
+      }
+    ]
+  },
+  "ply_Horizontal zoom out (center at edit cursor).eel": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Horizontal zoom out (center at edit cursor).eel",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Horizontal%20zoom%20out%20(center%20at%20edit%20cursor).eel",
+        "sha256": "1dpi8q7z6552634dha761bxzp3djypjzdilysrbjd4k73ivw95w5"
+      }
+    ]
+  },
+  "ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Play by loop pre-roll value from loop start (or current cursor position if no selection).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Play%20by%20loop%20pre-roll%20value%20from%20loop%20start%20(or%20current%20cursor%20position%20if%20no%20selection).lua",
+        "sha256": "0a6pc3gknzpaas5m5d1qrn5hxpxjl9hgbv88yssm7zbafsb2gqhb"
+      }
+    ]
+  },
+  "ply_Playhead vs selected track items and markers window.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/deb3f4ee23cfea235168e7df5a0c5c800cfe7998/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
+        "sha256": "056j54x1lxa5vcz6pdjzz3i823ap4zmw7j1p3lzbi2xsrj5ixc85"
+      }
+    ],
+    "1.3.0": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/deb3f4ee23cfea235168e7df5a0c5c800cfe7998/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
+        "sha256": "056j54x1lxa5vcz6pdjzz3i823ap4zmw7j1p3lzbi2xsrj5ixc85"
+      }
+    ],
+    "1.2.0": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c6272281b98d970362e8ec526d78075b343c1e14/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
+        "sha256": "0hcsdmq9kfp4nghb8xar4mi2zqvac58prkz2bj8xif7kjhrmfxys"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/ply Scripts/Various/ply_Playhead vs selected track items and markers window.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua",
+        "sha256": "18j6lf0g60r1slnmypdls3bzydmdgpsk2icsjnvkyx9pj0p90a2h"
       }
     ]
   },

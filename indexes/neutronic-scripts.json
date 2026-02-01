@@ -1,49 +1,17 @@
 {
-  "neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua": {
+  "neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua": {
     "latest": [
       {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
-        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/b18a5a66a647cc077135339d2a935b288d8255d5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%20720p.lua",
+        "sha256": "1iiihinqi5q1xcjc0g45d3vw76lxfac46yiz8i6cr43j1jk05zy8"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
-        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
-      }
-    ]
-  },
-  "neutronic_Quick Adder 2 -- refresh database.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- refresh database.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/94a0aea5da7e167fcab35fa9b8340f1723823b59/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20refresh%20database.lua",
-        "sha256": "1niy27j3x7w9q6r1hm65m86bg4335fx8hypnbgsc5l8d2lpm8bfg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- refresh database.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/94a0aea5da7e167fcab35fa9b8340f1723823b59/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20refresh%20database.lua",
-        "sha256": "1niy27j3x7w9q6r1hm65m86bg4335fx8hypnbgsc5l8d2lpm8bfg"
-      }
-    ]
-  },
-  "neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/7a9cad15d448b6a78f1ff6acf49d231fe94485b5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%205k.lua",
-        "sha256": "06znlix9lb8hxw813pmrv88ad60a2vbnc4nsmd22s059kmdchnan"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/7a9cad15d448b6a78f1ff6acf49d231fe94485b5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%205k.lua",
-        "sha256": "06znlix9lb8hxw813pmrv88ad60a2vbnc4nsmd22s059kmdchnan"
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/b18a5a66a647cc077135339d2a935b288d8255d5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%20720p.lua",
+        "sha256": "1iiihinqi5q1xcjc0g45d3vw76lxfac46yiz8i6cr43j1jk05zy8"
       }
     ]
   },
@@ -63,19 +31,19 @@
       }
     ]
   },
-  "neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua": {
+  "neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua": {
     "latest": [
       {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/b18a5a66a647cc077135339d2a935b288d8255d5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%20720p.lua",
-        "sha256": "1iiihinqi5q1xcjc0g45d3vw76lxfac46yiz8i6cr43j1jk05zy8"
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
+        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/b18a5a66a647cc077135339d2a935b288d8255d5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%20720p.lua",
-        "sha256": "1iiihinqi5q1xcjc0g45d3vw76lxfac46yiz8i6cr43j1jk05zy8"
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
+        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
       }
     ]
   },
@@ -92,6 +60,38 @@
         "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 1080p.lua",
         "url": "https://github.com/Neutronic/ReaScripts/raw/cb1916c0b749b782e8c82892cbb0012f9ced5ce1/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%201080p.lua",
         "sha256": "12vnk6k1vvrx5a6ci3f8bp4lgysv7rnfivbcbff2awcl4z3lkjvf"
+      }
+    ]
+  },
+  "neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/7a9cad15d448b6a78f1ff6acf49d231fe94485b5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%205k.lua",
+        "sha256": "06znlix9lb8hxw813pmrv88ad60a2vbnc4nsmd22s059kmdchnan"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/7a9cad15d448b6a78f1ff6acf49d231fe94485b5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%205k.lua",
+        "sha256": "06znlix9lb8hxw813pmrv88ad60a2vbnc4nsmd22s059kmdchnan"
+      }
+    ]
+  },
+  "neutronic_Quick Adder 2 -- refresh database.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- refresh database.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/94a0aea5da7e167fcab35fa9b8340f1723823b59/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20refresh%20database.lua",
+        "sha256": "1niy27j3x7w9q6r1hm65m86bg4335fx8hypnbgsc5l8d2lpm8bfg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- refresh database.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/94a0aea5da7e167fcab35fa9b8340f1723823b59/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20refresh%20database.lua",
+        "sha256": "1niy27j3x7w9q6r1hm65m86bg4335fx8hypnbgsc5l8d2lpm8bfg"
       }
     ]
   },

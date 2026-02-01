@@ -791,1082 +791,6 @@
       }
     ]
   },
-  "sr_Change note length (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "1p62f26p166mdzywcdavlag263q9alb999h75rfvqqdj2m82gqjx"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "1p62f26p166mdzywcdavlag263q9alb999h75rfvqqdj2m82gqjx"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "0gzfdlmdq99jfapirp22szn6m7h8x2aah72ak5mnsq8i05rw1vb0"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "1q79i7vsm6x7q6w6i0pxn7mzllp8cqcjmisqnh8nynmlfqk8rbqa"
-      }
-    ],
-    "1.11": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "1wskswqkkkhvgzzpdra5qd0zl2cp5ldkzf95f76b0k1crxy56h49"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "0xkckpf4h9c58sj78sqcvc28279pb8g8726dk18qdpj7vpz0n254"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/bb526968b527161b81be74c8f65b3c748dee2bed/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
-        "sha256": "0byas2jcr5z3c83hfdf3hryb62sh2yya4pxcwqd8yvnmn9xf0d1l"
-      }
-    ]
-  },
-  "sr_Copy selected CC events to lane under mouse cursor at mouse position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor at mouse position.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
-        "sha256": "1988vbp9a2yvjm9mhvq5hz0bwh0zva8sr1ql2i7rncr2rdsar039"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor at mouse position.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
-        "sha256": "1988vbp9a2yvjm9mhvq5hz0bwh0zva8sr1ql2i7rncr2rdsar039"
-      }
-    ]
-  },
-  "sr_Select all CCs before mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0rd8bh5r9wz625gcnc0i37dmzia9p8729l85wdl3pn64dqyvp02h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0rd8bh5r9wz625gcnc0i37dmzia9p8729l85wdl3pn64dqyvp02h"
-      }
-    ]
-  },
-  "sr_Change note position (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "0kybyvxqd1ad1zv15rmpl1daych062s8kbzpy27ix0fva2shhp1k"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "0kybyvxqd1ad1zv15rmpl1daych062s8kbzpy27ix0fva2shhp1k"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "1k46hrmfssi7ajw0mjpm2fz9p85rsqff5qzg5nggd1z3mq35557j"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "1myzz23788pfail62gli2ay7k44wfyza3ygkan032ajpxqahp6fr"
-      }
-    ],
-    "1.11": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "02h4ah230y35bn7093zqigs4h8axys4ikvv2wjzpv5j7daclv3m0"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "05rlfvpv307s31npa3mkd5hv0zhqy6108n8ayjxyzyld0n1fzail"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/84a02337eea20e8407dd4e4feb6b69a785e28727/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
-        "sha256": "180cs66n9z6035v0f3akjfczzv0zvjl4nlcqsqvcqhahh6s3d11m"
-      }
-    ]
-  },
-  "sr_Delete notes before mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "044ggp4vlaqpqkcw3p1wpvn93fx0gjp7dpyfi6rfkzs4vlbcf9pp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "044ggp4vlaqpqkcw3p1wpvn93fx0gjp7dpyfi6rfkzs4vlbcf9pp"
-      }
-    ]
-  },
-  "sr_Select notes and all CCs before edit cursor (in selected item(s) or MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs before edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/94b23ae11e425052337deeca6d0723dc85394687/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0nlybl5vv4zd862zq8x1g4hyi6md4f4983p04smhqx2xnnzz17v3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs before edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/94b23ae11e425052337deeca6d0723dc85394687/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0nlybl5vv4zd862zq8x1g4hyi6md4f4983p04smhqx2xnnzz17v3"
-      }
-    ]
-  },
-  "sr_Delete notes before edit cursor (in selected item(s) or MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0bqp2cq2x1mwn3fwlhaa0d7qxdcxrzajf6yaiigjh7fc45mc9f7x"
-      }
-    ],
-    "1.31": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0bqp2cq2x1mwn3fwlhaa0d7qxdcxrzajf6yaiigjh7fc45mc9f7x"
-      }
-    ]
-  },
-  "sr_Select notes and all CCs after edit cursor (in selected item(s) or MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/87197e88370d50dc70414175ee26a60189c71605/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "1y9df30dnhc9cy5c6ic93pgpsapnp674mim7mwzd3b4vnpiq1309"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/87197e88370d50dc70414175ee26a60189c71605/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "1y9df30dnhc9cy5c6ic93pgpsapnp674mim7mwzd3b4vnpiq1309"
-      }
-    ]
-  },
-  "sr_Change note position to grid (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "0aiq7wck43vwybb785kfa81f7cd33k4bxs1qgj3cydmrxrig9s52"
-      }
-    ],
-    "1.30": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "0aiq7wck43vwybb785kfa81f7cd33k4bxs1qgj3cydmrxrig9s52"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f2e0dbb14c5403c7df29690ab90e5210cfe7af59/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "0g5c7pcs0l6dl8zzmcar4c44j9x7vwc47kjisxpca9p35dmy3fsp"
-      }
-    ],
-    "1.20": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/80aa6f2664c2a0f2e89e8ce62737bbe71b766d81/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "088xrr2alq93a6v5n179nf0lqwhqz9cfp3fsd1a72f5c575n8g0m"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/56e05dea131d5beed217cf6162fb436b77d0579e/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "1hw67q77anvj9f67zb5k9fnwxchknfnb3v2d30myngrxadm9f4pg"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "0ddxkq1xr7pbd1s1alry9m9kqpn6a2lrlcgdxfw8xqk622c1g376"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "1mjgycxymfpxbbvyf9zmq7ca9as60j9hrba6m52v6ildl3f03rdd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
-        "sha256": "10277sdk26dk1rng344gvc2ns70r3w9wplhq005bf957n860zd6z"
-      }
-    ]
-  },
-  "sr_Mute notes before mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0pcps1hdqfs9sxxnz0i0jzfpw7ai25xq44qn8jdb8cmfnj8h9xss"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0pcps1hdqfs9sxxnz0i0jzfpw7ai25xq44qn8jdb8cmfnj8h9xss"
-      }
-    ]
-  },
-  "sr_Velocity crescendo.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity crescendo.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20crescendo.lua",
-        "sha256": "03mpi5j3i5czhwp7acyz00zpmx6zx12x9ls1n9m4svzyh8ngih4f"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity crescendo.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20crescendo.lua",
-        "sha256": "03mpi5j3i5czhwp7acyz00zpmx6zx12x9ls1n9m4svzyh8ngih4f"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity crescendo.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/55b0a02a6e6aee6da464a44a3b9f20b13bd43e44/MIDI%20Editor/sr_Velocity%20crescendo.lua",
-        "sha256": "0vif7rwrm4d6jcx3zil50lpiih0hxrx1yxqdkwv9hx5fk0jivk2z"
-      }
-    ]
-  },
-  "sr_Delete short notes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/945069e78e03969f6efba97583525ada151ba7fe/MIDI%20Editor/sr_Delete%20short%20notes.lua",
-        "sha256": "0yx9rnr2qnvx1f2zx92jz12g3xdjhgxnlny600m4kzzjs8sr7h9s"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/945069e78e03969f6efba97583525ada151ba7fe/MIDI%20Editor/sr_Delete%20short%20notes.lua",
-        "sha256": "0yx9rnr2qnvx1f2zx92jz12g3xdjhgxnlny600m4kzzjs8sr7h9s"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/3c4b54c5a4456a585ed6351e5e6866f881832bd1/MIDI%20Editor/sr_Delete%20short%20notes.lua",
-        "sha256": "119xb2nmq6shxyanwd387shn40da5c6nzj773b8rm8li7p84dj86"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d776e6545dec1502f66dcf61f3769d9a33d3de46/MIDI%20Editor/sr_Delete%20short%20notes.lua",
-        "sha256": "0rvxb9y8cqqsx7qjnl5j4068vxy8jgp1w2nhv53x04iqkgrbq1n0"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/140add578b897a7a85b4fa405bd274838c11855a/MIDI%20Editor/sr_Delete%20short%20notes.lua",
-        "sha256": "1572wbr1030ps6z61lycgh26471rp87xdhrz3z9qqrnz10kifdib"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/2035fbbcac6b44a4588e88db3d7f5cf5c1ad8fa2/MIDI%20Editor/sr_Delete%20short%20notes.lua",
-        "sha256": "18ad4cmyq4arzb0r0dd6zp4l71mv9qqljsx2adsbfcribv8aqgyy"
-      }
-    ]
-  },
-  "sr_Set edit cursor to last note in selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to last note in selected items.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d776e6545dec1502f66dcf61f3769d9a33d3de46/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20last%20note%20in%20selected%20items.lua",
-        "sha256": "133klp5iq14v6pmc3n3ibgxhaf5p90hml6zjrqsq3l620ngjvg29"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to last note in selected items.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d776e6545dec1502f66dcf61f3769d9a33d3de46/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20last%20note%20in%20selected%20items.lua",
-        "sha256": "133klp5iq14v6pmc3n3ibgxhaf5p90hml6zjrqsq3l620ngjvg29"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to last note in selected items.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5a805eb19c20690b031b05d0fdabfce2ab6f35b8/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20last%20note%20in%20selected%20items.lua",
-        "sha256": "18lvp5gvlq4qh09fli4i3cplvifls5xklndp5n47x8khaal8m255"
-      }
-    ]
-  },
-  "sr_Move notes to edit cursor (relative).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/3c4b54c5a4456a585ed6351e5e6866f881832bd1/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
-        "sha256": "1cxsxx632rj6w0jbzvp25l8zn841has3cgl3ccnj1frghij22hn4"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/3c4b54c5a4456a585ed6351e5e6866f881832bd1/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
-        "sha256": "1cxsxx632rj6w0jbzvp25l8zn841has3cgl3ccnj1frghij22hn4"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/6f7ba13cd51e29ae4c9a96d9ab78b71c179184f3/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
-        "sha256": "0fx0nf19fm2qlcjh2hjf5lbx3n0sa9yi8b3b98yinv5afp8cl4nl"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/6402c3e2fbc72cd7c994b109c56c86a2dad1c1af/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
-        "sha256": "1r1pl3l277ba9ynszhj5nrfvhdj53ymq9qfwxjscmchz8yy6aq1b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
-        "sha256": "0w050knfnfl0wj8ab20lm30f847r2rmm9k8sshfh7a7lkgrxagd6"
-      }
-    ]
-  },
-  "sr_Toggle select all events in CC lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Toggle select all events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Toggle%20select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0w6rfp7945f0zc9zxhaw8si1mgc57542c8117975y14pm9rbrkh6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Toggle select all events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Toggle%20select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0w6rfp7945f0zc9zxhaw8si1mgc57542c8117975y14pm9rbrkh6"
-      }
-    ]
-  },
-  "sr_Move selected CC events to lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0v329dw14alf409dirk4yhlx1kg6fcnh99c5zsm150jj8pfmyz7j"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0v329dw14alf409dirk4yhlx1kg6fcnh99c5zsm150jj8pfmyz7j"
-      }
-    ]
-  },
-  "sr_Change note position by grid - quantize (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
-        "sha256": "1dnbdr9vk2gxmmwg612v4laak7mxa3khlliw4vqr75rcdndqq989"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
-        "sha256": "1dnbdr9vk2gxmmwg612v4laak7mxa3khlliw4vqr75rcdndqq989"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
-        "sha256": "16l4bzzcax8pgjrjx88a67l4acg9i1lfxsyina0bl6bihkrxvqw8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/6402c3e2fbc72cd7c994b109c56c86a2dad1c1af/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
-        "sha256": "0j0v6k4prn49y5p7r70wv8hj1azn7pyazlb9y7lxcwzs2r8bswik"
-      }
-    ]
-  },
-  "sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20tail%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1q86pw0554xwm1j33jsz9w18w1shq0m63yapvqgn80z17yp5ilyc"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20tail%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1q86pw0554xwm1j33jsz9w18w1shq0m63yapvqgn80z17yp5ilyc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5242dee501857f9289638862d07daa067ab3f673/MIDI%20Editor/sr_Trim%20tail%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0w3jlxx6a5i3d7vhas2033r11yandv6g2zc00ibf9jbr83kwb7hz"
-      }
-    ]
-  },
-  "sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "1sw6y7falsrjdszaxgcrjanyf4rj3sk8zlyyr6q6dybwx5c4mkwz"
-      }
-    ],
-    "1.31": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "1sw6y7falsrjdszaxgcrjanyf4rj3sk8zlyyr6q6dybwx5c4mkwz"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9984b6e7b58d28ce1ac1ee1fb5ee1cdede6cf1a0/MIDI%20Editor/sr_Delete%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0n61ssm8709jkd0cg567czb80w54y8kj44hffvpc10gr47aiad7b"
-      }
-    ]
-  },
-  "sr_Select all events in CC lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0cay2x74w5i33b88sn1bskbvjiyknxizpf039z0iqcnbm7ya8an0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0cay2x74w5i33b88sn1bskbvjiyknxizpf039z0iqcnbm7ya8an0"
-      }
-    ]
-  },
-  "sr_Delete all events in CC lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Delete%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0f2ifb0zs6k1ikad98p61aj6m0vwkfq1iz89dpjdsbpcgd3290xg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Delete%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0f2ifb0zs6k1ikad98p61aj6m0vwkfq1iz89dpjdsbpcgd3290xg"
-      }
-    ]
-  },
-  "sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1zdrv79niy8y13whlrh7kbfvz58rniyff0q6y0n5x60smi8wjcq9"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1zdrv79niy8y13whlrh7kbfvz58rniyff0q6y0n5x60smi8wjcq9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Select%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1q5h0k2bbn4nggmj7vs3nwb2a9x7vq4mqg98zqb7y9rm0mc8y50v"
-      }
-    ]
-  },
-  "sr_Delete all CCs not attached to notes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all CCs not attached to notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c277e3c1c847aec86a322305196a32d77b4833bf/MIDI%20Editor/sr_Delete%20all%20CCs%20not%20attached%20to%20notes.lua",
-        "sha256": "0z1yzg2szx8viabvpk6im7750648shd9a8zaf32nmy3gq7cm9h1x"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all CCs not attached to notes.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c277e3c1c847aec86a322305196a32d77b4833bf/MIDI%20Editor/sr_Delete%20all%20CCs%20not%20attached%20to%20notes.lua",
-        "sha256": "0z1yzg2szx8viabvpk6im7750648shd9a8zaf32nmy3gq7cm9h1x"
-      }
-    ]
-  },
-  "sr_Restore MIDI editor grid setting from project file.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Restore MIDI editor grid setting from project file.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Restore%20MIDI%20editor%20grid%20setting%20from%20project%20file.lua",
-        "sha256": "0m98fxnf9pyzyh3s15krfjvvp3bgkah8dk6yxj6373mlfal3lnf5"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Restore MIDI editor grid setting from project file.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Restore%20MIDI%20editor%20grid%20setting%20from%20project%20file.lua",
-        "sha256": "0m98fxnf9pyzyh3s15krfjvvp3bgkah8dk6yxj6373mlfal3lnf5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Restore MIDI editor grid setting from project file.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5fb465d083ac0527931304e296eb103c93586eca/MIDI%20Editor/sr_Restore%20MIDI%20editor%20grid%20setting%20from%20project%20file.lua",
-        "sha256": "00hidh5yd0y8dzw628n5ncf4hb0amdm7116n713r914qwk8m2wpb"
-      }
-    ]
-  },
-  "sr_Zoom MIDI editor to content.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Zoom MIDI editor to content.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/MIDI%20Editor/sr_Zoom%20MIDI%20editor%20to%20content.lua",
-        "sha256": "1r2pawgnwlga2bg4sjjhaf6rv3gbg2gxh0lsk9j9ddg78l6hhfm3"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Zoom MIDI editor to content.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/MIDI%20Editor/sr_Zoom%20MIDI%20editor%20to%20content.lua",
-        "sha256": "1r2pawgnwlga2bg4sjjhaf6rv3gbg2gxh0lsk9j9ddg78l6hhfm3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Zoom MIDI editor to content.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/MIDI%20Editor/sr_Zoom%20MIDI%20editor%20to%20content.lua",
-        "sha256": "19ga6cmfx4x9v8lkp1cplbxzpdn9dh8qymnk8jy57r6bzjmrjlbg"
-      }
-    ]
-  },
-  "sr_Change note start (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
-        "sha256": "1m92d24c8wq3qql7zvj9h6pv6wn19kdxnh1rh573x77h0czlfh51"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
-        "sha256": "1m92d24c8wq3qql7zvj9h6pv6wn19kdxnh1rh573x77h0czlfh51"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
-        "sha256": "1r1kkq213jiha196p55g3mwxqdn1zmjdbpm0z2jkcc1yr8m1liiz"
-      }
-    ],
-    "1.11": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
-        "sha256": "04w0lly6zyyhjdl52rml4c9rqsyz659hn37fa8wykcsh05164hjp"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
-        "sha256": "0j7jnfg6nnjqd7b6r88nsywg77c90hpxaiy9pjragq8l8785zby4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/84a02337eea20e8407dd4e4feb6b69a785e28727/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
-        "sha256": "0pdk28z3wk1sz4gsvhjq5gzqi8i4dkwyzysgpjlcxcf5zfdgfwws"
-      }
-    ]
-  },
-  "sr_Select all events in CC lane before and under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor.lua",
-        "sha256": "17m03bclh614yak6mm96ibd9f1ila6sc66hhf0cm5bbqbyjya4nf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor.lua",
-        "sha256": "17m03bclh614yak6mm96ibd9f1ila6sc66hhf0cm5bbqbyjya4nf"
-      }
-    ]
-  },
-  "sr_Save MIDI editor grid setting in project file.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Save MIDI editor grid setting in project file.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Save%20MIDI%20editor%20grid%20setting%20in%20project%20file.lua",
-        "sha256": "0v5v250js508f7maik1qb0npbyq5z32jinqsbjpmaiimamrj8kyw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Save MIDI editor grid setting in project file.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Save%20MIDI%20editor%20grid%20setting%20in%20project%20file.lua",
-        "sha256": "0v5v250js508f7maik1qb0npbyq5z32jinqsbjpmaiimamrj8kyw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Save MIDI editor grid setting in project file.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5fb465d083ac0527931304e296eb103c93586eca/MIDI%20Editor/sr_Save%20MIDI%20editor%20grid%20setting%20in%20project%20file.lua",
-        "sha256": "1bqz0lqmvwvfbqpzqqnfc270kxaxf0xk3ik1362n2akvjqlpjq0l"
-      }
-    ]
-  },
-  "sr_Velocity decrescendo.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity decrescendo.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20decrescendo.lua",
-        "sha256": "1xsskcahk5r446zj5f0nh3xfv2kzwadvz2hqgh6g4q81266w30n2"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity decrescendo.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20decrescendo.lua",
-        "sha256": "1xsskcahk5r446zj5f0nh3xfv2kzwadvz2hqgh6g4q81266w30n2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity decrescendo.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/55b0a02a6e6aee6da464a44a3b9f20b13bd43e44/MIDI%20Editor/sr_Velocity%20decrescendo.lua",
-        "sha256": "1akc91zbvv2pfilwsqwiympfi0da1121dx5kjmk85bv98kr52sp6"
-      }
-    ]
-  },
-  "sr_Select notes before edit cursor (in selected item(s) or MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0mln586919rzvc9qrsa0r3q3490s9bqfhfl5j89ks8zaa41kp65d"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "0mln586919rzvc9qrsa0r3q3490s9bqfhfl5j89ks8zaa41kp65d"
-      }
-    ]
-  },
-  "sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20head%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1whk1q32sj501fx52jx23izs3vz6q5md2bkichihjqpxbi090yg8"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20head%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1whk1q32sj501fx52jx23izs3vz6q5md2bkichihjqpxbi090yg8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5242dee501857f9289638862d07daa067ab3f673/MIDI%20Editor/sr_Trim%20head%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1pw4sywc9wki034ndlmdbkk7y08xdnakalz14bbplinwkcw5pk2x"
-      }
-    ]
-  },
-  "sr_Decrease events in CC lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Decrease events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Decrease%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "1chpw0c2mhms0313w9w6njy3prxynryh7mjj7a1d4ji72pnp25kv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Decrease events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Decrease%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "1chpw0c2mhms0313w9w6njy3prxynryh7mjj7a1d4ji72pnp25kv"
-      }
-    ]
-  },
-  "sr_Select all events in CC lane before and under mouse cursor (exclusive).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor (exclusive).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor%20(exclusive).lua",
-        "sha256": "12ln0gv3sb8d0n96p54k6r99z2d28xmn9g9ghq8iz05b4fm8qgcs"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor (exclusive).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor%20(exclusive).lua",
-        "sha256": "12ln0gv3sb8d0n96p54k6r99z2d28xmn9g9ghq8iz05b4fm8qgcs"
-      }
-    ]
-  },
-  "sr_Select all events in CC lane after and under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor.lua",
-        "sha256": "1pls5xpklajw44zb6jxgn4iicz0ibpqd56wdipqzmg41xjnq3qgk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor.lua",
-        "sha256": "1pls5xpklajw44zb6jxgn4iicz0ibpqd56wdipqzmg41xjnq3qgk"
-      }
-    ]
-  },
-  "sr_Delete notes after mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1in4xcl4hph7ylwzk7f5s9y02q41xf5h2462dcps233md6wpz9li"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1in4xcl4hph7ylwzk7f5s9y02q41xf5h2462dcps233md6wpz9li"
-      }
-    ]
-  },
-  "sr_Select all CCs after mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0nkpbmp73i7zn77ac6yljpv1qjvhc9qvlkrfniqmf787gq6c3s5y"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0nkpbmp73i7zn77ac6yljpv1qjvhc9qvlkrfniqmf787gq6c3s5y"
-      }
-    ]
-  },
-  "sr_Select notes after edit cursor (in selected item(s) or MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "1vrld9qxyxzw7j7i1cs43xf6lk6ai11jmwi6acqlq8r14ic3dp0v"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after edit cursor (in selected item(s) or MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
-        "sha256": "1vrld9qxyxzw7j7i1cs43xf6lk6ai11jmwi6acqlq8r14ic3dp0v"
-      }
-    ]
-  },
-  "sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1lnphkh5sqi5xn56b8h3jn0npsz6kv9zqfisxsjldqc1nyr5z5hj"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "1lnphkh5sqi5xn56b8h3jn0npsz6kv9zqfisxsjldqc1nyr5z5hj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1df244eb4d3954c33e16f0b36837427f1eddbfad/MIDI%20Editor/sr_Select%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "18ab1f6wvsznklxw5lbxqyhjfx2cal87xz78h9ljdhkrwgzhy39q"
-      }
-    ]
-  },
-  "sr_Move selected CC events to lane under mouse cursor at mouse position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor at mouse position.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
-        "sha256": "0xb15kjzcmyqyfnzy9jcn4w5cyx9jd28m7v68ycwzzkd0ax68nzv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor at mouse position.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
-        "sha256": "0xb15kjzcmyqyfnzy9jcn4w5cyx9jd28m7v68ycwzzkd0ax68nzv"
-      }
-    ]
-  },
-  "sr_Change note position by grid - no quantize (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
-        "sha256": "053bk6kxvrj5z2wl601c1zfp3rcqkfl7xq715wlw8h1xgkip6a6i"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
-        "sha256": "053bk6kxvrj5z2wl601c1zfp3rcqkfl7xq715wlw8h1xgkip6a6i"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
-        "sha256": "1dgvqlk1sz8bxkpwkb5zplb0dgzypv93min8ynwv3hv7s6jf1ah5"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/494a1c12994ae5d1310a764395a3c1397b3ae3ef/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
-        "sha256": "01rscfwrj15c4857b94m0mmqwm61nchf1mj4qh0ncfsji62ccn9q"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/25b44fb890c320a7b934eff1c4b13fb1b71d5599/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
-        "sha256": "09jxvkn9g4p2jm3az5176x6l831w2r7n62vhacv0cq47v1vnwz93"
-      }
-    ]
-  },
-  "sr_Copy selected CC events to lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0kayikmp6bcx6ffdv9wg90ch9kaij5nm09dhr293927rjkpzplh3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0kayikmp6bcx6ffdv9wg90ch9kaij5nm09dhr293927rjkpzplh3"
-      }
-    ]
-  },
-  "sr_Select all events in CC lane under mouse cursor (exclusive).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor (exclusive).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor%20(exclusive).lua",
-        "sha256": "0cykp7n8cwh79anpink6161bx76g6d0zdwzxjfndxmbcmwk8n3s4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor (exclusive).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor%20(exclusive).lua",
-        "sha256": "0cykp7n8cwh79anpink6161bx76g6d0zdwzxjfndxmbcmwk8n3s4"
-      }
-    ]
-  },
-  "sr_Move legato point of 2 selected notes (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move legato point of 2 selected notes (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e40fbda15e896b01bde8e33f56d07334c5aefeb7/MIDI%20Editor/sr_Move%20legato%20point%20of%202%20selected%20notes%20(mousewheel).lua",
-        "sha256": "02g0n12fzxdiqx4s3xqi34cimxaannav70mkqcx1ydccnkkssdf0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move legato point of 2 selected notes (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e40fbda15e896b01bde8e33f56d07334c5aefeb7/MIDI%20Editor/sr_Move%20legato%20point%20of%202%20selected%20notes%20(mousewheel).lua",
-        "sha256": "02g0n12fzxdiqx4s3xqi34cimxaannav70mkqcx1ydccnkkssdf0"
-      }
-    ]
-  },
-  "sr_Set edit cursor to first note in selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to first note in selected items.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5a805eb19c20690b031b05d0fdabfce2ab6f35b8/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20first%20note%20in%20selected%20items.lua",
-        "sha256": "0incl5dyd8gx0gqlb14zz28hws4pykpnxcfmc6flnq0iivk50hd2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to first note in selected items.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5a805eb19c20690b031b05d0fdabfce2ab6f35b8/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20first%20note%20in%20selected%20items.lua",
-        "sha256": "0incl5dyd8gx0gqlb14zz28hws4pykpnxcfmc6flnq0iivk50hd2"
-      }
-    ]
-  },
-  "sr_Mute notes after mouse cursor (in take under mouse or in MIDI editor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0sx3j4cv7r750kn2wn3csnh7la7g0w3yg8kp8f42amqsgkylzhkz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes after mouse cursor (in take under mouse or in MIDI editor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
-        "sha256": "0sx3j4cv7r750kn2wn3csnh7la7g0w3yg8kp8f42amqsgkylzhkz"
-      }
-    ]
-  },
-  "sr_Select notes under edit cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes under edit cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/531486b1f61b4e54ae211b811e011820cac5d934/MIDI%20Editor/sr_Select%20notes%20under%20edit%20cursor.lua",
-        "sha256": "13cvqxpl18pc16l093aqyx55ij9gk4qnfqih3gzbng3s3sm5ckfd"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes under edit cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/531486b1f61b4e54ae211b811e011820cac5d934/MIDI%20Editor/sr_Select%20notes%20under%20edit%20cursor.lua",
-        "sha256": "13cvqxpl18pc16l093aqyx55ij9gk4qnfqih3gzbng3s3sm5ckfd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes under edit cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fe7e5548d108e2f1bd804df1bb3de3957fb2b59d/MIDI%20Editor/sr_Select%20notes%20under%20edit%20cursor.lua",
-        "sha256": "1wxl3zd8xny40d07gylb99lhk9sp50n147m011aamyl6wsy7pz9p"
-      }
-    ]
-  },
-  "sr_Increase events in CC lane under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Increase events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Increase%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0c9fhx8w57jvnmahyqcwymfm6bvw7bqi9dzcfqrl7kyk8l44z6zh"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Increase events in CC lane under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Increase%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
-        "sha256": "0c9fhx8w57jvnmahyqcwymfm6bvw7bqi9dzcfqrl7kyk8l44z6zh"
-      }
-    ]
-  },
-  "sr_Select all events in CC lane after and under mouse cursor (exclusive).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor (exclusive).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor%20(exclusive).lua",
-        "sha256": "1i18mxhm7mpdlfid79h6nw6akbd8p26h9rbwvb5f5s1psvh9bk02"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor (exclusive).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor%20(exclusive).lua",
-        "sha256": "1i18mxhm7mpdlfid79h6nw6akbd8p26h9rbwvb5f5s1psvh9bk02"
-      }
-    ]
-  },
   "sr_Change note length by ticks (bundle).lua": {
     "latest": [
       {
@@ -1932,6 +856,1082 @@
         "path": "Scripts/Stevie Scripts/MIDI Editor/Change note length by ticks (bundle)/sr_Change note length by ticks function.lua",
         "url": "https://github.com/StephanRoemer/ReaScripts/raw/70b8da60b76355fce66c877467b76cf32202fb24/MIDI%20Editor/Change%20note%20length%20by%20ticks%20(bundle)/sr_Change%20note%20length%20by%20ticks%20function.lua",
         "sha256": "1kdxk3i1wx9d22k3nfxvfggj7b7f7vnh73k6hz47zw4pg2rvsc9i"
+      }
+    ]
+  },
+  "sr_Change note start (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
+        "sha256": "1m92d24c8wq3qql7zvj9h6pv6wn19kdxnh1rh573x77h0czlfh51"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
+        "sha256": "1m92d24c8wq3qql7zvj9h6pv6wn19kdxnh1rh573x77h0czlfh51"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
+        "sha256": "1r1kkq213jiha196p55g3mwxqdn1zmjdbpm0z2jkcc1yr8m1liiz"
+      }
+    ],
+    "1.11": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
+        "sha256": "04w0lly6zyyhjdl52rml4c9rqsyz659hn37fa8wykcsh05164hjp"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
+        "sha256": "0j7jnfg6nnjqd7b6r88nsywg77c90hpxaiy9pjragq8l8785zby4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note start (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/84a02337eea20e8407dd4e4feb6b69a785e28727/MIDI%20Editor/sr_Change%20note%20start%20(mousewheel).lua",
+        "sha256": "0pdk28z3wk1sz4gsvhjq5gzqi8i4dkwyzysgpjlcxcf5zfdgfwws"
+      }
+    ]
+  },
+  "sr_Mute notes before mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0pcps1hdqfs9sxxnz0i0jzfpw7ai25xq44qn8jdb8cmfnj8h9xss"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0pcps1hdqfs9sxxnz0i0jzfpw7ai25xq44qn8jdb8cmfnj8h9xss"
+      }
+    ]
+  },
+  "sr_Change note position (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "0kybyvxqd1ad1zv15rmpl1daych062s8kbzpy27ix0fva2shhp1k"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "0kybyvxqd1ad1zv15rmpl1daych062s8kbzpy27ix0fva2shhp1k"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "1k46hrmfssi7ajw0mjpm2fz9p85rsqff5qzg5nggd1z3mq35557j"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "1myzz23788pfail62gli2ay7k44wfyza3ygkan032ajpxqahp6fr"
+      }
+    ],
+    "1.11": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "02h4ah230y35bn7093zqigs4h8axys4ikvv2wjzpv5j7daclv3m0"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "05rlfvpv307s31npa3mkd5hv0zhqy6108n8ayjxyzyld0n1fzail"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/84a02337eea20e8407dd4e4feb6b69a785e28727/MIDI%20Editor/sr_Change%20note%20position%20(mousewheel).lua",
+        "sha256": "180cs66n9z6035v0f3akjfczzv0zvjl4nlcqsqvcqhahh6s3d11m"
+      }
+    ]
+  },
+  "sr_Delete short notes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/945069e78e03969f6efba97583525ada151ba7fe/MIDI%20Editor/sr_Delete%20short%20notes.lua",
+        "sha256": "0yx9rnr2qnvx1f2zx92jz12g3xdjhgxnlny600m4kzzjs8sr7h9s"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/945069e78e03969f6efba97583525ada151ba7fe/MIDI%20Editor/sr_Delete%20short%20notes.lua",
+        "sha256": "0yx9rnr2qnvx1f2zx92jz12g3xdjhgxnlny600m4kzzjs8sr7h9s"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/3c4b54c5a4456a585ed6351e5e6866f881832bd1/MIDI%20Editor/sr_Delete%20short%20notes.lua",
+        "sha256": "119xb2nmq6shxyanwd387shn40da5c6nzj773b8rm8li7p84dj86"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d776e6545dec1502f66dcf61f3769d9a33d3de46/MIDI%20Editor/sr_Delete%20short%20notes.lua",
+        "sha256": "0rvxb9y8cqqsx7qjnl5j4068vxy8jgp1w2nhv53x04iqkgrbq1n0"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/140add578b897a7a85b4fa405bd274838c11855a/MIDI%20Editor/sr_Delete%20short%20notes.lua",
+        "sha256": "1572wbr1030ps6z61lycgh26471rp87xdhrz3z9qqrnz10kifdib"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete short notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/2035fbbcac6b44a4588e88db3d7f5cf5c1ad8fa2/MIDI%20Editor/sr_Delete%20short%20notes.lua",
+        "sha256": "18ad4cmyq4arzb0r0dd6zp4l71mv9qqljsx2adsbfcribv8aqgyy"
+      }
+    ]
+  },
+  "sr_Select notes and all CCs before edit cursor (in selected item(s) or MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs before edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/94b23ae11e425052337deeca6d0723dc85394687/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0nlybl5vv4zd862zq8x1g4hyi6md4f4983p04smhqx2xnnzz17v3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs before edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/94b23ae11e425052337deeca6d0723dc85394687/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0nlybl5vv4zd862zq8x1g4hyi6md4f4983p04smhqx2xnnzz17v3"
+      }
+    ]
+  },
+  "sr_Change note length (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "1p62f26p166mdzywcdavlag263q9alb999h75rfvqqdj2m82gqjx"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "1p62f26p166mdzywcdavlag263q9alb999h75rfvqqdj2m82gqjx"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "0gzfdlmdq99jfapirp22szn6m7h8x2aah72ak5mnsq8i05rw1vb0"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "1q79i7vsm6x7q6w6i0pxn7mzllp8cqcjmisqnh8nynmlfqk8rbqa"
+      }
+    ],
+    "1.11": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "1wskswqkkkhvgzzpdra5qd0zl2cp5ldkzf95f76b0k1crxy56h49"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "0xkckpf4h9c58sj78sqcvc28279pb8g8726dk18qdpj7vpz0n254"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note length (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/bb526968b527161b81be74c8f65b3c748dee2bed/MIDI%20Editor/sr_Change%20note%20length%20(mousewheel).lua",
+        "sha256": "0byas2jcr5z3c83hfdf3hryb62sh2yya4pxcwqd8yvnmn9xf0d1l"
+      }
+    ]
+  },
+  "sr_Select all CCs before mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0rd8bh5r9wz625gcnc0i37dmzia9p8729l85wdl3pn64dqyvp02h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0rd8bh5r9wz625gcnc0i37dmzia9p8729l85wdl3pn64dqyvp02h"
+      }
+    ]
+  },
+  "sr_Velocity decrescendo.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity decrescendo.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20decrescendo.lua",
+        "sha256": "1xsskcahk5r446zj5f0nh3xfv2kzwadvz2hqgh6g4q81266w30n2"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity decrescendo.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20decrescendo.lua",
+        "sha256": "1xsskcahk5r446zj5f0nh3xfv2kzwadvz2hqgh6g4q81266w30n2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity decrescendo.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/55b0a02a6e6aee6da464a44a3b9f20b13bd43e44/MIDI%20Editor/sr_Velocity%20decrescendo.lua",
+        "sha256": "1akc91zbvv2pfilwsqwiympfi0da1121dx5kjmk85bv98kr52sp6"
+      }
+    ]
+  },
+  "sr_Select notes before edit cursor (in selected item(s) or MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0mln586919rzvc9qrsa0r3q3490s9bqfhfl5j89ks8zaa41kp65d"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0mln586919rzvc9qrsa0r3q3490s9bqfhfl5j89ks8zaa41kp65d"
+      }
+    ]
+  },
+  "sr_Change note position to grid (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "0aiq7wck43vwybb785kfa81f7cd33k4bxs1qgj3cydmrxrig9s52"
+      }
+    ],
+    "1.30": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "0aiq7wck43vwybb785kfa81f7cd33k4bxs1qgj3cydmrxrig9s52"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f2e0dbb14c5403c7df29690ab90e5210cfe7af59/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "0g5c7pcs0l6dl8zzmcar4c44j9x7vwc47kjisxpca9p35dmy3fsp"
+      }
+    ],
+    "1.20": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/80aa6f2664c2a0f2e89e8ce62737bbe71b766d81/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "088xrr2alq93a6v5n179nf0lqwhqz9cfp3fsd1a72f5c575n8g0m"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/56e05dea131d5beed217cf6162fb436b77d0579e/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "1hw67q77anvj9f67zb5k9fnwxchknfnb3v2d30myngrxadm9f4pg"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "0ddxkq1xr7pbd1s1alry9m9kqpn6a2lrlcgdxfw8xqk622c1g376"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/629bee9fc6c2f0f1339754323634ffbdd71c63a8/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "1mjgycxymfpxbbvyf9zmq7ca9as60j9hrba6m52v6ildl3f03rdd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position to grid (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7e4404a8f30a466ae0d13e08acad518d7984d72d/MIDI%20Editor/sr_Change%20note%20position%20to%20grid%20(mousewheel).lua",
+        "sha256": "10277sdk26dk1rng344gvc2ns70r3w9wplhq005bf957n860zd6z"
+      }
+    ]
+  },
+  "sr_Move notes to edit cursor (relative).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/3c4b54c5a4456a585ed6351e5e6866f881832bd1/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
+        "sha256": "1cxsxx632rj6w0jbzvp25l8zn841has3cgl3ccnj1frghij22hn4"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/3c4b54c5a4456a585ed6351e5e6866f881832bd1/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
+        "sha256": "1cxsxx632rj6w0jbzvp25l8zn841has3cgl3ccnj1frghij22hn4"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/6f7ba13cd51e29ae4c9a96d9ab78b71c179184f3/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
+        "sha256": "0fx0nf19fm2qlcjh2hjf5lbx3n0sa9yi8b3b98yinv5afp8cl4nl"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/6402c3e2fbc72cd7c994b109c56c86a2dad1c1af/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
+        "sha256": "1r1pl3l277ba9ynszhj5nrfvhdj53ymq9qfwxjscmchz8yy6aq1b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move notes to edit cursor (relative).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/978368413060854db55e86973c556fb9a5a222f2/MIDI%20Editor/sr_Move%20notes%20to%20edit%20cursor%20(relative).lua",
+        "sha256": "0w050knfnfl0wj8ab20lm30f847r2rmm9k8sshfh7a7lkgrxagd6"
+      }
+    ]
+  },
+  "sr_Set edit cursor to last note in selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to last note in selected items.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d776e6545dec1502f66dcf61f3769d9a33d3de46/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20last%20note%20in%20selected%20items.lua",
+        "sha256": "133klp5iq14v6pmc3n3ibgxhaf5p90hml6zjrqsq3l620ngjvg29"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to last note in selected items.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d776e6545dec1502f66dcf61f3769d9a33d3de46/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20last%20note%20in%20selected%20items.lua",
+        "sha256": "133klp5iq14v6pmc3n3ibgxhaf5p90hml6zjrqsq3l620ngjvg29"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to last note in selected items.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5a805eb19c20690b031b05d0fdabfce2ab6f35b8/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20last%20note%20in%20selected%20items.lua",
+        "sha256": "18lvp5gvlq4qh09fli4i3cplvifls5xklndp5n47x8khaal8m255"
+      }
+    ]
+  },
+  "sr_Move selected CC events to lane under mouse cursor at mouse position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor at mouse position.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
+        "sha256": "0xb15kjzcmyqyfnzy9jcn4w5cyx9jd28m7v68ycwzzkd0ax68nzv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor at mouse position.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
+        "sha256": "0xb15kjzcmyqyfnzy9jcn4w5cyx9jd28m7v68ycwzzkd0ax68nzv"
+      }
+    ]
+  },
+  "sr_Change note position by grid - no quantize (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
+        "sha256": "053bk6kxvrj5z2wl601c1zfp3rcqkfl7xq715wlw8h1xgkip6a6i"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
+        "sha256": "053bk6kxvrj5z2wl601c1zfp3rcqkfl7xq715wlw8h1xgkip6a6i"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
+        "sha256": "1dgvqlk1sz8bxkpwkb5zplb0dgzypv93min8ynwv3hv7s6jf1ah5"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/494a1c12994ae5d1310a764395a3c1397b3ae3ef/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
+        "sha256": "01rscfwrj15c4857b94m0mmqwm61nchf1mj4qh0ncfsji62ccn9q"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - no quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/25b44fb890c320a7b934eff1c4b13fb1b71d5599/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20no%20quantize%20(mousewheel).lua",
+        "sha256": "09jxvkn9g4p2jm3az5176x6l831w2r7n62vhacv0cq47v1vnwz93"
+      }
+    ]
+  },
+  "sr_Select all events in CC lane before and under mouse cursor (exclusive).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor (exclusive).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor%20(exclusive).lua",
+        "sha256": "12ln0gv3sb8d0n96p54k6r99z2d28xmn9g9ghq8iz05b4fm8qgcs"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor (exclusive).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor%20(exclusive).lua",
+        "sha256": "12ln0gv3sb8d0n96p54k6r99z2d28xmn9g9ghq8iz05b4fm8qgcs"
+      }
+    ]
+  },
+  "sr_Zoom MIDI editor to content.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Zoom MIDI editor to content.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/MIDI%20Editor/sr_Zoom%20MIDI%20editor%20to%20content.lua",
+        "sha256": "1r2pawgnwlga2bg4sjjhaf6rv3gbg2gxh0lsk9j9ddg78l6hhfm3"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Zoom MIDI editor to content.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/MIDI%20Editor/sr_Zoom%20MIDI%20editor%20to%20content.lua",
+        "sha256": "1r2pawgnwlga2bg4sjjhaf6rv3gbg2gxh0lsk9j9ddg78l6hhfm3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Zoom MIDI editor to content.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/MIDI%20Editor/sr_Zoom%20MIDI%20editor%20to%20content.lua",
+        "sha256": "19ga6cmfx4x9v8lkp1cplbxzpdn9dh8qymnk8jy57r6bzjmrjlbg"
+      }
+    ]
+  },
+  "sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1lnphkh5sqi5xn56b8h3jn0npsz6kv9zqfisxsjldqc1nyr5z5hj"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1lnphkh5sqi5xn56b8h3jn0npsz6kv9zqfisxsjldqc1nyr5z5hj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1df244eb4d3954c33e16f0b36837427f1eddbfad/MIDI%20Editor/sr_Select%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "18ab1f6wvsznklxw5lbxqyhjfx2cal87xz78h9ljdhkrwgzhy39q"
+      }
+    ]
+  },
+  "sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "1sw6y7falsrjdszaxgcrjanyf4rj3sk8zlyyr6q6dybwx5c4mkwz"
+      }
+    ],
+    "1.31": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "1sw6y7falsrjdszaxgcrjanyf4rj3sk8zlyyr6q6dybwx5c4mkwz"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9984b6e7b58d28ce1ac1ee1fb5ee1cdede6cf1a0/MIDI%20Editor/sr_Delete%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0n61ssm8709jkd0cg567czb80w54y8kj44hffvpc10gr47aiad7b"
+      }
+    ]
+  },
+  "sr_Select all events in CC lane before and under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor.lua",
+        "sha256": "17m03bclh614yak6mm96ibd9f1ila6sc66hhf0cm5bbqbyjya4nf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane before and under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20before%20and%20under%20mouse%20cursor.lua",
+        "sha256": "17m03bclh614yak6mm96ibd9f1ila6sc66hhf0cm5bbqbyjya4nf"
+      }
+    ]
+  },
+  "sr_Change note position by grid - quantize (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
+        "sha256": "1dnbdr9vk2gxmmwg612v4laak7mxa3khlliw4vqr75rcdndqq989"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f493d5a3262680bc77a0688d6b693a4c97e16508/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
+        "sha256": "1dnbdr9vk2gxmmwg612v4laak7mxa3khlliw4vqr75rcdndqq989"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/8259ffad02dae670a39797ac553d0f462ea3117a/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
+        "sha256": "16l4bzzcax8pgjrjx88a67l4acg9i1lfxsyina0bl6bihkrxvqw8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Change note position by grid - quantize (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/6402c3e2fbc72cd7c994b109c56c86a2dad1c1af/MIDI%20Editor/sr_Change%20note%20position%20by%20grid%20-%20quantize%20(mousewheel).lua",
+        "sha256": "0j0v6k4prn49y5p7r70wv8hj1azn7pyazlb9y7lxcwzs2r8bswik"
+      }
+    ]
+  },
+  "sr_Move legato point of 2 selected notes (mousewheel).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move legato point of 2 selected notes (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e40fbda15e896b01bde8e33f56d07334c5aefeb7/MIDI%20Editor/sr_Move%20legato%20point%20of%202%20selected%20notes%20(mousewheel).lua",
+        "sha256": "02g0n12fzxdiqx4s3xqi34cimxaannav70mkqcx1ydccnkkssdf0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move legato point of 2 selected notes (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e40fbda15e896b01bde8e33f56d07334c5aefeb7/MIDI%20Editor/sr_Move%20legato%20point%20of%202%20selected%20notes%20(mousewheel).lua",
+        "sha256": "02g0n12fzxdiqx4s3xqi34cimxaannav70mkqcx1ydccnkkssdf0"
+      }
+    ]
+  },
+  "sr_Select all events in CC lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0cay2x74w5i33b88sn1bskbvjiyknxizpf039z0iqcnbm7ya8an0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0cay2x74w5i33b88sn1bskbvjiyknxizpf039z0iqcnbm7ya8an0"
+      }
+    ]
+  },
+  "sr_Save MIDI editor grid setting in project file.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Save MIDI editor grid setting in project file.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Save%20MIDI%20editor%20grid%20setting%20in%20project%20file.lua",
+        "sha256": "0v5v250js508f7maik1qb0npbyq5z32jinqsbjpmaiimamrj8kyw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Save MIDI editor grid setting in project file.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Save%20MIDI%20editor%20grid%20setting%20in%20project%20file.lua",
+        "sha256": "0v5v250js508f7maik1qb0npbyq5z32jinqsbjpmaiimamrj8kyw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Save MIDI editor grid setting in project file.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5fb465d083ac0527931304e296eb103c93586eca/MIDI%20Editor/sr_Save%20MIDI%20editor%20grid%20setting%20in%20project%20file.lua",
+        "sha256": "1bqz0lqmvwvfbqpzqqnfc270kxaxf0xk3ik1362n2akvjqlpjq0l"
+      }
+    ]
+  },
+  "sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20tail%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1q86pw0554xwm1j33jsz9w18w1shq0m63yapvqgn80z17yp5ilyc"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20tail%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1q86pw0554xwm1j33jsz9w18w1shq0m63yapvqgn80z17yp5ilyc"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim tail of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5242dee501857f9289638862d07daa067ab3f673/MIDI%20Editor/sr_Trim%20tail%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0w3jlxx6a5i3d7vhas2033r11yandv6g2zc00ibf9jbr83kwb7hz"
+      }
+    ]
+  },
+  "sr_Decrease events in CC lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Decrease events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Decrease%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "1chpw0c2mhms0313w9w6njy3prxynryh7mjj7a1d4ji72pnp25kv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Decrease events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Decrease%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "1chpw0c2mhms0313w9w6njy3prxynryh7mjj7a1d4ji72pnp25kv"
+      }
+    ]
+  },
+  "sr_Mute notes after mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0sx3j4cv7r750kn2wn3csnh7la7g0w3yg8kp8f42amqsgkylzhkz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Mute notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Mute%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0sx3j4cv7r750kn2wn3csnh7la7g0w3yg8kp8f42amqsgkylzhkz"
+      }
+    ]
+  },
+  "sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20head%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1whk1q32sj501fx52jx23izs3vz6q5md2bkichihjqpxbi090yg8"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Trim%20head%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1whk1q32sj501fx52jx23izs3vz6q5md2bkichihjqpxbi090yg8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Trim head of note(s) at mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5242dee501857f9289638862d07daa067ab3f673/MIDI%20Editor/sr_Trim%20head%20of%20note(s)%20at%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1pw4sywc9wki034ndlmdbkk7y08xdnakalz14bbplinwkcw5pk2x"
+      }
+    ]
+  },
+  "sr_Delete notes before edit cursor (in selected item(s) or MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0bqp2cq2x1mwn3fwlhaa0d7qxdcxrzajf6yaiigjh7fc45mc9f7x"
+      }
+    ],
+    "1.31": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/23eeb06050b45f8af8e279caf327933d1e1ded5b/MIDI%20Editor/sr_Delete%20notes%20before%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "0bqp2cq2x1mwn3fwlhaa0d7qxdcxrzajf6yaiigjh7fc45mc9f7x"
+      }
+    ]
+  },
+  "sr_Select notes under edit cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes under edit cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/531486b1f61b4e54ae211b811e011820cac5d934/MIDI%20Editor/sr_Select%20notes%20under%20edit%20cursor.lua",
+        "sha256": "13cvqxpl18pc16l093aqyx55ij9gk4qnfqih3gzbng3s3sm5ckfd"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes under edit cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/531486b1f61b4e54ae211b811e011820cac5d934/MIDI%20Editor/sr_Select%20notes%20under%20edit%20cursor.lua",
+        "sha256": "13cvqxpl18pc16l093aqyx55ij9gk4qnfqih3gzbng3s3sm5ckfd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes under edit cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fe7e5548d108e2f1bd804df1bb3de3957fb2b59d/MIDI%20Editor/sr_Select%20notes%20under%20edit%20cursor.lua",
+        "sha256": "1wxl3zd8xny40d07gylb99lhk9sp50n147m011aamyl6wsy7pz9p"
+      }
+    ]
+  },
+  "sr_Delete notes after mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1in4xcl4hph7ylwzk7f5s9y02q41xf5h2462dcps233md6wpz9li"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1in4xcl4hph7ylwzk7f5s9y02q41xf5h2462dcps233md6wpz9li"
+      }
+    ]
+  },
+  "sr_Select notes and all CCs after edit cursor (in selected item(s) or MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/87197e88370d50dc70414175ee26a60189c71605/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "1y9df30dnhc9cy5c6ic93pgpsapnp674mim7mwzd3b4vnpiq1309"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes and all CCs after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/87197e88370d50dc70414175ee26a60189c71605/MIDI%20Editor/sr_Select%20notes%20and%20all%20CCs%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "1y9df30dnhc9cy5c6ic93pgpsapnp674mim7mwzd3b4vnpiq1309"
+      }
+    ]
+  },
+  "sr_Delete notes before mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "044ggp4vlaqpqkcw3p1wpvn93fx0gjp7dpyfi6rfkzs4vlbcf9pp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete notes before mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Delete%20notes%20before%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "044ggp4vlaqpqkcw3p1wpvn93fx0gjp7dpyfi6rfkzs4vlbcf9pp"
+      }
+    ]
+  },
+  "sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1zdrv79niy8y13whlrh7kbfvz58rniyff0q6y0n5x60smi8wjcq9"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/79ec3afe353e24304615293d76220dc9e32a319b/MIDI%20Editor/sr_Select%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1zdrv79niy8y13whlrh7kbfvz58rniyff0q6y0n5x60smi8wjcq9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/fd07a7ad1f28280e67c84bfd3fc8e3b88f2f49c4/MIDI%20Editor/sr_Select%20notes%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "1q5h0k2bbn4nggmj7vs3nwb2a9x7vq4mqg98zqb7y9rm0mc8y50v"
+      }
+    ]
+  },
+  "sr_Delete all events in CC lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Delete%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0f2ifb0zs6k1ikad98p61aj6m0vwkfq1iz89dpjdsbpcgd3290xg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Delete%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0f2ifb0zs6k1ikad98p61aj6m0vwkfq1iz89dpjdsbpcgd3290xg"
+      }
+    ]
+  },
+  "sr_Select all CCs after mouse cursor (in take under mouse or in MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0nkpbmp73i7zn77ac6yljpv1qjvhc9qvlkrfniqmf787gq6c3s5y"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all CCs after mouse cursor (in take under mouse or in MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/58eb6b066315ca1509a8bd36948c290df34282e3/MIDI%20Editor/sr_Select%20all%20CCs%20after%20mouse%20cursor%20(in%20take%20under%20mouse%20or%20in%20MIDI%20editor).lua",
+        "sha256": "0nkpbmp73i7zn77ac6yljpv1qjvhc9qvlkrfniqmf787gq6c3s5y"
+      }
+    ]
+  },
+  "sr_Copy selected CC events to lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0kayikmp6bcx6ffdv9wg90ch9kaij5nm09dhr293927rjkpzplh3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0kayikmp6bcx6ffdv9wg90ch9kaij5nm09dhr293927rjkpzplh3"
+      }
+    ]
+  },
+  "sr_Restore MIDI editor grid setting from project file.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Restore MIDI editor grid setting from project file.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Restore%20MIDI%20editor%20grid%20setting%20from%20project%20file.lua",
+        "sha256": "0m98fxnf9pyzyh3s15krfjvvp3bgkah8dk6yxj6373mlfal3lnf5"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Restore MIDI editor grid setting from project file.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9512adc1021aff2074adb196983d2497b6b845c/MIDI%20Editor/sr_Restore%20MIDI%20editor%20grid%20setting%20from%20project%20file.lua",
+        "sha256": "0m98fxnf9pyzyh3s15krfjvvp3bgkah8dk6yxj6373mlfal3lnf5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Restore MIDI editor grid setting from project file.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5fb465d083ac0527931304e296eb103c93586eca/MIDI%20Editor/sr_Restore%20MIDI%20editor%20grid%20setting%20from%20project%20file.lua",
+        "sha256": "00hidh5yd0y8dzw628n5ncf4hb0amdm7116n713r914qwk8m2wpb"
+      }
+    ]
+  },
+  "sr_Copy selected CC events to lane under mouse cursor at mouse position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor at mouse position.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
+        "sha256": "1988vbp9a2yvjm9mhvq5hz0bwh0zva8sr1ql2i7rncr2rdsar039"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Copy selected CC events to lane under mouse cursor at mouse position.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Copy%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor%20at%20mouse%20position.lua",
+        "sha256": "1988vbp9a2yvjm9mhvq5hz0bwh0zva8sr1ql2i7rncr2rdsar039"
+      }
+    ]
+  },
+  "sr_Select notes after edit cursor (in selected item(s) or MIDI editor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "1vrld9qxyxzw7j7i1cs43xf6lk6ai11jmwi6acqlq8r14ic3dp0v"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select notes after edit cursor (in selected item(s) or MIDI editor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d1324ae9c93e8ddfe049a3f88ed89aa8a10abe47/MIDI%20Editor/sr_Select%20notes%20after%20edit%20cursor%20(in%20selected%20item(s)%20or%20MIDI%20editor).lua",
+        "sha256": "1vrld9qxyxzw7j7i1cs43xf6lk6ai11jmwi6acqlq8r14ic3dp0v"
+      }
+    ]
+  },
+  "sr_Increase events in CC lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Increase events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Increase%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0c9fhx8w57jvnmahyqcwymfm6bvw7bqi9dzcfqrl7kyk8l44z6zh"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Increase events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Increase%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0c9fhx8w57jvnmahyqcwymfm6bvw7bqi9dzcfqrl7kyk8l44z6zh"
+      }
+    ]
+  },
+  "sr_Select all events in CC lane under mouse cursor (exclusive).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor (exclusive).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor%20(exclusive).lua",
+        "sha256": "0cykp7n8cwh79anpink6161bx76g6d0zdwzxjfndxmbcmwk8n3s4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane under mouse cursor (exclusive).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor%20(exclusive).lua",
+        "sha256": "0cykp7n8cwh79anpink6161bx76g6d0zdwzxjfndxmbcmwk8n3s4"
+      }
+    ]
+  },
+  "sr_Delete all CCs not attached to notes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all CCs not attached to notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c277e3c1c847aec86a322305196a32d77b4833bf/MIDI%20Editor/sr_Delete%20all%20CCs%20not%20attached%20to%20notes.lua",
+        "sha256": "0z1yzg2szx8viabvpk6im7750648shd9a8zaf32nmy3gq7cm9h1x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Delete all CCs not attached to notes.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c277e3c1c847aec86a322305196a32d77b4833bf/MIDI%20Editor/sr_Delete%20all%20CCs%20not%20attached%20to%20notes.lua",
+        "sha256": "0z1yzg2szx8viabvpk6im7750648shd9a8zaf32nmy3gq7cm9h1x"
+      }
+    ]
+  },
+  "sr_Select all events in CC lane after and under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor.lua",
+        "sha256": "1pls5xpklajw44zb6jxgn4iicz0ibpqd56wdipqzmg41xjnq3qgk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor.lua",
+        "sha256": "1pls5xpklajw44zb6jxgn4iicz0ibpqd56wdipqzmg41xjnq3qgk"
+      }
+    ]
+  },
+  "sr_Velocity crescendo.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity crescendo.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20crescendo.lua",
+        "sha256": "03mpi5j3i5czhwp7acyz00zpmx6zx12x9ls1n9m4svzyh8ngih4f"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity crescendo.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/9b535626a07974453ae5d1d121d564cd87232d5d/MIDI%20Editor/sr_Velocity%20crescendo.lua",
+        "sha256": "03mpi5j3i5czhwp7acyz00zpmx6zx12x9ls1n9m4svzyh8ngih4f"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Velocity crescendo.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/55b0a02a6e6aee6da464a44a3b9f20b13bd43e44/MIDI%20Editor/sr_Velocity%20crescendo.lua",
+        "sha256": "0vif7rwrm4d6jcx3zil50lpiih0hxrx1yxqdkwv9hx5fk0jivk2z"
+      }
+    ]
+  },
+  "sr_Move selected CC events to lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0v329dw14alf409dirk4yhlx1kg6fcnh99c5zsm150jj8pfmyz7j"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Move selected CC events to lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/b86836fba9d4e635a2c0ba0830c186bcff16f465/MIDI%20Editor/sr_Move%20selected%20CC%20events%20to%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0v329dw14alf409dirk4yhlx1kg6fcnh99c5zsm150jj8pfmyz7j"
+      }
+    ]
+  },
+  "sr_Toggle select all events in CC lane under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Toggle select all events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Toggle%20select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0w6rfp7945f0zc9zxhaw8si1mgc57542c8117975y14pm9rbrkh6"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Toggle select all events in CC lane under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/1ea0fb5a889cd35c26ce5685722f5d87807c0d60/MIDI%20Editor/sr_Toggle%20select%20all%20events%20in%20CC%20lane%20under%20mouse%20cursor.lua",
+        "sha256": "0w6rfp7945f0zc9zxhaw8si1mgc57542c8117975y14pm9rbrkh6"
+      }
+    ]
+  },
+  "sr_Set edit cursor to first note in selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to first note in selected items.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5a805eb19c20690b031b05d0fdabfce2ab6f35b8/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20first%20note%20in%20selected%20items.lua",
+        "sha256": "0incl5dyd8gx0gqlb14zz28hws4pykpnxcfmc6flnq0iivk50hd2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Set edit cursor to first note in selected items.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5a805eb19c20690b031b05d0fdabfce2ab6f35b8/MIDI%20Editor/sr_Set%20edit%20cursor%20to%20first%20note%20in%20selected%20items.lua",
+        "sha256": "0incl5dyd8gx0gqlb14zz28hws4pykpnxcfmc6flnq0iivk50hd2"
+      }
+    ]
+  },
+  "sr_Select all events in CC lane after and under mouse cursor (exclusive).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor (exclusive).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor%20(exclusive).lua",
+        "sha256": "1i18mxhm7mpdlfid79h6nw6akbd8p26h9rbwvb5f5s1psvh9bk02"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/MIDI Editor/sr_Select all events in CC lane after and under mouse cursor (exclusive).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5c0d2f7fa53572c956404b780fb1649846c56bff/MIDI%20Editor/sr_Select%20all%20events%20in%20CC%20lane%20after%20and%20under%20mouse%20cursor%20(exclusive).lua",
+        "sha256": "1i18mxhm7mpdlfid79h6nw6akbd8p26h9rbwvb5f5s1psvh9bk02"
       }
     ]
   },
@@ -2881,212 +2881,6 @@
       }
     ]
   },
-  "sr_Go to start marker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Go to start marker.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20start%20marker.lua",
-        "sha256": "1gv034a60mlzxpk3qxdlpy7j6kbqz82zp8ngw7wwdihy6qvxw647"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Go to start marker.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20start%20marker.lua",
-        "sha256": "1gv034a60mlzxpk3qxdlpy7j6kbqz82zp8ngw7wwdihy6qvxw647"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Go to start marker.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Transport/sr_Go%20to%20start%20marker.lua",
-        "sha256": "1203hmnp3nckcm6rp0vjss7gmvlzdqd6n0xa4ykgfv9pqwyxxc3g"
-      }
-    ]
-  },
-  "sr_Edit cursor follows start of item.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Edit cursor follows start of item.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/07d1e071225738af86804d7508e089e7f9f63d41/Transport/sr_Edit%20cursor%20follows%20start%20of%20item.lua",
-        "sha256": "1izz44xr03wln8s7666wxjwr0rljwn0lz5ql0ddx9h1zj5fh5hm4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Edit cursor follows start of item.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/07d1e071225738af86804d7508e089e7f9f63d41/Transport/sr_Edit%20cursor%20follows%20start%20of%20item.lua",
-        "sha256": "1izz44xr03wln8s7666wxjwr0rljwn0lz5ql0ddx9h1zj5fh5hm4"
-      }
-    ]
-  },
-  "sr_Toggle play - stop.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Toggle play - stop.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Toggle%20play%20-%20stop.lua",
-        "sha256": "17bs4r48zlfw8wxf6c7wirq4qd08z4wqqyfv8bcmk7p8qb557cyc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Toggle play - stop.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Toggle%20play%20-%20stop.lua",
-        "sha256": "17bs4r48zlfw8wxf6c7wirq4qd08z4wqqyfv8bcmk7p8qb557cyc"
-      }
-    ]
-  },
-  "sr_Go to end marker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Go to end marker.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20end%20marker.lua",
-        "sha256": "0x9k057c47vxb306kn6l9f3pcnwx6injcq6wa057v0b4gi2bj6yi"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Go to end marker.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20end%20marker.lua",
-        "sha256": "0x9k057c47vxb306kn6l9f3pcnwx6injcq6wa057v0b4gi2bj6yi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Go to end marker.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Transport/sr_Go%20to%20end%20marker.lua",
-        "sha256": "0sc5hly8slsw56ldg7zbhqf6kpakbdpjfyxzpmkbvkl3lah16725"
-      }
-    ]
-  },
-  "sr_Select and move to next item and preserve play state.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to next item and preserve play state.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20next%20item%20and%20preserve%20play%20state.lua",
-        "sha256": "0jwnczgm3snrvw9bkl07d7yxlgrc7xwly5b8v7gc5i3b7dwrck95"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to next item and preserve play state.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20next%20item%20and%20preserve%20play%20state.lua",
-        "sha256": "0jwnczgm3snrvw9bkl07d7yxlgrc7xwly5b8v7gc5i3b7dwrck95"
-      }
-    ]
-  },
-  "sr_Stop - return to last cursor positions.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Stop - return to last cursor positions.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Stop%20-%20return%20to%20last%20cursor%20positions.lua",
-        "sha256": "18amjl9dqblhc520a2myyra7g3lvhiralfijl2ai1ff4ayq1l39z"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Stop - return to last cursor positions.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Stop%20-%20return%20to%20last%20cursor%20positions.lua",
-        "sha256": "18amjl9dqblhc520a2myyra7g3lvhiralfijl2ai1ff4ayq1l39z"
-      }
-    ]
-  },
-  "sr_Move cursor to start of selected item and preserve play state.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Move cursor to start of selected item and preserve play state.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Move%20cursor%20to%20start%20of%20selected%20item%20and%20preserve%20play%20state.lua",
-        "sha256": "0m81yyv8zmba2gz4g5yxqcamgiiv4f7z2h05ay0dzncv0kdf6ni4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Move cursor to start of selected item and preserve play state.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Move%20cursor%20to%20start%20of%20selected%20item%20and%20preserve%20play%20state.lua",
-        "sha256": "0m81yyv8zmba2gz4g5yxqcamgiiv4f7z2h05ay0dzncv0kdf6ni4"
-      }
-    ]
-  },
-  "sr_Move edit cursor by frames (mousewheel).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Move edit cursor by frames (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/0e477ec05d5903cddd4c94938209559d6aeeaef2/Transport/sr_Move%20edit%20cursor%20by%20frames%20(mousewheel).lua",
-        "sha256": "14z37cdylwx25lbqzgv2n0pj05r5lrg8r25sf5cwk08wjkyvl9i8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Move edit cursor by frames (mousewheel).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/0e477ec05d5903cddd4c94938209559d6aeeaef2/Transport/sr_Move%20edit%20cursor%20by%20frames%20(mousewheel).lua",
-        "sha256": "14z37cdylwx25lbqzgv2n0pj05r5lrg8r25sf5cwk08wjkyvl9i8"
-      }
-    ]
-  },
-  "sr_Select and move to previous item and preserve play state.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to previous item and preserve play state.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20previous%20item%20and%20preserve%20play%20state.lua",
-        "sha256": "1798b056cn1k0qsa46b27am00w5wasijr4a3bxxbqcwwhgpzw5l4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to previous item and preserve play state.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20previous%20item%20and%20preserve%20play%20state.lua",
-        "sha256": "1798b056cn1k0qsa46b27am00w5wasijr4a3bxxbqcwwhgpzw5l4"
-      }
-    ]
-  },
-  "sr_Hide tracks without items and ignore folder tracks (TCP).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items and ignore folder tracks (TCP).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/743dcbeb9b7fd40db408d51fc13a350f1771617b/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20and%20ignore%20folder%20tracks%20(TCP).lua",
-        "sha256": "0blrpv611lw3fyr805h366gsqvyivbrwf7435nfx4px8qd5xa2mp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items and ignore folder tracks (TCP).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/743dcbeb9b7fd40db408d51fc13a350f1771617b/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20and%20ignore%20folder%20tracks%20(TCP).lua",
-        "sha256": "0blrpv611lw3fyr805h366gsqvyivbrwf7435nfx4px8qd5xa2mp"
-      }
-    ]
-  },
-  "sr_Hide tracks without items (TCP).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items (TCP).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c349a8b5a9cd3b42b79baeb2ae77e0f5b453adc9/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20(TCP).lua",
-        "sha256": "160q60kb0wx6zg4rnrz9lb7qccslcky2gdq99n3v9qi940c5ia92"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items (TCP).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c349a8b5a9cd3b42b79baeb2ae77e0f5b453adc9/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20(TCP).lua",
-        "sha256": "160q60kb0wx6zg4rnrz9lb7qccslcky2gdq99n3v9qi940c5ia92"
-      }
-    ]
-  },
-  "sr_Toggle collapse selected folders.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Toggle collapse selected folders.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/69570fd244d8d2c503bd712fb819c7e1e9994b08/Tracks%20Properties/sr_Toggle%20collapse%20selected%20folders.lua",
-        "sha256": "106x8k7rabib13lis8aagdm5xm5s7lyw4j7l5vn61maxl6yv454m"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Toggle collapse selected folders.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/69570fd244d8d2c503bd712fb819c7e1e9994b08/Tracks%20Properties/sr_Toggle%20collapse%20selected%20folders.lua",
-        "sha256": "106x8k7rabib13lis8aagdm5xm5s7lyw4j7l5vn61maxl6yv454m"
-      }
-    ]
-  },
   "sr_Human quantize notes (bundle).lua": {
     "latest": [
       {
@@ -3542,173 +3336,161 @@
       }
     ]
   },
-  "sr_Move items to timecode (in filename).lua": {
+  "sr_Move cursor to start of selected item and preserve play state.lua": {
     "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9e3faffe605e9cfe9766e5d71e30e0a1172feb9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
-        "sha256": "03hnbargisyfa807q7zbjm0vh8h21r93vzma3imb2q6dqgzm72s1"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Move cursor to start of selected item and preserve play state.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Move%20cursor%20to%20start%20of%20selected%20item%20and%20preserve%20play%20state.lua",
+        "sha256": "0m81yyv8zmba2gz4g5yxqcamgiiv4f7z2h05ay0dzncv0kdf6ni4"
       }
     ],
-    "1.31": [
+    "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9e3faffe605e9cfe9766e5d71e30e0a1172feb9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
-        "sha256": "03hnbargisyfa807q7zbjm0vh8h21r93vzma3imb2q6dqgzm72s1"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Move cursor to start of selected item and preserve play state.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Move%20cursor%20to%20start%20of%20selected%20item%20and%20preserve%20play%20state.lua",
+        "sha256": "0m81yyv8zmba2gz4g5yxqcamgiiv4f7z2h05ay0dzncv0kdf6ni4"
       }
-    ],
-    "1.3": [
+    ]
+  },
+  "sr_Go to start marker.lua": {
+    "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c21e88e9364390cbbfaef2ff3d71575f6d9b2abd/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
-        "sha256": "00m9ai3p524jf30jzmd2720h204sn949gpi3a3b89bylqla0xc50"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/ac2eb4bea9aca7ab7e3776d77d37d0f8dd8c2e2f/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
-        "sha256": "02gxvcwkqmvwzvdkhqf06fak9lpzkz0qsf76c5k68ckqiyb21a9n"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Go to start marker.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20start%20marker.lua",
+        "sha256": "1gv034a60mlzxpk3qxdlpy7j6kbqz82zp8ngw7wwdihy6qvxw647"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cee45981e7b0ed5b89a4aac1fd6a3000e40849a9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
-        "sha256": "15q9rjy4kvwcy4dxy5vldlvlq0n794zjhwn9c2c4zdb0vkxi4k4m"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Go to start marker.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20start%20marker.lua",
+        "sha256": "1gv034a60mlzxpk3qxdlpy7j6kbqz82zp8ngw7wwdihy6qvxw647"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/767bef64c37db67c6df57ddd6148a4480f2a2af9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
-        "sha256": "15ha0mqx996vrqcxl3as0azzl7gwkgw8yqgv879z2hz2r4x4a2bs"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Go to start marker.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Transport/sr_Go%20to%20start%20marker.lua",
+        "sha256": "1203hmnp3nckcm6rp0vjss7gmvlzdqd6n0xa4ykgfv9pqwyxxc3g"
       }
     ]
   },
-  "sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua": {
+  "sr_Stop - return to last cursor positions.lua": {
     "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5f547a2f9803a2843d60bf71e8c9d6466737d0ad/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX%20and%20delete%20MIDI%20take(s).lua",
-        "sha256": "1k27qarngj6b5crwzwpgg0kwprn0yqq0ij16n3kn5ggzxqjxvypi"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Stop - return to last cursor positions.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Stop%20-%20return%20to%20last%20cursor%20positions.lua",
+        "sha256": "18amjl9dqblhc520a2myyra7g3lvhiralfijl2ai1ff4ayq1l39z"
       }
     ],
-    "1.11": [
+    "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5f547a2f9803a2843d60bf71e8c9d6466737d0ad/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX%20and%20delete%20MIDI%20take(s).lua",
-        "sha256": "1k27qarngj6b5crwzwpgg0kwprn0yqq0ij16n3kn5ggzxqjxvypi"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Stop - return to last cursor positions.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Stop%20-%20return%20to%20last%20cursor%20positions.lua",
+        "sha256": "18amjl9dqblhc520a2myyra7g3lvhiralfijl2ai1ff4ayq1l39z"
+      }
+    ]
+  },
+  "sr_Select and move to next item and preserve play state.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to next item and preserve play state.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20next%20item%20and%20preserve%20play%20state.lua",
+        "sha256": "0jwnczgm3snrvw9bkl07d7yxlgrc7xwly5b8v7gc5i3b7dwrck95"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to next item and preserve play state.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20next%20item%20and%20preserve%20play%20state.lua",
+        "sha256": "0jwnczgm3snrvw9bkl07d7yxlgrc7xwly5b8v7gc5i3b7dwrck95"
+      }
+    ]
+  },
+  "sr_Edit cursor follows start of item.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Edit cursor follows start of item.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/07d1e071225738af86804d7508e089e7f9f63d41/Transport/sr_Edit%20cursor%20follows%20start%20of%20item.lua",
+        "sha256": "1izz44xr03wln8s7666wxjwr0rljwn0lz5ql0ddx9h1zj5fh5hm4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Edit cursor follows start of item.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/07d1e071225738af86804d7508e089e7f9f63d41/Transport/sr_Edit%20cursor%20follows%20start%20of%20item.lua",
+        "sha256": "1izz44xr03wln8s7666wxjwr0rljwn0lz5ql0ddx9h1zj5fh5hm4"
+      }
+    ]
+  },
+  "sr_Select and move to previous item and preserve play state.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to previous item and preserve play state.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20previous%20item%20and%20preserve%20play%20state.lua",
+        "sha256": "1798b056cn1k0qsa46b27am00w5wasijr4a3bxxbqcwwhgpzw5l4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Select and move to previous item and preserve play state.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f6e39ec172f3cb6e8440031b7ca62349f6a6d09c/Transport/sr_Select%20and%20move%20to%20previous%20item%20and%20preserve%20play%20state.lua",
+        "sha256": "1798b056cn1k0qsa46b27am00w5wasijr4a3bxxbqcwwhgpzw5l4"
+      }
+    ]
+  },
+  "sr_Go to end marker.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Transport/sr_Go to end marker.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20end%20marker.lua",
+        "sha256": "0x9k057c47vxb306kn6l9f3pcnwx6injcq6wa057v0b4gi2bj6yi"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cd43a7c6840e56638be3f94f4bb7c236c5b2ccce/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX%20and%20delete%20MIDI%20take(s).lua",
-        "sha256": "04j96hpga094rk1vac3nw9zxxp97qm15zy4lh2zlwwsfp6pkwkd9"
-      }
-    ]
-  },
-  "sr_Open MIDI editor and zoom to content.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to content.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%20content.lua",
-        "sha256": "1fniqjisjvvwdih25hgi8jfsh9dpky74f3p4im9f2sxpmx4cxnsd"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to content.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%20content.lua",
-        "sha256": "1fniqjisjvvwdih25hgi8jfsh9dpky74f3p4im9f2sxpmx4cxnsd"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Go to end marker.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/d8166dd76837c8b950e8dd54f080bd2c571bba89/Transport/sr_Go%20to%20end%20marker.lua",
+        "sha256": "0x9k057c47vxb306kn6l9f3pcnwx6injcq6wa057v0b4gi2bj6yi"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to content.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%20content.lua",
-        "sha256": "0kag2ll002qjv93asnh0afjrmkl07d16jdp4y8i0ldr2gcm9bg6g"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Go to end marker.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Transport/sr_Go%20to%20end%20marker.lua",
+        "sha256": "0sc5hly8slsw56ldg7zbhqf6kpakbdpjfyxzpmkbvkl3lah16725"
       }
     ]
   },
-  "sr_Trim head of item(s) and delete item(s) before mouse cursor.lua": {
+  "sr_Toggle play - stop.lua": {
     "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim head of item(s) and delete item(s) before mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20head%20of%20item(s)%20and%20delete%20item(s)%20before%20mouse%20cursor.lua",
-        "sha256": "08r57ynjzw7f0jkdqylyqs5l1sdayb5c5rcvjgmyl1rvg2sjafxz"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Toggle play - stop.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Toggle%20play%20-%20stop.lua",
+        "sha256": "17bs4r48zlfw8wxf6c7wirq4qd08z4wqqyfv8bcmk7p8qb557cyc"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim head of item(s) and delete item(s) before mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20head%20of%20item(s)%20and%20delete%20item(s)%20before%20mouse%20cursor.lua",
-        "sha256": "08r57ynjzw7f0jkdqylyqs5l1sdayb5c5rcvjgmyl1rvg2sjafxz"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Toggle play - stop.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c02c6bdfb6f56a871f5043d75488c23700b90c40/Transport/sr_Toggle%20play%20-%20stop.lua",
+        "sha256": "17bs4r48zlfw8wxf6c7wirq4qd08z4wqqyfv8bcmk7p8qb557cyc"
       }
     ]
   },
-  "sr_Align selected item(s) to item under mouse cursor.lua": {
+  "sr_Move edit cursor by frames (mousewheel).lua": {
     "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Align selected item(s) to item under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cf2530bc95ec3cf25070aab6c1c99c57e28d52ae/Items%20Editing/sr_Align%20selected%20item(s)%20to%20item%20under%20mouse%20cursor.lua",
-        "sha256": "17ps64ygzllska6wa1xxyd4d7y91cd9230jzyq5r2gsqy9k3l21p"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Move edit cursor by frames (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/0e477ec05d5903cddd4c94938209559d6aeeaef2/Transport/sr_Move%20edit%20cursor%20by%20frames%20(mousewheel).lua",
+        "sha256": "14z37cdylwx25lbqzgv2n0pj05r5lrg8r25sf5cwk08wjkyvl9i8"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Align selected item(s) to item under mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cf2530bc95ec3cf25070aab6c1c99c57e28d52ae/Items%20Editing/sr_Align%20selected%20item(s)%20to%20item%20under%20mouse%20cursor.lua",
-        "sha256": "17ps64ygzllska6wa1xxyd4d7y91cd9230jzyq5r2gsqy9k3l21p"
-      }
-    ]
-  },
-  "sr_Render VSTi item(s) without track FX.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cd43a7c6840e56638be3f94f4bb7c236c5b2ccce/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX.lua",
-        "sha256": "0h7qhclq9rkg90ng4wai831x1pnax67qm45wz56w14gd3x46yvsw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cd43a7c6840e56638be3f94f4bb7c236c5b2ccce/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX.lua",
-        "sha256": "0h7qhclq9rkg90ng4wai831x1pnax67qm45wz56w14gd3x46yvsw"
-      }
-    ]
-  },
-  "sr_Trim tail of item(s) and delete item(s) after mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim tail of item(s) and delete item(s) after mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20tail%20of%20item(s)%20and%20delete%20item(s)%20after%20mouse%20cursor.lua",
-        "sha256": "162mi144vff86f4bx76gnw9f5rv9nissn1k817lpsgh4hvxlc50h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim tail of item(s) and delete item(s) after mouse cursor.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20tail%20of%20item(s)%20and%20delete%20item(s)%20after%20mouse%20cursor.lua",
-        "sha256": "162mi144vff86f4bx76gnw9f5rv9nissn1k817lpsgh4hvxlc50h"
-      }
-    ]
-  },
-  "sr_Open MIDI editor and zoom to 5 measures (zoom center is edit cursor).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to 5 measures (zoom center is edit cursor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%205%20measures%20(zoom%20center%20is%20edit%20cursor).lua",
-        "sha256": "0dn60lz1b1yj99jm7vvalhx2gx2c0fd0547xdn68c4k42yq8way5"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to 5 measures (zoom center is edit cursor).lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%205%20measures%20(zoom%20center%20is%20edit%20cursor).lua",
-        "sha256": "0dn60lz1b1yj99jm7vvalhx2gx2c0fd0547xdn68c4k42yq8way5"
+        "path": "Scripts/Stevie Scripts/Transport/sr_Move edit cursor by frames (mousewheel).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/0e477ec05d5903cddd4c94938209559d6aeeaef2/Transport/sr_Move%20edit%20cursor%20by%20frames%20(mousewheel).lua",
+        "sha256": "14z37cdylwx25lbqzgv2n0pj05r5lrg8r25sf5cwk08wjkyvl9i8"
       }
     ]
   },
@@ -4241,6 +4023,176 @@
         "path": "Scripts/Stevie Scripts/MIDI Editor/Nudge notes (bundle)/sr_Nudge notes right by 10 ticks.lua",
         "url": "https://github.com/StephanRoemer/ReaScripts/raw/cbc2c99a72bf4232b1b8295678714f83467bd108/MIDI%20Editor/Nudge%20notes%20(bundle)/sr_Nudge%20notes%20right%20by%2010%20ticks.lua",
         "sha256": "1mcz8rxmi8p7xrciywlfywg15n707vpiivqsshf4pz5zaidmf2p2"
+      }
+    ]
+  },
+  "sr_Open MIDI editor and zoom to 5 measures (zoom center is edit cursor).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to 5 measures (zoom center is edit cursor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%205%20measures%20(zoom%20center%20is%20edit%20cursor).lua",
+        "sha256": "0dn60lz1b1yj99jm7vvalhx2gx2c0fd0547xdn68c4k42yq8way5"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to 5 measures (zoom center is edit cursor).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%205%20measures%20(zoom%20center%20is%20edit%20cursor).lua",
+        "sha256": "0dn60lz1b1yj99jm7vvalhx2gx2c0fd0547xdn68c4k42yq8way5"
+      }
+    ]
+  },
+  "sr_Move items to timecode (in filename).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9e3faffe605e9cfe9766e5d71e30e0a1172feb9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
+        "sha256": "03hnbargisyfa807q7zbjm0vh8h21r93vzma3imb2q6dqgzm72s1"
+      }
+    ],
+    "1.31": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/e9e3faffe605e9cfe9766e5d71e30e0a1172feb9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
+        "sha256": "03hnbargisyfa807q7zbjm0vh8h21r93vzma3imb2q6dqgzm72s1"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c21e88e9364390cbbfaef2ff3d71575f6d9b2abd/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
+        "sha256": "00m9ai3p524jf30jzmd2720h204sn949gpi3a3b89bylqla0xc50"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/ac2eb4bea9aca7ab7e3776d77d37d0f8dd8c2e2f/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
+        "sha256": "02gxvcwkqmvwzvdkhqf06fak9lpzkz0qsf76c5k68ckqiyb21a9n"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cee45981e7b0ed5b89a4aac1fd6a3000e40849a9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
+        "sha256": "15q9rjy4kvwcy4dxy5vldlvlq0n794zjhwn9c2c4zdb0vkxi4k4m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Move items to timecode (in filename).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/767bef64c37db67c6df57ddd6148a4480f2a2af9/Items%20Editing/sr_Move%20items%20to%20timecode%20(in%20filename).lua",
+        "sha256": "15ha0mqx996vrqcxl3as0azzl7gwkgw8yqgv879z2hz2r4x4a2bs"
+      }
+    ]
+  },
+  "sr_Align selected item(s) to item under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Align selected item(s) to item under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cf2530bc95ec3cf25070aab6c1c99c57e28d52ae/Items%20Editing/sr_Align%20selected%20item(s)%20to%20item%20under%20mouse%20cursor.lua",
+        "sha256": "17ps64ygzllska6wa1xxyd4d7y91cd9230jzyq5r2gsqy9k3l21p"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Align selected item(s) to item under mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cf2530bc95ec3cf25070aab6c1c99c57e28d52ae/Items%20Editing/sr_Align%20selected%20item(s)%20to%20item%20under%20mouse%20cursor.lua",
+        "sha256": "17ps64ygzllska6wa1xxyd4d7y91cd9230jzyq5r2gsqy9k3l21p"
+      }
+    ]
+  },
+  "sr_Trim head of item(s) and delete item(s) before mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim head of item(s) and delete item(s) before mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20head%20of%20item(s)%20and%20delete%20item(s)%20before%20mouse%20cursor.lua",
+        "sha256": "08r57ynjzw7f0jkdqylyqs5l1sdayb5c5rcvjgmyl1rvg2sjafxz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim head of item(s) and delete item(s) before mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20head%20of%20item(s)%20and%20delete%20item(s)%20before%20mouse%20cursor.lua",
+        "sha256": "08r57ynjzw7f0jkdqylyqs5l1sdayb5c5rcvjgmyl1rvg2sjafxz"
+      }
+    ]
+  },
+  "sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5f547a2f9803a2843d60bf71e8c9d6466737d0ad/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX%20and%20delete%20MIDI%20take(s).lua",
+        "sha256": "1k27qarngj6b5crwzwpgg0kwprn0yqq0ij16n3kn5ggzxqjxvypi"
+      }
+    ],
+    "1.11": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/5f547a2f9803a2843d60bf71e8c9d6466737d0ad/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX%20and%20delete%20MIDI%20take(s).lua",
+        "sha256": "1k27qarngj6b5crwzwpgg0kwprn0yqq0ij16n3kn5ggzxqjxvypi"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX and delete MIDI take(s).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cd43a7c6840e56638be3f94f4bb7c236c5b2ccce/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX%20and%20delete%20MIDI%20take(s).lua",
+        "sha256": "04j96hpga094rk1vac3nw9zxxp97qm15zy4lh2zlwwsfp6pkwkd9"
+      }
+    ]
+  },
+  "sr_Open MIDI editor and zoom to content.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to content.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%20content.lua",
+        "sha256": "1fniqjisjvvwdih25hgi8jfsh9dpky74f3p4im9f2sxpmx4cxnsd"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to content.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/4c36f0db5d006af9cee21e7643e45ad1fd4623ad/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%20content.lua",
+        "sha256": "1fniqjisjvvwdih25hgi8jfsh9dpky74f3p4im9f2sxpmx4cxnsd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Open MIDI editor and zoom to content.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/aa31917308fa5b79bea6abca3b2d75fd3428dd1c/Items%20Editing/sr_Open%20MIDI%20editor%20and%20zoom%20to%20content.lua",
+        "sha256": "0kag2ll002qjv93asnh0afjrmkl07d16jdp4y8i0ldr2gcm9bg6g"
+      }
+    ]
+  },
+  "sr_Trim tail of item(s) and delete item(s) after mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim tail of item(s) and delete item(s) after mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20tail%20of%20item(s)%20and%20delete%20item(s)%20after%20mouse%20cursor.lua",
+        "sha256": "162mi144vff86f4bx76gnw9f5rv9nissn1k817lpsgh4hvxlc50h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Trim tail of item(s) and delete item(s) after mouse cursor.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/7160992343362ceb7e26d54d192a4853a6bf90cc/Items%20Editing/sr_Trim%20tail%20of%20item(s)%20and%20delete%20item(s)%20after%20mouse%20cursor.lua",
+        "sha256": "162mi144vff86f4bx76gnw9f5rv9nissn1k817lpsgh4hvxlc50h"
+      }
+    ]
+  },
+  "sr_Render VSTi item(s) without track FX.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cd43a7c6840e56638be3f94f4bb7c236c5b2ccce/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX.lua",
+        "sha256": "0h7qhclq9rkg90ng4wai831x1pnax67qm45wz56w14gd3x46yvsw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Items Editing/sr_Render VSTi item(s) without track FX.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/cd43a7c6840e56638be3f94f4bb7c236c5b2ccce/Items%20Editing/sr_Render%20VSTi%20item(s)%20without%20track%20FX.lua",
+        "sha256": "0h7qhclq9rkg90ng4wai831x1pnax67qm45wz56w14gd3x46yvsw"
       }
     ]
   },
@@ -6670,19 +6622,19 @@
       }
     ]
   },
-  "sr_Set end marker at cursor position.lua": {
+  "sr_Set start and end marker to items in project.lua": {
     "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Markers/sr_Set end marker at cursor position.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f4dc818715b21b6e0c222e3670aad682a09215d4/Markers/sr_Set%20end%20marker%20at%20cursor%20position.lua",
-        "sha256": "0hbhdjiq64xarjmjmhcsac78pxc00apfqw1af706z3qzpd8h6hdk"
+        "path": "Scripts/Stevie Scripts/Regions/sr_Set start and end marker to items in project.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/01c723ce52b9041b9a70d07a9f96cd07bb8c07d9/Regions/sr_Set%20start%20and%20end%20marker%20to%20items%20in%20project.lua",
+        "sha256": "1i1as2kppcsh5bbpzp04s33zryabjyj0vf4ygwizc7aiqiqfsm6g"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Markers/sr_Set end marker at cursor position.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f4dc818715b21b6e0c222e3670aad682a09215d4/Markers/sr_Set%20end%20marker%20at%20cursor%20position.lua",
-        "sha256": "0hbhdjiq64xarjmjmhcsac78pxc00apfqw1af706z3qzpd8h6hdk"
+        "path": "Scripts/Stevie Scripts/Regions/sr_Set start and end marker to items in project.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/01c723ce52b9041b9a70d07a9f96cd07bb8c07d9/Regions/sr_Set%20start%20and%20end%20marker%20to%20items%20in%20project.lua",
+        "sha256": "1i1as2kppcsh5bbpzp04s33zryabjyj0vf4ygwizc7aiqiqfsm6g"
       }
     ]
   },
@@ -6702,19 +6654,67 @@
       }
     ]
   },
-  "sr_Set start and end marker to items in project.lua": {
+  "sr_Set end marker at cursor position.lua": {
     "latest": [
       {
-        "path": "Scripts/Stevie Scripts/Regions/sr_Set start and end marker to items in project.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/01c723ce52b9041b9a70d07a9f96cd07bb8c07d9/Regions/sr_Set%20start%20and%20end%20marker%20to%20items%20in%20project.lua",
-        "sha256": "1i1as2kppcsh5bbpzp04s33zryabjyj0vf4ygwizc7aiqiqfsm6g"
+        "path": "Scripts/Stevie Scripts/Markers/sr_Set end marker at cursor position.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f4dc818715b21b6e0c222e3670aad682a09215d4/Markers/sr_Set%20end%20marker%20at%20cursor%20position.lua",
+        "sha256": "0hbhdjiq64xarjmjmhcsac78pxc00apfqw1af706z3qzpd8h6hdk"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Stevie Scripts/Regions/sr_Set start and end marker to items in project.lua",
-        "url": "https://github.com/StephanRoemer/ReaScripts/raw/01c723ce52b9041b9a70d07a9f96cd07bb8c07d9/Regions/sr_Set%20start%20and%20end%20marker%20to%20items%20in%20project.lua",
-        "sha256": "1i1as2kppcsh5bbpzp04s33zryabjyj0vf4ygwizc7aiqiqfsm6g"
+        "path": "Scripts/Stevie Scripts/Markers/sr_Set end marker at cursor position.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/f4dc818715b21b6e0c222e3670aad682a09215d4/Markers/sr_Set%20end%20marker%20at%20cursor%20position.lua",
+        "sha256": "0hbhdjiq64xarjmjmhcsac78pxc00apfqw1af706z3qzpd8h6hdk"
+      }
+    ]
+  },
+  "sr_Toggle collapse selected folders.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Toggle collapse selected folders.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/69570fd244d8d2c503bd712fb819c7e1e9994b08/Tracks%20Properties/sr_Toggle%20collapse%20selected%20folders.lua",
+        "sha256": "106x8k7rabib13lis8aagdm5xm5s7lyw4j7l5vn61maxl6yv454m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Toggle collapse selected folders.lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/69570fd244d8d2c503bd712fb819c7e1e9994b08/Tracks%20Properties/sr_Toggle%20collapse%20selected%20folders.lua",
+        "sha256": "106x8k7rabib13lis8aagdm5xm5s7lyw4j7l5vn61maxl6yv454m"
+      }
+    ]
+  },
+  "sr_Hide tracks without items (TCP).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items (TCP).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c349a8b5a9cd3b42b79baeb2ae77e0f5b453adc9/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20(TCP).lua",
+        "sha256": "160q60kb0wx6zg4rnrz9lb7qccslcky2gdq99n3v9qi940c5ia92"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items (TCP).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/c349a8b5a9cd3b42b79baeb2ae77e0f5b453adc9/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20(TCP).lua",
+        "sha256": "160q60kb0wx6zg4rnrz9lb7qccslcky2gdq99n3v9qi940c5ia92"
+      }
+    ]
+  },
+  "sr_Hide tracks without items and ignore folder tracks (TCP).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items and ignore folder tracks (TCP).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/743dcbeb9b7fd40db408d51fc13a350f1771617b/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20and%20ignore%20folder%20tracks%20(TCP).lua",
+        "sha256": "0blrpv611lw3fyr805h366gsqvyivbrwf7435nfx4px8qd5xa2mp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Stevie Scripts/Tracks Properties/sr_Hide tracks without items and ignore folder tracks (TCP).lua",
+        "url": "https://github.com/StephanRoemer/ReaScripts/raw/743dcbeb9b7fd40db408d51fc13a350f1771617b/Tracks%20Properties/sr_Hide%20tracks%20without%20items%20and%20ignore%20folder%20tracks%20(TCP).lua",
+        "sha256": "0blrpv611lw3fyr805h366gsqvyivbrwf7435nfx4px8qd5xa2mp"
       }
     ]
   },
