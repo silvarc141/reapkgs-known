@@ -1,45 +1,17 @@
 {
-  "MMC locate.jsfx": {
+  "Dopp Wobbler.jsfx": {
     "latest": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
-        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
-        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3fb29fa4232a7176304f97201288b43b450ef5ca/JSFX/MMC%20locate.jsfx",
-        "sha256": "0zxl4129mp7lzrqbcms5ppid8r9c2ys6x5xfa19mcigkjqsi9pjb"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/ad590a46743c39f1b9ca3a7a4e2f3e740cd7d633/JSFX/MMC%20locate.jsfx",
-        "sha256": "1wz3m33xncbyc7v4pw3m0cf8icrc0df8xfzqnmlciacsxf6gccfb"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/5b9cbdf4955434c2bba1fa4b9319c0a63129feda/JSFX/MMC%20locate.jsfx",
-        "sha256": "1cwmzrh4bs0mznna2ba8ikf5g8i35ymykb1fl0gfz01pav4h5vw8"
+        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
+        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/83e519639a31ce8f1cab41862b97300b9f4b9404/JSFX/MMC%20locate.jsfx",
-        "sha256": "09p14fnhw1qr9c2v34qfg34lalxkqjriz7f0f5f8pqbqhrgsm412"
+        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
+        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
       }
     ]
   },
@@ -103,51 +75,47 @@
       }
     ]
   },
-  "mrlimbic_square_pusher_distorion.jsfx": {
+  "MMC locate.jsfx": {
     "latest": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
+        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fd14a6eab46ae179a2b20a831ee59294e7e5ba0d/JSFX/MMC%20locate.jsfx",
+        "sha256": "1sas3l6bjdldfh9zjvdql3b7wa5spaqh58xk6rbz76zym5i3kmmx"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3fb29fa4232a7176304f97201288b43b450ef5ca/JSFX/MMC%20locate.jsfx",
+        "sha256": "0zxl4129mp7lzrqbcms5ppid8r9c2ys6x5xfa19mcigkjqsi9pjb"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/ad590a46743c39f1b9ca3a7a4e2f3e740cd7d633/JSFX/MMC%20locate.jsfx",
+        "sha256": "1wz3m33xncbyc7v4pw3m0cf8icrc0df8xfzqnmlciacsxf6gccfb"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/5b9cbdf4955434c2bba1fa4b9319c0a63129feda/JSFX/MMC%20locate.jsfx",
+        "sha256": "1cwmzrh4bs0mznna2ba8ikf5g8i35ymykb1fl0gfz01pav4h5vw8"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
-        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
-      }
-    ]
-  },
-  "Dopp Wobbler.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
-        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
-        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
-      }
-    ]
-  },
-  "4-ch sidechain compressor.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
-        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
-        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+        "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/83e519639a31ce8f1cab41862b97300b9f4b9404/JSFX/MMC%20locate.jsfx",
+        "sha256": "09p14fnhw1qr9c2v34qfg34lalxkqjriz7f0f5f8pqbqhrgsm412"
       }
     ]
   },
@@ -183,6 +151,38 @@
       }
     ]
   },
+  "4-ch sidechain compressor.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
+        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
+        "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
+      }
+    ]
+  },
+  "mrlimbic_square_pusher_distorion.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/35d395141a8cc995033bf2068fcf86d4c5bd405c/JSFX/mrlimbic_square_pusher_distorion.jsfx",
+        "sha256": "0icazgl17w4wid6nh6567xp44wnscmicvk4qbsal68xsc67mw703"
+      }
+    ]
+  },
   "mrlimbic_add sequential mono sends to parent and disable master-parent send.lua": {
     "latest": [
       {
@@ -196,6 +196,38 @@
         "path": "Scripts/mrlimbic scripts/Routing/mrlimbic_add sequential mono sends to parent and disable master-parent send.lua",
         "url": "https://github.com/mrlimbic/reascripts/raw/6d70cfd24d2aba3640775e80502d942b7de82c4f/Routing/mrlimbic_add%20sequential%20mono%20sends%20to%20parent%20and%20disable%20master-parent%20send.lua",
         "sha256": "072yvviiwyyng3s0whgib8khy7k3aqah319zwjyxrbpa1hmw7bbr"
+      }
+    ]
+  },
+  "mrlimbic_apply vr rotate from item notes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
+        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
+        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
+      }
+    ]
+  },
+  "mrlimbic_merge_track_volume_envelope_into_selected_items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
       }
     ]
   },
@@ -274,38 +306,6 @@
         "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
         "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
         "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
-      }
-    ]
-  },
-  "mrlimbic_merge_track_volume_envelope_into_selected_items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
-      }
-    ]
-  },
-  "mrlimbic_apply vr rotate from item notes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
-        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
-        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
       }
     ]
   },

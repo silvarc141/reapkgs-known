@@ -1,68 +1,4 @@
 {
-  "chtammik_Move cursor left by 0.1 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
-        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
-        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
-      }
-    ]
-  },
-  "chtammik_Move cursor left by 1 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
-        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
-        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
-      }
-    ]
-  },
-  "chtammik_Move cursor right by 0.5 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
-        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
-        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
-      }
-    ]
-  },
-  "chtammik_Move cursor left by 5 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
-        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
-        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
-      }
-    ]
-  },
   "chtammik_Move cursor left by 10 seconds.eel": {
     "latest": [
       {
@@ -118,22 +54,6 @@
       }
     ]
   },
-  "chtammik_Move cursor right by 10 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
-        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
-        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
-      }
-    ]
-  },
   "chtammik_Move cursor right by 1 seconds.eel": {
     "latest": [
       {
@@ -147,6 +67,22 @@
         "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 1 seconds.eel",
         "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20by%201%20seconds.eel",
         "sha256": "0cq73c55xjab0chw55wqsd5y9v6yn8x4qlzbqj2wkarix88zgm0g"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 0.5 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
+        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
+        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
       }
     ]
   },
@@ -166,6 +102,54 @@
       }
     ]
   },
+  "chtammik_Move cursor left by 5 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
+        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
+        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
+      }
+    ]
+  },
+  "chtammik_Move cursor left by 1 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
+        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
+        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 10 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
+        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
+        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
+      }
+    ]
+  },
   "chtammik_Move cursor left by 0.5 seconds.eel": {
     "latest": [
       {
@@ -182,210 +166,19 @@
       }
     ]
   },
-  "chtammik_Move selected items right 2 seconds.lua": {
+  "chtammik_Move cursor left by 0.1 seconds.eel": {
     "latest": [
       {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 2 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%202%20seconds.lua",
-        "sha256": "1ryrgaf9d43b5vikgkr5vj6pyfg6h9qhyvwfpixb6c4pxhx75ym7"
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
+        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
       }
     ],
     "0.1": [
       {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 2 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%202%20seconds.lua",
-        "sha256": "1ryrgaf9d43b5vikgkr5vj6pyfg6h9qhyvwfpixb6c4pxhx75ym7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 2 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%202%20seconds.lua",
-        "sha256": "0fsf5vijbi910f0fvfp875jwjdjvh1x9cjy3xgrxijznhfm6hqx0"
-      }
-    ]
-  },
-  "chtammik_Move selected items left 2 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 2 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%202%20seconds.lua",
-        "sha256": "10pix2qpxn450nmz8h2pnxp883ydc8sbs76xnz6m9p83sph08mvm"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 2 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%202%20seconds.lua",
-        "sha256": "10pix2qpxn450nmz8h2pnxp883ydc8sbs76xnz6m9p83sph08mvm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 2 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%202%20seconds.lua",
-        "sha256": "0az3xwpfdddsf273p5bzbg8adg8sfij6psn1yaj9pzp95v7n4nb7"
-      }
-    ]
-  },
-  "chtammik_Move selected items right 10 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 10 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%2010%20seconds.lua",
-        "sha256": "03b48f888cvjs5fz5hg8qb4xfvafwd9sjdyb7qxc3z8jqznac93r"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 10 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%2010%20seconds.lua",
-        "sha256": "03b48f888cvjs5fz5hg8qb4xfvafwd9sjdyb7qxc3z8jqznac93r"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 10 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%2010%20seconds.lua",
-        "sha256": "1alir10c5bv8lhgaxsdh3pd3w0zcgagcn3y28zw9a388zc4w7i1z"
-      }
-    ]
-  },
-  "chtammik_Move selected items left 0.5 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%200.5%20seconds.lua",
-        "sha256": "1z3aqkjq2ax0g4pf7vbidzazmmrj6qny4w99bsb2cpdpk4h8pk9d"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%200.5%20seconds.lua",
-        "sha256": "1z3aqkjq2ax0g4pf7vbidzazmmrj6qny4w99bsb2cpdpk4h8pk9d"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%200.5%20seconds.lua",
-        "sha256": "05i8k605lzjab29mxsqn5xnbx9nl9byhy23k8vljq68ggqk6c1yk"
-      }
-    ]
-  },
-  "chtammik_Move selected items right 1 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 1 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%201%20seconds.lua",
-        "sha256": "19njji62ylw4xidwhdrk6wwgxndn4fxwsxikandinw0b70zbky56"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 1 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%201%20seconds.lua",
-        "sha256": "19njji62ylw4xidwhdrk6wwgxndn4fxwsxikandinw0b70zbky56"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 1 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%201%20seconds.lua",
-        "sha256": "08jjs17jyx7aiphhpl88wyai8ixnv132yciqanmmwcywhyxdllps"
-      }
-    ]
-  },
-  "chtammik_Move selected items left 5 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%205%20seconds.lua",
-        "sha256": "19895jx111hcmrpa5wzaha0mx23fajpiyzp1sgg1saarib4mmr6l"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%205%20seconds.lua",
-        "sha256": "19895jx111hcmrpa5wzaha0mx23fajpiyzp1sgg1saarib4mmr6l"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%205%20seconds.lua",
-        "sha256": "0pbihiksgmn3ghqdvwv69xs99wq0ms5072d8z5cbad0z65rhgnj6"
-      }
-    ]
-  },
-  "chtammik_Move selected items left 1 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 1 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%201%20seconds.lua",
-        "sha256": "1d4gssq54kcr30vhkjv257gyxx67ifffwabkahw3k4xvxcw7f9n8"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 1 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%201%20seconds.lua",
-        "sha256": "1d4gssq54kcr30vhkjv257gyxx67ifffwabkahw3k4xvxcw7f9n8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 1 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%201%20seconds.lua",
-        "sha256": "1pzn5dayd095iplca2jvzkppnnb7ncnb1v2skgl48l3bj5n5adr2"
-      }
-    ]
-  },
-  "chtammik_Move selected items right 5 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%205%20seconds.lua",
-        "sha256": "17rf8aahaa3953m9a2gmvqbqc6ja3hrxan6gcany6c6v2bsyphi9"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%205%20seconds.lua",
-        "sha256": "17rf8aahaa3953m9a2gmvqbqc6ja3hrxan6gcany6c6v2bsyphi9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 5 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%205%20seconds.lua",
-        "sha256": "12f7zj1ynjfw5sjg58mqic7bcg31lhj6zlj7mrpq4bcagsnyyf84"
-      }
-    ]
-  },
-  "chtammik_Move selected items left 10 seconds.lua": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 10 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%2010%20seconds.lua",
-        "sha256": "09k70ximba97h9646pas5pfvf59r5q5skhfjcyinamvk3l41997a"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 10 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%2010%20seconds.lua",
-        "sha256": "09k70ximba97h9646pas5pfvf59r5q5skhfjcyinamvk3l41997a"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 10 seconds.lua",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%2010%20seconds.lua",
-        "sha256": "0na5s0wknhdmcqybkjl7bn3n25x8i88j4ks6dw6sq4n2l0mjf0fk"
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
+        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
       }
     ]
   },
@@ -412,6 +205,29 @@
       }
     ]
   },
+  "chtammik_Move selected items right 5 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%205%20seconds.lua",
+        "sha256": "17rf8aahaa3953m9a2gmvqbqc6ja3hrxan6gcany6c6v2bsyphi9"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%205%20seconds.lua",
+        "sha256": "17rf8aahaa3953m9a2gmvqbqc6ja3hrxan6gcany6c6v2bsyphi9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%205%20seconds.lua",
+        "sha256": "12f7zj1ynjfw5sjg58mqic7bcg31lhj6zlj7mrpq4bcagsnyyf84"
+      }
+    ]
+  },
   "chtammik_Move selected items right 0.1 seconds.lua": {
     "latest": [
       {
@@ -435,6 +251,98 @@
       }
     ]
   },
+  "chtammik_Move selected items left 5 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%205%20seconds.lua",
+        "sha256": "19895jx111hcmrpa5wzaha0mx23fajpiyzp1sgg1saarib4mmr6l"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%205%20seconds.lua",
+        "sha256": "19895jx111hcmrpa5wzaha0mx23fajpiyzp1sgg1saarib4mmr6l"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%205%20seconds.lua",
+        "sha256": "0pbihiksgmn3ghqdvwv69xs99wq0ms5072d8z5cbad0z65rhgnj6"
+      }
+    ]
+  },
+  "chtammik_Move selected items left 10 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 10 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%2010%20seconds.lua",
+        "sha256": "09k70ximba97h9646pas5pfvf59r5q5skhfjcyinamvk3l41997a"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 10 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%2010%20seconds.lua",
+        "sha256": "09k70ximba97h9646pas5pfvf59r5q5skhfjcyinamvk3l41997a"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 10 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%2010%20seconds.lua",
+        "sha256": "0na5s0wknhdmcqybkjl7bn3n25x8i88j4ks6dw6sq4n2l0mjf0fk"
+      }
+    ]
+  },
+  "chtammik_Move selected items left 1 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 1 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%201%20seconds.lua",
+        "sha256": "1d4gssq54kcr30vhkjv257gyxx67ifffwabkahw3k4xvxcw7f9n8"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 1 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%201%20seconds.lua",
+        "sha256": "1d4gssq54kcr30vhkjv257gyxx67ifffwabkahw3k4xvxcw7f9n8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 1 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%201%20seconds.lua",
+        "sha256": "1pzn5dayd095iplca2jvzkppnnb7ncnb1v2skgl48l3bj5n5adr2"
+      }
+    ]
+  },
+  "chtammik_Move selected items left 2 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 2 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%202%20seconds.lua",
+        "sha256": "10pix2qpxn450nmz8h2pnxp883ydc8sbs76xnz6m9p83sph08mvm"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 2 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%202%20seconds.lua",
+        "sha256": "10pix2qpxn450nmz8h2pnxp883ydc8sbs76xnz6m9p83sph08mvm"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 2 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%202%20seconds.lua",
+        "sha256": "0az3xwpfdddsf273p5bzbg8adg8sfij6psn1yaj9pzp95v7n4nb7"
+      }
+    ]
+  },
   "chtammik_Move selected items left 0.1 seconds.lua": {
     "latest": [
       {
@@ -455,6 +363,98 @@
         "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.1 seconds.lua",
         "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%200.1%20seconds.lua",
         "sha256": "1g11qkqzpxhs99931i5ipfinl7rn28213k796qpyi3kydc99yd60"
+      }
+    ]
+  },
+  "chtammik_Move selected items right 2 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 2 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%202%20seconds.lua",
+        "sha256": "1ryrgaf9d43b5vikgkr5vj6pyfg6h9qhyvwfpixb6c4pxhx75ym7"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 2 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%202%20seconds.lua",
+        "sha256": "1ryrgaf9d43b5vikgkr5vj6pyfg6h9qhyvwfpixb6c4pxhx75ym7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 2 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%202%20seconds.lua",
+        "sha256": "0fsf5vijbi910f0fvfp875jwjdjvh1x9cjy3xgrxijznhfm6hqx0"
+      }
+    ]
+  },
+  "chtammik_Move selected items right 10 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 10 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%2010%20seconds.lua",
+        "sha256": "03b48f888cvjs5fz5hg8qb4xfvafwd9sjdyb7qxc3z8jqznac93r"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 10 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%2010%20seconds.lua",
+        "sha256": "03b48f888cvjs5fz5hg8qb4xfvafwd9sjdyb7qxc3z8jqznac93r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 10 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%2010%20seconds.lua",
+        "sha256": "1alir10c5bv8lhgaxsdh3pd3w0zcgagcn3y28zw9a388zc4w7i1z"
+      }
+    ]
+  },
+  "chtammik_Move selected items right 1 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 1 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%201%20seconds.lua",
+        "sha256": "19njji62ylw4xidwhdrk6wwgxndn4fxwsxikandinw0b70zbky56"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 1 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20right%201%20seconds.lua",
+        "sha256": "19njji62ylw4xidwhdrk6wwgxndn4fxwsxikandinw0b70zbky56"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items right 1 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20right%201%20seconds.lua",
+        "sha256": "08jjs17jyx7aiphhpl88wyai8ixnv132yciqanmmwcywhyxdllps"
+      }
+    ]
+  },
+  "chtammik_Move selected items left 0.5 seconds.lua": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%200.5%20seconds.lua",
+        "sha256": "1z3aqkjq2ax0g4pf7vbidzazmmrj6qny4w99bsb2cpdpk4h8pk9d"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Items%20Editing/chtammik_Move%20selected%20items%20left%200.5%20seconds.lua",
+        "sha256": "1z3aqkjq2ax0g4pf7vbidzazmmrj6qny4w99bsb2cpdpk4h8pk9d"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Items Editing/chtammik_Move selected items left 0.5 seconds.lua",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Items%20Editing/chtammik_Move%20selected%20items%20left%200.5%20seconds.lua",
+        "sha256": "05i8k605lzjab29mxsqn5xnbx9nl9byhy23k8vljq68ggqk6c1yk"
       }
     ]
   },

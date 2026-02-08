@@ -1,56 +1,17 @@
 {
-  "oleggoryachev_RADO-V5-ARTEK.theme": {
-    "latest": [
-      {
-        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
-        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
-        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
-      }
-    ],
-    "1": [
-      {
-        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
-        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
-        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
-      }
-    ]
-  },
-  "Pet_Default_v5_Dark_Extended.theme": {
-    "latest": [
-      {
-        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
-        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
-        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
-        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ]
-  },
   "Lokasenna_Default_5.0_Nitpicky_Edition.theme": {
     "latest": [
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "13slp05gzmlz5ppybk8p6s11ns5xsz8im3a4lj4yn4gvf5mwnqmx"
+        "sha256": "18hmz15gkw3chkmz0d1k2x66bpi48yyj35kn74d6a6xgxm02hahg"
       }
     ],
     "15.01": [
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "13slp05gzmlz5ppybk8p6s11ns5xsz8im3a4lj4yn4gvf5mwnqmx"
+        "sha256": "18hmz15gkw3chkmz0d1k2x66bpi48yyj35kn74d6a6xgxm02hahg"
       }
     ],
     "15": [
@@ -97,6 +58,45 @@
         "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
         "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
         "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
+      }
+    ]
+  },
+  "Pet_Default_v5_Dark_Extended.theme": {
+    "latest": [
+      {
+        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
+        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
+        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
+        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
+      }
+    ]
+  },
+  "oleggoryachev_RADO-V5-ARTEK.theme": {
+    "latest": [
+      {
+        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
+        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
+        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
+      }
+    ],
+    "1": [
+      {
+        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
+        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
+        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
       }
     ]
   }

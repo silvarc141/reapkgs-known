@@ -1,108 +1,4 @@
 {
-  "Arm Tracks Within Selected Folder.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c39b5d17edb2f87461b1020d5620ec67aea7aa16/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0xvx5b5z3yfql1x8a6czlnv0a395n2xha6hc2sl1j3d8xszzhv61"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c39b5d17edb2f87461b1020d5620ec67aea7aa16/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0xvx5b5z3yfql1x8a6czlnv0a395n2xha6hc2sl1j3d8xszzhv61"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c39b5d17edb2f87461b1020d5620ec67aea7aa16/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0xvx5b5z3yfql1x8a6czlnv0a395n2xha6hc2sl1j3d8xszzhv61"
-      }
-    ],
-    "2.0-beta1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/60ecf4326998435752565be447b7782e4f47e9ae/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "18yc8gkgssgbf49gl1r2wlwdmdlcgqyrc4vn8idifmxjvbfan6sf"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/60ecf4326998435752565be447b7782e4f47e9ae/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "18yc8gkgssgbf49gl1r2wlwdmdlcgqyrc4vn8idifmxjvbfan6sf"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/60ecf4326998435752565be447b7782e4f47e9ae/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "18yc8gkgssgbf49gl1r2wlwdmdlcgqyrc4vn8idifmxjvbfan6sf"
-      }
-    ],
-    "1.0-beta1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
-        "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
-      }
-    ]
-  },
   "Arm All Tracks Within Folders.lua": {
     "latest": [
       {
@@ -218,6 +114,110 @@
         "path": "Scripts/BSmith96 Scripts/Recording/Arm All Tracks Within Folders.lua",
         "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Recording/Arm%20All%20Tracks%20Within%20Folders.lua",
         "sha256": "1bxjv9ivbsylizg6niqqj69cqsl94ac6jkqf867nk34ccys5sq1x"
+      }
+    ]
+  },
+  "Arm Tracks Within Selected Folder.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/453dc95c0e3dfd1dca7a684b04d30f41b5cbe0c5/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0n228csq0gcycfhhmabpf26hm6bn163rdykmvnv7zjlp8brwm545"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c39b5d17edb2f87461b1020d5620ec67aea7aa16/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0xvx5b5z3yfql1x8a6czlnv0a395n2xha6hc2sl1j3d8xszzhv61"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c39b5d17edb2f87461b1020d5620ec67aea7aa16/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0xvx5b5z3yfql1x8a6czlnv0a395n2xha6hc2sl1j3d8xszzhv61"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c39b5d17edb2f87461b1020d5620ec67aea7aa16/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0xvx5b5z3yfql1x8a6czlnv0a395n2xha6hc2sl1j3d8xszzhv61"
+      }
+    ],
+    "2.0-beta1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/60ecf4326998435752565be447b7782e4f47e9ae/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "18yc8gkgssgbf49gl1r2wlwdmdlcgqyrc4vn8idifmxjvbfan6sf"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/60ecf4326998435752565be447b7782e4f47e9ae/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "18yc8gkgssgbf49gl1r2wlwdmdlcgqyrc4vn8idifmxjvbfan6sf"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/60ecf4326998435752565be447b7782e4f47e9ae/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "18yc8gkgssgbf49gl1r2wlwdmdlcgqyrc4vn8idifmxjvbfan6sf"
+      }
+    ],
+    "1.0-beta1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec arm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec disarm tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
+        "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
       }
     ]
   },
@@ -715,6 +715,50 @@
       }
     ]
   },
+  "Toggle routing and solo to master.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Toggle routing and solo to master.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/2c986f5b1b8bb94675c90a61a76be1b3c84ae14e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
+        "sha256": "1187vvbhifm5j4dnxcnpw1zn190plva2a1x44a912g0a9z8whpnd"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Toggle routing and solo to master.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/2c986f5b1b8bb94675c90a61a76be1b3c84ae14e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
+        "sha256": "1187vvbhifm5j4dnxcnpw1zn190plva2a1x44a912g0a9z8whpnd"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Toggle routing and solo to master.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
+        "sha256": "0w5fjr5d2f57xy1hf256s60w45lmdsdxrqrchyy13mhsdv8c3rm2"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Toggle routing and solo to master.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
+        "sha256": "04lzmsqavrx20dk6zjky7fg2x75kwa98k62w2xd3z0ybx6grzd2s"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Toggle routing and solo to master.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
+        "sha256": "03zsdn3iclk43cdxcrp7inp1sq11yixz65wmkgzfzk3whm8329ax"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Routing/Toggle routing and solo to master.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
+        "sha256": "0a842qi36aafz4c0jxk3pbbd8yl17lpcdg293v6nw5c0h8dd6jk3"
+      }
+    ]
+  },
   "Set track inputs 1-to-1.lua": {
     "latest": [
       {
@@ -903,50 +947,6 @@
         "path": "Scripts/BSmith96 Scripts/Routing/Set track outputs 1-to-1.lua",
         "url": "https://github.com/bsmith96/Reaper-Scripts/raw/85404d0aca2900ddf516b724e9cb73a5b71e4f5a/Routing/Set%20track%20outputs%201-to-1.lua",
         "sha256": "1ln9icc4z6p3r1qkdvqvw612xng4x58n10q2k2jmjxgj5nhcm62j"
-      }
-    ]
-  },
-  "Toggle routing and solo to master.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Toggle routing and solo to master.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/2c986f5b1b8bb94675c90a61a76be1b3c84ae14e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
-        "sha256": "1187vvbhifm5j4dnxcnpw1zn190plva2a1x44a912g0a9z8whpnd"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Toggle routing and solo to master.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/2c986f5b1b8bb94675c90a61a76be1b3c84ae14e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
-        "sha256": "1187vvbhifm5j4dnxcnpw1zn190plva2a1x44a912g0a9z8whpnd"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/bsmith96_Toggle routing and solo to master.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
-        "sha256": "0w5fjr5d2f57xy1hf256s60w45lmdsdxrqrchyy13mhsdv8c3rm2"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Toggle routing and solo to master.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
-        "sha256": "04lzmsqavrx20dk6zjky7fg2x75kwa98k62w2xd3z0ybx6grzd2s"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Toggle routing and solo to master.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
-        "sha256": "03zsdn3iclk43cdxcrp7inp1sq11yixz65wmkgzfzk3whm8329ax"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Routing/Toggle routing and solo to master.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua",
-        "sha256": "0a842qi36aafz4c0jxk3pbbd8yl17lpcdg293v6nw5c0h8dd6jk3"
       }
     ]
   },

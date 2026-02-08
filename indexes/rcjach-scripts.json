@@ -1,169 +1,45 @@
 {
-  "AB Comparison - 1INnOUT Stereo.jsfx": {
+  "RC MIDI Channel Router.jsfx": {
     "latest": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
-        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/c125c8631582da951cde899075c286bbf8af1bbe/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
+        "sha256": "1rp21h96kmq0pcf75ascl6zhlzqcza58ab7rwn0ij725415df48h"
       }
     ],
-    "1.2": [
+    "1.1.3": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
-        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
-      }
-    ]
-  },
-  "RCNoiseBuzz.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/c125c8631582da951cde899075c286bbf8af1bbe/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
+        "sha256": "1rp21h96kmq0pcf75ascl6zhlzqcza58ab7rwn0ij725415df48h"
       }
     ],
-    "1.3": [
+    "1.1.2": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/58601021034c0663d1a45071fba8fb72687f0218/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
+        "sha256": "05csk80yr2ysg2kkad3y09iwg9vcfdjjfjlwlbwy1y50q6q948ip"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/42c6fc5541edc74a5afa87e484438a975e02ce5b/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
+        "sha256": "1a3q6hxpspvnh5548qlwnbl2arrawqp3nafzx3m4j2s2f12n9fp4"
       }
     ],
     "1.1": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "1d94izbhy8h1gxh2ahshpwz0mnd0k4na5xn0vqzfkwjqm9maqhls"
-      }
-    ]
-  },
-  "RCInflator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3da5db2a1c1d27ccf19c64dfd2d3fc9fbe39285e/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "09z97i4my6260dynilry40462ld0mrsdb3dw90akpdvv58hi1p1d"
-      }
-    ],
-    "0.6": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3da5db2a1c1d27ccf19c64dfd2d3fc9fbe39285e/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "09z97i4my6260dynilry40462ld0mrsdb3dw90akpdvv58hi1p1d"
-      }
-    ],
-    "0.5.4": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/9133c2ae55d7482e15472352b74c745651a2ad86/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "0bgbgx737dqlmxwb9rs3msfdg81sawy7hrwjwf6pkh8nzzx8xp4y"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/ae468ad9e84da8e3720ac0903f4de4b2b09f97d4/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "0rgwrvnjn6nfqhwbvyhwabkizf5hnc5pilphij2fknj819jdhfvb"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/544e82e87f5c70c0d3869da3df2764833f7e0dee/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "1dlpbb8vcjwaa3bs78k9mb9lm5ighpmvijkqdb90nz6sb2gz2w1w"
-      }
-    ],
-    "0.4": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/4568b3f76dd97aa687a5ef49d2b8a1ec459d4279/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "0bfkf39c2am6zm2hwmg88nm1ai82wvw0nslb3apkddn3dadid8j0"
-      }
-    ],
-    "0.2": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/d40d6a97a31250efee6b182e38ad1f74c80d3669/JSFX/Audio/RCInflator.jsfx",
-        "sha256": "12yj4fwcb8084f9fw09rqqqp4da9s1h9488ics2hdc2z622ny56q"
-      }
-    ]
-  },
-  "NoiseBuzz.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
-        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/2efb05af6d7bf33f3940fcced2c8fe19dd290e5f/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
+        "sha256": "0jmry1abl1fbkwhzmhz6ykdyi3c8rkwihyjhr7rz700yw0f2x82b"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
-        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
-      }
-    ]
-  },
-  "AB Comparison.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/225dcb55a806ad1775d90a767f9edae92d7100ce/JSFX/Audio/AB%20Comparison.jsfx",
-        "sha256": "042nxawm9acpdkj5wd94kfbr8ghp3j1llbi46374w0a3hqwqv52m"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/225dcb55a806ad1775d90a767f9edae92d7100ce/JSFX/Audio/AB%20Comparison.jsfx",
-        "sha256": "042nxawm9acpdkj5wd94kfbr8ghp3j1llbi46374w0a3hqwqv52m"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6c435acc784b9ed67a126ba2701493b11679a95c/JSFX/Audio/AB%20Comparison.jsfx",
-        "sha256": "14y3cg6355cw31kkqw9j16426lvwy91p5ranv6r2lnwxqan3mf6v"
-      }
-    ]
-  },
-  "RCBitRangeGain.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk"
-      }
-    ]
-  },
-  "RCEveryGain.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
-        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
-        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/e20d37e5466383052909045840c87c9a45fedcd9/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
+        "sha256": "11lgj9bc4zf8nkkg5wzch0fgqrrhw9s5l7iickb4fvsvpz279qx4"
       }
     ]
   },
@@ -232,66 +108,6 @@
       }
     ]
   },
-  "midi_cc_eater.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/midi_cc_eater.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_cc_eater.jsfx",
-        "sha256": "19b18z3rrq89yfn85phck2r90vq7jkpqzy6rf8mz0ddgp4kgyl39"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/midi_cc_eater.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_cc_eater.jsfx",
-        "sha256": "19b18z3rrq89yfn85phck2r90vq7jkpqzy6rf8mz0ddgp4kgyl39"
-      }
-    ]
-  },
-  "RC MIDI Channel Router.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/c125c8631582da951cde899075c286bbf8af1bbe/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
-        "sha256": "1rp21h96kmq0pcf75ascl6zhlzqcza58ab7rwn0ij725415df48h"
-      }
-    ],
-    "1.1.3": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/c125c8631582da951cde899075c286bbf8af1bbe/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
-        "sha256": "1rp21h96kmq0pcf75ascl6zhlzqcza58ab7rwn0ij725415df48h"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/58601021034c0663d1a45071fba8fb72687f0218/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
-        "sha256": "05csk80yr2ysg2kkad3y09iwg9vcfdjjfjlwlbwy1y50q6q948ip"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/42c6fc5541edc74a5afa87e484438a975e02ce5b/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
-        "sha256": "1a3q6hxpspvnh5548qlwnbl2arrawqp3nafzx3m4j2s2f12n9fp4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/2efb05af6d7bf33f3940fcced2c8fe19dd290e5f/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
-        "sha256": "0jmry1abl1fbkwhzmhz6ykdyi3c8rkwihyjhr7rz700yw0f2x82b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/MIDI/RC MIDI Channel Router.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/e20d37e5466383052909045840c87c9a45fedcd9/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx",
-        "sha256": "11lgj9bc4zf8nkkg5wzch0fgqrrhw9s5l7iickb4fvsvpz279qx4"
-      }
-    ]
-  },
   "midi_note_beat_repeater.jsfx": {
     "latest": [
       {
@@ -324,6 +140,22 @@
       }
     ]
   },
+  "midi_cc_eater.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/midi_cc_eater.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_cc_eater.jsfx",
+        "sha256": "19b18z3rrq89yfn85phck2r90vq7jkpqzy6rf8mz0ddgp4kgyl39"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/MIDI/midi_cc_eater.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_cc_eater.jsfx",
+        "sha256": "19b18z3rrq89yfn85phck2r90vq7jkpqzy6rf8mz0ddgp4kgyl39"
+      }
+    ]
+  },
   "RCAutoPanner.jsfx": {
     "latest": [
       {
@@ -340,6 +172,174 @@
       }
     ]
   },
+  "RCInflator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3da5db2a1c1d27ccf19c64dfd2d3fc9fbe39285e/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "09z97i4my6260dynilry40462ld0mrsdb3dw90akpdvv58hi1p1d"
+      }
+    ],
+    "0.6": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3da5db2a1c1d27ccf19c64dfd2d3fc9fbe39285e/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "09z97i4my6260dynilry40462ld0mrsdb3dw90akpdvv58hi1p1d"
+      }
+    ],
+    "0.5.4": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/9133c2ae55d7482e15472352b74c745651a2ad86/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "0bgbgx737dqlmxwb9rs3msfdg81sawy7hrwjwf6pkh8nzzx8xp4y"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ae468ad9e84da8e3720ac0903f4de4b2b09f97d4/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "0rgwrvnjn6nfqhwbvyhwabkizf5hnc5pilphij2fknj819jdhfvb"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/544e82e87f5c70c0d3869da3df2764833f7e0dee/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "1dlpbb8vcjwaa3bs78k9mb9lm5ighpmvijkqdb90nz6sb2gz2w1w"
+      }
+    ],
+    "0.4": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4568b3f76dd97aa687a5ef49d2b8a1ec459d4279/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "0bfkf39c2am6zm2hwmg88nm1ai82wvw0nslb3apkddn3dadid8j0"
+      }
+    ],
+    "0.2": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCInflator.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/d40d6a97a31250efee6b182e38ad1f74c80d3669/JSFX/Audio/RCInflator.jsfx",
+        "sha256": "12yj4fwcb8084f9fw09rqqqp4da9s1h9488ics2hdc2z622ny56q"
+      }
+    ]
+  },
+  "RCNoiseBuzz.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "1d94izbhy8h1gxh2ahshpwz0mnd0k4na5xn0vqzfkwjqm9maqhls"
+      }
+    ]
+  },
+  "RCEveryGain.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
+        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
+        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
+      }
+    ]
+  },
+  "RCBitRangeGain.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk"
+      }
+    ]
+  },
+  "NoiseBuzz.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
+        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
+        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
+      }
+    ]
+  },
+  "AB Comparison.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/225dcb55a806ad1775d90a767f9edae92d7100ce/JSFX/Audio/AB%20Comparison.jsfx",
+        "sha256": "042nxawm9acpdkj5wd94kfbr8ghp3j1llbi46374w0a3hqwqv52m"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/225dcb55a806ad1775d90a767f9edae92d7100ce/JSFX/Audio/AB%20Comparison.jsfx",
+        "sha256": "042nxawm9acpdkj5wd94kfbr8ghp3j1llbi46374w0a3hqwqv52m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6c435acc784b9ed67a126ba2701493b11679a95c/JSFX/Audio/AB%20Comparison.jsfx",
+        "sha256": "14y3cg6355cw31kkqw9j16426lvwy91p5ranv6r2lnwxqan3mf6v"
+      }
+    ]
+  },
+  "AB Comparison - 1INnOUT Stereo.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
+        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
+        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
+      }
+    ]
+  },
   "RCJacH_Generate LRC Lyrics and Export to Clipboard.lua": {
     "latest": [
       {
@@ -353,6 +353,22 @@
         "path": "Scripts/RCJacH Scripts/Various/RCJacH_Generate LRC Lyrics and Export to Clipboard.lua",
         "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Various/RCJacH_Generate%20LRC%20Lyrics%20and%20Export%20to%20Clipboard.lua",
         "sha256": "011qwpcck95a2fzaqblzxsb1s4x4xjvkflx0bry7gbkkrslli64l"
+      }
+    ]
+  },
+  "RCJacH_Glue Selected Items Preserve First Item Name.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
+        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
+        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
       }
     ]
   },
@@ -388,38 +404,6 @@
       }
     ]
   },
-  "RCJacH_Glue Selected Items Preserve First Item Name.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
-        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
-        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
-      }
-    ]
-  },
-  "RCJacH_Delete content under mouse (contextual).lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
-        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
-        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
-      }
-    ]
-  },
   "RCJacH_Spread Items Horizontally.lua": {
     "latest": [
       {
@@ -452,6 +436,22 @@
       }
     ]
   },
+  "RCJacH_Delete content under mouse (contextual).lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
+        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
+        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
+      }
+    ]
+  },
   "RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua": {
     "latest": [
       {
@@ -468,22 +468,6 @@
       }
     ]
   },
-  "RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
-        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
-      }
-    ],
-    "1.0a": [
-      {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
-        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
-      }
-    ]
-  },
   "RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua": {
     "latest": [
       {
@@ -497,6 +481,22 @@
         "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
         "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
         "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
+      }
+    ]
+  },
+  "RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
+        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
+      }
+    ],
+    "1.0a": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
+        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
       }
     ]
   },

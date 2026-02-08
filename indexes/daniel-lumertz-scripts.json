@@ -317,7 +317,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/General Functions.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/cbacaec0ec118f59004ab80f6c8a44c9c09d6147/Items/Clipboard/General%20Functions.lua",
-        "sha256": "14v5l2795gfqvw4bg9h3s5d7vk6kyir3i3hhizjdmzliwfzpaz6d"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/Serialize Table.lua",
@@ -349,7 +349,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/Clipboard Paste.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/b63a7e09b969ea1fb28b61705b78aa53104ad00b/Items/Clipboard/Clipboard%20Paste.lua",
-        "sha256": "1zpxdacp42nyv4wx9qgmm10sp8i0h9zwajq5h0sni6ki1qi6mniq"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/General Functions.lua",
@@ -364,7 +364,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/preset.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/b63a7e09b969ea1fb28b61705b78aa53104ad00b/Items/Clipboard/preset.lua",
-        "sha256": "1223czczb23gmp6ygi1020d47gdygjs8w6x2adib13m1avdg58s9"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/utils/json.lua",
@@ -423,7 +423,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/Clipboard Paste.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ff61888a93d04039335602b8bc214768b1b99ce1/Items/Clipboard/Clipboard%20Paste.lua",
-        "sha256": "06w0pks871vzxz2ikcd6w1ww51n78nzwjf6680z9hzdj4ndx4bzm"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/General Functions.lua",
@@ -443,7 +443,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Clipboard/utils/json.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ff61888a93d04039335602b8bc214768b1b99ce1/Items/Clipboard/utils/json.lua",
-        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+        "sha256": ""
       }
     ],
     "1.0": [
@@ -6506,7 +6506,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Functions/Json Main.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ecbda1faa077338a108c689971f5a6e435974cf0/MIDI/Markov%20Chains/Functions/Json%20Main.lua",
-        "sha256": "0rdhgmchwb0vsg5yxk0s0izqn9hypqlibjk7md0i658c9ds9m9mk"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Functions/MIDI Apply Functions.lua",
@@ -6521,7 +6521,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Functions/Main Loop Function.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ecbda1faa077338a108c689971f5a6e435974cf0/MIDI/Markov%20Chains/Functions/Main%20Loop%20Function.lua",
-        "sha256": "166pycdfnan54sbicbvmihrzvb63i1x9hb97dz2mzc5d8p96lxhq"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Functions/Markov Functions.lua",
@@ -6563,7 +6563,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Functions/Drop Enhance Resolution Functions.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/78fb83ac65b649f98e03179a2d163c9fb09e84fb/MIDI/Markov%20Chains/Functions/Drop%20Enhance%20Resolution%20Functions.lua",
-        "sha256": "1cvc6s0mzaisjdqrd5ifwnk4xzb9r5hp0al2rba9pw1lw41684ny"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Functions/GUI Functions.lua",
@@ -6633,7 +6633,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Markov Chains/Markov Chains.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/78fb83ac65b649f98e03179a2d163c9fb09e84fb/MIDI/Markov%20Chains/Markov%20Chains.lua",
-        "sha256": "1j43pchxb8jfsniadnpr9psdxvn0fw216za1zs0yklf7x1dsc34c"
+        "sha256": ""
       }
     ]
   },
