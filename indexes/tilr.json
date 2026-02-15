@@ -1,36 +1,4 @@
 {
-  "MIDI Keyvel Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ]
-  },
-  "Vel to CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
-      }
-    ],
-    "2.0.0": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
-      }
-    ]
-  },
   "Notes to 12 channel.jsfx": {
     "latest": [
       {
@@ -63,259 +31,35 @@
       }
     ]
   },
-  "QuickDelay.jsfx": {
+  "MIDI Keyvel Filter.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
-        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
-        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ]
   },
-  "qdelay.jsfx": {
+  "Vel to CC.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Delay/qdelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay.jsfx",
-        "sha256": "1msfdpkclwg1l71yvxz895br4yanjl5sg07ka9mqxhhh615xk418"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
       }
     ],
-    "1.0.4": [
+    "2.0.0": [
       {
-        "path": "Effects/Tilr/Delay/qdelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay.jsfx",
-        "sha256": "1msfdpkclwg1l71yvxz895br4yanjl5sg07ka9mqxhhh615xk418"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Tilr/Delay/qdelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay.jsfx",
-        "sha256": "115jwcsj5vfw6akg1dnazk9ahyl3yigzz2951g18fwpq9winyqif"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Tilr/Delay/qdelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay.jsfx",
-        "sha256": "1idy1xh3nrymgc5q1q2zwfw79jlpc8k6jp654zdsbldrssajzmyc"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Tilr/Delay/qdelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay.jsfx",
-        "sha256": "0ykixwxwmjmxw339dc78b3xlwwy4j1m5ska2jixy56nwj9xzqf9a"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "sha256": "1mq7hshkxwnpdyflbdiqc9b9a4cb67a9fyrsq130nma5zkdhw303"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Delay/qdelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay.jsfx",
-        "sha256": "1069p07z719y7gpd3ic0scfs46wcbva6cwr4pddgqsvjjbmx1lxx"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
-        "sha256": "0dfcc22ahp0ad9bbwrcfr0iwnmdcc6vd5s4n7k6wzrhck5gvpgqm"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ]
-  },
-  "QuickDualDelay.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
       }
     ]
   },
@@ -9338,6 +9082,262 @@
         "path": "Effects/Tilr/Synth/rippler2/rippler2.rbj_filter.jsfx-inc",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/617d4c6392c55b67d0bbda49c64d4ec9562b9a55/Synth/rippler2/rippler2.rbj_filter.jsfx-inc",
         "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      }
+    ]
+  },
+  "qdelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/qdelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay.jsfx",
+        "sha256": "1msfdpkclwg1l71yvxz895br4yanjl5sg07ka9mqxhhh615xk418"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Tilr/Delay/qdelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay.jsfx",
+        "sha256": "1msfdpkclwg1l71yvxz895br4yanjl5sg07ka9mqxhhh615xk418"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c5695e50487896f235dc57834da0295a6dcdb200/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Tilr/Delay/qdelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay.jsfx",
+        "sha256": "115jwcsj5vfw6akg1dnazk9ahyl3yigzz2951g18fwpq9winyqif"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/a877f72c75c549f7a8620d7a7c24fc02b3e6833c/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Tilr/Delay/qdelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay.jsfx",
+        "sha256": "1idy1xh3nrymgc5q1q2zwfw79jlpc8k6jp654zdsbldrssajzmyc"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "sha256": "0fmlv4vvxpzcb0q12lvpwv9d71xkwkn0zajyif756c9hb0n38l8h"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9f965d532fb1b55711f98f211fa2a65ed49eea7a/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Tilr/Delay/qdelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay.jsfx",
+        "sha256": "0ykixwxwmjmxw339dc78b3xlwwy4j1m5ska2jixy56nwj9xzqf9a"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "sha256": "1mq7hshkxwnpdyflbdiqc9b9a4cb67a9fyrsq130nma5zkdhw303"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/deb1317351df5a8ad98fdb6dbd001ff9d09e1e9f/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/qdelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay.jsfx",
+        "sha256": "1069p07z719y7gpd3ic0scfs46wcbva6cwr4pddgqsvjjbmx1lxx"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.gfxlib.jsfx-inc",
+        "sha256": "0dfcc22ahp0ad9bbwrcfr0iwnmdcc6vd5s4n7k6wzrhck5gvpgqm"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay2/qd2.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ]
+  },
+  "QuickDualDelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ]
+  },
+  "QuickDelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
+        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
+        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
       }
     ]
   },

@@ -1662,140 +1662,6 @@
       }
     ]
   },
-  "Hammer And String": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ]
-  },
   "Hammer And Chord": {
     "latest": [
       {
@@ -4148,6 +4014,140 @@
       }
     ]
   },
+  "Hammer And String": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ]
+  },
   "Spectrum Matcher": {
     "latest": [
       {
@@ -4462,131 +4462,6 @@
       }
     ]
   },
-  "Smooth Limiter": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0nmm1znfyb4ri9wpf9g9dzfa784hyfwfb346s49dqrb7b015xyq0"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0zkxqdjqk67xrarv6b35497a3m2abghv2ijl56fqjghc9rzfdcsv"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "02s0419306m3g9xww3sbdkv1bmjmiy8bc27mifvc423bmfmxlw61"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "1ws97jm8szkb2hm8p90fa5m5w0raf3bw138k9npp1gsj8z6q1g14"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0d5hvhzfdwzn43s00yvw68bjczjdbxfih8b7c25ni2r223sq4bnx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
-      }
-    ]
-  },
   "Panalysis": {
     "latest": [
       {
@@ -4751,6 +4626,184 @@
       }
     ]
   },
+  "Vocoder": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
+        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
+        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/Vocoder.jsfx",
+        "sha256": "195vbqav777jqanbafs4bmslds2snalcmyim2xwgdfpizcs4ndbx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ]
+  },
+  "Smooth Limiter": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0nmm1znfyb4ri9wpf9g9dzfa784hyfwfb346s49dqrb7b015xyq0"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0zkxqdjqk67xrarv6b35497a3m2abghv2ijl56fqjghc9rzfdcsv"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "02s0419306m3g9xww3sbdkv1bmjmiy8bc27mifvc423bmfmxlw61"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "1ws97jm8szkb2hm8p90fa5m5w0raf3bw138k9npp1gsj8z6q1g14"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0d5hvhzfdwzn43s00yvw68bjczjdbxfih8b7c25ni2r223sq4bnx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
+      }
+    ]
+  },
   "Piano Display": {
     "latest": [
       {
@@ -4816,59 +4869,6 @@
         "path": "Effects/Geraint's JSFX/Utility/Piano-Display/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Piano-Display/1.0.0/Piano-Display/ui-lib.jsfx-inc",
         "sha256": "1jv5xr2xamwgr8fy8xyjhb82mbwc1wmpr214ghzr1ikmj7knaqbp"
-      }
-    ]
-  },
-  "Vocoder": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
-        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
-        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/Vocoder.jsfx",
-        "sha256": "195vbqav777jqanbafs4bmslds2snalcmyim2xwgdfpizcs4ndbx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
       }
     ]
   },
@@ -6357,160 +6357,6 @@
       }
     ]
   },
-  "Ripple": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx",
-        "sha256": "1mgq3mrc0z3nmki1hqrdnn8v7admdm21wqs0kvwdlz7jjwdzjxn1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx.rpl",
-        "sha256": "1732s2gf7c6m2wisx9dmadwblac6nnxz328k5aldndsq1iiv9rfx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/filter-utils.jsfx-inc",
-        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/frequency-graph.jsfx-inc",
-        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx",
-        "sha256": "1mgq3mrc0z3nmki1hqrdnn8v7admdm21wqs0kvwdlz7jjwdzjxn1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx.rpl",
-        "sha256": "1732s2gf7c6m2wisx9dmadwblac6nnxz328k5aldndsq1iiv9rfx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/filter-utils.jsfx-inc",
-        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/frequency-graph.jsfx-inc",
-        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/Ripple.jsfx",
-        "sha256": "1mgq3mrc0z3nmki1hqrdnn8v7admdm21wqs0kvwdlz7jjwdzjxn1"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/Ripple.jsfx.rpl",
-        "sha256": "1mpxhw76068v0r4xd58dyn5xhm2jlnmzqmyis3wl7qmg7k9pjfxg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/filter-utils.jsfx-inc",
-        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/frequency-graph.jsfx-inc",
-        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/Ripple.jsfx",
-        "sha256": "195cb5j53zp8wkpj6zawh8m5nhjx0w9r0zya8wj31naxjfs1qswr"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/Ripple.jsfx.rpl",
-        "sha256": "0xjkcwmkxppizykv31d2fmzxwp3xq0i0bdckirmgz8s3kys1ingn"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/filter-utils.jsfx-inc",
-        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/frequency-graph.jsfx-inc",
-        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/Ripple.jsfx",
-        "sha256": "0lmrpk1b2xjq8gn7lwscllplvhikcc6130l89hn8brjd6q7632c3"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/filter-utils.jsfx-inc",
-        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/frequency-graph.jsfx-inc",
-        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/Ripple.jsfx",
-        "sha256": "1sd5kf5bp0v31h36594wk3rzgbbmchxkd342padmxzhpqzy3py6f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/filter-utils.jsfx-inc",
-        "sha256": "17zrsvm1cm07f3kr6qqjc6b4j7zslhgl95xw27hz2k8rmqdj58l2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/frequency-graph.jsfx-inc",
-        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ]
-  },
   "Atlantis Reverb": {
     "latest": [
       {
@@ -6883,6 +6729,160 @@
       {
         "path": "Effects/Geraint's JSFX/Delay/Atlantis-Reverb/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Atlantis-Reverb/1.0.0/Atlantis-Reverb/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ]
+  },
+  "Ripple": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx",
+        "sha256": "1mgq3mrc0z3nmki1hqrdnn8v7admdm21wqs0kvwdlz7jjwdzjxn1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx.rpl",
+        "sha256": "1732s2gf7c6m2wisx9dmadwblac6nnxz328k5aldndsq1iiv9rfx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/filter-utils.jsfx-inc",
+        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/frequency-graph.jsfx-inc",
+        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx",
+        "sha256": "1mgq3mrc0z3nmki1hqrdnn8v7admdm21wqs0kvwdlz7jjwdzjxn1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/Ripple.jsfx.rpl",
+        "sha256": "1732s2gf7c6m2wisx9dmadwblac6nnxz328k5aldndsq1iiv9rfx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/filter-utils.jsfx-inc",
+        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/frequency-graph.jsfx-inc",
+        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.4/Ripple/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/Ripple.jsfx",
+        "sha256": "1mgq3mrc0z3nmki1hqrdnn8v7admdm21wqs0kvwdlz7jjwdzjxn1"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/Ripple.jsfx.rpl",
+        "sha256": "1mpxhw76068v0r4xd58dyn5xhm2jlnmzqmyis3wl7qmg7k9pjfxg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/filter-utils.jsfx-inc",
+        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/frequency-graph.jsfx-inc",
+        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.3/Ripple/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/Ripple.jsfx",
+        "sha256": "195cb5j53zp8wkpj6zawh8m5nhjx0w9r0zya8wj31naxjfs1qswr"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/Ripple.jsfx.rpl",
+        "sha256": "0xjkcwmkxppizykv31d2fmzxwp3xq0i0bdckirmgz8s3kys1ingn"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/filter-utils.jsfx-inc",
+        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/frequency-graph.jsfx-inc",
+        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.2/Ripple/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/Ripple.jsfx",
+        "sha256": "0lmrpk1b2xjq8gn7lwscllplvhikcc6130l89hn8brjd6q7632c3"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/filter-utils.jsfx-inc",
+        "sha256": "12wdzkic29xhfm24i1bkxj8vcsxyaaamw3glcs0l8xmg8g3s2ppw"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/frequency-graph.jsfx-inc",
+        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.1/Ripple/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/Ripple.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/Ripple.jsfx",
+        "sha256": "1sd5kf5bp0v31h36594wk3rzgbbmchxkd342padmxzhpqzy3py6f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/filter-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/filter-utils.jsfx-inc",
+        "sha256": "17zrsvm1cm07f3kr6qqjc6b4j7zslhgl95xw27hz2k8rmqdj58l2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/frequency-graph.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/frequency-graph.jsfx-inc",
+        "sha256": "11bsc7lf47qy1q1kvrq7i5rhr020320rd4jinm4dxapr0nmid5n4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Ripple/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Ripple/1.0.0/Ripple/ui-lib.jsfx-inc",
         "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
       }
     ]

@@ -766,6 +766,43 @@
       }
     ]
   },
+  "SERA - Toggle Pattern Clip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0kz1psk9jw3r657j92bqnxsr29vpjkxvnkcfhyak6hkx2n6qi3hr"
+      }
+    ],
+    "0.5.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0zlpwb63rhm6c58n06zz7ir5jprkxk75rqnds20fxwlnydrwwkbr"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0lqs0l58r797fhica46k30710zzpvajchhy753cm5xpzpcx52jbl"
+      }
+    ]
+  },
   "SERA - Make Pattern Clip Unique.lua": {
     "latest": [
       {
@@ -823,43 +860,6 @@
         "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
         "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Draw%20Tool.lua",
         "sha256": "0181mdp7kj28hgdap8w0vzv1jdna8q40hm64n0bzhnd5yivp6j6q"
-      }
-    ]
-  },
-  "SERA - Toggle Pattern Clip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0kz1psk9jw3r657j92bqnxsr29vpjkxvnkcfhyak6hkx2n6qi3hr"
-      }
-    ],
-    "0.5.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0zlpwb63rhm6c58n06zz7ir5jprkxk75rqnds20fxwlnydrwwkbr"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0lqs0l58r797fhica46k30710zzpvajchhy753cm5xpzpcx52jbl"
       }
     ]
   },
