@@ -963,7 +963,7 @@
       {
         "path": "Scripts/n0ne scripts/Various/FX Finder/REQ/jKeyboard.lua",
         "url": "https://github.com/n0ner/Reaper/raw/53914dc389b135256a065e83311797f145c22f3e/Various/FX%20Finder/REQ/jKeyboard.lua",
-        "sha256": "0phf8ba7h09zz9hsi2brrhhfzy0qj27gh43f5a5j23q0q7aqzi96"
+        "sha256": ""
       },
       {
         "path": "Scripts/n0ne scripts/Various/FX Finder/REQ/j_file_functions.lua",
@@ -978,7 +978,7 @@
       {
         "path": "Scripts/n0ne scripts/Various/FX Finder/REQ/j_string_functions.lua",
         "url": "https://github.com/n0ner/Reaper/raw/53914dc389b135256a065e83311797f145c22f3e/Various/FX%20Finder/REQ/j_string_functions.lua",
-        "sha256": "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd"
+        "sha256": ""
       },
       {
         "path": "Scripts/n0ne scripts/Various/FX Finder/REQ/j_tables.lua",

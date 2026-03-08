@@ -1,4 +1,20 @@
 {
+  "erriez_midi_velocity_viewer.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Erriez/MIDI/erriez_midi_velocity_viewer.jsfx",
+        "url": "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/f39004fe96d059a9c01f6ba247e1d69568270ebc/MIDI/erriez_midi_velocity_viewer.jsfx",
+        "sha256": "0rd1qnqm4312cn9i4rg9kl2ns7jdwdns72jdhwca1p89dyi80lxr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Erriez/MIDI/erriez_midi_velocity_viewer.jsfx",
+        "url": "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/f39004fe96d059a9c01f6ba247e1d69568270ebc/MIDI/erriez_midi_velocity_viewer.jsfx",
+        "sha256": "0rd1qnqm4312cn9i4rg9kl2ns7jdwdns72jdhwca1p89dyi80lxr"
+      }
+    ]
+  },
   "erriez_midi_velocity_viewer_drums.jsfx": {
     "latest": [
       {
@@ -244,22 +260,6 @@
         "path": "Effects/Erriez/MIDI/erriez_midi_velocity_viewer_drums/06-02 TT Superior Drummer Avatar Extended.txt",
         "url": "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/d3a3ed0cd6d8958d79e3f87272286c882104e20a/MIDI/erriez_midi_velocity_viewer_drums/06-02%20TT%20Superior%20Drummer%20Avatar%20Extended.txt",
         "sha256": "04932796zqg821gm667d0jlwkwbdsbms6x1pwvjw8acmnls3fvg4"
-      }
-    ]
-  },
-  "erriez_midi_velocity_viewer.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Erriez/MIDI/erriez_midi_velocity_viewer.jsfx",
-        "url": "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/f39004fe96d059a9c01f6ba247e1d69568270ebc/MIDI/erriez_midi_velocity_viewer.jsfx",
-        "sha256": "0rd1qnqm4312cn9i4rg9kl2ns7jdwdns72jdhwca1p89dyi80lxr"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Erriez/MIDI/erriez_midi_velocity_viewer.jsfx",
-        "url": "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/f39004fe96d059a9c01f6ba247e1d69568270ebc/MIDI/erriez_midi_velocity_viewer.jsfx",
-        "sha256": "0rd1qnqm4312cn9i4rg9kl2ns7jdwdns72jdhwca1p89dyi80lxr"
       }
     ]
   }

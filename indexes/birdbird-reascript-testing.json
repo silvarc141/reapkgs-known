@@ -6501,7 +6501,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/BirdBird_Razor Edit Utility Settings.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b2660859cd9487da193e84ca56dc047cab10074/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Settings.lua",
-        "sha256": "0ssz4imblrdydhhi3njhljn5xyz8xl0m3xapgns56jm8saig05gp"
+        "sha256": ""
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/BirdBird_Razor Edit Utility Toolbar.lua",
@@ -6511,7 +6511,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/BirdBird_Razor Edit Utility.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b2660859cd9487da193e84ca56dc047cab10074/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility.lua",
-        "sha256": "1mbwyi6b46w0fh0w7i4igikm2ga3qpdd37v7fzk5df6iidbdj1h5"
+        "sha256": ""
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/libraries/functions.lua",
@@ -6583,7 +6583,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/BirdBird_Razor Edit Utility - Select Preset 3.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/87a70bd7c59c11536e96e4f5e09a28b8e2ba41c2/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%203.lua",
-        "sha256": "0q8vd2kjpi7dm17mb37sw43irn0qnsd55a4xx1y63g3ja7y45fq7"
+        "sha256": ""
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/BirdBird_Razor Edit Utility - Select Preset 4.lua",
@@ -7341,7 +7341,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions (GUI).lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b3e4db583a7634799931c33362aa99b1c19ff8f/Track%20Versions/BirdBird_Track%20Versions%20(GUI).lua",
-        "sha256": ""
+        "sha256": "1yyy9i03pprppsyki9ga5xwimjvsk9zq0dww0zlwmpkllj9lk0xs"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions - Cycle to next version.lua",
@@ -7403,7 +7403,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions (GUI).lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b3e4db583a7634799931c33362aa99b1c19ff8f/Track%20Versions/BirdBird_Track%20Versions%20(GUI).lua",
-        "sha256": ""
+        "sha256": "1yyy9i03pprppsyki9ga5xwimjvsk9zq0dww0zlwmpkllj9lk0xs"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions - Cycle to next version.lua",
@@ -7475,12 +7475,12 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions - Cycle to previous version.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/71f69bbb230255e0828980d4272d10be7335f200/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20previous%20version.lua",
-        "sha256": ""
+        "sha256": "1mffjyvmnn6qzjnkp9v4bxq5yaj1vp1a75fxbsjpca9v61hhxddm"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions Settings.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/71f69bbb230255e0828980d4272d10be7335f200/Track%20Versions/BirdBird_Track%20Versions%20Settings.lua",
-        "sha256": ""
+        "sha256": "0q6s2ndcv5cphqjk075v18ljqzl2v7ll59s6ap9lpdh84989m517"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/BirdBird_Track Versions.lua",
