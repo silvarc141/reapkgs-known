@@ -15488,7 +15488,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/ImGui.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/ImGui.lua",
-        "sha256": ""
+        "sha256": "0jhwfryz2jlfp0v62wmvz35r29gaic18fp8h2wxm9d2v58xcvl4r"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/MIDI IO.lua",
@@ -15513,7 +15513,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER Checker.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Checker.lua",
-        "sha256": ""
+        "sha256": "1idm7f3d6vrz4hfrwwy3ac59bbm6apxfjy3b9lyb506c76jawv4z"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER Chunks.lua",
@@ -17581,7 +17581,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER Envelopes.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/3a2efc6030cdd5a6d8bb4914b855a678b7fee2cb/Generative/Clouds/DL%20Functions/REAPER%20Envelopes.lua",
-        "sha256": "0c65kx3il7lnxrmvxh6p64s8kbpks8h8ryw4jyv5wq0qj5ff8ka3"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER FX.lua",
