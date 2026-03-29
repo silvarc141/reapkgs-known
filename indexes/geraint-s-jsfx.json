@@ -1456,136 +1456,208 @@
       }
     ]
   },
-  "Hammer And String": {
+  "Learning Sampler": {
     "latest": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "0rr4g28w2ps083gisyq8pagv6ncbij9d2g2xyab7zsqbhnazr7i9"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/synth-framework.jsfx-inc",
         "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.0.10": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "0rr4g28w2ps083gisyq8pagv6ncbij9d2g2xyab7zsqbhnazr7i9"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.0.9": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.9/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "0rr4g28w2ps083gisyq8pagv6ncbij9d2g2xyab7zsqbhnazr7i9"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.9/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.9/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.8": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.8/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "066m577n49sl54lx6sd3az1yrblhsshn64p5z0jy3pkmhvyhzzh9"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.8/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.8/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "04kg5sjh6zhbgv4pgcqwg490h2iybip52zwz18yf3n5ampw93sax"
+      }
+    ],
+    "1.0.7": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.7/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "066m577n49sl54lx6sd3az1yrblhsshn64p5z0jy3pkmhvyhzzh9"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.7/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.7/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "0pr88iskbxpj0nz2p47r2j1z6yx24zs68s0xf2r8i41aahp1455r"
+      }
+    ],
+    "1.0.6": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.6/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "1hqbnvv82ndpgmzdw6hgskj22wblvbyx4vgsmq8pqdwl8gzy1jqy"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.6/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.6/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.5": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.5/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "01406vb22miknb56f5s37lc2ib9xfmkd6ypqf82a2l049bjiz5s5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.5/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.5/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.4": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.4/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "1kkmcn6pk2say72nvsq9zzgsrd91l616z3cmg3wfs5hi8qwidc2k"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.4/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.4/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.3": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.3/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "00g8xz58gnj9cdl4kxyphjhg4nbkbwjmi8bscpb6s2k1iqj1gvpq"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.3/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.3/Learning-Sampler/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.2": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.2/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "0q1ha775iqv6z0w4nd060f1r885zm4xb9bvkbss4067z2ma2706p"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.2/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.2/Learning-Sampler/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.1": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.1/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "1riv96cj5sh81jdfnn6hwywv40gr823wx8zhagrillqkwa3fmd5x"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.1/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.1/Learning-Sampler/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.0": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/Learning%20Sampler.jsfx",
+        "sha256": "0wln49vcsd5asbyyk1il8ija9yyr5nvdlvv5lgvr1zkzr7i6p1ih"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/synth-framework.jsfx-inc",
+        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ]
@@ -3942,208 +4014,136 @@
       }
     ]
   },
-  "Learning Sampler": {
+  "Hammer And String": {
     "latest": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "0rr4g28w2ps083gisyq8pagv6ncbij9d2g2xyab7zsqbhnazr7i9"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/synth-framework.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
         "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.0.10": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "0rr4g28w2ps083gisyq8pagv6ncbij9d2g2xyab7zsqbhnazr7i9"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.10/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.0.9": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.9/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "0rr4g28w2ps083gisyq8pagv6ncbij9d2g2xyab7zsqbhnazr7i9"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.9/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.9/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.8": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.8/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "066m577n49sl54lx6sd3az1yrblhsshn64p5z0jy3pkmhvyhzzh9"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.8/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.8/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "04kg5sjh6zhbgv4pgcqwg490h2iybip52zwz18yf3n5ampw93sax"
-      }
-    ],
-    "1.0.7": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.7/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "066m577n49sl54lx6sd3az1yrblhsshn64p5z0jy3pkmhvyhzzh9"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.7/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.7/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "0pr88iskbxpj0nz2p47r2j1z6yx24zs68s0xf2r8i41aahp1455r"
-      }
-    ],
-    "1.0.6": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.6/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "1hqbnvv82ndpgmzdw6hgskj22wblvbyx4vgsmq8pqdwl8gzy1jqy"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.6/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.6/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.5": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.5/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "01406vb22miknb56f5s37lc2ib9xfmkd6ypqf82a2l049bjiz5s5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.5/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.5/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
       }
     ],
     "1.0.4": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.4/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "1kkmcn6pk2say72nvsq9zzgsrd91l616z3cmg3wfs5hi8qwidc2k"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.4/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.4/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
       }
     ],
     "1.0.3": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.3/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "00g8xz58gnj9cdl4kxyphjhg4nbkbwjmi8bscpb6s2k1iqj1gvpq"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.3/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.3/Learning-Sampler/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
       }
     ],
     "1.0.2": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.2/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "0q1ha775iqv6z0w4nd060f1r885zm4xb9bvkbss4067z2ma2706p"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.2/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.2/Learning-Sampler/ui-lib.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.1": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.1/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "1riv96cj5sh81jdfnn6hwywv40gr823wx8zhagrillqkwa3fmd5x"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.1/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.1/Learning-Sampler/ui-lib.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ],
     "1.0.0": [
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/Learning Sampler.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/Learning%20Sampler.jsfx",
-        "sha256": "0wln49vcsd5asbyyk1il8ija9yyr5nvdlvv5lgvr1zkzr7i6p1ih"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/synth-framework.jsfx-inc",
-        "sha256": "1y0lxxi7lyilgd2dqd2n42qrll90halv289fkdipidjxb92r9r50"
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
       },
       {
-        "path": "Effects/Geraint's JSFX/Synth/Learning-Sampler/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Learning-Sampler/1.0.0/Learning-Sampler/ui-lib.jsfx-inc",
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ]
@@ -4626,6 +4626,59 @@
       }
     ]
   },
+  "Vocoder": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
+        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
+        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/Vocoder.jsfx",
+        "sha256": "195vbqav777jqanbafs4bmslds2snalcmyim2xwgdfpizcs4ndbx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
+        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      }
+    ]
+  },
   "Smooth Limiter": {
     "latest": [
       {
@@ -4748,59 +4801,6 @@
         "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
         "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
-      }
-    ]
-  },
-  "Vocoder": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
-        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/Vocoder.jsfx",
-        "sha256": "11y2ar1d4l1y1yzmw0iw2y3l82g55hjhml7101lb5jb9sqvl29jz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.1/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/Vocoder.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/Vocoder.jsfx",
-        "sha256": "195vbqav777jqanbafs4bmslds2snalcmyim2xwgdfpizcs4ndbx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/backgrounds/umberto-jXd2FSvcRr8-unsplash.png",
-        "sha256": "001lk3h01yawp9a5z2raykk50wfh8g632wg3mmb47vlk140z2s9l"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vocoder/1.0.0/Vocoder/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
       }
     ]
   },

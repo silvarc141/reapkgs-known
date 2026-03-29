@@ -1470,6 +1470,115 @@
       }
     ]
   },
+  "Live Limit.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0543cfc16ddc4b18663008146101f99460f68cca/Dynamics/Live%20Limit.jsfx",
+        "sha256": "04xgw69acgc22s1g1jxb4r0avbw5dpr3w56zz0bhxsa0yi7dal7h"
+      }
+    ],
+    "3.0.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0543cfc16ddc4b18663008146101f99460f68cca/Dynamics/Live%20Limit.jsfx",
+        "sha256": "04xgw69acgc22s1g1jxb4r0avbw5dpr3w56zz0bhxsa0yi7dal7h"
+      }
+    ],
+    "3.0.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6ce77a7df2d51558524c5e81940b5df106d6e179/Dynamics/Live%20Limit.jsfx",
+        "sha256": "0zhw4n63440a9n6j4y7742jlha31zy5dqkknbvcpl0rzahlbwpdh"
+      }
+    ],
+    "2.0.2": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/cfe70c4a8b701f63a75813193194bd6c491e8697/Dynamics/Live%20Limit.jsfx",
+        "sha256": "0mb53316xhn1syi3m60pg64ibsic7zsnnbx0i919mwgxprfk0yqh"
+      }
+    ],
+    "2.0.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/fb911217425a07743be316f9d8297847d7c37d38/Dynamics/Live%20Limit.jsfx",
+        "sha256": "12633c0kkbzh55q721wp1r987dlfhs17zlx5kcyr56x7hh593gfw"
+      }
+    ]
+  },
+  "Retro Punch Comp.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/eb14f9b34131c899ae4856726fdbf1f2553a099a/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0wysrf7bx48x4x320v3rixqpga1d7fv0z8j56ar8pm8phclr1x4m"
+      }
+    ],
+    "1.0.8": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/eb14f9b34131c899ae4856726fdbf1f2553a099a/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0wysrf7bx48x4x320v3rixqpga1d7fv0z8j56ar8pm8phclr1x4m"
+      }
+    ],
+    "1.0.7": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/52445f0e494c6201998c45868564dc1bba14c8ec/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "18c1v2kw9jxpy6yb6xjy3zmsnx743gb340jil923vscgn7wn6qb6"
+      }
+    ],
+    "1.0.6": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7aa7c58eafc8efa662c8384684ec94dff32209c4/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0qzkk36ccps0hidj10phwi3vrf4z3a6f9qnzjbcd88q8v2w79nxi"
+      }
+    ],
+    "1.0.5": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7e71e16c396b5897b8def9c18b89a5d347d061ee/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0jfhhbf4zcbsb0jm2gbswimb12ra96gbwmxlh0r8cpisxmc6g4vm"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0972dc7b466f2baf74b490ddb1a40820410091bd/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "1f3khkg9psbiphh5hfa5z6zmfvf3n8yzzd7lbymnzl6mr7k2pr1y"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/679841867f716a2c9b62144778fa3a63802c90b2/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0wsmh1yvl885hqps6lj27m6sn2756jnb71swpdqmcgp3vc43fa5v"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1fb24a847dd701cef227252c85a7830d0613d942/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "1icbnpyczq26fzqp43nlc6zfzvpafsd096dm2d4gq00yhgig3izd"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5b257e933c2da6793a76050b81cf9bd7be5c236/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0nbyn8rvymh00mirrhsk6a3iii85n3bp7p7jq7f6bf3b6xwhfdcr"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/955333d56375a92eb74015e4e8fc026d7213dc41/Dynamics/Retro%20Punch%20Comp.jsfx",
+        "sha256": "0d2h53p2404n6l4sd3g3ixkk57mwxc9vfp3kr394sxpnvrgfa1sq"
+      }
+    ]
+  },
   "Limit Smash.jsfx": {
     "latest": [
       {
@@ -1555,115 +1664,6 @@
         "path": "Effects/StevieKeys JSFX/Dynamics/Retro Limiter.jsfx",
         "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/122087701e46dfe97815dabb2bcba32c9afd4026/Dynamics/Retro%20Limiter.jsfx",
         "sha256": "1z7ggp4b3530hz9q4a8hllijijpif592hxh94grgp7mn98nik3wj"
-      }
-    ]
-  },
-  "Retro Punch Comp.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/eb14f9b34131c899ae4856726fdbf1f2553a099a/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0wysrf7bx48x4x320v3rixqpga1d7fv0z8j56ar8pm8phclr1x4m"
-      }
-    ],
-    "1.0.8": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/eb14f9b34131c899ae4856726fdbf1f2553a099a/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0wysrf7bx48x4x320v3rixqpga1d7fv0z8j56ar8pm8phclr1x4m"
-      }
-    ],
-    "1.0.7": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/52445f0e494c6201998c45868564dc1bba14c8ec/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "18c1v2kw9jxpy6yb6xjy3zmsnx743gb340jil923vscgn7wn6qb6"
-      }
-    ],
-    "1.0.6": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7aa7c58eafc8efa662c8384684ec94dff32209c4/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0qzkk36ccps0hidj10phwi3vrf4z3a6f9qnzjbcd88q8v2w79nxi"
-      }
-    ],
-    "1.0.5": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7e71e16c396b5897b8def9c18b89a5d347d061ee/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0jfhhbf4zcbsb0jm2gbswimb12ra96gbwmxlh0r8cpisxmc6g4vm"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0972dc7b466f2baf74b490ddb1a40820410091bd/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "1f3khkg9psbiphh5hfa5z6zmfvf3n8yzzd7lbymnzl6mr7k2pr1y"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/679841867f716a2c9b62144778fa3a63802c90b2/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0wsmh1yvl885hqps6lj27m6sn2756jnb71swpdqmcgp3vc43fa5v"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1fb24a847dd701cef227252c85a7830d0613d942/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "1icbnpyczq26fzqp43nlc6zfzvpafsd096dm2d4gq00yhgig3izd"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5b257e933c2da6793a76050b81cf9bd7be5c236/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0nbyn8rvymh00mirrhsk6a3iii85n3bp7p7jq7f6bf3b6xwhfdcr"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Retro Punch Comp.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/955333d56375a92eb74015e4e8fc026d7213dc41/Dynamics/Retro%20Punch%20Comp.jsfx",
-        "sha256": "0d2h53p2404n6l4sd3g3ixkk57mwxc9vfp3kr394sxpnvrgfa1sq"
-      }
-    ]
-  },
-  "Live Limit.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0543cfc16ddc4b18663008146101f99460f68cca/Dynamics/Live%20Limit.jsfx",
-        "sha256": "04xgw69acgc22s1g1jxb4r0avbw5dpr3w56zz0bhxsa0yi7dal7h"
-      }
-    ],
-    "3.0.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0543cfc16ddc4b18663008146101f99460f68cca/Dynamics/Live%20Limit.jsfx",
-        "sha256": "04xgw69acgc22s1g1jxb4r0avbw5dpr3w56zz0bhxsa0yi7dal7h"
-      }
-    ],
-    "3.0.0": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6ce77a7df2d51558524c5e81940b5df106d6e179/Dynamics/Live%20Limit.jsfx",
-        "sha256": "0zhw4n63440a9n6j4y7742jlha31zy5dqkknbvcpl0rzahlbwpdh"
-      }
-    ],
-    "2.0.2": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/cfe70c4a8b701f63a75813193194bd6c491e8697/Dynamics/Live%20Limit.jsfx",
-        "sha256": "0mb53316xhn1syi3m60pg64ibsic7zsnnbx0i919mwgxprfk0yqh"
-      }
-    ],
-    "2.0.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/Dynamics/Live Limit.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/fb911217425a07743be316f9d8297847d7c37d38/Dynamics/Live%20Limit.jsfx",
-        "sha256": "12633c0kkbzh55q721wp1r987dlfhs17zlx5kcyr56x7hh593gfw"
       }
     ]
   },
@@ -2270,36 +2270,6 @@
       }
     ]
   },
-  "Dirt EQ.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/128e83cf0184f33db3dfed5f103af63b5fc47c01/EQ/Dirt%20EQ.jsfx",
-        "sha256": "0ar3fn18d727sac2fkz09vaph1kg1q4khg7b5m1gx73w82gapml9"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/128e83cf0184f33db3dfed5f103af63b5fc47c01/EQ/Dirt%20EQ.jsfx",
-        "sha256": "0ar3fn18d727sac2fkz09vaph1kg1q4khg7b5m1gx73w82gapml9"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/3e6724b4504eec741d2d7bf5388015279dcc2698/EQ/Dirt%20EQ.jsfx",
-        "sha256": "19fiybbf6sz3ikfp467rb469hrkkfxl9pbfl5ybqs8k818mwa550"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/3af0d529ad5d7e89820bed152afc6d04fef44fa0/EQ/Dirt%20EQ.jsfx",
-        "sha256": "1xnw7wzrrk6fziawzaialqfjq9w43gqbii1h4vw33h6zs55s7a9v"
-      }
-    ]
-  },
   "Retro-Q V3.jsfx": {
     "latest": [
       {
@@ -2412,33 +2382,56 @@
       }
     ]
   },
-  "Odd n Even saturation.jsfx": {
+  "Dirt EQ.jsfx": {
     "latest": [
       {
-        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1f2fa96c466c1ca199b7f5f0549098438c33ef6f/Saturation/Odd%20n%20Even%20saturation.jsfx",
-        "sha256": "15nhp4if44cbyx3n1zmhd4snhh33kcyj2jzak7ndjs34qzmapgd3"
+        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/128e83cf0184f33db3dfed5f103af63b5fc47c01/EQ/Dirt%20EQ.jsfx",
+        "sha256": "0ar3fn18d727sac2fkz09vaph1kg1q4khg7b5m1gx73w82gapml9"
       }
     ],
-    "1.4.1": [
+    "1.0.2": [
       {
-        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1f2fa96c466c1ca199b7f5f0549098438c33ef6f/Saturation/Odd%20n%20Even%20saturation.jsfx",
-        "sha256": "15nhp4if44cbyx3n1zmhd4snhh33kcyj2jzak7ndjs34qzmapgd3"
+        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/128e83cf0184f33db3dfed5f103af63b5fc47c01/EQ/Dirt%20EQ.jsfx",
+        "sha256": "0ar3fn18d727sac2fkz09vaph1kg1q4khg7b5m1gx73w82gapml9"
       }
     ],
-    "1.4.0": [
+    "1.0.1": [
       {
-        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a2b79f72d1ee55ef490b8f29fac910ea9233561a/Saturation/Odd%20n%20Even%20saturation.jsfx",
-        "sha256": "01mcwqphbr3m2ahpxxz7f0bjza1crnf4ri9q6wlk1mbv4m3ariwk"
+        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/3e6724b4504eec741d2d7bf5388015279dcc2698/EQ/Dirt%20EQ.jsfx",
+        "sha256": "19fiybbf6sz3ikfp467rb469hrkkfxl9pbfl5ybqs8k818mwa550"
       }
     ],
-    "1.3.0": [
+    "1.0.0": [
       {
-        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b06747e49f344feddf3e0fffbf44541abeadcf2b/Saturation/Odd%20n%20Even%20saturation.jsfx",
-        "sha256": "1xpfaijr1v9d0y2w51lg1ibcz0sckxb1m5mjqbf2qcdzrcpv2cb9"
+        "path": "Effects/StevieKeys JSFX/EQ/Dirt EQ.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/3af0d529ad5d7e89820bed152afc6d04fef44fa0/EQ/Dirt%20EQ.jsfx",
+        "sha256": "1xnw7wzrrk6fziawzaialqfjq9w43gqbii1h4vw33h6zs55s7a9v"
+      }
+    ]
+  },
+  "J Clip.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/J Clip.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1eff0cb4298e1edb54dfd1bfb9a6db56a78ea7d3/Saturation/J%20Clip.jsfx",
+        "sha256": "09rbixaqxhw2b3z92jz2cvl0dms9f84rb4fq6is385sxlafr1ifz"
+      }
+    ],
+    "0.3": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/J Clip.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1eff0cb4298e1edb54dfd1bfb9a6db56a78ea7d3/Saturation/J%20Clip.jsfx",
+        "sha256": "09rbixaqxhw2b3z92jz2cvl0dms9f84rb4fq6is385sxlafr1ifz"
+      }
+    ],
+    "0.2": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/J Clip.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f57d08b1b573d2d93a55883b40500fc595e0e7c/Saturation/J%20Clip.jsfx",
+        "sha256": "00s34lb8j5ghzmiqlan5ymmd8z7sj9q9pq3iys08xskxw68zjffm"
       }
     ]
   },
@@ -2479,6 +2472,36 @@
       }
     ]
   },
+  "Odd n Even saturation.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1f2fa96c466c1ca199b7f5f0549098438c33ef6f/Saturation/Odd%20n%20Even%20saturation.jsfx",
+        "sha256": "15nhp4if44cbyx3n1zmhd4snhh33kcyj2jzak7ndjs34qzmapgd3"
+      }
+    ],
+    "1.4.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1f2fa96c466c1ca199b7f5f0549098438c33ef6f/Saturation/Odd%20n%20Even%20saturation.jsfx",
+        "sha256": "15nhp4if44cbyx3n1zmhd4snhh33kcyj2jzak7ndjs34qzmapgd3"
+      }
+    ],
+    "1.4.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a2b79f72d1ee55ef490b8f29fac910ea9233561a/Saturation/Odd%20n%20Even%20saturation.jsfx",
+        "sha256": "01mcwqphbr3m2ahpxxz7f0bjza1crnf4ri9q6wlk1mbv4m3ariwk"
+      }
+    ],
+    "1.3.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/Saturation/Odd n Even saturation.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b06747e49f344feddf3e0fffbf44541abeadcf2b/Saturation/Odd%20n%20Even%20saturation.jsfx",
+        "sha256": "1xpfaijr1v9d0y2w51lg1ibcz0sckxb1m5mjqbf2qcdzrcpv2cb9"
+      }
+    ]
+  },
   "Smooth Clipper.jsfx": {
     "latest": [
       {
@@ -2502,56 +2525,118 @@
       }
     ]
   },
-  "J Clip.jsfx": {
+  "Pong Game.jsfx": {
     "latest": [
       {
-        "path": "Effects/StevieKeys JSFX/Saturation/J Clip.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1eff0cb4298e1edb54dfd1bfb9a6db56a78ea7d3/Saturation/J%20Clip.jsfx",
-        "sha256": "09rbixaqxhw2b3z92jz2cvl0dms9f84rb4fq6is385sxlafr1ifz"
+        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/242c671f9ba2124ccecb37bd466e68e9bc03e4af/Other/Pong%20Game.jsfx",
+        "sha256": "1l9hwmbjcg1ll102kqcyxw5hpsfcnadqkzxciiwjnd9g5yyn1wm8"
+      }
+    ],
+    "0.8.5beta": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/242c671f9ba2124ccecb37bd466e68e9bc03e4af/Other/Pong%20Game.jsfx",
+        "sha256": "1l9hwmbjcg1ll102kqcyxw5hpsfcnadqkzxciiwjnd9g5yyn1wm8"
+      }
+    ],
+    "0.8.1beta": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/de4b9e0bba1ec5b4bf366efee43e30bb9827554f/Other/Pong%20Game.jsfx",
+        "sha256": "09pmf8afwbq4vljnga36hbch478bfwm852m5gzq7qpc7nz91whcb"
+      }
+    ],
+    "0.8.0beta": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/93c01b781dabe492b0f4997c9f4364869b37996f/Other/Pong%20Game.jsfx",
+        "sha256": "0dv5ngrbhmklnassh5nm80jyhv44swry08kbphqqbvc5j2k5x6qq"
+      }
+    ]
+  },
+  "Transient Softener.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ce685c9e4b948ead2da4034f37d6c624c695ef41/Other/Transient%20Softener.jsfx",
+        "sha256": "0d55q697h5xbar5v8ysgcg53xq5mg28bc131150z8m24m568v8jd"
+      }
+    ],
+    "1.6.3": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ce685c9e4b948ead2da4034f37d6c624c695ef41/Other/Transient%20Softener.jsfx",
+        "sha256": "0d55q697h5xbar5v8ysgcg53xq5mg28bc131150z8m24m568v8jd"
+      }
+    ],
+    "1.6.2": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2a4d4fa7508e8e1f6bcba753ec08369d01fc18e5/Other/Transient%20Softener.jsfx",
+        "sha256": "1mg82k6im5mxqcaz2x7j6z7by1kgc0ih9v8gy63wxrw95mg73gfz"
+      }
+    ],
+    "1.6.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e65249027afe5be386b49379b7a4cd13a277e0fe/Other/Transient%20Softener.jsfx",
+        "sha256": "0yldynpxjp049lz4ydxq5r94isq2cxfxxmkw04i8g32z26zfd3ha"
+      }
+    ]
+  },
+  "Transient Softener 2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient Softener 2.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5c2710cef361abfc3e9c6a9223b5dbdcf3adcf3/Other/Transient%20Softener%202.jsfx",
+        "sha256": "0k30m9pgcxcj28zqk2iz77fvkj6632hf1cqbh5s5af8cil7x8p2g"
+      }
+    ],
+    "2.0.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient Softener 2.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5c2710cef361abfc3e9c6a9223b5dbdcf3adcf3/Other/Transient%20Softener%202.jsfx",
+        "sha256": "0k30m9pgcxcj28zqk2iz77fvkj6632hf1cqbh5s5af8cil7x8p2g"
+      }
+    ]
+  },
+  "Transient softener 3.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient softener 3.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ab83944a58f0e60bc3479322130ec594535243d1/Other/Transient%20softener%203.jsfx",
+        "sha256": "0mwhjzvwg91npkvvazdapv9h5l9l1949w7fn3bj1zlwiq87h71f2"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/Other/Transient softener 3.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ab83944a58f0e60bc3479322130ec594535243d1/Other/Transient%20softener%203.jsfx",
+        "sha256": "0mwhjzvwg91npkvvazdapv9h5l9l1949w7fn3bj1zlwiq87h71f2"
+      }
+    ]
+  },
+  "Simple Small Room.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/Reverb/Simple Small Room.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/929b18c997ed8d5dcdb6f31d67355e71269d0544/Reverb/Simple%20Small%20Room.jsfx",
+        "sha256": "149m2f06ajyd8hhwdh11d86ii9qij1n1k6raqkq54ig4c86pak87"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Effects/StevieKeys JSFX/Reverb/Simple Small Room.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/929b18c997ed8d5dcdb6f31d67355e71269d0544/Reverb/Simple%20Small%20Room.jsfx",
+        "sha256": "149m2f06ajyd8hhwdh11d86ii9qij1n1k6raqkq54ig4c86pak87"
       }
     ],
     "0.3": [
       {
-        "path": "Effects/StevieKeys JSFX/Saturation/J Clip.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1eff0cb4298e1edb54dfd1bfb9a6db56a78ea7d3/Saturation/J%20Clip.jsfx",
-        "sha256": "09rbixaqxhw2b3z92jz2cvl0dms9f84rb4fq6is385sxlafr1ifz"
-      }
-    ],
-    "0.2": [
-      {
-        "path": "Effects/StevieKeys JSFX/Saturation/J Clip.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f57d08b1b573d2d93a55883b40500fc595e0e7c/Saturation/J%20Clip.jsfx",
-        "sha256": "00s34lb8j5ghzmiqlan5ymmd8z7sj9q9pq3iys08xskxw68zjffm"
-      }
-    ]
-  },
-  "Perfect Mono.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b8e125fc8c2a81f9a5298cc5d5655e677a89a9f1/utility/Perfect%20Mono.jsfx",
-        "sha256": "11pmaf8r2y43c16vy4y4pq8svvvcsqcq76rk9nhsqpf8gi0151fn"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b8e125fc8c2a81f9a5298cc5d5655e677a89a9f1/utility/Perfect%20Mono.jsfx",
-        "sha256": "11pmaf8r2y43c16vy4y4pq8svvvcsqcq76rk9nhsqpf8gi0151fn"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0ed85dee5fafa8884a1e7ac621945c05921cfb1d/utility/Perfect%20Mono.jsfx",
-        "sha256": "1g4iwhkg4llmglsiq63lf14npj2afxkm73f0aq1mx58gk4mvg71s"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/8a37641ed9bb68dc2303875bc789086104d7c50f/utility/Perfect%20Mono.jsfx",
-        "sha256": "141pfkw7k1nrq0bksr9nsqmlfgiafdzn9vjyfw6158c02xhghn6x"
+        "path": "Effects/StevieKeys JSFX/Reverb/Simple Small Room.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/96d18be2fb62fa9c7307c508aa1ace03d2de7721/Reverb/Simple%20Small%20Room.jsfx",
+        "sha256": "05kciib7ca14az66x4lrkjdb287z5alhf5ww7g5vhnmrj192245p"
       }
     ]
   },
@@ -2699,6 +2784,52 @@
       }
     ]
   },
+  "Dual 360 Pan.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/utility/Dual 360 Pan.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/305947d2d19417ccd2f8546b82f42584a63d2dcc/utility/Dual%20360%20Pan.jsfx",
+        "sha256": "0a6jhy8hv7yrdwmpc4pd2d4grryzbvhnzzagd50njrv900a3mh9v"
+      }
+    ],
+    "0.8.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/utility/Dual 360 Pan.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/305947d2d19417ccd2f8546b82f42584a63d2dcc/utility/Dual%20360%20Pan.jsfx",
+        "sha256": "0a6jhy8hv7yrdwmpc4pd2d4grryzbvhnzzagd50njrv900a3mh9v"
+      }
+    ]
+  },
+  "Perfect Mono.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b8e125fc8c2a81f9a5298cc5d5655e677a89a9f1/utility/Perfect%20Mono.jsfx",
+        "sha256": "11pmaf8r2y43c16vy4y4pq8svvvcsqcq76rk9nhsqpf8gi0151fn"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b8e125fc8c2a81f9a5298cc5d5655e677a89a9f1/utility/Perfect%20Mono.jsfx",
+        "sha256": "11pmaf8r2y43c16vy4y4pq8svvvcsqcq76rk9nhsqpf8gi0151fn"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0ed85dee5fafa8884a1e7ac621945c05921cfb1d/utility/Perfect%20Mono.jsfx",
+        "sha256": "1g4iwhkg4llmglsiq63lf14npj2afxkm73f0aq1mx58gk4mvg71s"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/StevieKeys JSFX/utility/Perfect Mono.jsfx",
+        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/8a37641ed9bb68dc2303875bc789086104d7c50f/utility/Perfect%20Mono.jsfx",
+        "sha256": "141pfkw7k1nrq0bksr9nsqmlfgiafdzn9vjyfw6158c02xhghn6x"
+      }
+    ]
+  },
   "Maximum Resolution Dither.jsfx": {
     "latest": [
       {
@@ -2719,137 +2850,6 @@
         "path": "Effects/StevieKeys JSFX/utility/Maximum Resolution Dither.jsfx",
         "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/46b345e4148ad0827b371cf6fbc3dbdceb6725ed/utility/Maximum%20Resolution%20Dither.jsfx",
         "sha256": "09mzivjspr2ysll80vxds2qlbc7cwv965ir66ambl0ig5v4l2m7j"
-      }
-    ]
-  },
-  "Dual 360 Pan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/utility/Dual 360 Pan.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/305947d2d19417ccd2f8546b82f42584a63d2dcc/utility/Dual%20360%20Pan.jsfx",
-        "sha256": "0a6jhy8hv7yrdwmpc4pd2d4grryzbvhnzzagd50njrv900a3mh9v"
-      }
-    ],
-    "0.8.0": [
-      {
-        "path": "Effects/StevieKeys JSFX/utility/Dual 360 Pan.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/305947d2d19417ccd2f8546b82f42584a63d2dcc/utility/Dual%20360%20Pan.jsfx",
-        "sha256": "0a6jhy8hv7yrdwmpc4pd2d4grryzbvhnzzagd50njrv900a3mh9v"
-      }
-    ]
-  },
-  "Simple Small Room.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Reverb/Simple Small Room.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/929b18c997ed8d5dcdb6f31d67355e71269d0544/Reverb/Simple%20Small%20Room.jsfx",
-        "sha256": "149m2f06ajyd8hhwdh11d86ii9qij1n1k6raqkq54ig4c86pak87"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Effects/StevieKeys JSFX/Reverb/Simple Small Room.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/929b18c997ed8d5dcdb6f31d67355e71269d0544/Reverb/Simple%20Small%20Room.jsfx",
-        "sha256": "149m2f06ajyd8hhwdh11d86ii9qij1n1k6raqkq54ig4c86pak87"
-      }
-    ],
-    "0.3": [
-      {
-        "path": "Effects/StevieKeys JSFX/Reverb/Simple Small Room.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/96d18be2fb62fa9c7307c508aa1ace03d2de7721/Reverb/Simple%20Small%20Room.jsfx",
-        "sha256": "05kciib7ca14az66x4lrkjdb287z5alhf5ww7g5vhnmrj192245p"
-      }
-    ]
-  },
-  "Transient Softener 2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient Softener 2.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5c2710cef361abfc3e9c6a9223b5dbdcf3adcf3/Other/Transient%20Softener%202.jsfx",
-        "sha256": "0k30m9pgcxcj28zqk2iz77fvkj6632hf1cqbh5s5af8cil7x8p2g"
-      }
-    ],
-    "2.0.0": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient Softener 2.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5c2710cef361abfc3e9c6a9223b5dbdcf3adcf3/Other/Transient%20Softener%202.jsfx",
-        "sha256": "0k30m9pgcxcj28zqk2iz77fvkj6632hf1cqbh5s5af8cil7x8p2g"
-      }
-    ]
-  },
-  "Transient softener 3.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient softener 3.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ab83944a58f0e60bc3479322130ec594535243d1/Other/Transient%20softener%203.jsfx",
-        "sha256": "0mwhjzvwg91npkvvazdapv9h5l9l1949w7fn3bj1zlwiq87h71f2"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient softener 3.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ab83944a58f0e60bc3479322130ec594535243d1/Other/Transient%20softener%203.jsfx",
-        "sha256": "0mwhjzvwg91npkvvazdapv9h5l9l1949w7fn3bj1zlwiq87h71f2"
-      }
-    ]
-  },
-  "Pong Game.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/242c671f9ba2124ccecb37bd466e68e9bc03e4af/Other/Pong%20Game.jsfx",
-        "sha256": "1l9hwmbjcg1ll102kqcyxw5hpsfcnadqkzxciiwjnd9g5yyn1wm8"
-      }
-    ],
-    "0.8.5beta": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/242c671f9ba2124ccecb37bd466e68e9bc03e4af/Other/Pong%20Game.jsfx",
-        "sha256": "1l9hwmbjcg1ll102kqcyxw5hpsfcnadqkzxciiwjnd9g5yyn1wm8"
-      }
-    ],
-    "0.8.1beta": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/de4b9e0bba1ec5b4bf366efee43e30bb9827554f/Other/Pong%20Game.jsfx",
-        "sha256": "09pmf8afwbq4vljnga36hbch478bfwm852m5gzq7qpc7nz91whcb"
-      }
-    ],
-    "0.8.0beta": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Pong Game.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/93c01b781dabe492b0f4997c9f4364869b37996f/Other/Pong%20Game.jsfx",
-        "sha256": "0dv5ngrbhmklnassh5nm80jyhv44swry08kbphqqbvc5j2k5x6qq"
-      }
-    ]
-  },
-  "Transient Softener.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ce685c9e4b948ead2da4034f37d6c624c695ef41/Other/Transient%20Softener.jsfx",
-        "sha256": "0d55q697h5xbar5v8ysgcg53xq5mg28bc131150z8m24m568v8jd"
-      }
-    ],
-    "1.6.3": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ce685c9e4b948ead2da4034f37d6c624c695ef41/Other/Transient%20Softener.jsfx",
-        "sha256": "0d55q697h5xbar5v8ysgcg53xq5mg28bc131150z8m24m568v8jd"
-      }
-    ],
-    "1.6.2": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2a4d4fa7508e8e1f6bcba753ec08369d01fc18e5/Other/Transient%20Softener.jsfx",
-        "sha256": "1mg82k6im5mxqcaz2x7j6z7by1kgc0ih9v8gy63wxrw95mg73gfz"
-      }
-    ],
-    "1.6.1": [
-      {
-        "path": "Effects/StevieKeys JSFX/Other/Transient Softener.jsfx",
-        "url": "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e65249027afe5be386b49379b7a4cd13a277e0fe/Other/Transient%20Softener.jsfx",
-        "sha256": "0yldynpxjp049lz4ydxq5r94isq2cxfxxmkw04i8g32z26zfd3ha"
       }
     ]
   }
