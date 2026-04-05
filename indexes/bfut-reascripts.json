@@ -68,156 +68,135 @@
       }
     ]
   },
-  "bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua": {
+  "bfut_MIDI notes to items (explode note rows to subtracks).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "0g2q5cfjd6hwp4rj3xisyfgp78gayd3i58bgwrrvm5bpaf0lh40m"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "06l03i1mhqznxhzx7vf1dxy2dzi2fp51rv5c8pmnlmlp6pxwrmm8"
       }
     ],
     "1.8": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "0g2q5cfjd6hwp4rj3xisyfgp78gayd3i58bgwrrvm5bpaf0lh40m"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "06l03i1mhqznxhzx7vf1dxy2dzi2fp51rv5c8pmnlmlp6pxwrmm8"
       }
     ],
     "1.7": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "02dy9k4fkbq5bbdbq3w31f19hppapsikb27gr4q9jwcbald0kgcw"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0x9xx3423fx68xyj6i5l80qbyy9nq4zi3rgkmdkhlwhhih8cyalh"
       }
     ],
     "1.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "0ddg9h97a9w7lws9wp4adsw6xfgxcnz93ha18nfg93y3j1103m62"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0qgdq2x463nq4504kxlzs2vv8ycg1grrx86jk0824pjwswbdm697"
       }
     ],
     "1.5": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "08n7lbiawinxn3crjknlvqrnd8hnjv1jrrkxnlb16pxlv4kar17l"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "17708dpqsf4vj3sqpxnc45v9kf0k980ziaxliapiav068j5gv702"
       }
     ],
     "1.4": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "1f18c8dxh56qn94gyhpvdablvf3nhq6ilgwmcaqqs94m6cm28ybc"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "02cmh6f6y3cvyjr2i6g2506f78cpk22g3gpg2v0v25749lmsc42s"
       }
     ],
     "1.3": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/78f4a3ff92917413bd812dec9597237ecd566340/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "0jnrsfadmbvm3rr75k9x5w29k9j5pm52mbdznl4kmph4d3fs7j9m"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f7ccefbe3f5195d2d498232305951840f8a0d6c9/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "052502qnx02s58bjh9k2f5rvqr3nfn887wfhcx2cp35p4mjlhlw3"
       }
     ],
     "1.2": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/689233e38060b387d9dae6f1667286804523e483/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "1k2y0mmhr7csl0yrng39bgmxv205clv2bis532yg2p6927r244qq"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/a7c03bcfa9ec283be4bbee5960e9cb3563d20beb/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0fxv4wgr6s8ca99y4d446vds3pl307rcvyi0iqm4hskhkdw2xz5i"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/16b61d48d4fdfa794c9c3c07be2e451d1c1bd502/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "1cly18zrngxvlhjvywfc5fd5npmdm1slx201fxz6663g8izz6p9h"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/eb3dc8a43d7dc9824ad5cbf71141bdb9e5ae6e30/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0dcx0p8wjwazkg3bg6wc8zmd9m0p27v0jsy4bd6563zynlwx7hsk"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
-        "sha256": "1r9zxr987zd9cpp4ivfshn5x8f9q4j1wnipkcvgw0zdh40ffafm8"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0hrsisc8v4vzwgslbig70yf11b46kms0chjwqfnj66q2dj876wkx"
       }
     ]
   },
-  "bfut_Replace item under mouse cursor with selected item.lua": {
+  "bfut_Remove item under mouse cursor (delete).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
-        "sha256": "1a1zbxpqrxj8sqcg2d3k5xafif4n9q0c8242ydy13hchq05fqcq9"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/ab5c2fae47fa2800331fd74dd1269900311008ef/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
+        "sha256": "1vk76ppm0s1cmhrixpy0i5cj1nlhcc6q2ypiaz1hdqwmg4ns75w9"
       }
     ],
-    "1.3": [
+    "2.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
-        "sha256": "1a1zbxpqrxj8sqcg2d3k5xafif4n9q0c8242ydy13hchq05fqcq9"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e55faeadf37cd3c1f6feaf6b91abc7d62c3dee10/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
-        "sha256": "139z0wbqkdp7qhf0hi5bcrs5vw9dnhvnn1vi8ksbv8z7b7dsr9di"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/ab5c2fae47fa2800331fd74dd1269900311008ef/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
+        "sha256": "1vk76ppm0s1cmhrixpy0i5cj1nlhcc6q2ypiaz1hdqwmg4ns75w9"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/76ae20f26cb5dbd6fa006fe2a78b9cb5f88f8187/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
-        "sha256": "19icq3191m4dz9nvaj54x4r86b7ii3hq1pwrjy5xn0c4r6s0q668"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e141498931f8625bb925cddc2fa8336c93b5806c/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
+        "sha256": "0zjsjzhq5p22sd7hx4cc4f0mz4qlb5k9sldj8vkg2z8fnqxdsjzg"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/7ba682890db29889d7704bd8685bde4319246a11/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
-        "sha256": "0xikapz5gmp2h56avp3nglkpw6ddjd7hfmqg8yic1qakrzk5w8bv"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/1886f389de482bfa5913ec75d7b8d1c9709deed4/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
+        "sha256": "0gl72km5zj747s4cfs6m16z7l8p5wbais017b1122msmvpmsj02d"
       }
     ]
   },
-  "bfut_Copy items to project markers, remove overlaps.lua": {
+  "bfut_Copy items within time selection to project markers, remove overlaps.lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "0ia9yrpqnx7x1yaxccdfjpbwig74w45p0hllplhwlqkc2jfby3hl"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "0mmf6yypbp7kfsp2nsdnp4ifm5azpfcnzpfa3cbkm5hm22ijfisd"
       }
     ],
     "2.3": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "0ia9yrpqnx7x1yaxccdfjpbwig74w45p0hllplhwlqkc2jfby3hl"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "0mmf6yypbp7kfsp2nsdnp4ifm5azpfcnzpfa3cbkm5hm22ijfisd"
       }
     ],
     "2.2": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e65ec48b908b5e9af07fc9668fa5c4e15d8872b9/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "044cc6pyvmivp2pcrg5cc67y7z7wzq9bf75m58vjwly0jgr16lag"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e65ec48b908b5e9af07fc9668fa5c4e15d8872b9/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "1a7011dibc1mq3nhyprsbcvpsjw9h13yn0j8i1v73yqyck9z35nk"
       }
     ],
     "2.1": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/5d45a1705cc6e8ee437bc095bcb51fa548f3d222/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "13wfqhndqby0z1ym1p7d5k1falwjhry492glvc8q40r3mckm91g4"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f3158e4807a7d21cdeb441b6b99fdbfbbe2dc6dd/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "13xk9kqn1nh0ni87d22zxpx6f82qdhdpjdlrk7issvmc1pfvk0lg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "1b8i132wbfkm614gjlrjmw5yrxkv1ykg28zzpny7smrpgiqpap0q"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/72bfd0a204857ad2ed7186e08ad44e1f053b0f2b/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "1xg5k68n606b9bn5g43s6y64829bv2l39lp060nyyn4422is4p83"
       }
     ]
   },
@@ -293,151 +272,19 @@
       }
     ]
   },
-  "bfut_Unselect items touching time selection.lua": {
+  "bfut_Unselect ungrouped items.lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items touching time selection.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/0198c966592fdcfd636cf880b4f3d73b844f7918/Items%20Editing/bfut_Unselect%20items%20touching%20time%20selection.lua",
-        "sha256": "0iq579bzydmq8qnhmgya0kl7bhb9ygmf9r68zhmarw6n312dwj7s"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect ungrouped items.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/25610b39fc6f4d3c21498571f9c17280c53b9d73/Items%20Editing/bfut_Unselect%20ungrouped%20items.lua",
+        "sha256": "0vs8sgvfvz72rmpw9m67rz71cqcjhqz13g0f4r7nly45vc2gb68f"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items touching time selection.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/0198c966592fdcfd636cf880b4f3d73b844f7918/Items%20Editing/bfut_Unselect%20items%20touching%20time%20selection.lua",
-        "sha256": "0iq579bzydmq8qnhmgya0kl7bhb9ygmf9r68zhmarw6n312dwj7s"
-      }
-    ]
-  },
-  "bfut_Copy items within time selection to project markers, remove overlaps.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "0mmf6yypbp7kfsp2nsdnp4ifm5azpfcnzpfa3cbkm5hm22ijfisd"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "0mmf6yypbp7kfsp2nsdnp4ifm5azpfcnzpfa3cbkm5hm22ijfisd"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e65ec48b908b5e9af07fc9668fa5c4e15d8872b9/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "1a7011dibc1mq3nhyprsbcvpsjw9h13yn0j8i1v73yqyck9z35nk"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items within time selection to project markers, remove overlaps.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/72bfd0a204857ad2ed7186e08ad44e1f053b0f2b/Items%20Editing/bfut_Copy%20items%20within%20time%20selection%20to%20project%20markers,%20remove%20overlaps.lua",
-        "sha256": "1xg5k68n606b9bn5g43s6y64829bv2l39lp060nyyn4422is4p83"
-      }
-    ]
-  },
-  "bfut_Step sequencer (copy first item on track to grid bar under mouse).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
-        "sha256": "1548qhxf8f9cnmqjybfyqiw79prrgjaqrj5ii2wa9d4s5p0yb7rq"
-      }
-    ],
-    "2.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
-        "sha256": "1548qhxf8f9cnmqjybfyqiw79prrgjaqrj5ii2wa9d4s5p0yb7rq"
-      }
-    ],
-    "2.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e3c84f1e1d7d7a246a724c65146e08326dc6a998/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
-        "sha256": "1ag6ppp67mk5ivisg6nxmkhkrw24ib3i090v5rg5rx60fvzq28p4"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/45940cb86b82e7716918e195375985b4bc5e9102/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
-        "sha256": "1a5j9mdlr8max5g46a0mmds4dxwb273rlk849kp8kycz6ynvnz9l"
-      }
-    ]
-  },
-  "bfut_MIDI notes to items (explode note rows to subtracks).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "06l03i1mhqznxhzx7vf1dxy2dzi2fp51rv5c8pmnlmlp6pxwrmm8"
-      }
-    ],
-    "1.8": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "06l03i1mhqznxhzx7vf1dxy2dzi2fp51rv5c8pmnlmlp6pxwrmm8"
-      }
-    ],
-    "1.7": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0x9xx3423fx68xyj6i5l80qbyy9nq4zi3rgkmdkhlwhhih8cyalh"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0qgdq2x463nq4504kxlzs2vv8ycg1grrx86jk0824pjwswbdm697"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "17708dpqsf4vj3sqpxnc45v9kf0k980ziaxliapiav068j5gv702"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "02cmh6f6y3cvyjr2i6g2506f78cpk22g3gpg2v0v25749lmsc42s"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f7ccefbe3f5195d2d498232305951840f8a0d6c9/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "052502qnx02s58bjh9k2f5rvqr3nfn887wfhcx2cp35p4mjlhlw3"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/a7c03bcfa9ec283be4bbee5960e9cb3563d20beb/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0fxv4wgr6s8ca99y4d446vds3pl307rcvyi0iqm4hskhkdw2xz5i"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/eb3dc8a43d7dc9824ad5cbf71141bdb9e5ae6e30/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0dcx0p8wjwazkg3bg6wc8zmd9m0p27v0jsy4bd6563zynlwx7hsk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0hrsisc8v4vzwgslbig70yf11b46kms0chjwqfnj66q2dj876wkx"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect ungrouped items.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/25610b39fc6f4d3c21498571f9c17280c53b9d73/Items%20Editing/bfut_Unselect%20ungrouped%20items.lua",
+        "sha256": "0vs8sgvfvz72rmpw9m67rz71cqcjhqz13g0f4r7nly45vc2gb68f"
       }
     ]
   },
@@ -499,26 +346,255 @@
       }
     ]
   },
-  "bfut_Trim to source media lengths (limit items lengths).lua": {
+  "bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Trim to source media lengths (limit items lengths).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/a4e6be2cdc7a09f480d4e96c080f87bedf17a7db/Items%20Editing/bfut_Trim%20to%20source%20media%20lengths%20(limit%20items%20lengths).lua",
-        "sha256": "0wj0dykappq3vdgjphkhiznkwna3p6fdgqv1gb37dcs0klkkmqyd"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "0g2q5cfjd6hwp4rj3xisyfgp78gayd3i58bgwrrvm5bpaf0lh40m"
+      }
+    ],
+    "1.8": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "0g2q5cfjd6hwp4rj3xisyfgp78gayd3i58bgwrrvm5bpaf0lh40m"
+      }
+    ],
+    "1.7": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "02dy9k4fkbq5bbdbq3w31f19hppapsikb27gr4q9jwcbald0kgcw"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "0ddg9h97a9w7lws9wp4adsw6xfgxcnz93ha18nfg93y3j1103m62"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "08n7lbiawinxn3crjknlvqrnd8hnjv1jrrkxnlb16pxlv4kar17l"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "1f18c8dxh56qn94gyhpvdablvf3nhq6ilgwmcaqqs94m6cm28ybc"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/78f4a3ff92917413bd812dec9597237ecd566340/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "0jnrsfadmbvm3rr75k9x5w29k9j5pm52mbdznl4kmph4d3fs7j9m"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/689233e38060b387d9dae6f1667286804523e483/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "1k2y0mmhr7csl0yrng39bgmxv205clv2bis532yg2p6927r244qq"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Trim to source media lengths (limit items lengths).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/a4e6be2cdc7a09f480d4e96c080f87bedf17a7db/Items%20Editing/bfut_Trim%20to%20source%20media%20lengths%20(limit%20items%20lengths).lua",
-        "sha256": "0wj0dykappq3vdgjphkhiznkwna3p6fdgqv1gb37dcs0klkkmqyd"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/16b61d48d4fdfa794c9c3c07be2e451d1c1bd502/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "1cly18zrngxvlhjvywfc5fd5npmdm1slx201fxz6663g8izz6p9h"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Trim to source media lengths (limit items lengths).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Trim%20to%20source%20media%20lengths%20(limit%20items%20lengths).lua",
-        "sha256": "1bq387pfnhjnx49p8cwmcs0ipki09rcyx8mv16wkqq0yvj8cp271"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to items (notes to subtrack, note pitch as item pitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua",
+        "sha256": "1r9zxr987zd9cpp4ivfshn5x8f9q4j1wnipkcvgw0zdh40ffafm8"
+      }
+    ]
+  },
+  "bfut_Select items of less than 1 sample in length.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Select items of less than 1 sample in length.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/cf43cdf8bb76f489fc993d218c85df7c9a8b0539/Items%20Editing/bfut_Select%20items%20of%20less%20than%201%20sample%20in%20length.lua",
+        "sha256": "0mrscab0wywd8l4s187am7645w8np5aljf286rgly0rhgs3y97dz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Select items of less than 1 sample in length.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/cf43cdf8bb76f489fc993d218c85df7c9a8b0539/Items%20Editing/bfut_Select%20items%20of%20less%20than%201%20sample%20in%20length.lua",
+        "sha256": "0mrscab0wywd8l4s187am7645w8np5aljf286rgly0rhgs3y97dz"
+      }
+    ]
+  },
+  "bfut_Unselect items within time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items within time selection.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3f8e773b00fe34769d41cb7dee1cd5c70ad8b7d5/Items%20Editing/bfut_Unselect%20items%20within%20time%20selection.lua",
+        "sha256": "1aczph75q1msrjq1r3wpd81cvz7b8vc95xc5m65v2jnv9grg1z75"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items within time selection.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3f8e773b00fe34769d41cb7dee1cd5c70ad8b7d5/Items%20Editing/bfut_Unselect%20items%20within%20time%20selection.lua",
+        "sha256": "1aczph75q1msrjq1r3wpd81cvz7b8vc95xc5m65v2jnv9grg1z75"
+      }
+    ]
+  },
+  "bfut_MIDI notes to empty items (explode note rows to subtracks).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "171san27p2pkaq59wcw5sl8dw43cff4zl5pc94bjcyjx7sdcblds"
+      }
+    ],
+    "1.8": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "171san27p2pkaq59wcw5sl8dw43cff4zl5pc94bjcyjx7sdcblds"
+      }
+    ],
+    "1.7": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "1580h4g9b7njgwgsipn2shfc0v2v77qcbizc6ks1c3wh788j275w"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "1fa8x2ix28h4fx0bx5w8zz716wmx3zb9jqa7i4si8nqmfann2rph"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "1cp15fha3m92r9c0zfmcfk02x86mlldhlmym6adgwypsz8lfjh21"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "1qxri5h2r4ibavq48w7k2v4kgfd3lbsidarp68dk6q1izj6727hv"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/425e945a0bf2995fc6b2acd20d5ed9938fa34260/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0hl4qs9vin0vaj54mfp68yf8d674nxac0g14wwrdgxb4c0lgzwlj"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/8f167dccf19784c3d50084c25bc3b2860cc2f6da/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
+        "sha256": "0nr4mfhimqi0nmqlsbgmmwc6gji93dfmvwnrcrfgzk8kwb3q705h"
+      }
+    ]
+  },
+  "bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
+        "sha256": "0dkpzx5f2z7ndlr3zwmgvdnkkl087jq1xwi1ymz6bydri9h8k5k7"
+      }
+    ],
+    "2.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
+        "sha256": "0dkpzx5f2z7ndlr3zwmgvdnkkl087jq1xwi1ymz6bydri9h8k5k7"
+      }
+    ],
+    "2.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/c09c54773c19890e2c7985c822cf0be7b3b9e1e3/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
+        "sha256": "1py4igq76q9bd5pqfbj192wqyx11d63bqqx1f3z2lsp66q360yyv"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/0c388ab2df0a2038a8679b7f943ed78efb73b76a/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
+        "sha256": "1iabc7h79iv4bz6d2if5jcc864s953v59ywp7m5fpk62w3j4s3lr"
+      }
+    ]
+  },
+  "bfut_Copy items to project markers, remove overlaps.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "0ia9yrpqnx7x1yaxccdfjpbwig74w45p0hllplhwlqkc2jfby3hl"
+      }
+    ],
+    "2.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "0ia9yrpqnx7x1yaxccdfjpbwig74w45p0hllplhwlqkc2jfby3hl"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e65ec48b908b5e9af07fc9668fa5c4e15d8872b9/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "044cc6pyvmivp2pcrg5cc67y7z7wzq9bf75m58vjwly0jgr16lag"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5d45a1705cc6e8ee437bc095bcb51fa548f3d222/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "13wfqhndqby0z1ym1p7d5k1falwjhry492glvc8q40r3mckm91g4"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f3158e4807a7d21cdeb441b6b99fdbfbbe2dc6dd/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "13xk9kqn1nh0ni87d22zxpx6f82qdhdpjdlrk7issvmc1pfvk0lg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to project markers, remove overlaps.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua",
+        "sha256": "1b8i132wbfkm614gjlrjmw5yrxkv1ykg28zzpny7smrpgiqpap0q"
+      }
+    ]
+  },
+  "bfut_Unselect grouped items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect grouped items.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/0ce6227f17bdc72caf5be76454507bfede7e2c97/Items%20Editing/bfut_Unselect%20grouped%20items.lua",
+        "sha256": "1n5y2219pav4bsb5avlqzandbs57icfiwnv1z16ld6riabjrifrd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect grouped items.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/0ce6227f17bdc72caf5be76454507bfede7e2c97/Items%20Editing/bfut_Unselect%20grouped%20items.lua",
+        "sha256": "1n5y2219pav4bsb5avlqzandbs57icfiwnv1z16ld6riabjrifrd"
       }
     ]
   },
@@ -617,6 +693,105 @@
       }
     ]
   },
+  "bfut_Step sequencer (copy first item on track to grid bar under mouse).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
+        "sha256": "1548qhxf8f9cnmqjybfyqiw79prrgjaqrj5ii2wa9d4s5p0yb7rq"
+      }
+    ],
+    "2.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
+        "sha256": "1548qhxf8f9cnmqjybfyqiw79prrgjaqrj5ii2wa9d4s5p0yb7rq"
+      }
+    ],
+    "2.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e3c84f1e1d7d7a246a724c65146e08326dc6a998/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
+        "sha256": "1ag6ppp67mk5ivisg6nxmkhkrw24ib3i090v5rg5rx60fvzq28p4"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track to grid bar under mouse).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/45940cb86b82e7716918e195375985b4bc5e9102/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua",
+        "sha256": "1a5j9mdlr8max5g46a0mmds4dxwb273rlk849kp8kycz6ynvnz9l"
+      }
+    ]
+  },
+  "bfut_Unselect items outside time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items outside time selection.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/77aaff49a1221540b009af6503145e9a6d2fb2a3/Items%20Editing/bfut_Unselect%20items%20outside%20time%20selection.lua",
+        "sha256": "1bmrq1gf2lcm5vph5kvi7q9mgssf90hvhm67nh3q12170viidxyh"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items outside time selection.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/77aaff49a1221540b009af6503145e9a6d2fb2a3/Items%20Editing/bfut_Unselect%20items%20outside%20time%20selection.lua",
+        "sha256": "1bmrq1gf2lcm5vph5kvi7q9mgssf90hvhm67nh3q12170viidxyh"
+      }
+    ]
+  },
+  "bfut_Create razor edit area from take marker section under mouse.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Create razor edit area from take marker section under mouse.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5075161017214dc8a801c648cf7cbdae7364cf99/Items%20Editing/bfut_Create%20razor%20edit%20area%20from%20take%20marker%20section%20under%20mouse.lua",
+        "sha256": "1hyi7l7sd43pjr1pbp50pqaw2884zq83drlk5zimp45kaczhfi44"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Create razor edit area from take marker section under mouse.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5075161017214dc8a801c648cf7cbdae7364cf99/Items%20Editing/bfut_Create%20razor%20edit%20area%20from%20take%20marker%20section%20under%20mouse.lua",
+        "sha256": "1hyi7l7sd43pjr1pbp50pqaw2884zq83drlk5zimp45kaczhfi44"
+      }
+    ]
+  },
+  "bfut_Replace item under mouse cursor with selected item.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
+        "sha256": "1a1zbxpqrxj8sqcg2d3k5xafif4n9q0c8242ydy13hchq05fqcq9"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
+        "sha256": "1a1zbxpqrxj8sqcg2d3k5xafif4n9q0c8242ydy13hchq05fqcq9"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e55faeadf37cd3c1f6feaf6b91abc7d62c3dee10/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
+        "sha256": "139z0wbqkdp7qhf0hi5bcrs5vw9dnhvnn1vi8ksbv8z7b7dsr9di"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/76ae20f26cb5dbd6fa006fe2a78b9cb5f88f8187/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
+        "sha256": "19icq3191m4dz9nvaj54x4r86b7ii3hq1pwrjy5xn0c4r6s0q668"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Replace item under mouse cursor with selected item.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/7ba682890db29889d7704bd8685bde4319246a11/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua",
+        "sha256": "0xikapz5gmp2h56avp3nglkpw6ddjd7hfmqg8yic1qakrzk5w8bv"
+      }
+    ]
+  },
   "bfut_Split looped item into separate items.lua": {
     "latest": [
       {
@@ -654,155 +829,42 @@
       }
     ]
   },
-  "bfut_Select items of less than 1 sample in length.lua": {
+  "bfut_Trim to source media lengths (limit items lengths).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Select items of less than 1 sample in length.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/cf43cdf8bb76f489fc993d218c85df7c9a8b0539/Items%20Editing/bfut_Select%20items%20of%20less%20than%201%20sample%20in%20length.lua",
-        "sha256": "0mrscab0wywd8l4s187am7645w8np5aljf286rgly0rhgs3y97dz"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Trim to source media lengths (limit items lengths).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/a4e6be2cdc7a09f480d4e96c080f87bedf17a7db/Items%20Editing/bfut_Trim%20to%20source%20media%20lengths%20(limit%20items%20lengths).lua",
+        "sha256": "0wj0dykappq3vdgjphkhiznkwna3p6fdgqv1gb37dcs0klkkmqyd"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Trim to source media lengths (limit items lengths).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/a4e6be2cdc7a09f480d4e96c080f87bedf17a7db/Items%20Editing/bfut_Trim%20to%20source%20media%20lengths%20(limit%20items%20lengths).lua",
+        "sha256": "0wj0dykappq3vdgjphkhiznkwna3p6fdgqv1gb37dcs0klkkmqyd"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Select items of less than 1 sample in length.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/cf43cdf8bb76f489fc993d218c85df7c9a8b0539/Items%20Editing/bfut_Select%20items%20of%20less%20than%201%20sample%20in%20length.lua",
-        "sha256": "0mrscab0wywd8l4s187am7645w8np5aljf286rgly0rhgs3y97dz"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Trim to source media lengths (limit items lengths).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Trim%20to%20source%20media%20lengths%20(limit%20items%20lengths).lua",
+        "sha256": "1bq387pfnhjnx49p8cwmcs0ipki09rcyx8mv16wkqq0yvj8cp271"
       }
     ]
   },
-  "bfut_MIDI notes to empty items (explode note rows to subtracks).lua": {
+  "bfut_Unselect items touching time selection.lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "171san27p2pkaq59wcw5sl8dw43cff4zl5pc94bjcyjx7sdcblds"
-      }
-    ],
-    "1.8": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "171san27p2pkaq59wcw5sl8dw43cff4zl5pc94bjcyjx7sdcblds"
-      }
-    ],
-    "1.7": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "1580h4g9b7njgwgsipn2shfc0v2v77qcbizc6ks1c3wh788j275w"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "1fa8x2ix28h4fx0bx5w8zz716wmx3zb9jqa7i4si8nqmfann2rph"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "1cp15fha3m92r9c0zfmcfk02x86mlldhlmym6adgwypsz8lfjh21"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "1qxri5h2r4ibavq48w7k2v4kgfd3lbsidarp68dk6q1izj6727hv"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/425e945a0bf2995fc6b2acd20d5ed9938fa34260/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0hl4qs9vin0vaj54mfp68yf8d674nxac0g14wwrdgxb4c0lgzwlj"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_MIDI notes to empty items (explode note rows to subtracks).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/8f167dccf19784c3d50084c25bc3b2860cc2f6da/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua",
-        "sha256": "0nr4mfhimqi0nmqlsbgmmwc6gji93dfmvwnrcrfgzk8kwb3q705h"
-      }
-    ]
-  },
-  "bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
-        "sha256": "0dkpzx5f2z7ndlr3zwmgvdnkkl087jq1xwi1ymz6bydri9h8k5k7"
-      }
-    ],
-    "2.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
-        "sha256": "0dkpzx5f2z7ndlr3zwmgvdnkkl087jq1xwi1ymz6bydri9h8k5k7"
-      }
-    ],
-    "2.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/c09c54773c19890e2c7985c822cf0be7b3b9e1e3/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
-        "sha256": "1py4igq76q9bd5pqfbj192wqyx11d63bqqx1f3z2lsp66q360yyv"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Step sequencer (copy first item on track and fill grid bar under mouse).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/0c388ab2df0a2038a8679b7f943ed78efb73b76a/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua",
-        "sha256": "1iabc7h79iv4bz6d2if5jcc864s953v59ywp7m5fpk62w3j4s3lr"
-      }
-    ]
-  },
-  "bfut_Copy items to regions.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to regions.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/74892c97352335da38592901180543f7b5cfc196/Items%20Editing/bfut_Copy%20items%20to%20regions.lua",
-        "sha256": "0fwpwrqa4swalbxzf1ffdy44hrhklkgbi0z6k8q72xry1gi03cvv"
-      }
-    ],
-    "2.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to regions.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/74892c97352335da38592901180543f7b5cfc196/Items%20Editing/bfut_Copy%20items%20to%20regions.lua",
-        "sha256": "0fwpwrqa4swalbxzf1ffdy44hrhklkgbi0z6k8q72xry1gi03cvv"
-      }
-    ]
-  },
-  "bfut_Unselect items within time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items within time selection.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3f8e773b00fe34769d41cb7dee1cd5c70ad8b7d5/Items%20Editing/bfut_Unselect%20items%20within%20time%20selection.lua",
-        "sha256": "1aczph75q1msrjq1r3wpd81cvz7b8vc95xc5m65v2jnv9grg1z75"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items touching time selection.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/0198c966592fdcfd636cf880b4f3d73b844f7918/Items%20Editing/bfut_Unselect%20items%20touching%20time%20selection.lua",
+        "sha256": "0iq579bzydmq8qnhmgya0kl7bhb9ygmf9r68zhmarw6n312dwj7s"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items within time selection.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3f8e773b00fe34769d41cb7dee1cd5c70ad8b7d5/Items%20Editing/bfut_Unselect%20items%20within%20time%20selection.lua",
-        "sha256": "1aczph75q1msrjq1r3wpd81cvz7b8vc95xc5m65v2jnv9grg1z75"
-      }
-    ]
-  },
-  "bfut_Unselect items outside time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items outside time selection.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/77aaff49a1221540b009af6503145e9a6d2fb2a3/Items%20Editing/bfut_Unselect%20items%20outside%20time%20selection.lua",
-        "sha256": "1bmrq1gf2lcm5vph5kvi7q9mgssf90hvhm67nh3q12170viidxyh"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items outside time selection.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/77aaff49a1221540b009af6503145e9a6d2fb2a3/Items%20Editing/bfut_Unselect%20items%20outside%20time%20selection.lua",
-        "sha256": "1bmrq1gf2lcm5vph5kvi7q9mgssf90hvhm67nh3q12170viidxyh"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect items touching time selection.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/0198c966592fdcfd636cf880b4f3d73b844f7918/Items%20Editing/bfut_Unselect%20items%20touching%20time%20selection.lua",
+        "sha256": "0iq579bzydmq8qnhmgya0kl7bhb9ygmf9r68zhmarw6n312dwj7s"
       }
     ]
   },
@@ -829,65 +891,35 @@
       }
     ]
   },
-  "bfut_Remove item under mouse cursor (delete).lua": {
+  "bfut_Set time selection to take marker section under mouse.lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/ab5c2fae47fa2800331fd74dd1269900311008ef/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
-        "sha256": "1vk76ppm0s1cmhrixpy0i5cj1nlhcc6q2ypiaz1hdqwmg4ns75w9"
-      }
-    ],
-    "2.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/ab5c2fae47fa2800331fd74dd1269900311008ef/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
-        "sha256": "1vk76ppm0s1cmhrixpy0i5cj1nlhcc6q2ypiaz1hdqwmg4ns75w9"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e141498931f8625bb925cddc2fa8336c93b5806c/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
-        "sha256": "0zjsjzhq5p22sd7hx4cc4f0mz4qlb5k9sldj8vkg2z8fnqxdsjzg"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Set time selection to take marker section under mouse.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5075161017214dc8a801c648cf7cbdae7364cf99/Items%20Editing/bfut_Set%20time%20selection%20to%20take%20marker%20section%20under%20mouse.lua",
+        "sha256": "0yp5iqr0j2phly9lr97nh2qhiar3cd6s4pbirw1cawfzilmpjjzq"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Remove item under mouse cursor (delete).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/1886f389de482bfa5913ec75d7b8d1c9709deed4/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua",
-        "sha256": "0gl72km5zj747s4cfs6m16z7l8p5wbais017b1122msmvpmsj02d"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Set time selection to take marker section under mouse.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5075161017214dc8a801c648cf7cbdae7364cf99/Items%20Editing/bfut_Set%20time%20selection%20to%20take%20marker%20section%20under%20mouse.lua",
+        "sha256": "0yp5iqr0j2phly9lr97nh2qhiar3cd6s4pbirw1cawfzilmpjjzq"
       }
     ]
   },
-  "bfut_Unselect grouped items.lua": {
+  "bfut_Copy items to regions.lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect grouped items.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/0ce6227f17bdc72caf5be76454507bfede7e2c97/Items%20Editing/bfut_Unselect%20grouped%20items.lua",
-        "sha256": "1n5y2219pav4bsb5avlqzandbs57icfiwnv1z16ld6riabjrifrd"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to regions.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/74892c97352335da38592901180543f7b5cfc196/Items%20Editing/bfut_Copy%20items%20to%20regions.lua",
+        "sha256": "0fwpwrqa4swalbxzf1ffdy44hrhklkgbi0z6k8q72xry1gi03cvv"
       }
     ],
-    "1.0": [
+    "2.3": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect grouped items.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/0ce6227f17bdc72caf5be76454507bfede7e2c97/Items%20Editing/bfut_Unselect%20grouped%20items.lua",
-        "sha256": "1n5y2219pav4bsb5avlqzandbs57icfiwnv1z16ld6riabjrifrd"
-      }
-    ]
-  },
-  "bfut_Unselect ungrouped items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect ungrouped items.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/25610b39fc6f4d3c21498571f9c17280c53b9d73/Items%20Editing/bfut_Unselect%20ungrouped%20items.lua",
-        "sha256": "0vs8sgvfvz72rmpw9m67rz71cqcjhqz13g0f4r7nly45vc2gb68f"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Unselect ungrouped items.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/25610b39fc6f4d3c21498571f9c17280c53b9d73/Items%20Editing/bfut_Unselect%20ungrouped%20items.lua",
-        "sha256": "0vs8sgvfvz72rmpw9m67rz71cqcjhqz13g0f4r7nly45vc2gb68f"
+        "path": "Scripts/bfut_ReaScripts/Items Editing/bfut_Copy items to regions.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/74892c97352335da38592901180543f7b5cfc196/Items%20Editing/bfut_Copy%20items%20to%20regions.lua",
+        "sha256": "0fwpwrqa4swalbxzf1ffdy44hrhklkgbi0z6k8q72xry1gi03cvv"
       }
     ]
   },
@@ -907,306 +939,56 @@
       }
     ]
   },
-  "bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua": {
+  "bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeoutlength).lua",
-        "sha256": "1kfzzbn2b39iqpgzvm7c44kpipipxm0dfcz0cfpxggavg6qnbph7"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeinlength).lua",
+        "sha256": "06rl1pybaklcj7cm2mlqdxl3535w06wwb7kgfym5ny5dzx3c0y8f"
       }
     ],
     "1.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeoutlength).lua",
-        "sha256": "1kfzzbn2b39iqpgzvm7c44kpipipxm0dfcz0cfpxggavg6qnbph7"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeinlength).lua",
+        "sha256": "06rl1pybaklcj7cm2mlqdxl3535w06wwb7kgfym5ny5dzx3c0y8f"
       }
     ],
     "1.5": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeoutlength).lua",
-        "sha256": "08hxy9m32pzb504gbb73jfbpq4v5frakdynm8fli9wz22zfxv7c9"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeinlength).lua",
+        "sha256": "0v623zli83476bll4wz9vm07xpimi286nqawqpggmn9q669q6bsp"
       }
     ]
   },
-  "bfut_Paste item properties from clipboard to set selected items property (length).lua": {
+  "bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "11rcjgbn6akdgw7hjpbhm6h98zm980p7li880aprpvwnljcxnjap"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
+        "sha256": "0xqchvi98spbxmywa4savxcx535hgz1qg1j16ckv03dsjibw04xk"
       }
     ],
     "1.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "11rcjgbn6akdgw7hjpbhm6h98zm980p7li880aprpvwnljcxnjap"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
+        "sha256": "0xqchvi98spbxmywa4savxcx535hgz1qg1j16ckv03dsjibw04xk"
       }
     ],
     "1.5": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "17gamcgfvapm17yxbqd9jv714szq54y876yn9vjycnzlqc16sfhm"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
+        "sha256": "1dixzzak0xkj0svwbhzz5f08ncgmiz69n3x03xn73frb9x2715i4"
       }
     ],
     "1.4": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "0r02wbgfrjvxsrlmarfhaix6px766z4z57bs1b8k15g8n3wy3m2z"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "0ymld2bp65x8462jzk8sd2snax6p0dhpkjxpmji6wjv59wl37b9z"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "11qbp5lalb87bkyzm54laazmbflknq0fxfn94c31fj6p8rynf0w7"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
-        "sha256": "1cn5ywqg2xcd1vypkjhwsygwlhw3y833bx46hmcxxbdmzc1lghvj"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items take property (playrate).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "1va5ifmsk2xvlfv1w9p618fb2al0yv3rfchzibgcdh2b6xawpsdz"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "1va5ifmsk2xvlfv1w9p618fb2al0yv3rfchzibgcdh2b6xawpsdz"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "0pxgidisvz8asi4zpchz1rfc9qxn9rmvsigs5sjb83a2j97qjzxz"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "0rj461pgxgakcbs5hbxhywl0hhd1m008ycyn6gwv9v7rpi78y921"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "1xvgp6mqh4ss50svjzxjyplx3483c3iik9zw7dcsrdszgdy543wh"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "1jwb13v69i70b98c5nil706dq6rq0vhs2mwns034dw6bbz0p9dya"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
-        "sha256": "14s0cnzg3qw4cln5v3w58y05vmv7x1bc7mibbmq4xgmcb0x942dg"
-      }
-    ]
-  },
-  "bfut_Copy item properties to clipboard.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "1ifkvg87989vm8f8sin36qi1q7xgpsaw0k9y8lsfd1jhb4chmfk0"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "1ifkvg87989vm8f8sin36qi1q7xgpsaw0k9y8lsfd1jhb4chmfk0"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "01kvd656k8pa3zylavqays3h4i5dlxf0nqyqqd0fpxwwy5pacj8z"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "16a796az1f6pab4a1sy36l6hx6692sw27mczrggnlg1hf71lzz96"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "1sz68klb3x2irmn2vsbpz6595b2h2xhd0h2rx22bncxsl4njcizr"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "0xcs59j24hls2q8amk07i4zkvnqpcirq6hgggzfkb17c3f03dg44"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "1x5l090klxllisakr5ia91937d79k10344gi2rsl3girifh7ih04"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/5e3a4c6495142c79bdc54e0e5d7baaf6f5108968/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
-        "sha256": "14wgxnd0q5y3j5hk16i6wbw1magi1d7szn9dkrjnyyv026b6ly3z"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
-        "sha256": "19a53f2lf9qgjcsrznj7xzwindipzcvmk28xj3mr80aa2y573xzf"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
-        "sha256": "19a53f2lf9qgjcsrznj7xzwindipzcvmk28xj3mr80aa2y573xzf"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
-        "sha256": "00nwn9cf5da1sd93pl5yi2v1i2z7vpcw3a3mffjcswxfn45b29kn"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
-        "sha256": "1f6am0kfhcr724brifcf82imz0gqr3j8gxicgrhw9a605y72hg2x"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items take property (panlaw).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (panlaw).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(panlaw).lua",
-        "sha256": "1ilf4xqjs44m5dyycskrb439i1q7dibbwsv75ljy76wygwx00zca"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (panlaw).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(panlaw).lua",
-        "sha256": "1ilf4xqjs44m5dyycskrb439i1q7dibbwsv75ljy76wygwx00zca"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "02dr2bd8gkiwb6lyl483v6a1c8r7qigksrw60vhpqc6yfq53x5gq"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "02dr2bd8gkiwb6lyl483v6a1c8r7qigksrw60vhpqc6yfq53x5gq"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "147y3ph1jmwf8hcfdgajcmfrw0f5q26imsxrxr0jjsjpfgcrcbsd"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "0cvwpqs5z2znvic1i94r2fihqrzsmmqpsard3dv6phafngjidh38"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "1dnkmh6n99jp0i1xjada1sdfjic8q8s90z8w415lli2krga8qpiy"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "18psrh4rk1gyjgyk3qimf4fbdkzakiy97jszmc57kl2ci7mpm9ss"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
-        "sha256": "1md8hxj62g40m5vks50j023zmk8x59w1w3j9lgnn07m1fkmnbi4b"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(lowpassfade).lua",
-        "sha256": "0837shp189iz6ijwlaaj48ybk888rfsaqqn4i9p3cxwfjzfwss0j"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(lowpassfade).lua",
-        "sha256": "0837shp189iz6ijwlaaj48ybk888rfsaqqn4i9p3cxwfjzfwss0j"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(lowpassfade).lua",
-        "sha256": "0flf10ckhl140b6ql0mdgcq4944ijif08ji9n14wl6l7d77ran55"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
+        "sha256": "1rsvnq4c1n07r7vgs3laf8bidihkgfx6jr79qdk35wwnwp70lmzl"
       }
     ]
   },
@@ -1258,205 +1040,6 @@
         "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pitch).lua",
         "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pitch).lua",
         "sha256": "0cc99qyay6hx7g260g8svq84wq45yldvsj5hj393l672bigy7irw"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "1f3nd916237xrksdd4bi0rqyk3pdy2ga5kam5y7s8bfzkknxvsj5"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "1f3nd916237xrksdd4bi0rqyk3pdy2ga5kam5y7s8bfzkknxvsj5"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "1cd8kavaj8pf6p8qkjzvq6g5rfwj0xqjc3jqnji52wp14ml981dy"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "11x4glj6mp3nl9xpa6r5jfl4gc7hibv7mzq38psnbj50hy3vvxqn"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "1mc5iyhpiplyqrfr9vxd4v42li5g99936gcabih82hsndgfx1r6d"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "0nwxi71lhj2b5k5mji9z840bz44rqac6054gnwihflwpl68x42b8"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
-        "sha256": "0hyi5b9idf1v7h5n9z0ww2iy4z8lcwsd2qbrc9cf80025znakmdj"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items take property (pan).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "0iz0dpbzhbrl1s785fzn8fbws2xkxxir147rjpx90pzljrran6zv"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "0iz0dpbzhbrl1s785fzn8fbws2xkxxir147rjpx90pzljrran6zv"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "033mb8v2jjbqx3rliai06ibcn0w5cxj5icm7sb04pzqhsmx81794"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "04g11s6hkm5kr4gwijfgirx8b77zm3p1jl54yl3lps2bj52kj8wg"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "1663w3w5hwn0yzrj38jhrfgpl93jf0d5qw3ara7v4iv84f0q76p4"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "1cbxp31l70c29jrp80jmmxh898h39fcc7y2nk623b4fj5pck0y87"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
-        "sha256": "1r63nhqpc08cqlpvlqrdrcab2bwnicsd0b9yds68cl5f90wy4355"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items take property (volume).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "0ri4i3p9g2vi4w7g2wm47m0vgndrdralgrri9vb9q9vcmhhxl3y3"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "0ri4i3p9g2vi4w7g2wm47m0vgndrdralgrri9vb9q9vcmhhxl3y3"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "1mvcv1ip422zcsv767czrgz71jf3qgb2axwzd2js2b69s233h7pc"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "0bnqfx3kz30w9h4mhw7rmyyrlmi8wdql0q39d63il93j5db6rk6b"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "0z6c3ilipmm3fikm4qx524qq9vfndwv5f0n0qdwzfgc8n0ihdnsw"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "0r2fi48cjrd0s6l3xmncwfq2kb5qdj3n4qbl5bzd1kpf1s1f0nfh"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
-        "sha256": "13y8i921b7h3dfl7kyranj39gv6axnckv5d5k27dwxr1gyy64vhh"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
-        "sha256": "0xqchvi98spbxmywa4savxcx535hgz1qg1j16ckv03dsjibw04xk"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
-        "sha256": "0xqchvi98spbxmywa4savxcx535hgz1qg1j16ckv03dsjibw04xk"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
-        "sha256": "1dixzzak0xkj0svwbhzz5f08ncgmiz69n3x03xn73frb9x2715i4"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (freeitemposition).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(freeitemposition).lua",
-        "sha256": "1rsvnq4c1n07r7vgs3laf8bidihkgfx6jr79qdk35wwnwp70lmzl"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items take property (pitchmode).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pitchmode).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pitchmode).lua",
-        "sha256": "0ncpgk6zdzx47xwfq9ajjim98p1k3m0n2185kcfpzg665panmzba"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pitchmode).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pitchmode).lua",
-        "sha256": "0ncpgk6zdzx47xwfq9ajjim98p1k3m0n2185kcfpzg665panmzba"
       }
     ]
   },
@@ -1562,195 +1145,93 @@
       }
     ]
   },
-  "bfut_Paste item properties from clipboard to set selected items take property (preservepitch).lua": {
+  "bfut_Paste item properties from clipboard to set selected items take property (recordpassid).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (preservepitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(preservepitch).lua",
-        "sha256": "0fxj8d1g65fjq7g59b68j327fkhcqnjgskk722ppiylvmy4kqibr"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (recordpassid).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(recordpassid).lua",
+        "sha256": "0x1ic2gialvsf4qfrgq7ms4kp8qk70sw4axgpjdzncpwgb30yicd"
       }
     ],
     "1.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (preservepitch).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(preservepitch).lua",
-        "sha256": "0fxj8d1g65fjq7g59b68j327fkhcqnjgskk722ppiylvmy4kqibr"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (recordpassid).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(recordpassid).lua",
+        "sha256": "0x1ic2gialvsf4qfrgq7ms4kp8qk70sw4axgpjdzncpwgb30yicd"
       }
     ]
   },
-  "bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua": {
+  "bfut_Paste item properties from clipboard to set selected items property (activetake).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "1idwdzx7mwnfdy1j3mj56d3cycwhj8hzb7pyzdbb9q6l7jw0sknj"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (activetake).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(activetake).lua",
+        "sha256": "1c0zfvc0yy5qxmav37b6hbrcvrc0x3z18lcaaqg9yrp25g3kipjv"
       }
     ],
     "1.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "1idwdzx7mwnfdy1j3mj56d3cycwhj8hzb7pyzdbb9q6l7jw0sknj"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (activetake).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(activetake).lua",
+        "sha256": "1c0zfvc0yy5qxmav37b6hbrcvrc0x3z18lcaaqg9yrp25g3kipjv"
       }
     ],
     "1.5": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "0mbn4w5drb15vccv31f0ix81aysaa41braiqc7h25m74i9xmkyxk"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (activetake).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(activetake).lua",
+        "sha256": "1cmmky5ywrzpmfrr1jv3bbncn2jy6sgh0yjg177byn6b66h938ra"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "1f3nd916237xrksdd4bi0rqyk3pdy2ga5kam5y7s8bfzkknxvsj5"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "1f3nd916237xrksdd4bi0rqyk3pdy2ga5kam5y7s8bfzkknxvsj5"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "1cd8kavaj8pf6p8qkjzvq6g5rfwj0xqjc3jqnji52wp14ml981dy"
       }
     ],
     "1.4": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "0nab2fd49cnpjxsx86jja531mk0cm7n9kf1zdv6k8qz9bwqicy8w"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "11x4glj6mp3nl9xpa6r5jfl4gc7hibv7mzq38psnbj50hy3vvxqn"
       }
     ],
     "1.3": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "1gv0pp4fmc0vkl7f21bmc43k5l0s0d172zns1gf8blvzwplk70fi"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "1mc5iyhpiplyqrfr9vxd4v42li5g99936gcabih82hsndgfx1r6d"
       }
     ],
     "1.2": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "1csbn900n6w90x811qr7pyllrki38529jl0bazc7zs1158vvmw8b"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "0nwxi71lhj2b5k5mji9z840bz44rqac6054gnwihflwpl68x42b8"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
-        "sha256": "1fx9cfd8hgn72lzw16lw5mn95yf75skc33kycb1d7cjhlqp80551"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeinlength).lua",
-        "sha256": "06rl1pybaklcj7cm2mlqdxl3535w06wwb7kgfym5ny5dzx3c0y8f"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeinlength).lua",
-        "sha256": "06rl1pybaklcj7cm2mlqdxl3535w06wwb7kgfym5ny5dzx3c0y8f"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeinlength).lua",
-        "sha256": "0v623zli83476bll4wz9vm07xpimi286nqawqpggmn9q669q6bsp"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (volume).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "128lwmbqlkgn627xw8isq4n32z5f4dklzi5mgwwfy8fvz32i6igs"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "128lwmbqlkgn627xw8isq4n32z5f4dklzi5mgwwfy8fvz32i6igs"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "0l5m1x3ds0648zisi51h45l2pq5g4w8bfxs0bvvcsvql326k0r88"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "05jvzrs7d04vmkpsgi38scw75grn1q929vx393d8qipbfiw7b5h7"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "0bgwf0gs1vky34crgr1l9gxhsiar9wb4y0y7w9ffdvkn7dp5bmrz"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "1nia4ja3hxw4wmwn0gxhk974z3y1hw0kx6y7mk8hjxizhw32xcsh"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
-        "sha256": "122968qb0rzls9qs254si6ppdl5s333q5yk00g6hyjc9x14hpjhb"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "0qvq1qjg8xp67bbdpl97nqfh5nx9gbpbsfjnlr8rqlnzkihhpl6w"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "0qvq1qjg8xp67bbdpl97nqfh5nx9gbpbsfjnlr8rqlnzkihhpl6w"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "0q6v90k97h5vm84vj4hjajkj0myp6md0jd3b2j3qmah27w6k5ljf"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "1rn6wj06y61prlc380504r2xj8y3m1gk190vs0s7vcj8s2w97p8q"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "0k8mj1km6hca852dvm96r56l67z0b4rgpqbq1ljwvhf7y8k782m9"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "0w1g1c1z16v71kq0smzrkp378vvrj1bgz1h3zjjflc2msclw98xp"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
-        "sha256": "013ya5x2pzm5r83zqa4wp0dx6b34am0c0pwgij0p0s3kh1z3la2f"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutshape).lua",
+        "sha256": "0hyi5b9idf1v7h5n9z0ww2iy4z8lcwsd2qbrc9cf80025znakmdj"
       }
     ]
   },
@@ -1814,19 +1295,609 @@
       }
     ]
   },
-  "bfut_Paste item properties from clipboard to set selected items take property (recordpassid).lua": {
+  "bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua": {
     "latest": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (recordpassid).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(recordpassid).lua",
-        "sha256": "0x1ic2gialvsf4qfrgq7ms4kp8qk70sw4axgpjdzncpwgb30yicd"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
+        "sha256": "19a53f2lf9qgjcsrznj7xzwindipzcvmk28xj3mr80aa2y573xzf"
       }
     ],
     "1.6": [
       {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (recordpassid).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(recordpassid).lua",
-        "sha256": "0x1ic2gialvsf4qfrgq7ms4kp8qk70sw4axgpjdzncpwgb30yicd"
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
+        "sha256": "19a53f2lf9qgjcsrznj7xzwindipzcvmk28xj3mr80aa2y573xzf"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
+        "sha256": "00nwn9cf5da1sd93pl5yi2v1i2z7vpcw3a3mffjcswxfn45b29kn"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fixedlane).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fixedlane).lua",
+        "sha256": "1f6am0kfhcr724brifcf82imz0gqr3j8gxicgrhw9a605y72hg2x"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (pan).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "0iz0dpbzhbrl1s785fzn8fbws2xkxxir147rjpx90pzljrran6zv"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "0iz0dpbzhbrl1s785fzn8fbws2xkxxir147rjpx90pzljrran6zv"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "033mb8v2jjbqx3rliai06ibcn0w5cxj5icm7sb04pzqhsmx81794"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "04g11s6hkm5kr4gwijfgirx8b77zm3p1jl54yl3lps2bj52kj8wg"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "1663w3w5hwn0yzrj38jhrfgpl93jf0d5qw3ara7v4iv84f0q76p4"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "1cbxp31l70c29jrp80jmmxh898h39fcc7y2nk623b4fj5pck0y87"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pan).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pan).lua",
+        "sha256": "1r63nhqpc08cqlpvlqrdrcab2bwnicsd0b9yds68cl5f90wy4355"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (length).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "11rcjgbn6akdgw7hjpbhm6h98zm980p7li880aprpvwnljcxnjap"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "11rcjgbn6akdgw7hjpbhm6h98zm980p7li880aprpvwnljcxnjap"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "17gamcgfvapm17yxbqd9jv714szq54y876yn9vjycnzlqc16sfhm"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "0r02wbgfrjvxsrlmarfhaix6px766z4z57bs1b8k15g8n3wy3m2z"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "0ymld2bp65x8462jzk8sd2snax6p0dhpkjxpmji6wjv59wl37b9z"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "11qbp5lalb87bkyzm54laazmbflknq0fxfn94c31fj6p8rynf0w7"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (length).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(length).lua",
+        "sha256": "1cn5ywqg2xcd1vypkjhwsygwlhw3y833bx46hmcxxbdmzc1lghvj"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "0qvq1qjg8xp67bbdpl97nqfh5nx9gbpbsfjnlr8rqlnzkihhpl6w"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "0qvq1qjg8xp67bbdpl97nqfh5nx9gbpbsfjnlr8rqlnzkihhpl6w"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "0q6v90k97h5vm84vj4hjajkj0myp6md0jd3b2j3qmah27w6k5ljf"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "1rn6wj06y61prlc380504r2xj8y3m1gk190vs0s7vcj8s2w97p8q"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "0k8mj1km6hca852dvm96r56l67z0b4rgpqbq1ljwvhf7y8k782m9"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "0w1g1c1z16v71kq0smzrkp378vvrj1bgz1h3zjjflc2msclw98xp"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinlength).lua",
+        "sha256": "013ya5x2pzm5r83zqa4wp0dx6b34am0c0pwgij0p0s3kh1z3la2f"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (playrate).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "1va5ifmsk2xvlfv1w9p618fb2al0yv3rfchzibgcdh2b6xawpsdz"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "1va5ifmsk2xvlfv1w9p618fb2al0yv3rfchzibgcdh2b6xawpsdz"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "0pxgidisvz8asi4zpchz1rfc9qxn9rmvsigs5sjb83a2j97qjzxz"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "0rj461pgxgakcbs5hbxhywl0hhd1m008ycyn6gwv9v7rpi78y921"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "1xvgp6mqh4ss50svjzxjyplx3483c3iik9zw7dcsrdszgdy543wh"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "1jwb13v69i70b98c5nil706dq6rq0vhs2mwns034dw6bbz0p9dya"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (playrate).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(playrate).lua",
+        "sha256": "14s0cnzg3qw4cln5v3w58y05vmv7x1bc7mibbmq4xgmcb0x942dg"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "02dr2bd8gkiwb6lyl483v6a1c8r7qigksrw60vhpqc6yfq53x5gq"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "02dr2bd8gkiwb6lyl483v6a1c8r7qigksrw60vhpqc6yfq53x5gq"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "147y3ph1jmwf8hcfdgajcmfrw0f5q26imsxrxr0jjsjpfgcrcbsd"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "0cvwpqs5z2znvic1i94r2fihqrzsmmqpsard3dv6phafngjidh38"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "1dnkmh6n99jp0i1xjada1sdfjic8q8s90z8w415lli2krga8qpiy"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "18psrh4rk1gyjgyk3qimf4fbdkzakiy97jszmc57kl2ci7mpm9ss"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeinshape).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeinshape).lua",
+        "sha256": "1md8hxj62g40m5vks50j023zmk8x59w1w3j9lgnn07m1fkmnbi4b"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (volume).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "0ri4i3p9g2vi4w7g2wm47m0vgndrdralgrri9vb9q9vcmhhxl3y3"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "0ri4i3p9g2vi4w7g2wm47m0vgndrdralgrri9vb9q9vcmhhxl3y3"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "1mvcv1ip422zcsv767czrgz71jf3qgb2axwzd2js2b69s233h7pc"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "0bnqfx3kz30w9h4mhw7rmyyrlmi8wdql0q39d63il93j5db6rk6b"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "0z6c3ilipmm3fikm4qx524qq9vfndwv5f0n0qdwzfgc8n0ihdnsw"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "0r2fi48cjrd0s6l3xmncwfq2kb5qdj3n4qbl5bzd1kpf1s1f0nfh"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(volume).lua",
+        "sha256": "13y8i921b7h3dfl7kyranj39gv6axnckv5d5k27dwxr1gyy64vhh"
+      }
+    ]
+  },
+  "bfut_Copy item properties to clipboard.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "1ifkvg87989vm8f8sin36qi1q7xgpsaw0k9y8lsfd1jhb4chmfk0"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "1ifkvg87989vm8f8sin36qi1q7xgpsaw0k9y8lsfd1jhb4chmfk0"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "01kvd656k8pa3zylavqays3h4i5dlxf0nqyqqd0fpxwwy5pacj8z"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "16a796az1f6pab4a1sy36l6hx6692sw27mczrggnlg1hf71lzz96"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "1sz68klb3x2irmn2vsbpz6595b2h2xhd0h2rx22bncxsl4njcizr"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "0xcs59j24hls2q8amk07i4zkvnqpcirq6hgggzfkb17c3f03dg44"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "1x5l090klxllisakr5ia91937d79k10344gi2rsl3girifh7ih04"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Copy item properties to clipboard.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/5e3a4c6495142c79bdc54e0e5d7baaf6f5108968/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua",
+        "sha256": "14wgxnd0q5y3j5hk16i6wbw1magi1d7szn9dkrjnyyv026b6ly3z"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (volume).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "128lwmbqlkgn627xw8isq4n32z5f4dklzi5mgwwfy8fvz32i6igs"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "128lwmbqlkgn627xw8isq4n32z5f4dklzi5mgwwfy8fvz32i6igs"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "0l5m1x3ds0648zisi51h45l2pq5g4w8bfxs0bvvcsvql326k0r88"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "05jvzrs7d04vmkpsgi38scw75grn1q929vx393d8qipbfiw7b5h7"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "0bgwf0gs1vky34crgr1l9gxhsiar9wb4y0y7w9ffdvkn7dp5bmrz"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "1nia4ja3hxw4wmwn0gxhk974z3y1hw0kx6y7mk8hjxizhw32xcsh"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (volume).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(volume).lua",
+        "sha256": "122968qb0rzls9qs254si6ppdl5s333q5yk00g6hyjc9x14hpjhb"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "1idwdzx7mwnfdy1j3mj56d3cycwhj8hzb7pyzdbb9q6l7jw0sknj"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "1idwdzx7mwnfdy1j3mj56d3cycwhj8hzb7pyzdbb9q6l7jw0sknj"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "0mbn4w5drb15vccv31f0ix81aysaa41braiqc7h25m74i9xmkyxk"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "0nab2fd49cnpjxsx86jja531mk0cm7n9kf1zdv6k8qz9bwqicy8w"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/3b55f19434f9aef7d8651c1c0efb00dff17ea0e6/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "1gv0pp4fmc0vkl7f21bmc43k5l0s0d172zns1gf8blvzwplk70fi"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/080999a334aaf2852c23eaefc910a70fae0da6dc/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "1csbn900n6w90x811qr7pyllrki38529jl0bazc7zs1158vvmw8b"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (startoffset).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(startoffset).lua",
+        "sha256": "1fx9cfd8hgn72lzw16lw5mn95yf75skc33kycb1d7cjhlqp80551"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(lowpassfade).lua",
+        "sha256": "0837shp189iz6ijwlaaj48ybk888rfsaqqn4i9p3cxwfjzfwss0j"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(lowpassfade).lua",
+        "sha256": "0837shp189iz6ijwlaaj48ybk888rfsaqqn4i9p3cxwfjzfwss0j"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (lowpassfade).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(lowpassfade).lua",
+        "sha256": "0flf10ckhl140b6ql0mdgcq4944ijif08ji9n14wl6l7d77ran55"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (pitchmode).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pitchmode).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pitchmode).lua",
+        "sha256": "0ncpgk6zdzx47xwfq9ajjim98p1k3m0n2185kcfpzg665panmzba"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (pitchmode).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(pitchmode).lua",
+        "sha256": "0ncpgk6zdzx47xwfq9ajjim98p1k3m0n2185kcfpzg665panmzba"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (preservepitch).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (preservepitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(preservepitch).lua",
+        "sha256": "0fxj8d1g65fjq7g59b68j327fkhcqnjgskk722ppiylvmy4kqibr"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (preservepitch).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(preservepitch).lua",
+        "sha256": "0fxj8d1g65fjq7g59b68j327fkhcqnjgskk722ppiylvmy4kqibr"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take markers.lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take markers.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20markers.lua",
+        "sha256": "144si4d4w7n5qd1rwdk0kp6wg2cq0xcfz9vna0cmnqdkxsd0mlrw"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take markers.lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20markers.lua",
+        "sha256": "144si4d4w7n5qd1rwdk0kp6wg2cq0xcfz9vna0cmnqdkxsd0mlrw"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeoutlength).lua",
+        "sha256": "1kfzzbn2b39iqpgzvm7c44kpipipxm0dfcz0cfpxggavg6qnbph7"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeoutlength).lua",
+        "sha256": "1kfzzbn2b39iqpgzvm7c44kpipipxm0dfcz0cfpxggavg6qnbph7"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (autofadeoutlength).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(autofadeoutlength).lua",
+        "sha256": "08hxy9m32pzb504gbb73jfbpq4v5frakdynm8fli9wz22zfxv7c9"
+      }
+    ]
+  },
+  "bfut_Paste item properties from clipboard to set selected items take property (panlaw).lua": {
+    "latest": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (panlaw).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(panlaw).lua",
+        "sha256": "1ilf4xqjs44m5dyycskrb439i1q7dibbwsv75ljy76wygwx00zca"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take property (panlaw).lua",
+        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20property%20(panlaw).lua",
+        "sha256": "1ilf4xqjs44m5dyycskrb439i1q7dibbwsv75ljy76wygwx00zca"
       }
     ]
   },
@@ -1850,45 +1921,6 @@
         "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (fadeoutcurvature).lua",
         "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(fadeoutcurvature).lua",
         "sha256": "09z6d74pccdjw9zs4a63ljyvav09qf78zmccqmkggvh1lmr7n73r"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items property (activetake).lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (activetake).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(activetake).lua",
-        "sha256": "1c0zfvc0yy5qxmav37b6hbrcvrc0x3z18lcaaqg9yrp25g3kipjv"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (activetake).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(activetake).lua",
-        "sha256": "1c0zfvc0yy5qxmav37b6hbrcvrc0x3z18lcaaqg9yrp25g3kipjv"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items property (activetake).lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/e8652dca5c73f3e29440942ddf80bf6a7fce5dbb/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20property%20(activetake).lua",
-        "sha256": "1cmmky5ywrzpmfrr1jv3bbncn2jy6sgh0yjg177byn6b66h938ra"
-      }
-    ]
-  },
-  "bfut_Paste item properties from clipboard to set selected items take markers.lua": {
-    "latest": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take markers.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20markers.lua",
-        "sha256": "144si4d4w7n5qd1rwdk0kp6wg2cq0xcfz9vna0cmnqdkxsd0mlrw"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/bfut_ReaScripts/Items Properties/bfut_Paste item properties from clipboard to set selected items take markers.lua",
-        "url": "https://github.com/bfut/ReaScripts/raw/f6760603779369d8e0f463fefd273bfdab9feb56/Items%20Properties/bfut_Paste%20item%20properties%20from%20clipboard%20to%20set%20selected%20items%20take%20markers.lua",
-        "sha256": "144si4d4w7n5qd1rwdk0kp6wg2cq0xcfz9vna0cmnqdkxsd0mlrw"
       }
     ]
   },
