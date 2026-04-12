@@ -1,36 +1,4 @@
 {
-  "bbh_goto_previous_or_master_track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_previous_or_master_track.lua",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_previous_or_master_track.lua",
-        "sha256": "0pwizcc36in1zx1fjjgqdrjqrxjjbm2j0ywmbya81amvx161b65s"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_previous_or_master_track.lua",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_previous_or_master_track.lua",
-        "sha256": "0pwizcc36in1zx1fjjgqdrjqrxjjbm2j0ywmbya81amvx161b65s"
-      }
-    ]
-  },
-  "bbh_goto_master_track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_master_track.lua",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_master_track.lua",
-        "sha256": "0z84m9xq4z7428w9lhwyrbc14y5lh43gpv959681pjp9v90jzyvq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_master_track.lua",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_master_track.lua",
-        "sha256": "0z84m9xq4z7428w9lhwyrbc14y5lh43gpv959681pjp9v90jzyvq"
-      }
-    ]
-  },
   "bbh_goto_last_track.lua": {
     "latest": [
       {
@@ -76,6 +44,38 @@
         "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_next_track.lua",
         "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_next_track.lua",
         "sha256": "0pjw24mvj765kqqvjz58bzkg5s16pmnnnii4wicldxmndk83nc1q"
+      }
+    ]
+  },
+  "bbh_goto_master_track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_master_track.lua",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_master_track.lua",
+        "sha256": "0z84m9xq4z7428w9lhwyrbc14y5lh43gpv959681pjp9v90jzyvq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_master_track.lua",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_master_track.lua",
+        "sha256": "0z84m9xq4z7428w9lhwyrbc14y5lh43gpv959681pjp9v90jzyvq"
+      }
+    ]
+  },
+  "bbh_goto_previous_or_master_track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_previous_or_master_track.lua",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_previous_or_master_track.lua",
+        "sha256": "0pwizcc36in1zx1fjjgqdrjqrxjjbm2j0ywmbya81amvx161b65s"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BinbinHfr Scripts/Arrange/bbh_goto_previous_or_master_track.lua",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9d958fe485bf90efb47296109e6df6c13801811f/Arrange/bbh_goto_previous_or_master_track.lua",
+        "sha256": "0pwizcc36in1zx1fjjgqdrjqrxjjbm2j0ywmbya81amvx161b65s"
       }
     ]
   },
@@ -223,6 +223,22 @@
       }
     ]
   },
+  "bbh_midi_keyboard_sensitivity.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/0e4abf15d1f7b40d05aa5aefcd8600b693a0a6bd/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
+        "sha256": "1cfr6sxpx9816q8v2n73f2h50z47pl5l0w77z2sgj9sfq5nzj6zm"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/0e4abf15d1f7b40d05aa5aefcd8600b693a0a6bd/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
+        "sha256": "1cfr6sxpx9816q8v2n73f2h50z47pl5l0w77z2sgj9sfq5nzj6zm"
+      }
+    ]
+  },
   "bbh_midi_transpose_track.jsfx": {
     "latest": [
       {
@@ -297,22 +313,6 @@
       }
     ]
   },
-  "bbh_midi_keyboard_sensitivity.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/0e4abf15d1f7b40d05aa5aefcd8600b693a0a6bd/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
-        "sha256": "1cfr6sxpx9816q8v2n73f2h50z47pl5l0w77z2sgj9sfq5nzj6zm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/0e4abf15d1f7b40d05aa5aefcd8600b693a0a6bd/Jsfx/bbh_midi_keyboard_sensitivity.jsfx",
-        "sha256": "1cfr6sxpx9816q8v2n73f2h50z47pl5l0w77z2sgj9sfq5nzj6zm"
-      }
-    ]
-  },
   "bbh_simple_smooth_gain.jsfx": {
     "latest": [
       {
@@ -340,22 +340,6 @@
         "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_simple_smooth_gain.jsfx",
         "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/b9f42778121f889ecdfb041bb9834999670053cd/Jsfx/bbh_simple_smooth_gain.jsfx",
         "sha256": "0lgw4jbycs061zs7n8pabshx76hj50zx1d4pdisxsvzcb2znnmml"
-      }
-    ]
-  },
-  "bbh_MS_decoder_gains.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_MS_decoder_gains.jsfx",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/dc4dbe1988a1b0a4bd744f5e93fffb8c1688bd6d/Jsfx/bbh_MS_decoder_gains.jsfx",
-        "sha256": "0apwqa9d2wfvv1q86rmvyqv3xa9ff79bip3qjmc7p0vf1fphjb0b"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_MS_decoder_gains.jsfx",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/dc4dbe1988a1b0a4bd744f5e93fffb8c1688bd6d/Jsfx/bbh_MS_decoder_gains.jsfx",
-        "sha256": "0apwqa9d2wfvv1q86rmvyqv3xa9ff79bip3qjmc7p0vf1fphjb0b"
       }
     ]
   },
@@ -388,6 +372,22 @@
         "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_MS_encoder_gains.jsfx",
         "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/dc4dbe1988a1b0a4bd744f5e93fffb8c1688bd6d/Jsfx/bbh_MS_encoder_gains.jsfx",
         "sha256": "041cpdswwlnypz7nq7r50cjzxk7zsd974x94iwqj511b4vs1cdjm"
+      }
+    ]
+  },
+  "bbh_MS_decoder_gains.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_MS_decoder_gains.jsfx",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/dc4dbe1988a1b0a4bd744f5e93fffb8c1688bd6d/Jsfx/bbh_MS_decoder_gains.jsfx",
+        "sha256": "0apwqa9d2wfvv1q86rmvyqv3xa9ff79bip3qjmc7p0vf1fphjb0b"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/BinbinHfr Scripts/Jsfx/bbh_MS_decoder_gains.jsfx",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/dc4dbe1988a1b0a4bd744f5e93fffb8c1688bd6d/Jsfx/bbh_MS_decoder_gains.jsfx",
+        "sha256": "0apwqa9d2wfvv1q86rmvyqv3xa9ff79bip3qjmc7p0vf1fphjb0b"
       }
     ]
   },
@@ -444,22 +444,6 @@
       }
     ]
   },
-  "bbh_delete_all_sysex.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BinbinHfr Scripts/Item Editing/bbh_delete_all_sysex.lua",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/c2f30ca5163f82002e979b35b4b191957c72f7b0/Item%20Editing/bbh_delete_all_sysex.lua",
-        "sha256": "0r5mxhpv9619sgymp7klpk8alra5cqj24slzpizldy1n7r7rc4k6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BinbinHfr Scripts/Item Editing/bbh_delete_all_sysex.lua",
-        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/c2f30ca5163f82002e979b35b4b191957c72f7b0/Item%20Editing/bbh_delete_all_sysex.lua",
-        "sha256": "0r5mxhpv9619sgymp7klpk8alra5cqj24slzpizldy1n7r7rc4k6"
-      }
-    ]
-  },
   "bbh_scale_notes_velocities.lua": {
     "latest": [
       {
@@ -510,6 +494,22 @@
         "path": "Scripts/BinbinHfr Scripts/Item Editing/bbh_trim_selected_items.lua",
         "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/9dae524d9635ab2c1b56ab1e6349fb3110f9d1e3/Item%20Editing/bbh_trim_selected_items.lua",
         "sha256": "0iifijjn3qvy1w5c7iz8x2bz3fvlrsfmzjlncndhsj7igxxm3xbv"
+      }
+    ]
+  },
+  "bbh_delete_all_sysex.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BinbinHfr Scripts/Item Editing/bbh_delete_all_sysex.lua",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/c2f30ca5163f82002e979b35b4b191957c72f7b0/Item%20Editing/bbh_delete_all_sysex.lua",
+        "sha256": "0r5mxhpv9619sgymp7klpk8alra5cqj24slzpizldy1n7r7rc4k6"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BinbinHfr Scripts/Item Editing/bbh_delete_all_sysex.lua",
+        "url": "https://github.com/DaveInDev/Binbinhfr-Scripts/raw/c2f30ca5163f82002e979b35b4b191957c72f7b0/Item%20Editing/bbh_delete_all_sysex.lua",
+        "sha256": "0r5mxhpv9619sgymp7klpk8alra5cqj24slzpizldy1n7r7rc4k6"
       }
     ]
   },
