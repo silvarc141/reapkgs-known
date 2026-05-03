@@ -1,34 +1,4 @@
 {
-  "Arm Tracks For Recording.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Arm Tracks For Recording.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Recording/Arm%20Tracks%20For%20Recording.lua",
-        "sha256": "0j2wc2cpygx8901gzfv6gr2662j97z8g9gd7k1x2pp2w5grsjjld"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Arm Tracks For Recording.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Recording/Arm%20Tracks%20For%20Recording.lua",
-        "sha256": "0j2wc2cpygx8901gzfv6gr2662j97z8g9gd7k1x2pp2w5grsjjld"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/Arm Tracks For Recording.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Recording/Arm%20Tracks%20For%20Recording.lua",
-        "sha256": "1l8n0cn7xgw925zvs6r0b912hi3wdrx15q7n6bzfmacgm7p3v9cm"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Recording/Arm Tracks For Recording.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Recording/Arm%20Tracks%20For%20Recording.lua",
-        "sha256": "1yaivsygs5mmc66b39v1hxlav2k89n3xjxz50cikma9jj2zm82k1"
-      }
-    ]
-  },
   "Arm Tracks Within Selected Folder.lua": {
     "latest": [
       {
@@ -130,6 +100,22 @@
         "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Rec toggle tracks within selected folder.lua",
         "url": "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua",
         "sha256": "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham"
+      }
+    ]
+  },
+  "Insert synced VOR video on stop.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Insert synced VOR video.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/5b6f2464a4d09948d420179eab75fc2eeac427c2/Recording/Insert%20synced%20VOR%20video%20on%20stop.lua",
+        "sha256": "16k237ciq5gfg4bal31hxwamlmdi7qmxldmwxbr6yvb1dsqsm1vb"
+      }
+    ],
+    "0.1-b.2026.02.27": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Insert synced VOR video.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/5b6f2464a4d09948d420179eab75fc2eeac427c2/Recording/Insert%20synced%20VOR%20video%20on%20stop.lua",
+        "sha256": "16k237ciq5gfg4bal31hxwamlmdi7qmxldmwxbr6yvb1dsqsm1vb"
       }
     ]
   },
@@ -251,19 +237,33 @@
       }
     ]
   },
-  "Insert synced VOR video on stop.lua": {
+  "Arm Tracks For Recording.lua": {
     "latest": [
       {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Insert synced VOR video.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/5b6f2464a4d09948d420179eab75fc2eeac427c2/Recording/Insert%20synced%20VOR%20video%20on%20stop.lua",
-        "sha256": "16k237ciq5gfg4bal31hxwamlmdi7qmxldmwxbr6yvb1dsqsm1vb"
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Arm Tracks For Recording.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Recording/Arm%20Tracks%20For%20Recording.lua",
+        "sha256": "0j2wc2cpygx8901gzfv6gr2662j97z8g9gd7k1x2pp2w5grsjjld"
       }
     ],
-    "0.1-b.2026.02.27": [
+    "1.3": [
       {
-        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Insert synced VOR video.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/5b6f2464a4d09948d420179eab75fc2eeac427c2/Recording/Insert%20synced%20VOR%20video%20on%20stop.lua",
-        "sha256": "16k237ciq5gfg4bal31hxwamlmdi7qmxldmwxbr6yvb1dsqsm1vb"
+        "path": "Scripts/BSmith96 Scripts/Recording/bsmith96_Arm Tracks For Recording.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Recording/Arm%20Tracks%20For%20Recording.lua",
+        "sha256": "0j2wc2cpygx8901gzfv6gr2662j97z8g9gd7k1x2pp2w5grsjjld"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/Arm Tracks For Recording.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Recording/Arm%20Tracks%20For%20Recording.lua",
+        "sha256": "1l8n0cn7xgw925zvs6r0b912hi3wdrx15q7n6bzfmacgm7p3v9cm"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Recording/Arm Tracks For Recording.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Recording/Arm%20Tracks%20For%20Recording.lua",
+        "sha256": "1yaivsygs5mmc66b39v1hxlav2k89n3xjxz50cikma9jj2zm82k1"
       }
     ]
   },

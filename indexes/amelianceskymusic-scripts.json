@@ -1,4 +1,20 @@
 {
+  "ASM [ENV] Remove automation items and select next.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/ENVELOPE/ASM [ENV] Remove automation items and select next.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/6f7ccd0c87f47fdc5be0e9ac1a877b1275cd92a9/ENVELOPE/ASM%20%5BENV%5D%20Remove%20automation%20items%20and%20select%20next.lua",
+        "sha256": "1sazrd1srpx2wfl0c76akjjz8hf6vab8q96mqvz8vk84pgrdh6ql"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/ENVELOPE/ASM [ENV] Remove automation items and select next.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/6f7ccd0c87f47fdc5be0e9ac1a877b1275cd92a9/ENVELOPE/ASM%20%5BENV%5D%20Remove%20automation%20items%20and%20select%20next.lua",
+        "sha256": "1sazrd1srpx2wfl0c76akjjz8hf6vab8q96mqvz8vk84pgrdh6ql"
+      }
+    ]
+  },
   "ASM [ENV] Remove automation points and select next _underlying envelope.lua": {
     "latest": [
       {
@@ -44,22 +60,6 @@
         "path": "Scripts/AmelianceSkyMusic scripts/ENVELOPE/ASM [ENV] Set new value for selected automation points _automation items.lua",
         "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/ENVELOPE/ASM%20%5BENV%5D%20Set%20new%20value%20for%20selected%20automation%20points%20_automation%20items.lua",
         "sha256": "0nq64ix6zcsrikkd50bq13c77fzqg3d5z14z8dnr8kcfi4r7mlhq"
-      }
-    ]
-  },
-  "ASM [ENV] Remove automation items and select next.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ENVELOPE/ASM [ENV] Remove automation items and select next.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/6f7ccd0c87f47fdc5be0e9ac1a877b1275cd92a9/ENVELOPE/ASM%20%5BENV%5D%20Remove%20automation%20items%20and%20select%20next.lua",
-        "sha256": "1sazrd1srpx2wfl0c76akjjz8hf6vab8q96mqvz8vk84pgrdh6ql"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ENVELOPE/ASM [ENV] Remove automation items and select next.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/6f7ccd0c87f47fdc5be0e9ac1a877b1275cd92a9/ENVELOPE/ASM%20%5BENV%5D%20Remove%20automation%20items%20and%20select%20next.lua",
-        "sha256": "1sazrd1srpx2wfl0c76akjjz8hf6vab8q96mqvz8vk84pgrdh6ql"
       }
     ]
   },
@@ -145,6 +145,38 @@
       }
     ]
   },
+  "ASM [GUI DEVELOPER] Show gfx.getchar() number.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI DEVELOPER] Show gfx.getchar() number.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20DEVELOPER%5D%20Show%20gfx.getchar()%20number.lua",
+        "sha256": "1rxj3mi2ppr99876yzlzrs7x6xlipjbfr46l4yd82ypxi4y06q7z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI DEVELOPER] Show gfx.getchar() number.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20DEVELOPER%5D%20Show%20gfx.getchar()%20number.lua",
+        "sha256": "1rxj3mi2ppr99876yzlzrs7x6xlipjbfr46l4yd82ypxi4y06q7z"
+      }
+    ]
+  },
+  "ASM [GUI CONTROL] ASM Control panel.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI CONTROL] ASM Control panel.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20CONTROL%5D%20ASM%20Control%20panel.lua",
+        "sha256": "04w05w83lclza4q79309vqirjrm7xnighzajs9zb38wdkv5xnqha"
+      }
+    ],
+    "1.1.6": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI CONTROL] ASM Control panel.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20CONTROL%5D%20ASM%20Control%20panel.lua",
+        "sha256": "04w05w83lclza4q79309vqirjrm7xnighzajs9zb38wdkv5xnqha"
+      }
+    ]
+  },
   "ASM [GUI COLOR] ASM Color panel.lua": {
     "latest": [
       {
@@ -196,35 +228,56 @@
       }
     ]
   },
-  "ASM [GUI CONTROL] ASM Control panel.lua": {
+  "ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI CONTROL] ASM Control panel.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20CONTROL%5D%20ASM%20Control%20panel.lua",
-        "sha256": "04w05w83lclza4q79309vqirjrm7xnighzajs9zb38wdkv5xnqha"
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/3498a1544636ef78b7eafd3b2432ed8b844a54e4/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
+        "sha256": "1qjsfs8hxbiyp4004mkrb8bdv3wd2rs7fzwk0gab6ahncr2gk44b"
       }
     ],
-    "1.1.6": [
+    "1.0.3": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI CONTROL] ASM Control panel.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20CONTROL%5D%20ASM%20Control%20panel.lua",
-        "sha256": "04w05w83lclza4q79309vqirjrm7xnighzajs9zb38wdkv5xnqha"
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/3498a1544636ef78b7eafd3b2432ed8b844a54e4/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
+        "sha256": "1qjsfs8hxbiyp4004mkrb8bdv3wd2rs7fzwk0gab6ahncr2gk44b"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/8da766f77168c562b0209c44d641c79d8b2d5d37/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
+        "sha256": "1455rb54lxlvpccdpgkcxv7gyp1d8pm4bbjj0kpzkn59adafm2z2"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/0aca10c0c975cf2020de0bc7cee3598708b676e4/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
+        "sha256": "1708qyqb5c3dphzk4n2vaj94ng5g4gi3ymmi8mk88zh0296lr2w1"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/86fce2842459c947863effd027fcc053f3263268/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
+        "sha256": "179wmyrm9mbl1sm270bhr4shk0kg9r763nx9w70wr15ll36wc152"
       }
     ]
   },
-  "ASM [GUI DEVELOPER] Show gfx.getchar() number.lua": {
+  "ASM [ITEM] Glue (midi items only).lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI DEVELOPER] Show gfx.getchar() number.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20DEVELOPER%5D%20Show%20gfx.getchar()%20number.lua",
-        "sha256": "1rxj3mi2ppr99876yzlzrs7x6xlipjbfr46l4yd82ypxi4y06q7z"
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Glue (midi items only).lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/82f2e2bd690918ebf16ff2b5a73cf28349a3bf78/ITEM/ASM%20%5BITEM%5D%20Glue%20(midi%20items%20only).lua",
+        "sha256": "0c18sp9slh4j7y8y1gzj0aflz7z84vkiqi5a9pwsnl7jzsc677lh"
       }
     ],
-    "1.0": [
+    "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/GUI/ASM [GUI DEVELOPER] Show gfx.getchar() number.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/GUI/ASM%20%5BGUI%20DEVELOPER%5D%20Show%20gfx.getchar()%20number.lua",
-        "sha256": "1rxj3mi2ppr99876yzlzrs7x6xlipjbfr46l4yd82ypxi4y06q7z"
+        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Glue (midi items only).lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/82f2e2bd690918ebf16ff2b5a73cf28349a3bf78/ITEM/ASM%20%5BITEM%5D%20Glue%20(midi%20items%20only).lua",
+        "sha256": "0c18sp9slh4j7y8y1gzj0aflz7z84vkiqi5a9pwsnl7jzsc677lh"
       }
     ]
   },
@@ -276,59 +329,6 @@
       }
     ]
   },
-  "ASM [ITEM] Glue (midi items only).lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Glue (midi items only).lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/82f2e2bd690918ebf16ff2b5a73cf28349a3bf78/ITEM/ASM%20%5BITEM%5D%20Glue%20(midi%20items%20only).lua",
-        "sha256": "0c18sp9slh4j7y8y1gzj0aflz7z84vkiqi5a9pwsnl7jzsc677lh"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Glue (midi items only).lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/82f2e2bd690918ebf16ff2b5a73cf28349a3bf78/ITEM/ASM%20%5BITEM%5D%20Glue%20(midi%20items%20only).lua",
-        "sha256": "0c18sp9slh4j7y8y1gzj0aflz7z84vkiqi5a9pwsnl7jzsc677lh"
-      }
-    ]
-  },
-  "ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/3498a1544636ef78b7eafd3b2432ed8b844a54e4/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
-        "sha256": "1qjsfs8hxbiyp4004mkrb8bdv3wd2rs7fzwk0gab6ahncr2gk44b"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/3498a1544636ef78b7eafd3b2432ed8b844a54e4/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
-        "sha256": "1qjsfs8hxbiyp4004mkrb8bdv3wd2rs7fzwk0gab6ahncr2gk44b"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/8da766f77168c562b0209c44d641c79d8b2d5d37/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
-        "sha256": "1455rb54lxlvpccdpgkcxv7gyp1d8pm4bbjj0kpzkn59adafm2z2"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/0aca10c0c975cf2020de0bc7cee3598708b676e4/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
-        "sha256": "1708qyqb5c3dphzk4n2vaj94ng5g4gi3ymmi8mk88zh0296lr2w1"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/ITEM/ASM [ITEM] Open item (contextual_editable) -midi in editor (and zoom)  -audio properties (toggle) -subproject.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/86fce2842459c947863effd027fcc053f3263268/ITEM/ASM%20%5BITEM%5D%20Open%20item%20(contextual_editable)%20-midi%20in%20editor%20(and%20zoom)%20%20-audio%20properties%20(toggle)%20-subproject.lua",
-        "sha256": "179wmyrm9mbl1sm270bhr4shk0kg9r763nx9w70wr15ll36wc152"
-      }
-    ]
-  },
   "ASM [ITEM] Remove selected items and select next.lua": {
     "latest": [
       {
@@ -361,22 +361,6 @@
       }
     ]
   },
-  "ASM [NOTES] Set min velocity for selected notes in active take.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/MIDI/ASM [NOTES] Set min velocity for selected notes in active take.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/MIDI/ASM%20%5BNOTES%5D%20Set%20min%20velocity%20for%20selected%20notes%20in%20active%20take.lua",
-        "sha256": "01h90kssvp5prmbmf6y0qsl31h3czq54b05h55crdbda7n0316dd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/MIDI/ASM [NOTES] Set min velocity for selected notes in active take.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/MIDI/ASM%20%5BNOTES%5D%20Set%20min%20velocity%20for%20selected%20notes%20in%20active%20take.lua",
-        "sha256": "01h90kssvp5prmbmf6y0qsl31h3czq54b05h55crdbda7n0316dd"
-      }
-    ]
-  },
   "ASM [NOTES] Set max velocity for selected notes in active take.lua": {
     "latest": [
       {
@@ -390,6 +374,22 @@
         "path": "Scripts/AmelianceSkyMusic scripts/MIDI/ASM [NOTES] Set max velocity for selected notes in active take.lua",
         "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/MIDI/ASM%20%5BNOTES%5D%20Set%20max%20velocity%20for%20selected%20notes%20in%20active%20take.lua",
         "sha256": "0mbhlpkz0q29y48fsij692mj8jinszzy17myxjkz4z92p51h4d6p"
+      }
+    ]
+  },
+  "ASM [NOTES] Set min velocity for selected notes in active take.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/MIDI/ASM [NOTES] Set min velocity for selected notes in active take.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/MIDI/ASM%20%5BNOTES%5D%20Set%20min%20velocity%20for%20selected%20notes%20in%20active%20take.lua",
+        "sha256": "01h90kssvp5prmbmf6y0qsl31h3czq54b05h55crdbda7n0316dd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/MIDI/ASM [NOTES] Set min velocity for selected notes in active take.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/MIDI/ASM%20%5BNOTES%5D%20Set%20min%20velocity%20for%20selected%20notes%20in%20active%20take.lua",
+        "sha256": "01h90kssvp5prmbmf6y0qsl31h3czq54b05h55crdbda7n0316dd"
       }
     ]
   },
@@ -425,83 +425,51 @@
       }
     ]
   },
-  "ASM [TRACK] Toggle FX (VSTi only) bypass or unbypass on selected tracks.lua": {
+  "ASM [TRACK] Toggle FX (VSTi only) offline or online on selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) bypass or unbypass on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
-        "sha256": "0hrqxba2k682xrdjpix2am8rc5f2z53977a34vwnr68jjppb29mg"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) offline or online on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20offline%20or%20online%20on%20selected%20tracks.lua",
+        "sha256": "0wzs63yaj6al3w7qb59fnv1myk3m903iaf361wx4zlmfvq6kswdh"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) bypass or unbypass on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
-        "sha256": "0hrqxba2k682xrdjpix2am8rc5f2z53977a34vwnr68jjppb29mg"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) offline or online on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20offline%20or%20online%20on%20selected%20tracks.lua",
+        "sha256": "0wzs63yaj6al3w7qb59fnv1myk3m903iaf361wx4zlmfvq6kswdh"
       }
     ]
   },
-  "ASM [TRACK] Toggle FX (except VSTi) bypass or unbypass on selected tracks.lua": {
+  "ASM [TRACK] Toggle mute tracks (solo others) _soloed in place.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) bypass or unbypass on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
-        "sha256": "0l6svrncn6qawycjbkzwkvqdn5kcq01kmynp7jkn39a52arlpjvx"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle mute tracks (solo others) _soloed in place.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20mute%20tracks%20(solo%20others)%20_soloed%20in%20place.lua",
+        "sha256": "0z9svx8rp6h6fx917qq84dd90fvpc605v3fxxidpwa8frnjcnd7n"
       }
     ],
-    "1.0.0": [
+    "1.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) bypass or unbypass on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
-        "sha256": "0l6svrncn6qawycjbkzwkvqdn5kcq01kmynp7jkn39a52arlpjvx"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle mute tracks (solo others) _soloed in place.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20mute%20tracks%20(solo%20others)%20_soloed%20in%20place.lua",
+        "sha256": "0z9svx8rp6h6fx917qq84dd90fvpc605v3fxxidpwa8frnjcnd7n"
       }
     ]
   },
-  "ASM [TRACK] FX (except VSTi) bypass on selected tracks.lua": {
+  "ASM [TRACK] FX (except VSTi) online on selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) bypass on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20bypass%20on%20selected%20tracks.lua",
-        "sha256": "0bkwhgzb0pkf6szlkbzmhbjc2q2730jxnjq415dnd9dqwzpgx1zy"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) online on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20online%20on%20selected%20tracks.lua",
+        "sha256": "1svbd4i886nhq9jmkgwndz7klm23mzl42784vx4rjbays8ldnfa0"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) bypass on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20bypass%20on%20selected%20tracks.lua",
-        "sha256": "0bkwhgzb0pkf6szlkbzmhbjc2q2730jxnjq415dnd9dqwzpgx1zy"
-      }
-    ]
-  },
-  "ASM [TRACK] FX (except VSTi) unbypass selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) unbypass selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20unbypass%20selected%20tracks.lua",
-        "sha256": "1mdgsadvdxi49iw7jnr5fcx0r42zsd59smqi7f49rn8cmg70446k"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) unbypass selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20unbypass%20selected%20tracks.lua",
-        "sha256": "1mdgsadvdxi49iw7jnr5fcx0r42zsd59smqi7f49rn8cmg70446k"
-      }
-    ]
-  },
-  "ASM [TRACK] FX (VSTi only) unbypass selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) unbypass selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20unbypass%20selected%20tracks.lua",
-        "sha256": "1cil0acxv13y9qgq5ajzwp0qacm9bfm54f7djb07d5vkvvh3mxqp"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) unbypass selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20unbypass%20selected%20tracks.lua",
-        "sha256": "1cil0acxv13y9qgq5ajzwp0qacm9bfm54f7djb07d5vkvvh3mxqp"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) online on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20online%20on%20selected%20tracks.lua",
+        "sha256": "1svbd4i886nhq9jmkgwndz7klm23mzl42784vx4rjbays8ldnfa0"
       }
     ]
   },
@@ -521,67 +489,35 @@
       }
     ]
   },
-  "ASM [TRACK] Toggle FX (VSTi only) offline or online on selected tracks.lua": {
+  "ASM [TRACK] FX (VSTi only) offline on selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) offline or online on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20offline%20or%20online%20on%20selected%20tracks.lua",
-        "sha256": "0wzs63yaj6al3w7qb59fnv1myk3m903iaf361wx4zlmfvq6kswdh"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) offline on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20offline%20on%20selected%20tracks.lua",
+        "sha256": "1xls9mnjp6765yq7z3144c3jsxa2bgcc4v98n9w3yk7idqnspn35"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) offline or online on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20offline%20or%20online%20on%20selected%20tracks.lua",
-        "sha256": "0wzs63yaj6al3w7qb59fnv1myk3m903iaf361wx4zlmfvq6kswdh"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) offline on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20offline%20on%20selected%20tracks.lua",
+        "sha256": "1xls9mnjp6765yq7z3144c3jsxa2bgcc4v98n9w3yk7idqnspn35"
       }
     ]
   },
-  "ASM [TRACK] Toggle FX (except VSTi) offline or online on selected tracks.lua": {
+  "ASM [TRACK] FX (except VSTi) unbypass selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) offline or online on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20offline%20or%20online%20on%20selected%20tracks.lua",
-        "sha256": "1qv5w0lnw7g51z44d59zag3dk46ylhbi78fxprd87g3flz2pwl26"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) unbypass selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20unbypass%20selected%20tracks.lua",
+        "sha256": "1mdgsadvdxi49iw7jnr5fcx0r42zsd59smqi7f49rn8cmg70446k"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) offline or online on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20offline%20or%20online%20on%20selected%20tracks.lua",
-        "sha256": "1qv5w0lnw7g51z44d59zag3dk46ylhbi78fxprd87g3flz2pwl26"
-      }
-    ]
-  },
-  "ASM [TRACK] FX (except VSTi) offline on selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) offline on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20offline%20on%20selected%20tracks.lua",
-        "sha256": "0rpiv1brw9qfl7xjar79vc26gjy4xgf8bdn0mkszd521wrkd6w7x"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) offline on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20offline%20on%20selected%20tracks.lua",
-        "sha256": "0rpiv1brw9qfl7xjar79vc26gjy4xgf8bdn0mkszd521wrkd6w7x"
-      }
-    ]
-  },
-  "ASM [TRACK] Toggle mute tracks (solo others) _soloed in place.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle mute tracks (solo others) _soloed in place.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20mute%20tracks%20(solo%20others)%20_soloed%20in%20place.lua",
-        "sha256": "0z9svx8rp6h6fx917qq84dd90fvpc605v3fxxidpwa8frnjcnd7n"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle mute tracks (solo others) _soloed in place.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20mute%20tracks%20(solo%20others)%20_soloed%20in%20place.lua",
-        "sha256": "0z9svx8rp6h6fx917qq84dd90fvpc605v3fxxidpwa8frnjcnd7n"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) unbypass selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20unbypass%20selected%20tracks.lua",
+        "sha256": "1mdgsadvdxi49iw7jnr5fcx0r42zsd59smqi7f49rn8cmg70446k"
       }
     ]
   },
@@ -617,35 +553,35 @@
       }
     ]
   },
-  "ASM [TRACK] FX (except VSTi) online on selected tracks.lua": {
+  "ASM [TRACK] FX (VSTi only) unbypass selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) online on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20online%20on%20selected%20tracks.lua",
-        "sha256": "1svbd4i886nhq9jmkgwndz7klm23mzl42784vx4rjbays8ldnfa0"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) unbypass selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20unbypass%20selected%20tracks.lua",
+        "sha256": "1cil0acxv13y9qgq5ajzwp0qacm9bfm54f7djb07d5vkvvh3mxqp"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) online on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20online%20on%20selected%20tracks.lua",
-        "sha256": "1svbd4i886nhq9jmkgwndz7klm23mzl42784vx4rjbays8ldnfa0"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) unbypass selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20unbypass%20selected%20tracks.lua",
+        "sha256": "1cil0acxv13y9qgq5ajzwp0qacm9bfm54f7djb07d5vkvvh3mxqp"
       }
     ]
   },
-  "ASM [TRACK] FX (VSTi only) offline on selected tracks.lua": {
+  "ASM [TRACK] Toggle FX (VSTi only) bypass or unbypass on selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) offline on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20offline%20on%20selected%20tracks.lua",
-        "sha256": "1xls9mnjp6765yq7z3144c3jsxa2bgcc4v98n9w3yk7idqnspn35"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) bypass or unbypass on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
+        "sha256": "0hrqxba2k682xrdjpix2am8rc5f2z53977a34vwnr68jjppb29mg"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (VSTi only) offline on selected tracks.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(VSTi%20only)%20offline%20on%20selected%20tracks.lua",
-        "sha256": "1xls9mnjp6765yq7z3144c3jsxa2bgcc4v98n9w3yk7idqnspn35"
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (VSTi only) bypass or unbypass on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(VSTi%20only)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
+        "sha256": "0hrqxba2k682xrdjpix2am8rc5f2z53977a34vwnr68jjppb29mg"
       }
     ]
   },
@@ -665,6 +601,70 @@
       }
     ]
   },
+  "ASM [TRACK] FX (except VSTi) offline on selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) offline on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20offline%20on%20selected%20tracks.lua",
+        "sha256": "0rpiv1brw9qfl7xjar79vc26gjy4xgf8bdn0mkszd521wrkd6w7x"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) offline on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20offline%20on%20selected%20tracks.lua",
+        "sha256": "0rpiv1brw9qfl7xjar79vc26gjy4xgf8bdn0mkszd521wrkd6w7x"
+      }
+    ]
+  },
+  "ASM [TRACK] Toggle FX (except VSTi) offline or online on selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) offline or online on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20offline%20or%20online%20on%20selected%20tracks.lua",
+        "sha256": "1qv5w0lnw7g51z44d59zag3dk46ylhbi78fxprd87g3flz2pwl26"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) offline or online on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20offline%20or%20online%20on%20selected%20tracks.lua",
+        "sha256": "1qv5w0lnw7g51z44d59zag3dk46ylhbi78fxprd87g3flz2pwl26"
+      }
+    ]
+  },
+  "ASM [TRACK] FX (except VSTi) bypass on selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) bypass on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20bypass%20on%20selected%20tracks.lua",
+        "sha256": "0bkwhgzb0pkf6szlkbzmhbjc2q2730jxnjq415dnd9dqwzpgx1zy"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] FX (except VSTi) bypass on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20FX%20(except%20VSTi)%20bypass%20on%20selected%20tracks.lua",
+        "sha256": "0bkwhgzb0pkf6szlkbzmhbjc2q2730jxnjq415dnd9dqwzpgx1zy"
+      }
+    ]
+  },
+  "ASM [TRACK] Toggle FX (except VSTi) bypass or unbypass on selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) bypass or unbypass on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
+        "sha256": "0l6svrncn6qawycjbkzwkvqdn5kcq01kmynp7jkn39a52arlpjvx"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/TRACK/ASM [TRACK] Toggle FX (except VSTi) bypass or unbypass on selected tracks.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/28e3c8ce7e9990d47ab343f515d003dc26ea68b2/TRACK/ASM%20%5BTRACK%5D%20Toggle%20FX%20(except%20VSTi)%20bypass%20or%20unbypass%20on%20selected%20tracks.lua",
+        "sha256": "0l6svrncn6qawycjbkzwkvqdn5kcq01kmynp7jkn39a52arlpjvx"
+      }
+    ]
+  },
   "ASM [TRANSPORT] Change track color if it is recording.lua": {
     "latest": [
       {
@@ -678,6 +678,36 @@
         "path": "Scripts/AmelianceSkyMusic scripts/TRANSPORT/ASM [TRANSPORT] Change track color if it is recording.lua",
         "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/a57e17430938c86746207e12bbb5afcb2ca25c5d/TRANSPORT/ASM%20%5BTRANSPORT%5D%20Change%20track%20color%20if%20it%20is%20recording.lua",
         "sha256": "0bmv7ma4qj8c2r059fvzkybcs61vl3nfz6yxciwd8f67f3pkg7k8"
+      }
+    ]
+  },
+  "ASM [_LIBRARY] buttons.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/5fab3bfa05814ee32765f32f85d63e7a8bb10f35/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
+        "sha256": "1r8bv4plljdf0qx14vqvxxzq18p416971vnzfkg8xlaawb2n4fw8"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/5fab3bfa05814ee32765f32f85d63e7a8bb10f35/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
+        "sha256": "1r8bv4plljdf0qx14vqvxxzq18p416971vnzfkg8xlaawb2n4fw8"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/00b9c9d6b48a5103f3c6823b6c48db8f8a3bdf34/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
+        "sha256": "0d0b6jx0ynnsind5afnmcp6vhiq1br3kav2sj8z09wavrav2iwjs"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
+        "sha256": "1arc3jmv28fpbynshhshxyjr4hsfkmclcais58algrlqr4naj4az"
       }
     ]
   },
@@ -732,79 +762,26 @@
       }
     ]
   },
-  "ASM [_LIBRARY] buttons.lua": {
+  "ASM [_LIBRARY] other.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/5fab3bfa05814ee32765f32f85d63e7a8bb10f35/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
-        "sha256": "1r8bv4plljdf0qx14vqvxxzq18p416971vnzfkg8xlaawb2n4fw8"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/5fab3bfa05814ee32765f32f85d63e7a8bb10f35/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
-        "sha256": "1r8bv4plljdf0qx14vqvxxzq18p416971vnzfkg8xlaawb2n4fw8"
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] other.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/f328adf9016fc263c6c369b5595aafee261fc885/_libraries/ASM%20%5B_LIBRARY%5D%20other.lua",
+        "sha256": "12myp6ip8rk149d8hqxk43c9rggcl39awg4sa2h2qg3v50q7dv7s"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/00b9c9d6b48a5103f3c6823b6c48db8f8a3bdf34/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
-        "sha256": "0d0b6jx0ynnsind5afnmcp6vhiq1br3kav2sj8z09wavrav2iwjs"
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] other.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/f328adf9016fc263c6c369b5595aafee261fc885/_libraries/ASM%20%5B_LIBRARY%5D%20other.lua",
+        "sha256": "12myp6ip8rk149d8hqxk43c9rggcl39awg4sa2h2qg3v50q7dv7s"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] buttons.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20buttons.lua",
-        "sha256": "1arc3jmv28fpbynshhshxyjr4hsfkmclcais58algrlqr4naj4az"
-      }
-    ]
-  },
-  "ASM [_LIBRARY] io.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] io.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20io.lua",
-        "sha256": "131f4l4d5m15lpv89im0bnj0aq8gdrs50lzdb4afdi19zbiifrr4"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] io.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20io.lua",
-        "sha256": "131f4l4d5m15lpv89im0bnj0aq8gdrs50lzdb4afdi19zbiifrr4"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] io.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20io.lua",
-        "sha256": "0pg7adclmvw41n8sfznq7jkyabrpnq3xgxazxjbc2zqjpwsk3scp"
-      }
-    ]
-  },
-  "ASM [_LIBRARY] table.lua": {
-    "latest": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] table.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20table.lua",
-        "sha256": "0q2i2sibmbnm67z0zm7w8iycgqv33959231xlks4jvhb1fcwg54m"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] table.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20table.lua",
-        "sha256": "0q2i2sibmbnm67z0zm7w8iycgqv33959231xlks4jvhb1fcwg54m"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] table.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20table.lua",
-        "sha256": "1rh9aix0nxzcc25clp9axck2avfq52cnprwv6mmbi6inhyffhkzf"
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] other.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20other.lua",
+        "sha256": "10i5wwd3m65jjmd60i28l453dabnhnpjmzc8b2ar8m4q1p11zng6"
       }
     ]
   },
@@ -831,6 +808,29 @@
       }
     ]
   },
+  "ASM [_LIBRARY] io.lua": {
+    "latest": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] io.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20io.lua",
+        "sha256": "131f4l4d5m15lpv89im0bnj0aq8gdrs50lzdb4afdi19zbiifrr4"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] io.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20io.lua",
+        "sha256": "131f4l4d5m15lpv89im0bnj0aq8gdrs50lzdb4afdi19zbiifrr4"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] io.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20io.lua",
+        "sha256": "0pg7adclmvw41n8sfznq7jkyabrpnq3xgxazxjbc2zqjpwsk3scp"
+      }
+    ]
+  },
   "LIP.lua": {
     "latest": [
       {
@@ -847,26 +847,26 @@
       }
     ]
   },
-  "ASM [_LIBRARY] other.lua": {
+  "ASM [_LIBRARY] table.lua": {
     "latest": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] other.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/f328adf9016fc263c6c369b5595aafee261fc885/_libraries/ASM%20%5B_LIBRARY%5D%20other.lua",
-        "sha256": "12myp6ip8rk149d8hqxk43c9rggcl39awg4sa2h2qg3v50q7dv7s"
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] table.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20table.lua",
+        "sha256": "0q2i2sibmbnm67z0zm7w8iycgqv33959231xlks4jvhb1fcwg54m"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] other.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/f328adf9016fc263c6c369b5595aafee261fc885/_libraries/ASM%20%5B_LIBRARY%5D%20other.lua",
-        "sha256": "12myp6ip8rk149d8hqxk43c9rggcl39awg4sa2h2qg3v50q7dv7s"
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] table.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/cec7757133559bc5027e97eee74fe2c797544734/_libraries/ASM%20%5B_LIBRARY%5D%20table.lua",
+        "sha256": "0q2i2sibmbnm67z0zm7w8iycgqv33959231xlks4jvhb1fcwg54m"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] other.lua",
-        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20other.lua",
-        "sha256": "10i5wwd3m65jjmd60i28l453dabnhnpjmzc8b2ar8m4q1p11zng6"
+        "path": "Scripts/AmelianceSkyMusic scripts/_libraries/ASM [_LIBRARY] table.lua",
+        "url": "https://github.com/AmelianceSkyMusic/ASM_Reaper_scripts/raw/56ab442aa27810040765e97c045bb79a1a472564/_libraries/ASM%20%5B_LIBRARY%5D%20table.lua",
+        "sha256": "1rh9aix0nxzcc25clp9axck2avfq52cnprwv6mmbi6inhyffhkzf"
       }
     ]
   },

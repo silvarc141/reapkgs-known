@@ -3440,7 +3440,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/BirdBird_Item Modifiers.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/BirdBird_Item%20Modifiers.lua",
-        "sha256": ""
+        "sha256": "11z43g3nshnx5294i4rjgvk81lxc5yd188r15slyn12f1s1gxcvz"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/builder_parser.lua",
@@ -3520,7 +3520,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/gui/gui_builder.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/gui/gui_builder.lua",
-        "sha256": ""
+        "sha256": "04a8h9bzsdr7pxqqgg9b0c0si6c15l4szwd51waa7h5m1fi4l869"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/gui/gui_common.lua",
@@ -3535,7 +3535,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/json.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/json.lua",
-        "sha256": ""
+        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/modifier_stacks.lua",
@@ -3545,7 +3545,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/modifiers.json",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/modifiers.json",
-        "sha256": ""
+        "sha256": "1qha95kwr48zwlm96hd16qnvhy31zrm53i05xx9wsskqh78hnylz"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/modifiers.lua",
@@ -3607,7 +3607,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/functional_console/basic_commands.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functional_console/basic_commands.lua",
-        "sha256": ""
+        "sha256": "0wppra0fgawyjszvxpci2nlkbw7s1zaxv86i6xj9fr9pri312ffn"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/functional_console/functions.lua",
@@ -3617,7 +3617,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/functional_console/item_data.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functional_console/item_data.lua",
-        "sha256": ""
+        "sha256": "05jq36wkm99fmb87pg4vw8jxqjgxj1jyjysby4w36jd2hrg4zp77"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/functional_console/macro_library.lua",
