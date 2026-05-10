@@ -1074,29 +1074,6 @@
       }
     ]
   },
-  "PlayState Mixer.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
-        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
-        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/91558b5be7a7d6e1fc448c9cb26c2edfb8b0f475/JSFX/PlayState%20Mixer.jsfx",
-        "sha256": "0fgfy9y58y3w1ajpz16diqbk9j2vds88dmqs5mnfiw2v8fgrz89k"
-      }
-    ]
-  },
   "MIDI Velocity Compressor.jsfx": {
     "latest": [
       {
@@ -1117,6 +1094,29 @@
         "path": "Effects/Souk21 ReaPack/JSFX/MIDI Velocity Compressor.jsfx",
         "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a34846dd7ba00ffce8f27f26d993ec570f15f1ad/JSFX/MIDI%20Velocity%20Compressor.jsfx",
         "sha256": "10cv2cxdjmk8c9bkgi10n26gzk4m3inx7fz442whc5d5byzqs6dd"
+      }
+    ]
+  },
+  "PlayState Mixer.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
+        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2f7eedca3ccbbbd3dba6d992d2564238d0b6eae9/JSFX/PlayState%20Mixer.jsfx",
+        "sha256": "14za5kb99g5yp1hdzd44vm9m15cyjg6v6ymyx2s7vrwx6n2famp7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Souk21 ReaPack/JSFX/PlayState Mixer.jsfx",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/91558b5be7a7d6e1fc448c9cb26c2edfb8b0f475/JSFX/PlayState%20Mixer.jsfx",
+        "sha256": "0fgfy9y58y3w1ajpz16diqbk9j2vds88dmqs5mnfiw2v8fgrz89k"
       }
     ]
   }

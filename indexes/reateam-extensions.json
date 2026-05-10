@@ -6345,53 +6345,95 @@
     "latest": [
       {
         "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-aarch64.so",
-        "sha256": "1lp968zb0xsgg781kcsxxshg2p5k3j2fi5hw3yfc7rz7lfx0s0qj"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-aarch64.so",
+        "sha256": "0j8f89v61dn98iqicrv1la9n4rkzqzrmrxlcc2p53lqv32mhhpas"
       },
       {
         "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64.dylib",
-        "sha256": "1yl0q3xafi65ijw4j6mj3l3r5px2wgf1ilzqvxaadwqz55fr84mk"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-arm64.dylib",
+        "sha256": "1njqqsgylhkqwvjziv4dynqm4kig97swlyzwa8bw3ncajdsv91cd"
       },
       {
         "path": "UserPlugins/reaper_reallm-arm64ec.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64ec.dll",
-        "sha256": "0plca6mmahq7aik3zmqc5njjm5rd658jd8axif2mm611fpwcvwcr"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-arm64ec.dll",
+        "sha256": "04ld828dmxqcw2vn8r0bs79cba28bya9wfl9bss60y94cg10k0h7"
       },
       {
         "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-armv7l.so",
-        "sha256": "10789fpa4haxm07252pvnrzhxd9jx70zdd3izx28ccxp6j9kl6s1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i386.dylib",
-        "sha256": "0li97rz1xpm42ary7lzzvrv8726y470ypi3sz05lxxrwmycj7hnl"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-armv7l.so",
+        "sha256": "0rhm7nk7jwx860z9wkjfa4r0lxc5i3bh7vmv9c2gr8sfvkaqmy68"
       },
       {
         "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i686.so",
-        "sha256": "1c3hz2s5p3acaric0wxbkr5wkppvw3vvnac3xsvz73qlblgrg1gf"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-i686.so",
+        "sha256": "01snl325c0md717vxz8nia8d5y4mfjigqx97h9l31d3yv3dqrvhh"
       },
       {
         "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x64.dll",
-        "sha256": "062qmaivzv1s3104ixksn415f40npc5gk068bszxyhzka9lxzzjq"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x64.dll",
+        "sha256": "0spj7fn47axg0d9m9zc2j9n7g3bsxs79dx63aqxdmx93nf0kvlfb"
       },
       {
         "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86.dll",
-        "sha256": "1i9s31437wb16697ba2833wizvmq5ykhgdxmfpr0ibvdkf619pv8"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x86.dll",
+        "sha256": "1k56fq2c6ba9yg1y73v12bhkwp49awlwlf5gjhiq7yndal1q07bx"
       },
       {
         "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.dylib",
-        "sha256": "1j8y40brikww00pxvadx222x1b8j75r3xsimc8g765yrhca2c2dx"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x86_64.dylib",
+        "sha256": "0f6hw4zvq7vpqr3xn09rgs3fx8g9rk8wz33gypggbc6b8d454mxw"
       },
       {
         "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.so",
-        "sha256": "1f98bpwxl6isxlgn42w60cf7z0rh3j7am85mmrd4r7sbmlzdss9v"
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x86_64.so",
+        "sha256": "0pyjb7n7qm26ll1is1yr7yi5mjslkkm7z91hvmrf3fzw4ddi332c"
+      }
+    ],
+    "0.8.0": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-aarch64.so",
+        "sha256": "0j8f89v61dn98iqicrv1la9n4rkzqzrmrxlcc2p53lqv32mhhpas"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-arm64.dylib",
+        "sha256": "1njqqsgylhkqwvjziv4dynqm4kig97swlyzwa8bw3ncajdsv91cd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64ec.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-arm64ec.dll",
+        "sha256": "04ld828dmxqcw2vn8r0bs79cba28bya9wfl9bss60y94cg10k0h7"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-armv7l.so",
+        "sha256": "0rhm7nk7jwx860z9wkjfa4r0lxc5i3bh7vmv9c2gr8sfvkaqmy68"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-i686.so",
+        "sha256": "01snl325c0md717vxz8nia8d5y4mfjigqx97h9l31d3yv3dqrvhh"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x64.dll",
+        "sha256": "0spj7fn47axg0d9m9zc2j9n7g3bsxs79dx63aqxdmx93nf0kvlfb"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x86.dll",
+        "sha256": "1k56fq2c6ba9yg1y73v12bhkwp49awlwlf5gjhiq7yndal1q07bx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x86_64.dylib",
+        "sha256": "0f6hw4zvq7vpqr3xn09rgs3fx8g9rk8wz33gypggbc6b8d454mxw"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.8.0/reaper_reallm-x86_64.so",
+        "sha256": "0pyjb7n7qm26ll1is1yr7yi5mjslkkm7z91hvmrf3fzw4ddi332c"
       }
     ],
     "0.7.0": [
@@ -9017,21 +9059,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
@@ -9042,6 +9069,16 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
         "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
@@ -9049,6 +9086,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -9519,21 +9561,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
@@ -9544,6 +9571,16 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
         "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
@@ -9551,6 +9588,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -10026,8 +10068,18 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -10046,18 +10098,8 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -10523,8 +10565,8 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -10553,8 +10595,8 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -11020,28 +11062,13 @@
     "2.14.0.4-beta": [
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -11060,8 +11087,23 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -11537,6 +11579,11 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
@@ -11552,18 +11599,13 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -12039,11 +12081,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
@@ -12066,6 +12103,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -12526,6 +12568,16 @@
     "2.14.0.1-beta": [
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
@@ -12541,33 +12593,23 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -13028,6 +13070,16 @@
     "2.14-beta": [
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
+        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
+        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python32.py",
         "sha256": "0pa74xgabqs9wfdrqzpkyxh9pb5zh9lab4d5xvq0adh10dgpzfbj"
       },
@@ -13043,11 +13095,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python32.py",
-        "sha256": "0pa74xgabqs9wfdrqzpkyxh9pb5zh9lab4d5xvq0adh10dgpzfbj"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
         "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
       },
@@ -13063,13 +13110,8 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
-        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
-        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python32.py",
+        "sha256": "0pa74xgabqs9wfdrqzpkyxh9pb5zh9lab4d5xvq0adh10dgpzfbj"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",

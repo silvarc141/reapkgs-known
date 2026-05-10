@@ -29,42 +29,19 @@
       }
     ]
   },
-  "MIDI-round-robin-midi_channelize.jsfx": {
+  "MIDI-mirror-invert-keyboard.jsfx": {
     "latest": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
       }
     ],
-    "1.03": [
+    "1.01": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_channelize.jsfx",
-        "sha256": "00lirp64p9hhyk4synjk2rcw8fwx8qbxx5qjf152c68y6n8b73iv"
-      }
-    ]
-  },
-  "MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
+        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
       }
     ]
   },
@@ -81,6 +58,22 @@
         "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
         "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
         "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+      }
+    ]
+  },
+  "MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
       }
     ]
   },
@@ -123,19 +116,26 @@
       }
     ]
   },
-  "MIDI-mirror-invert-keyboard.jsfx": {
+  "MIDI-round-robin-midi_channelize.jsfx": {
     "latest": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
       }
     ],
-    "1.01": [
+    "1.03": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-mirror-invert-keyboard.jsfx",
-        "sha256": "1wwgb5bdrdlp11pfrjxjk95hjp1lhcfs46kvdhm1j5ahmv8wj9jp"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "sha256": "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_channelize.jsfx",
+        "sha256": "00lirp64p9hhyk4synjk2rcw8fwx8qbxx5qjf152c68y6n8b73iv"
       }
     ]
   },
@@ -199,6 +199,22 @@
       }
     ]
   },
+  "juan_r - Toggle horizontal zoom.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
+        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
+        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
+      }
+    ]
+  },
   "juan_r - Rename and renumber selected tracks name by name.lua": {
     "latest": [
       {
@@ -233,22 +249,6 @@
         "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
         "url": "https://github.com/juanriccio/Reaperism/raw/b128fcd57c046ff90f10a3f2aea6a782e9e2cb67/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
         "sha256": "068zd7h6zl4ii2a70b649r1h407fim6cd4c2njc48nvmz4dvd1ky"
-      }
-    ]
-  },
-  "juan_r - Toggle horizontal zoom.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
-        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Toggle horizontal zoom.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/f7c21096a3fdba661fe83d34f1b620373eeb2acb/ReaScripts/juan_r%20-%20Toggle%20horizontal%20zoom.lua",
-        "sha256": "1c08b1fvmq7c9qxahiia3wlizvirn3zs1qbdcdc7hpgv8nigxbbj"
       }
     ]
   }

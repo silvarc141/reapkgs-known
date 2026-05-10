@@ -15,6 +15,22 @@
       }
     ]
   },
+  "7.1.4 Surround": {
+    "latest": [
+      {
+        "path": "Effects/Tormy Van Cool ReaPack Scripts/Multichannel/7.1.4_MultiChannel_Volume_Adjuster",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/38ccdaa6e91af5cbf306c31e6a1bff478ed1bafb/7.1.4_MultiChannel_Volume_Adjuster",
+        "sha256": "0fyxp9ds91rmsj8nkn0n8g63z66z64a1hhy9phxr4slwf6jd58kw"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/Tormy Van Cool ReaPack Scripts/Multichannel/7.1.4_MultiChannel_Volume_Adjuster",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/38ccdaa6e91af5cbf306c31e6a1bff478ed1bafb/7.1.4_MultiChannel_Volume_Adjuster",
+        "sha256": "0fyxp9ds91rmsj8nkn0n8g63z66z64a1hhy9phxr4slwf6jd58kw"
+      }
+    ]
+  },
   "7.1.2 Surround": {
     "latest": [
       {
@@ -63,51 +79,35 @@
       }
     ]
   },
-  "7.1.4 Surround": {
+  "TormyVanCool_ExportData.lua": {
     "latest": [
       {
-        "path": "Effects/Tormy Van Cool ReaPack Scripts/Multichannel/7.1.4_MultiChannel_Volume_Adjuster",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/38ccdaa6e91af5cbf306c31e6a1bff478ed1bafb/7.1.4_MultiChannel_Volume_Adjuster",
-        "sha256": "0fyxp9ds91rmsj8nkn0n8g63z66z64a1hhy9phxr4slwf6jd58kw"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Project Properties/TormyVanCool_ExportData.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/509d83a22cc8de33d25eb07c0cc5f6d477dcede0/Project%20Properties/TormyVanCool_ExportData.lua",
+        "sha256": "0qm7jwfn9r3p6fyylkll5q9rand0b0ridfm41nd6qh6ls77l7af8"
       }
     ],
-    "1.3": [
+    "3.5": [
       {
-        "path": "Effects/Tormy Van Cool ReaPack Scripts/Multichannel/7.1.4_MultiChannel_Volume_Adjuster",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/38ccdaa6e91af5cbf306c31e6a1bff478ed1bafb/7.1.4_MultiChannel_Volume_Adjuster",
-        "sha256": "0fyxp9ds91rmsj8nkn0n8g63z66z64a1hhy9phxr4slwf6jd58kw"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Project Properties/TormyVanCool_ExportData.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/509d83a22cc8de33d25eb07c0cc5f6d477dcede0/Project%20Properties/TormyVanCool_ExportData.lua",
+        "sha256": "0qm7jwfn9r3p6fyylkll5q9rand0b0ridfm41nd6qh6ls77l7af8"
       }
     ]
   },
-  "TormyVanCool_AudioBooks_ChapterMarker.lua": {
+  "TormyVanCool_ExportStems.lua": {
     "latest": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8189bc6078a0f4d13c4a7f11a8275faa5051c611/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
-        "sha256": "1ass3ihvihgaa4q1h07k4q2g1bfcwkyjnkn6ajfyyw6b8pqgjgln"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Rendering/TormyVanCool_ExportStems.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/1ebcd4ee0f783f7b82804fe0100761a14c11ec5b/Rendering/TormyVanCool_ExportStems.lua",
+        "sha256": "073a1cs6kvgrp1ldj75lx10rws4hqyh6hhflk2fq3ivclg4y5qg9"
       }
     ],
-    "2.3": [
+    "1.0": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8189bc6078a0f4d13c4a7f11a8275faa5051c611/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
-        "sha256": "1ass3ihvihgaa4q1h07k4q2g1bfcwkyjnkn6ajfyyw6b8pqgjgln"
-      }
-    ]
-  },
-  "TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/afe66ce671fb113926bace1a71368867a45304e7/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
-        "sha256": "10s5wal5bajxyxqyhql27fxhbgcpj5r8m0zjrbigk9y8rjhwgaiw"
-      }
-    ],
-    "2.2.3": [
-      {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/afe66ce671fb113926bace1a71368867a45304e7/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
-        "sha256": "10s5wal5bajxyxqyhql27fxhbgcpj5r8m0zjrbigk9y8rjhwgaiw"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Rendering/TormyVanCool_ExportStems.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/1ebcd4ee0f783f7b82804fe0100761a14c11ec5b/Rendering/TormyVanCool_ExportStems.lua",
+        "sha256": "073a1cs6kvgrp1ldj75lx10rws4hqyh6hhflk2fq3ivclg4y5qg9"
       }
     ]
   },
@@ -143,83 +143,51 @@
       }
     ]
   },
-  "TormyVanCool_ExportData.lua": {
+  "TormyVanCool_AudioBooks_ChapterMarker.lua": {
     "latest": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Project Properties/TormyVanCool_ExportData.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/509d83a22cc8de33d25eb07c0cc5f6d477dcede0/Project%20Properties/TormyVanCool_ExportData.lua",
-        "sha256": "0qm7jwfn9r3p6fyylkll5q9rand0b0ridfm41nd6qh6ls77l7af8"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8189bc6078a0f4d13c4a7f11a8275faa5051c611/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
+        "sha256": "1ass3ihvihgaa4q1h07k4q2g1bfcwkyjnkn6ajfyyw6b8pqgjgln"
       }
     ],
-    "3.5": [
+    "2.3": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Project Properties/TormyVanCool_ExportData.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/509d83a22cc8de33d25eb07c0cc5f6d477dcede0/Project%20Properties/TormyVanCool_ExportData.lua",
-        "sha256": "0qm7jwfn9r3p6fyylkll5q9rand0b0ridfm41nd6qh6ls77l7af8"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8189bc6078a0f4d13c4a7f11a8275faa5051c611/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua",
+        "sha256": "1ass3ihvihgaa4q1h07k4q2g1bfcwkyjnkn6ajfyyw6b8pqgjgln"
       }
     ]
   },
-  "TormyVanCool_ExportStems.lua": {
+  "TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua": {
     "latest": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Rendering/TormyVanCool_ExportStems.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/1ebcd4ee0f783f7b82804fe0100761a14c11ec5b/Rendering/TormyVanCool_ExportStems.lua",
-        "sha256": "073a1cs6kvgrp1ldj75lx10rws4hqyh6hhflk2fq3ivclg4y5qg9"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/afe66ce671fb113926bace1a71368867a45304e7/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
+        "sha256": "10s5wal5bajxyxqyhql27fxhbgcpj5r8m0zjrbigk9y8rjhwgaiw"
       }
     ],
-    "1.0": [
+    "2.2.3": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Rendering/TormyVanCool_ExportStems.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/1ebcd4ee0f783f7b82804fe0100761a14c11ec5b/Rendering/TormyVanCool_ExportStems.lua",
-        "sha256": "073a1cs6kvgrp1ldj75lx10rws4hqyh6hhflk2fq3ivclg4y5qg9"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/afe66ce671fb113926bace1a71368867a45304e7/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua",
+        "sha256": "10s5wal5bajxyxqyhql27fxhbgcpj5r8m0zjrbigk9y8rjhwgaiw"
       }
     ]
   },
-  "TormyVanCool_Podcasts_Updater.lua": {
+  "TormyVanCool_Program_Runner.lua": {
     "latest": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Updater.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Updater.lua",
-        "sha256": "0p28bzi3cv0nmcv0m864l4c8pl78wlpsm09v0zlzfx9nqr9ph8hb"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Various/TormyVanCool_Program_Runner.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6f3a41d0e81ed7c7f297c2176bc4ebacbbc6330f/Various/TormyVanCool_Program_Runner.lua",
+        "sha256": "15iwxawkf8qacr7k765dw3wp3aql294xlnndlywgvpykvb1iwm9k"
       }
     ],
-    "1.0": [
+    "1.0.4": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Updater.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Updater.lua",
-        "sha256": "0p28bzi3cv0nmcv0m864l4c8pl78wlpsm09v0zlzfx9nqr9ph8hb"
-      }
-    ]
-  },
-  "TormyVanCool_Podcasts_Segmentation_FinalMarker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
-        "sha256": "1d0wpkwrbjd17w3agdzj767028jmklr3jyq294azjq42m4m00k16"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
-        "sha256": "1d0wpkwrbjd17w3agdzj767028jmklr3jyq294azjq42m4m00k16"
-      }
-    ]
-  },
-  "TormyVanCool_Podcasts_Auto_GetMetaData.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
-        "sha256": "0xrkb8r07pr4g1lhbmacg4f3ybgfjz2a73kycs3flwhi23rrr3j7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
-        "sha256": "0xrkb8r07pr4g1lhbmacg4f3ybgfjz2a73kycs3flwhi23rrr3j7"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Various/TormyVanCool_Program_Runner.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6f3a41d0e81ed7c7f297c2176bc4ebacbbc6330f/Various/TormyVanCool_Program_Runner.lua",
+        "sha256": "15iwxawkf8qacr7k765dw3wp3aql294xlnndlywgvpykvb1iwm9k"
       }
     ]
   },
@@ -239,6 +207,38 @@
       }
     ]
   },
+  "TormyVanCool_Podcasts_Updater.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Updater.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Updater.lua",
+        "sha256": "0p28bzi3cv0nmcv0m864l4c8pl78wlpsm09v0zlzfx9nqr9ph8hb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Updater.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Updater.lua",
+        "sha256": "0p28bzi3cv0nmcv0m864l4c8pl78wlpsm09v0zlzfx9nqr9ph8hb"
+      }
+    ]
+  },
+  "TormyVanCool_Podcasts_Auto_GetMetaData.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
+        "sha256": "0xrkb8r07pr4g1lhbmacg4f3ybgfjz2a73kycs3flwhi23rrr3j7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua",
+        "sha256": "0xrkb8r07pr4g1lhbmacg4f3ybgfjz2a73kycs3flwhi23rrr3j7"
+      }
+    ]
+  },
   "TormyVanCool_Podcasts_Songs.lua": {
     "latest": [
       {
@@ -255,19 +255,19 @@
       }
     ]
   },
-  "TormyVanCool_Program_Runner.lua": {
+  "TormyVanCool_Podcasts_Segmentation_FinalMarker.lua": {
     "latest": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Various/TormyVanCool_Program_Runner.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6f3a41d0e81ed7c7f297c2176bc4ebacbbc6330f/Various/TormyVanCool_Program_Runner.lua",
-        "sha256": "15iwxawkf8qacr7k765dw3wp3aql294xlnndlywgvpykvb1iwm9k"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
+        "sha256": "1d0wpkwrbjd17w3agdzj767028jmklr3jyq294azjq42m4m00k16"
       }
     ],
-    "1.0.4": [
+    "1.0": [
       {
-        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Various/TormyVanCool_Program_Runner.lua",
-        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6f3a41d0e81ed7c7f297c2176bc4ebacbbc6330f/Various/TormyVanCool_Program_Runner.lua",
-        "sha256": "15iwxawkf8qacr7k765dw3wp3aql294xlnndlywgvpykvb1iwm9k"
+        "path": "Scripts/Tormy Van Cool ReaPack Scripts/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
+        "url": "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua",
+        "sha256": "1d0wpkwrbjd17w3agdzj767028jmklr3jyq294azjq42m4m00k16"
       }
     ]
   },

@@ -570,6 +570,52 @@
       }
     ]
   },
+  "Copy Items to Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
+      }
+    ]
+  },
+  "Create 4 Points Inside Time Selection Using Grid Values.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/214a498295287b8a9e794e17ee7697951f47f5ec/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "19j5pkchzdmyg7axh9qci3y0xsnsqyhwapb8jikgz1w4xa5dy9l4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f03f23d1f7dca9702ab5f41cc6e411e1286a1379/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "15vyyahj0g24q9hs5s07rf9n0b8hvlj83pl8z30ary0yw07vi3f1"
+      }
+    ]
+  },
   "Copy Paste MIDI.lua": {
     "latest": [
       {
@@ -968,52 +1014,6 @@
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Copy Paste MIDI/Functions/MIDI Functions.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0936dec3962cb3b694290f9dfc897c705abc81f0/MIDI/Copy%20Paste%20MIDI/Functions/MIDI%20Functions.lua",
         "sha256": "1x9sj4ariqi7lyb7cwqavvq6f4nx988bf6w9bji92s269sxr42jp"
-      }
-    ]
-  },
-  "Create 4 Points Inside Time Selection Using Grid Values.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/214a498295287b8a9e794e17ee7697951f47f5ec/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "19j5pkchzdmyg7axh9qci3y0xsnsqyhwapb8jikgz1w4xa5dy9l4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f03f23d1f7dca9702ab5f41cc6e411e1286a1379/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "15vyyahj0g24q9hs5s07rf9n0b8hvlj83pl8z30ary0yw07vi3f1"
-      }
-    ]
-  },
-  "Copy Items to Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
       }
     ]
   },
@@ -8195,162 +8195,6 @@
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Misc/Split Items in MIDI Notes.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2fb68c34c6d297198b984a698e63a745dc21313d/MIDI/Misc/Split%20Items%20in%20MIDI%20Notes.lua",
         "sha256": "1ahpbh6s6pql5wcz1mrpa33m86j3kiwc5cd5h2fb20fi7gr77wll"
-      }
-    ]
-  },
-  "Toggle Show Only Select Envelope and Show All Envelopes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Toggle Show Only Select Envelope and Show All Envelopes.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0006092b9358ad5b61aedd1504c3a58fe17bd1d6/Envelopes/Misc/Toggle%20Show%20Only%20Select%20Envelope%20and%20Show%20All%20Envelopes.lua",
-        "sha256": "1xwiqq6hx0r2694gwbb8m6a69baavwk1kad51s5ik3fwfjw4iv4d"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Toggle Show Only Select Envelope and Show All Envelopes.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0006092b9358ad5b61aedd1504c3a58fe17bd1d6/Envelopes/Misc/Toggle%20Show%20Only%20Select%20Envelope%20and%20Show%20All%20Envelopes.lua",
-        "sha256": "1xwiqq6hx0r2694gwbb8m6a69baavwk1kad51s5ik3fwfjw4iv4d"
-      }
-    ]
-  },
-  "daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Arrange Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Arrange%20Functions.lua",
-        "sha256": "1bhip107n1xsyh227ms6vbdkvihyvmj65jg6agfi99sfb8q1ajfc"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/FX Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/FX%20Functions.lua",
-        "sha256": "0rq6wv0w991znv9cdh6bskrsykmhkyv9qjhl7mgffqviwwcinynl"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Lua Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Lua%20Functions.lua",
-        "sha256": "1448p9m4f5wqy09bh48s7rixk26ijrafl5w33arm9xa5gn7nmcgm"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Music Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Music%20Functions.lua",
-        "sha256": "135kc534dgbz93pbfk5hsa95j9gd18ms6jxnb1h6aj4x3k8fjp3b"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui Custom Widgets.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20Custom%20Widgets.lua",
-        "sha256": "0pnn1z1ngdhlzq2zgrss6rmdskb7i6qgqdmdr333f6dj01ymhxlx"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20General%20Functions.lua",
-        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Apply Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Apply%20Functions.lua",
-        "sha256": "1na544x6jqn23gz8v1q7hjp7zzmj941hlczq4rkws8c35cyqr8g8"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Functions.lua",
-        "sha256": "00kx4j4lj9mfhzz7s15jkpbsyfhfwvj1d122rir9kbx2qy7pyl91"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Input Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Input%20Functions.lua",
-        "sha256": "03f57305171gy2lk97sad6piygappkdsfgn0njzr4lf19q5ydg5v"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/OSC.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/OSC.lua",
-        "sha256": "1m7lw2hjp4jx46f815fzgdi8nd48f3np95skaff95mp9bh27rgh5"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/REAPER%20Functions.lua",
-        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
-        "sha256": "0l44a6kn1hv5pdyqp6ss8xabn7yldnmrniyb09fnspwlv7467grc"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Arrange Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Arrange%20Functions.lua",
-        "sha256": "1bhip107n1xsyh227ms6vbdkvihyvmj65jg6agfi99sfb8q1ajfc"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/FX Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/FX%20Functions.lua",
-        "sha256": "0rq6wv0w991znv9cdh6bskrsykmhkyv9qjhl7mgffqviwwcinynl"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Lua Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Lua%20Functions.lua",
-        "sha256": "1448p9m4f5wqy09bh48s7rixk26ijrafl5w33arm9xa5gn7nmcgm"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Music Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Music%20Functions.lua",
-        "sha256": "135kc534dgbz93pbfk5hsa95j9gd18ms6jxnb1h6aj4x3k8fjp3b"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui Custom Widgets.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20Custom%20Widgets.lua",
-        "sha256": "0pnn1z1ngdhlzq2zgrss6rmdskb7i6qgqdmdr333f6dj01ymhxlx"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20General%20Functions.lua",
-        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Apply Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Apply%20Functions.lua",
-        "sha256": "1na544x6jqn23gz8v1q7hjp7zzmj941hlczq4rkws8c35cyqr8g8"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Functions.lua",
-        "sha256": "00kx4j4lj9mfhzz7s15jkpbsyfhfwvj1d122rir9kbx2qy7pyl91"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Input Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Input%20Functions.lua",
-        "sha256": "03f57305171gy2lk97sad6piygappkdsfgn0njzr4lf19q5ydg5v"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/OSC.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/OSC.lua",
-        "sha256": "1m7lw2hjp4jx46f815fzgdi8nd48f3np95skaff95mp9bh27rgh5"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/REAPER%20Functions.lua",
-        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
-        "sha256": "0l44a6kn1hv5pdyqp6ss8xabn7yldnmrniyb09fnspwlv7467grc"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/061c105464035db5c032e3eca1b033b084c2591e/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
-        "sha256": "10ra905gkwpg5s817xrfj4nwf158a0qjp0mmanih5vl03sfzl4lf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0006092b9358ad5b61aedd1504c3a58fe17bd1d6/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
-        "sha256": "0q83v045diji2v6l9n149x5kfhq639h22pgmi0bwxi9r4q50614x"
       }
     ]
   },
@@ -15881,7 +15725,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/MIDI.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/79d43ff8d99ee12cb73b75a977e7f4ea80763f0b/Generative/Clouds/DL%20Functions/MIDI.lua",
-        "sha256": ""
+        "sha256": "0c379flkk4pz3jvpghzv7m05z3mp3zg4agf51pv5iw6jjny7v7fp"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/Music.lua",
@@ -15936,7 +15780,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER Projects.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/79d43ff8d99ee12cb73b75a977e7f4ea80763f0b/Generative/Clouds/DL%20Functions/REAPER%20Projects.lua",
-        "sha256": ""
+        "sha256": "0fs9vxss79gjfhgx46imrj9wdnjrmihb5aw2g0c22aydy6jlgnwc"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER Take.lua",
@@ -15951,12 +15795,12 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/REAPER Tracks.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/79d43ff8d99ee12cb73b75a977e7f4ea80763f0b/Generative/Clouds/DL%20Functions/REAPER%20Tracks.lua",
-        "sha256": ""
+        "sha256": "1kghzdrl9ggg38skzjiflfydsljp80f6473gzfif9miz7jj7s01a"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/Serialize.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/79d43ff8d99ee12cb73b75a977e7f4ea80763f0b/Generative/Clouds/DL%20Functions/Serialize.lua",
-        "sha256": ""
+        "sha256": "0wsk2201z2bf0i3x95r61l3ymg6ikrqzxc8zw49qv25cj812cm5j"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/DL Functions/URL.lua",
@@ -16038,7 +15882,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/Clouds Functions/Clouds GUI.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/e22320d861677d4a239c0fefda34d0e92a28c9b9/Generative/Clouds/Clouds%20Functions/Clouds%20GUI.lua",
-        "sha256": ""
+        "sha256": "1n7jz349lsqydifwq4l9957wr0xkpsm13cilcrji36mr2scw9bkc"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/Clouds Functions/Clouds Items.lua",
@@ -19686,6 +19530,162 @@
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/9882ec3b75e4be05a6396d344dbaa7c62853213c/Generative/Clouds/daniellumertz_Clouds.lua",
         "sha256": "0146914c67byjanxvq2f0g5733krkafb079i9x0n3pw00krjx1pq"
+      }
+    ]
+  },
+  "daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Arrange Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Arrange%20Functions.lua",
+        "sha256": "1bhip107n1xsyh227ms6vbdkvihyvmj65jg6agfi99sfb8q1ajfc"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/FX Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/FX%20Functions.lua",
+        "sha256": "0rq6wv0w991znv9cdh6bskrsykmhkyv9qjhl7mgffqviwwcinynl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Lua Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Lua%20Functions.lua",
+        "sha256": "1448p9m4f5wqy09bh48s7rixk26ijrafl5w33arm9xa5gn7nmcgm"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Music Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Music%20Functions.lua",
+        "sha256": "135kc534dgbz93pbfk5hsa95j9gd18ms6jxnb1h6aj4x3k8fjp3b"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui Custom Widgets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20Custom%20Widgets.lua",
+        "sha256": "0pnn1z1ngdhlzq2zgrss6rmdskb7i6qgqdmdr333f6dj01ymhxlx"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20General%20Functions.lua",
+        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Apply Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Apply%20Functions.lua",
+        "sha256": "1na544x6jqn23gz8v1q7hjp7zzmj941hlczq4rkws8c35cyqr8g8"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Functions.lua",
+        "sha256": "00kx4j4lj9mfhzz7s15jkpbsyfhfwvj1d122rir9kbx2qy7pyl91"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Input Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Input%20Functions.lua",
+        "sha256": "03f57305171gy2lk97sad6piygappkdsfgn0njzr4lf19q5ydg5v"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/OSC.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/OSC.lua",
+        "sha256": "1m7lw2hjp4jx46f815fzgdi8nd48f3np95skaff95mp9bh27rgh5"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/REAPER%20Functions.lua",
+        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
+        "sha256": "0l44a6kn1hv5pdyqp6ss8xabn7yldnmrniyb09fnspwlv7467grc"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Arrange Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Arrange%20Functions.lua",
+        "sha256": "1bhip107n1xsyh227ms6vbdkvihyvmj65jg6agfi99sfb8q1ajfc"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/FX Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/FX%20Functions.lua",
+        "sha256": "0rq6wv0w991znv9cdh6bskrsykmhkyv9qjhl7mgffqviwwcinynl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Lua Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Lua%20Functions.lua",
+        "sha256": "1448p9m4f5wqy09bh48s7rixk26ijrafl5w33arm9xa5gn7nmcgm"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/General Music Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/General%20Music%20Functions.lua",
+        "sha256": "135kc534dgbz93pbfk5hsa95j9gd18ms6jxnb1h6aj4x3k8fjp3b"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui Custom Widgets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20Custom%20Widgets.lua",
+        "sha256": "0pnn1z1ngdhlzq2zgrss6rmdskb7i6qgqdmdr333f6dj01ymhxlx"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/Imgui General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/Imgui%20General%20Functions.lua",
+        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Apply Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Apply%20Functions.lua",
+        "sha256": "1na544x6jqn23gz8v1q7hjp7zzmj941hlczq4rkws8c35cyqr8g8"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Functions.lua",
+        "sha256": "00kx4j4lj9mfhzz7s15jkpbsyfhfwvj1d122rir9kbx2qy7pyl91"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/MIDI Input Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/MIDI%20Input%20Functions.lua",
+        "sha256": "03f57305171gy2lk97sad6piygappkdsfgn0njzr4lf19q5ydg5v"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/OSC.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/OSC.lua",
+        "sha256": "1m7lw2hjp4jx46f815fzgdi8nd48f3np95skaff95mp9bh27rgh5"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Functions/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/Functions/REAPER%20Functions.lua",
+        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/82052b0221c7c16730efea886a32c92840af8370/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
+        "sha256": "0l44a6kn1hv5pdyqp6ss8xabn7yldnmrniyb09fnspwlv7467grc"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/061c105464035db5c032e3eca1b033b084c2591e/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
+        "sha256": "10ra905gkwpg5s817xrfj4nwf158a0qjp0mmanih5vl03sfzl4lf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/daniellumertz_Delete Automation Items Preserving Points At Time Selection For Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0006092b9358ad5b61aedd1504c3a58fe17bd1d6/Envelopes/Misc/daniellumertz_Delete%20Automation%20Items%20Preserving%20Points%20At%20Time%20Selection%20For%20Selected%20Tracks.lua",
+        "sha256": "0q83v045diji2v6l9n149x5kfhq639h22pgmi0bwxi9r4q50614x"
+      }
+    ]
+  },
+  "Toggle Show Only Select Envelope and Show All Envelopes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Toggle Show Only Select Envelope and Show All Envelopes.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0006092b9358ad5b61aedd1504c3a58fe17bd1d6/Envelopes/Misc/Toggle%20Show%20Only%20Select%20Envelope%20and%20Show%20All%20Envelopes.lua",
+        "sha256": "1xwiqq6hx0r2694gwbb8m6a69baavwk1kad51s5ik3fwfjw4iv4d"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Envelopes/Misc/Toggle Show Only Select Envelope and Show All Envelopes.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0006092b9358ad5b61aedd1504c3a58fe17bd1d6/Envelopes/Misc/Toggle%20Show%20Only%20Select%20Envelope%20and%20Show%20All%20Envelopes.lua",
+        "sha256": "1xwiqq6hx0r2694gwbb8m6a69baavwk1kad51s5ik3fwfjw4iv4d"
       }
     ]
   },
