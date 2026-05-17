@@ -15,42 +15,19 @@
       }
     ]
   },
-  "Pet_Default_v5_Dark_Extended.theme": {
-    "latest": [
-      {
-        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
-        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
-        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
-        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ]
-  },
   "Lokasenna_Default_5.0_Nitpicky_Edition.theme": {
     "latest": [
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0nlrgc4z98hbj6l2q2q1ld44p3zw1zr90av7qxp3qs6gb6p3hrvb"
+        "sha256": "164sn2zl1kk6jfr26ij3n6a6qzwqhda37arkgzii337hfwdxsbgj"
       }
     ],
     "15.01": [
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0nlrgc4z98hbj6l2q2q1ld44p3zw1zr90av7qxp3qs6gb6p3hrvb"
+        "sha256": "164sn2zl1kk6jfr26ij3n6a6qzwqhda37arkgzii337hfwdxsbgj"
       }
     ],
     "15": [
@@ -81,6 +58,29 @@
         "path": "ColorThemes/Default_5_Dark.ReaperThemeZip",
         "url": "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip",
         "sha256": "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp"
+      }
+    ]
+  },
+  "Pet_Default_v5_Dark_Extended.theme": {
+    "latest": [
+      {
+        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
+        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
+        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
+        "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
       }
     ]
   },
