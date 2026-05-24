@@ -414,7 +414,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/FX Inspector/fx_inspector_libraries/json.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/c181a03f5843e911422b06c70aa05768c82d2aee/FX%20Inspector/fx_inspector_libraries/json.lua",
-        "sha256": ""
+        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/FX Inspector/fx_inspector_libraries/param_capture.lua",
@@ -3241,7 +3241,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/gui/gui.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/fd23acbb50b5f0e86da4a2fd209c966a88d9083c/Item%20Modifiers/libraries/gui/gui.lua",
-        "sha256": "0h4j1lsyajbhiimaxc74qrm3zs13jgb6c0npvd7jnpnw5jlzsfkr"
+        "sha256": ""
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Item Modifiers/libraries/gui/gui_builder.lua",
@@ -7138,7 +7138,7 @@
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/preset_selection/BirdBird_Razor Edit Utility - Select Preset 4.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%204.lua",
-        "sha256": "0zhnwx8gzb7nw6b312sj1j6fv6qj1szdnjk2r1dmi2zca8vg9lqj"
+        "sha256": ""
       },
       {
         "path": "Scripts/BirdBird ReaScript Testing/Razor Edit Utility/preset_selection/BirdBird_Razor Edit Utility - Select Preset 5.lua",
