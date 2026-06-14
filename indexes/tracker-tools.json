@@ -4284,7 +4284,7 @@
       {
         "path": "Scripts/Tracker tools/Tracker/tracker.lua",
         "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/ba3824038888ed52082c757712d5c782c986964d/Tracker/tracker.lua",
-        "sha256": ""
+        "sha256": "16qi3f1db07xcmxxkjsrvl59dmzdxk7m1mhl8hp8j24v2k8ia1dc"
       }
     ],
     "2.16": [
@@ -4308,7 +4308,7 @@
       {
         "path": "Scripts/Tracker tools/Tracker/tracker.lua",
         "url": "https://github.com/JoepVanlier/Hackey-Trackey/raw/389101596e5435d1e4725ab69b4992238326448d/Tracker/tracker.lua",
-        "sha256": ""
+        "sha256": "0shbd7ys9cq7i5k8phhmda9bwsl37vcwjrlzllx8q487kmhw1yz4"
       }
     ],
     "2.14": [

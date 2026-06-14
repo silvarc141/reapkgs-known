@@ -4462,131 +4462,6 @@
       }
     ]
   },
-  "Smooth Limiter": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
-        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0nmm1znfyb4ri9wpf9g9dzfa784hyfwfb346s49dqrb7b015xyq0"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0zkxqdjqk67xrarv6b35497a3m2abghv2ijl56fqjghc9rzfdcsv"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "02s0419306m3g9xww3sbdkv1bmjmiy8bc27mifvc423bmfmxlw61"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "1ws97jm8szkb2hm8p90fa5m5w0raf3bw138k9npp1gsj8z6q1g14"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
-        "sha256": "0d5hvhzfdwzn43s00yvw68bjczjdbxfih8b7c25ni2r223sq4bnx"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
-        "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
-      }
-    ]
-  },
   "Level Meter": {
     "latest": [
       {
@@ -4801,6 +4676,131 @@
         "path": "Effects/Geraint's JSFX/Utility/Panalysis/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Panalysis/1.0.0/Panalysis/ui-lib.jsfx-inc",
         "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ]
+  },
+  "Smooth Limiter": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/Smooth%20Limiter.jsfx.rpl",
+        "sha256": "127x76kb2xwsqp3g4i1ipaiarc06wgdwbv6d95abmdkl8fh1f0sh"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.1/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0pgh2zdz6dd1w1d3s74n5dlxlyyhbxlsracz0s4agccqy3ws52g5"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.1.0/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0nmm1znfyb4ri9wpf9g9dzfa784hyfwfb346s49dqrb7b015xyq0"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.4/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0zkxqdjqk67xrarv6b35497a3m2abghv2ijl56fqjghc9rzfdcsv"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.3/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "02s0419306m3g9xww3sbdkv1bmjmiy8bc27mifvc423bmfmxlw61"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.2/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "1ws97jm8szkb2hm8p90fa5m5w0raf3bw138k9npp1gsj8z6q1g14"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.1/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/Smooth Limiter.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/Smooth%20Limiter.jsfx",
+        "sha256": "0d5hvhzfdwzn43s00yvw68bjczjdbxfih8b7c25ni2r223sq4bnx"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Utility/Smooth-Limiter/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Smooth-Limiter/1.0.0/Smooth-Limiter/ui-lib.jsfx-inc",
+        "sha256": "00aj995mphcy7dh3s4m491lh4pv4xcb42l140ghzc4q3himv9cq1"
       }
     ]
   },
@@ -5717,217 +5717,6 @@
         "path": "Effects/Geraint's JSFX/Delay/Echo-Cycles/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Echo-Cycles/1.0.0/Echo-Cycles/ui-lib.jsfx-inc",
         "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ]
-  },
-  "Vibrato": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx",
-        "sha256": "1vvwd71v9knm5x7q6q60aifsdivp1clg70qq081w7h7s9d8rw06d"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx.rpl",
-        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "0a3rdd1mppfhw6jmq1jzr9w6llqr3pwb3zvcjay201fdld73lry6"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "18q605qccmxyfrm3cfknmsf9z2l805naz32pxgg7fx01y2bx2c02"
-      }
-    ],
-    "1.1.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx",
-        "sha256": "1vvwd71v9knm5x7q6q60aifsdivp1clg70qq081w7h7s9d8rw06d"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx.rpl",
-        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "0a3rdd1mppfhw6jmq1jzr9w6llqr3pwb3zvcjay201fdld73lry6"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "18q605qccmxyfrm3cfknmsf9z2l805naz32pxgg7fx01y2bx2c02"
-      }
-    ],
-    "1.1.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/Vibrato.jsfx",
-        "sha256": "17jmia99fzn4syyz8wy2b0day0aayvwbvvfcrbba9qfl46c0vr8j"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/Vibrato.jsfx.rpl",
-        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/Vibrato.jsfx",
-        "sha256": "17jmia99fzn4syyz8wy2b0day0aayvwbvvfcrbba9qfl46c0vr8j"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/Vibrato.jsfx.rpl",
-        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/Vibrato.jsfx",
-        "sha256": "17jmia99fzn4syyz8wy2b0day0aayvwbvvfcrbba9qfl46c0vr8j"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/Vibrato.jsfx",
-        "sha256": "1m1d3ycngvfw84kyz90z2w2d66svyyys91m98gy0wd13a947hlnd"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/Vibrato.jsfx",
-        "sha256": "0ncn621l4g1prvwf584a0b8b8c7caw98ds1jpj0akg99idm0s54p"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/delay-utils.jsfx-inc",
-        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
-        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
-        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/ui-lib.jsfx-inc",
-        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
       }
     ]
   },
@@ -6884,6 +6673,217 @@
         "path": "Effects/Geraint's JSFX/Delay/Atlantis-Reverb/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Atlantis-Reverb/1.0.0/Atlantis-Reverb/ui-lib.jsfx-inc",
         "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ]
+  },
+  "Vibrato": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx",
+        "sha256": "1vvwd71v9knm5x7q6q60aifsdivp1clg70qq081w7h7s9d8rw06d"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx.rpl",
+        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "0a3rdd1mppfhw6jmq1jzr9w6llqr3pwb3zvcjay201fdld73lry6"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "18q605qccmxyfrm3cfknmsf9z2l805naz32pxgg7fx01y2bx2c02"
+      }
+    ],
+    "1.1.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx",
+        "sha256": "1vvwd71v9knm5x7q6q60aifsdivp1clg70qq081w7h7s9d8rw06d"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/Vibrato.jsfx.rpl",
+        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "0a3rdd1mppfhw6jmq1jzr9w6llqr3pwb3zvcjay201fdld73lry6"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.4/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "18q605qccmxyfrm3cfknmsf9z2l805naz32pxgg7fx01y2bx2c02"
+      }
+    ],
+    "1.1.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/Vibrato.jsfx",
+        "sha256": "17jmia99fzn4syyz8wy2b0day0aayvwbvvfcrbba9qfl46c0vr8j"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/Vibrato.jsfx.rpl",
+        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.3/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/Vibrato.jsfx",
+        "sha256": "17jmia99fzn4syyz8wy2b0day0aayvwbvvfcrbba9qfl46c0vr8j"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx.rpl",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/Vibrato.jsfx.rpl",
+        "sha256": "1avd5r26q0nvi6wc5nzp3ccykml34gvwf52iy768x1xx9jhi6giq"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.2/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/Vibrato.jsfx",
+        "sha256": "17jmia99fzn4syyz8wy2b0day0aayvwbvvfcrbba9qfl46c0vr8j"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.1/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/Vibrato.jsfx",
+        "sha256": "1m1d3ycngvfw84kyz90z2w2d66svyyys91m98gy0wd13a947hlnd"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.1.0/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/Vibrato.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/Vibrato.jsfx",
+        "sha256": "0ncn621l4g1prvwf584a0b8b8c7caw98ds1jpj0akg99idm0s54p"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/delay-utils.jsfx-inc",
+        "sha256": "14a9s7ma6ilvarqr9qaq5f1iq0ycn2lsy40radpjczwpnsgjgvn4"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/themes/backgrounds/tom-barrett-512968-unsplash-small-denoised.png",
+        "sha256": "15p0jn0b2q7qvkimk0g8hh4niv6ls7n56iwr1dddd2h1h5wsxnhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/themes/bitmap-simple/theme-dark-blue.png",
+        "sha256": "05hzzhm2izm0y9ipcfdvc13ic1pmag0mjiab8favqcdd5yjs9rhz"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Delay/Vibrato/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Vibrato/1.0.0/Vibrato/ui-lib.jsfx-inc",
+        "sha256": "1czp9n40hi0zivcv3v9zw30w44bn2ms75iv139vn25kmw4qmxfjm"
       }
     ]
   },

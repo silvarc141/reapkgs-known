@@ -315,35 +315,35 @@
     "latest": [
       {
         "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
         "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS)%20Linux.ReaperLangPack",
         "sha256": "0xp1m12v1g838qk7fvab7hwacdn2334f4nz5racbgh5plx1nd1xw"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
       }
     ],
     "6.79": [
       {
         "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
+        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
+      },
+      {
+        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
         "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS)%20Linux.ReaperLangPack",
         "sha256": "0xp1m12v1g838qk7fvab7hwacdn2334f4nz5racbgh5plx1nd1xw"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
-      },
-      {
-        "path": "LangPack/pt-BR Brazilian (REAPER+SWS).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/f62625a1821355491ddfd4e5e619d923e91a869c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack",
-        "sha256": "1x634pa20s5c09ngvq854n96ai24hgds0si9k49y1x5n1wgdw1fj"
       }
     ],
     "6.77": [
@@ -508,19 +508,40 @@
       }
     ]
   },
-  "SpanishLA.ReaperLangPack": {
+  "Українська - Ukrainian.ReaperLangPack": {
     "latest": [
       {
-        "path": "LangPack/SpanishLA.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
-        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/fb8688b30eb231d1a8303bdc1fceab5450515eea/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1sa1zsw5ckriml38a1yclzjls0nmqi99rgrkvlxfldy162vpp7b4"
       }
     ],
-    "6.45": [
+    "1.24": [
       {
-        "path": "LangPack/SpanishLA.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
-        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/fb8688b30eb231d1a8303bdc1fceab5450515eea/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1sa1zsw5ckriml38a1yclzjls0nmqi99rgrkvlxfldy162vpp7b4"
+      }
+    ],
+    "1.23": [
+      {
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/524c210757210a9bffe84aab394b41fe6f209b08/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "14vqzil7a92xajchhwmr2xqj34az8r9bl4biiamvp3bfz9yvzl68"
+      }
+    ],
+    "1.22": [
+      {
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/c10006d8b3edc9f0058e8eb93b70c1c4e7fdf9ed/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1vi41xasx19xk4fnr9390fs460pvw2hczd25sij0pgfhc4mjigka"
+      }
+    ],
+    "1.20": [
+      {
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/99036a3e535f2b77109b7231cfe54e6a8e5d6bea/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "12hnjbfdis9bjvk1396pjxxwi074yixb060bkprl1hn3drwsahyw"
       }
     ]
   },
@@ -554,33 +575,19 @@
       }
     ]
   },
-  "Українська - Ukrainian.ReaperLangPack": {
+  "SpanishLA.ReaperLangPack": {
     "latest": [
       {
-        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/524c210757210a9bffe84aab394b41fe6f209b08/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
-        "sha256": "14vqzil7a92xajchhwmr2xqj34az8r9bl4biiamvp3bfz9yvzl68"
+        "path": "LangPack/SpanishLA.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
+        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
       }
     ],
-    "1.23": [
+    "6.45": [
       {
-        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/524c210757210a9bffe84aab394b41fe6f209b08/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
-        "sha256": "14vqzil7a92xajchhwmr2xqj34az8r9bl4biiamvp3bfz9yvzl68"
-      }
-    ],
-    "1.22": [
-      {
-        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/c10006d8b3edc9f0058e8eb93b70c1c4e7fdf9ed/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
-        "sha256": "1vi41xasx19xk4fnr9390fs460pvw2hczd25sij0pgfhc4mjigka"
-      }
-    ],
-    "1.20": [
-      {
-        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/99036a3e535f2b77109b7231cfe54e6a8e5d6bea/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
-        "sha256": "12hnjbfdis9bjvk1396pjxxwi074yixb060bkprl1hn3drwsahyw"
+        "path": "LangPack/SpanishLA.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
+        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
       }
     ]
   }
