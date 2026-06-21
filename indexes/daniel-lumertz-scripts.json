@@ -570,52 +570,6 @@
       }
     ]
   },
-  "Copy Items to Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
-      }
-    ]
-  },
-  "Create 4 Points Inside Time Selection Using Grid Values.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/214a498295287b8a9e794e17ee7697951f47f5ec/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "19j5pkchzdmyg7axh9qci3y0xsnsqyhwapb8jikgz1w4xa5dy9l4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f03f23d1f7dca9702ab5f41cc6e411e1286a1379/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "15vyyahj0g24q9hs5s07rf9n0b8hvlj83pl8z30ary0yw07vi3f1"
-      }
-    ]
-  },
   "Copy Paste MIDI.lua": {
     "latest": [
       {
@@ -1054,42 +1008,49 @@
       }
     ]
   },
-  "Create Regions Using Items Sequence Across Tracks.lua": {
+  "Create 4 Points Inside Time Selection Using Grid Values.lua": {
     "latest": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
-        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
       }
     ],
-    "1.0": [
+    "1.2": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
-        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
-      }
-    ]
-  },
-  "Items Organize In Sequence.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
-        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
-        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/214a498295287b8a9e794e17ee7697951f47f5ec/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "19j5pkchzdmyg7axh9qci3y0xsnsqyhwapb8jikgz1w4xa5dy9l4"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/fd9bca7b7fdb9fae067af1dcdb0a03d88d0568a8/Items/Misc/Items%20Organize%20In%20Sequence.lua",
-        "sha256": "1kwrwjjk6c8z2a8ivvrqr7m55xm3p44day87mz2kyqh526ss6m4n"
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f03f23d1f7dca9702ab5f41cc6e411e1286a1379/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "15vyyahj0g24q9hs5s07rf9n0b8hvlj83pl8z30ary0yw07vi3f1"
+      }
+    ]
+  },
+  "Copy Items to Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
       }
     ]
   },
@@ -2281,42 +2242,126 @@
     "latest": [
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/GUI%20Functions.lua",
-        "sha256": "0x5gz7fflgqqhwib6h9nrhddfmvz6pnwagp762wxi8xcxmwg232q"
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "07bws6jp7qv2gn7wcn6472w3vbqppsblmy7dgsvai5zi0xd8sssi"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/General%20Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/General%20Functions.lua",
         "sha256": "0mcp1xqjcqpc7pmbzjajij2anpy9p4lkc9q6qy84bva906n27k2h"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/Item%20Sampler.lua",
-        "sha256": "0cm39wjsfcjjd1qhx76ih6nr10b8p1f8gg7m29sabpkifxihdjsf"
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "1y4chm0g1bm4dp6rbynglknv7axmmhnskcv35w8d3dq9a2qvv0qh"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/Item%20Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/Item%20Simpler.lua",
         "sha256": "0cs88sxvfkq5h6zh2ilqmirq4258iixmlp4zajd46lrw8fr4f7g2"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/REAPER%20Functions.lua",
         "sha256": "1ij6rrjhwk1ry5f12axhx9x52jnjf31vycfwhvspfs85n9s2nj82"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/groups.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/groups.lua",
         "sha256": "1pcsrwwrljrv6inszg5dzcyaklzcxr72x8sbd9jj50m2sr4fcqv0"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/presets.lua",
+        "sha256": "1p9c6g5l36vraycsljsfr8avsq871m37591gg711g0422zxxqja0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/utils/json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      }
+    ],
+    "1.4.1b": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "07bws6jp7qv2gn7wcn6472w3vbqppsblmy7dgsvai5zi0xd8sssi"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/General%20Functions.lua",
+        "sha256": "0mcp1xqjcqpc7pmbzjajij2anpy9p4lkc9q6qy84bva906n27k2h"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "1y4chm0g1bm4dp6rbynglknv7axmmhnskcv35w8d3dq9a2qvv0qh"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/Item%20Simpler.lua",
+        "sha256": "0cs88sxvfkq5h6zh2ilqmirq4258iixmlp4zajd46lrw8fr4f7g2"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "sha256": "1ij6rrjhwk1ry5f12axhx9x52jnjf31vycfwhvspfs85n9s2nj82"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/groups.lua",
+        "sha256": "1pcsrwwrljrv6inszg5dzcyaklzcxr72x8sbd9jj50m2sr4fcqv0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/presets.lua",
+        "sha256": "1p9c6g5l36vraycsljsfr8avsq871m37591gg711g0422zxxqja0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ebcbfe36cc899206c863d442e7ce612c46a1f5fa/Items/Item%20Sampler/utils/json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      }
+    ],
+    "1.4.0b": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "0x5gz7fflgqqhwib6h9nrhddfmvz6pnwagp762wxi8xcxmwg232q"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/General%20Functions.lua",
+        "sha256": "0mcp1xqjcqpc7pmbzjajij2anpy9p4lkc9q6qy84bva906n27k2h"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "10jhbzfnskmh95d7a6w5ngz3b0r6m78189znw5k8zhxfisc3nnm0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/Item%20Simpler.lua",
+        "sha256": "0cs88sxvfkq5h6zh2ilqmirq4258iixmlp4zajd46lrw8fr4f7g2"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "sha256": "1ij6rrjhwk1ry5f12axhx9x52jnjf31vycfwhvspfs85n9s2nj82"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/groups.lua",
+        "sha256": "1pcsrwwrljrv6inszg5dzcyaklzcxr72x8sbd9jj50m2sr4fcqv0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/presets.lua",
         "sha256": "0j2jh14hcm1n6n6i307bfkqwz2m7cvfqfjv82fpiarkq92zrqc5v"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/5b40b68c80d85742d2c96ab6facd71c7fa81820b/Items/Item%20Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/bb9e8cbcb4f0f1642e28b099e5a852193b028035/Items/Item%20Sampler/utils/json.lua",
         "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
       }
     ],
@@ -2476,6 +2521,45 @@
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/dd573584fd3be1c6dbe00f0ad2056be202ffac22/Items/Item%20Sampler/utils/json.lua",
         "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      }
+    ]
+  },
+  "Items Organize In Sequence.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
+        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
+        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/fd9bca7b7fdb9fae067af1dcdb0a03d88d0568a8/Items/Misc/Items%20Organize%20In%20Sequence.lua",
+        "sha256": "1kwrwjjk6c8z2a8ivvrqr7m55xm3p44day87mz2kyqh526ss6m4n"
+      }
+    ]
+  },
+  "Create Regions Using Items Sequence Across Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
+        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
+        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
       }
     ]
   },
@@ -7208,6 +7292,38 @@
       }
     ]
   },
+  "Randomize Takes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Randomize Takes.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f5051eb942e9a6934aa023c9db07a282479d7b30/Takes/Misc/Randomize%20Takes.lua",
+        "sha256": "0qjrmpriv0np7059wi8c87bh8wrd6xy1nkmjx48aq03vpg4clsa2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Randomize Takes.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f5051eb942e9a6934aa023c9db07a282479d7b30/Takes/Misc/Randomize%20Takes.lua",
+        "sha256": "0qjrmpriv0np7059wi8c87bh8wrd6xy1nkmjx48aq03vpg4clsa2"
+      }
+    ]
+  },
+  "Remove All Takes Except Active.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Remove All Takes Except Active.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/a9d39e1018f56232b33de4c10a7328cc433f763a/Takes/Misc/Remove%20All%20Takes%20Except%20Active.lua",
+        "sha256": "0724i4808hhj2fkn9r77jv3476shh56ripn5wls3z9i8ri4imfw7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Remove All Takes Except Active.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/a9d39e1018f56232b33de4c10a7328cc433f763a/Takes/Misc/Remove%20All%20Takes%20Except%20Active.lua",
+        "sha256": "0724i4808hhj2fkn9r77jv3476shh56ripn5wls3z9i8ri4imfw7"
+      }
+    ]
+  },
   "ReaShare.lua": {
     "latest": [
       {
@@ -7879,38 +7995,6 @@
         "path": "Scripts/Daniel Lumertz Scripts/ReaShare/utils/json.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/be94bacc2353fa10c6bfa08962688b5a9f7cadb4/ReaShare/utils/json.lua",
         "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
-      }
-    ]
-  },
-  "Remove All Takes Except Active.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Remove All Takes Except Active.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/a9d39e1018f56232b33de4c10a7328cc433f763a/Takes/Misc/Remove%20All%20Takes%20Except%20Active.lua",
-        "sha256": "0724i4808hhj2fkn9r77jv3476shh56ripn5wls3z9i8ri4imfw7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Remove All Takes Except Active.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/a9d39e1018f56232b33de4c10a7328cc433f763a/Takes/Misc/Remove%20All%20Takes%20Except%20Active.lua",
-        "sha256": "0724i4808hhj2fkn9r77jv3476shh56ripn5wls3z9i8ri4imfw7"
-      }
-    ]
-  },
-  "Randomize Takes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Randomize Takes.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f5051eb942e9a6934aa023c9db07a282479d7b30/Takes/Misc/Randomize%20Takes.lua",
-        "sha256": "0qjrmpriv0np7059wi8c87bh8wrd6xy1nkmjx48aq03vpg4clsa2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Randomize Takes.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f5051eb942e9a6934aa023c9db07a282479d7b30/Takes/Misc/Randomize%20Takes.lua",
-        "sha256": "0qjrmpriv0np7059wi8c87bh8wrd6xy1nkmjx48aq03vpg4clsa2"
       }
     ]
   },
