@@ -1,41 +1,4 @@
 {
-  "newMultipleFiles.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
-        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/c9cc8d8bb69b1b2bd2e025e5f2fb2ce3c4541b56/Scripts/newMultipleFiles.lua",
-        "sha256": "14kjz66iwi2hq5kix7i69nar5ljhnl6ikhakhfp62mi9f0hj52z3"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
-        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/c9cc8d8bb69b1b2bd2e025e5f2fb2ce3c4541b56/Scripts/newMultipleFiles.lua",
-        "sha256": "14kjz66iwi2hq5kix7i69nar5ljhnl6ikhakhfp62mi9f0hj52z3"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
-        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/5a908962b4cc4e9da26763b8b9e2a4c56504612c/Scripts/newMultipleFiles.lua",
-        "sha256": "0lz59c9w6wll6d61li14n8kw6m11x0wxgd41d36vib8w6nk5avq0"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
-        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/0bdb8205abfedf9347437d37824bfb64f2480e0e/Scripts/newMultipleFiles.lua",
-        "sha256": "119bl9528j9apqpa68f69g1yl4c83x4s073x3rbxns7l7x2kh7ci"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
-        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/4a09c1153774db64e39525a6277c30691b0b7b6d/Scripts/newMultipleFiles.lua",
-        "sha256": "17aj70xhip1zw2z6czkckmmc2471dc3pax127dm2k1lck3mj61sp"
-      }
-    ]
-  },
   "createMultipleTracks.lua": {
     "latest": [
       {
@@ -70,6 +33,43 @@
         "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/createMultipleTracks.lua",
         "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/4a09c1153774db64e39525a6277c30691b0b7b6d/Scripts/createMultipleTracks.lua",
         "sha256": "1cg0k6s8k56nqb44y63p730ryy8nvrnn1sc6y7fdk9crgq9l4m8b"
+      }
+    ]
+  },
+  "newMultipleFiles.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
+        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/c9cc8d8bb69b1b2bd2e025e5f2fb2ce3c4541b56/Scripts/newMultipleFiles.lua",
+        "sha256": "14kjz66iwi2hq5kix7i69nar5ljhnl6ikhakhfp62mi9f0hj52z3"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
+        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/c9cc8d8bb69b1b2bd2e025e5f2fb2ce3c4541b56/Scripts/newMultipleFiles.lua",
+        "sha256": "14kjz66iwi2hq5kix7i69nar5ljhnl6ikhakhfp62mi9f0hj52z3"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
+        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/5a908962b4cc4e9da26763b8b9e2a4c56504612c/Scripts/newMultipleFiles.lua",
+        "sha256": "0lz59c9w6wll6d61li14n8kw6m11x0wxgd41d36vib8w6nk5avq0"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
+        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/0bdb8205abfedf9347437d37824bfb64f2480e0e/Scripts/newMultipleFiles.lua",
+        "sha256": "119bl9528j9apqpa68f69g1yl4c83x4s073x3rbxns7l7x2kh7ci"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Joabe Lopes Multitrack_Show_Creation/Various/newMultipleFiles.lua",
+        "url": "https://raw.githubusercontent.com/joabeslopes/Reaper-scripts-multitrack-show/4a09c1153774db64e39525a6277c30691b0b7b6d/Scripts/newMultipleFiles.lua",
+        "sha256": "17aj70xhip1zw2z6czkckmmc2471dc3pax127dm2k1lck3mj61sp"
       }
     ]
   },

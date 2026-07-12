@@ -2280,43 +2280,479 @@
   "Item Sampler.lua": {
     "latest": [
       {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Debug.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Debug.lua",
+        "sha256": "1d5zqv62l94765nfch97wzcjyhb2dh657bpjrd59fgazwaa2zzjh"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Files.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Files.lua",
+        "sha256": "1k8hlp0zd9qmwswvd13hawz8vrvnr2y9xsklpd3vxsdrr3gdcx8b"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Number.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Number.lua",
+        "sha256": "0mxcmpc6j0gkvlfv4529xrw2iq58hmgsmrnnvm9jwbza1i28hifd"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General String.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20String.lua",
+        "sha256": "0d2h0m8k8sswgj0a2b0zz20r23yikimrpn3q7rka7sbj4lxs4vqc"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Table.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Table.lua",
+        "sha256": "1h05y8ha38l4y7lkj461b3lisa2rdm6zwgra12r8wq3qc877vk27"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/ImGui.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/ImGui.lua",
+        "sha256": "04zfqvjfjd4gp2b3y420svvgjhwp9ngliwi3j74bvgx8bv3bbykl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/MIDI IO.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/MIDI%20IO.lua",
+        "sha256": "1azgafap6vqx87p5bg1jna1nlvhf806v7p60zdkjllmyy3ai3hqk"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/MIDI.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/MIDI.lua",
+        "sha256": "0c379flkk4pz3jvpghzv7m05z3mp3zg4agf51pv5iw6jjny7v7fp"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/Music.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/Music.lua",
+        "sha256": "1yd13lqp497hgkp83fwkm1zz5axivf6590hcrgvwdl1gg4p1qlkb"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Automation Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Automation%20Items.lua",
+        "sha256": "11qz478j31pl5qf218c4qzw5k3fblxd3kbfpxghqgjg172dqyvfi"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Checker.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Checker.lua",
+        "sha256": "1idm7f3d6vrz4hfrwwy3ac59bbm6apxfjy3b9lyb506c76jawv4z"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Chunks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Chunks.lua",
+        "sha256": "0qgbd16pisn0ilphqglwnz3xy9fwy76fkbyzdjxrbhmcw3659lf4"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Enumerate.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Enumerate.lua",
+        "sha256": "1lb6hgc0i47ab5ic83fdnl7828hpqvvy9q71wqwmm6b5p8jqxzyg"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Envelopes.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Envelopes.lua",
+        "sha256": "0c65kx3il7lnxrmvxh6p64s8kbpks8h8ryw4jyv5wq0qj5ff8ka3"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER FX.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20FX.lua",
+        "sha256": "1jm2lg1z3w493npnx0h3n8j6prqisyjl2zykxwczi7g60cg2jcv7"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Items.lua",
+        "sha256": "16f0wlp7a4zhm999wakwy6is7acmq4dclf5q3ywgf8p30rhc8hpj"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Markers.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Markers.lua",
+        "sha256": "1fjfi1vsxr5lyc8hcknpyb26dy2ghfkirxm5glmlxay8zlx220rx"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Play.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Play.lua",
+        "sha256": "0xqap57yli6hqyvb0xkifxdfqdpzdnkjmgl4ximln2h941n9wh0x"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Projects.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Projects.lua",
+        "sha256": "0haq08y1yalydxfadqbaq777rykm6d5w916k1qq4qpng0w4vdaqz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Take.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Take.lua",
+        "sha256": "0ihn38mg8v9n0ibq4vkbivr43nzdyx4b9wd8jcc4dg9wym708ngp"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Time.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Time.lua",
+        "sha256": "0zjph4xvjfq3djphhcv03ki22sga9i7b6m5n742p04s9bvab6hv8"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Tracks.lua",
+        "sha256": "1kghzdrl9ggg38skzjiflfydsljp80f6473gzfif9miz7jj7s01a"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/Serialize.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/Serialize.lua",
+        "sha256": "0wsk2201z2bf0i3x95r61l3ymg6ikrqzxc8zw49qv25cj812cm5j"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/URL.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/URL.lua",
+        "sha256": "0c8dki8zjmhn0f1g1bfq8vfpb6fhbdf40ikw1pvkvszcg3vbrig3"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/_example.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/_example.lua",
+        "sha256": "0p1r57pz0lh8rfj99d9nlvcg9x4qqcwh35bcgk7nawknl7klgfys"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/json.lua",
+        "sha256": "0svyx4aqbmigkr858la6acm17xsma6zrhv39w21xrrw47di3ynsz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/rxi_json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/rxi_json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      },
+      {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/GUI%20Functions.lua",
-        "sha256": "18s7vkgvipnbqaapa3qg6q6s3av39czh63gv0r898n4lzvfpvj1a"
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "0wliljxn1dsbm5f6grw2zzh1grialcmv4w8xz7pdhm5lpwn6lvs1"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/General%20Functions.lua",
-        "sha256": "103n0ag2wzcmbf6ypjnp5dk0r3332cdc1hrzkgxilp3zql8awz6v"
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/General%20Functions.lua",
+        "sha256": "1ghl24qa8ixs4y95wwjg50z6glfsv45ppcj6xxlrk0rqz9dcqpsr"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler Settings Management.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Item%20Sampler%20Settings%20Management.lua",
+        "sha256": "1wyxpllpsxls2fg52khqx3yzb5rvib821ksm6fss4j7rg5y434rz"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/Item%20Sampler.lua",
-        "sha256": "1k4i61w3459wmrnabrrx022sxa1g25iviz21bimlfpqzy964xqv0"
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "19zi6wfamkq3ix0k68hz3p8h18k5p8fhzlljzxz9qfsacrnlmxhg"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/Item%20Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Item%20Simpler.lua",
         "sha256": "0dnarrwy95lja0wphaq5arq1h2yh8a4r1vd21mymw1msxyr980ym"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/REAPER%20Functions.lua",
         "sha256": "0arvsb5cjqwhds8805gcid4ifgfz27m3malsz4j45p8z6ciraa01"
       },
       {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Sequencer Item.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Sequencer%20Item.lua",
+        "sha256": "06ic7a2fyi2ls28vp5jk6hs6q06wv4hg6k0pbd86j3sb27ii17ri"
+      },
+      {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/groups.lua",
-        "sha256": "1pcsrwwrljrv6inszg5dzcyaklzcxr72x8sbd9jj50m2sr4fcqv0"
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/groups.lua",
+        "sha256": "02gi0agyq2fqqk25gp52g4hcwpw6pjqi3yyqv8jaigm978ciawak"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/presets.lua",
         "sha256": "1p9c6g5l36vraycsljsfr8avsq871m37591gg711g0422zxxqja0"
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/89de48abf0a5b0be6c8e08fa30c51f3d760287a9/Items/Item%20Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/utils/json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      }
+    ],
+    "1.5.2": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Debug.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Debug.lua",
+        "sha256": "1d5zqv62l94765nfch97wzcjyhb2dh657bpjrd59fgazwaa2zzjh"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Files.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Files.lua",
+        "sha256": "1k8hlp0zd9qmwswvd13hawz8vrvnr2y9xsklpd3vxsdrr3gdcx8b"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Number.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Number.lua",
+        "sha256": "0mxcmpc6j0gkvlfv4529xrw2iq58hmgsmrnnvm9jwbza1i28hifd"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General String.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20String.lua",
+        "sha256": "0d2h0m8k8sswgj0a2b0zz20r23yikimrpn3q7rka7sbj4lxs4vqc"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/General Table.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/General%20Table.lua",
+        "sha256": "1h05y8ha38l4y7lkj461b3lisa2rdm6zwgra12r8wq3qc877vk27"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/ImGui.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/ImGui.lua",
+        "sha256": "04zfqvjfjd4gp2b3y420svvgjhwp9ngliwi3j74bvgx8bv3bbykl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/MIDI IO.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/MIDI%20IO.lua",
+        "sha256": "1azgafap6vqx87p5bg1jna1nlvhf806v7p60zdkjllmyy3ai3hqk"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/MIDI.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/MIDI.lua",
+        "sha256": "0c379flkk4pz3jvpghzv7m05z3mp3zg4agf51pv5iw6jjny7v7fp"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/Music.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/Music.lua",
+        "sha256": "1yd13lqp497hgkp83fwkm1zz5axivf6590hcrgvwdl1gg4p1qlkb"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Automation Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Automation%20Items.lua",
+        "sha256": "11qz478j31pl5qf218c4qzw5k3fblxd3kbfpxghqgjg172dqyvfi"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Checker.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Checker.lua",
+        "sha256": "1idm7f3d6vrz4hfrwwy3ac59bbm6apxfjy3b9lyb506c76jawv4z"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Chunks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Chunks.lua",
+        "sha256": "0qgbd16pisn0ilphqglwnz3xy9fwy76fkbyzdjxrbhmcw3659lf4"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Enumerate.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Enumerate.lua",
+        "sha256": "1lb6hgc0i47ab5ic83fdnl7828hpqvvy9q71wqwmm6b5p8jqxzyg"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Envelopes.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Envelopes.lua",
+        "sha256": "0c65kx3il7lnxrmvxh6p64s8kbpks8h8ryw4jyv5wq0qj5ff8ka3"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER FX.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20FX.lua",
+        "sha256": "1jm2lg1z3w493npnx0h3n8j6prqisyjl2zykxwczi7g60cg2jcv7"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Items.lua",
+        "sha256": "16f0wlp7a4zhm999wakwy6is7acmq4dclf5q3ywgf8p30rhc8hpj"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Markers.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Markers.lua",
+        "sha256": "1fjfi1vsxr5lyc8hcknpyb26dy2ghfkirxm5glmlxay8zlx220rx"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Play.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Play.lua",
+        "sha256": "0xqap57yli6hqyvb0xkifxdfqdpzdnkjmgl4ximln2h941n9wh0x"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Projects.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Projects.lua",
+        "sha256": "0haq08y1yalydxfadqbaq777rykm6d5w916k1qq4qpng0w4vdaqz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Take.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Take.lua",
+        "sha256": "0ihn38mg8v9n0ibq4vkbivr43nzdyx4b9wd8jcc4dg9wym708ngp"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Time.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Time.lua",
+        "sha256": "0zjph4xvjfq3djphhcv03ki22sga9i7b6m5n742p04s9bvab6hv8"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/REAPER Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/REAPER%20Tracks.lua",
+        "sha256": "1kghzdrl9ggg38skzjiflfydsljp80f6473gzfif9miz7jj7s01a"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/Serialize.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/Serialize.lua",
+        "sha256": "0wsk2201z2bf0i3x95r61l3ymg6ikrqzxc8zw49qv25cj812cm5j"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/URL.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/URL.lua",
+        "sha256": "0c8dki8zjmhn0f1g1bfq8vfpb6fhbdf40ikw1pvkvszcg3vbrig3"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/_example.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/_example.lua",
+        "sha256": "0p1r57pz0lh8rfj99d9nlvcg9x4qqcwh35bcgk7nawknl7klgfys"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/json.lua",
+        "sha256": "0svyx4aqbmigkr858la6acm17xsma6zrhv39w21xrrw47di3ynsz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/DL Functions/rxi_json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/DL%20Functions/rxi_json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "0wliljxn1dsbm5f6grw2zzh1grialcmv4w8xz7pdhm5lpwn6lvs1"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/General%20Functions.lua",
+        "sha256": "1ghl24qa8ixs4y95wwjg50z6glfsv45ppcj6xxlrk0rqz9dcqpsr"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler Settings Management.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Item%20Sampler%20Settings%20Management.lua",
+        "sha256": "1wyxpllpsxls2fg52khqx3yzb5rvib821ksm6fss4j7rg5y434rz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "19zi6wfamkq3ix0k68hz3p8h18k5p8fhzlljzxz9qfsacrnlmxhg"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Item%20Simpler.lua",
+        "sha256": "0dnarrwy95lja0wphaq5arq1h2yh8a4r1vd21mymw1msxyr980ym"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "sha256": "0arvsb5cjqwhds8805gcid4ifgfz27m3malsz4j45p8z6ciraa01"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Sequencer Item.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/Sequencer%20Item.lua",
+        "sha256": "06ic7a2fyi2ls28vp5jk6hs6q06wv4hg6k0pbd86j3sb27ii17ri"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/groups.lua",
+        "sha256": "02gi0agyq2fqqk25gp52g4hcwpw6pjqi3yyqv8jaigm978ciawak"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/presets.lua",
+        "sha256": "1p9c6g5l36vraycsljsfr8avsq871m37591gg711g0422zxxqja0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/2c208598287db03a715aa7b5cbed4d862924b848/Items/Item%20Sampler/utils/json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      }
+    ],
+    "1.5.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "0wliljxn1dsbm5f6grw2zzh1grialcmv4w8xz7pdhm5lpwn6lvs1"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/General%20Functions.lua",
+        "sha256": "1ghl24qa8ixs4y95wwjg50z6glfsv45ppcj6xxlrk0rqz9dcqpsr"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler Settings Management.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/Item%20Sampler%20Settings%20Management.lua",
+        "sha256": "1wyxpllpsxls2fg52khqx3yzb5rvib821ksm6fss4j7rg5y434rz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "0i7iycmbpg26j8qkzgjhpa1pgx6d8rci5yh92xvqr3g947ri7bjs"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/Item%20Simpler.lua",
+        "sha256": "0dnarrwy95lja0wphaq5arq1h2yh8a4r1vd21mymw1msxyr980ym"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "sha256": "0arvsb5cjqwhds8805gcid4ifgfz27m3malsz4j45p8z6ciraa01"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Sequencer Item.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/Sequencer%20Item.lua",
+        "sha256": "06ic7a2fyi2ls28vp5jk6hs6q06wv4hg6k0pbd86j3sb27ii17ri"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/groups.lua",
+        "sha256": "02gi0agyq2fqqk25gp52g4hcwpw6pjqi3yyqv8jaigm978ciawak"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/presets.lua",
+        "sha256": "1p9c6g5l36vraycsljsfr8avsq871m37591gg711g0422zxxqja0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0fef35bc007130707ccd827b29d67fdf85a3906c/Items/Item%20Sampler/utils/json.lua",
+        "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
+      }
+    ],
+    "1.5.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/GUI Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/GUI%20Functions.lua",
+        "sha256": "0wliljxn1dsbm5f6grw2zzh1grialcmv4w8xz7pdhm5lpwn6lvs1"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/General%20Functions.lua",
+        "sha256": "1ghl24qa8ixs4y95wwjg50z6glfsv45ppcj6xxlrk0rqz9dcqpsr"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler Settings Management.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/Item%20Sampler%20Settings%20Management.lua",
+        "sha256": "0viybh3aaair54vlqrcgh11vnxa8nwybjf8qgandkw5km6vfhv6n"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Sampler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/Item%20Sampler.lua",
+        "sha256": "0m8yr7f7j08bqjx83l15lqsr096841d25nnxxn7lsjc4drw07zsb"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Item Simpler.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/Item%20Simpler.lua",
+        "sha256": "0dnarrwy95lja0wphaq5arq1h2yh8a4r1vd21mymw1msxyr980ym"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/REAPER%20Functions.lua",
+        "sha256": "0arvsb5cjqwhds8805gcid4ifgfz27m3malsz4j45p8z6ciraa01"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/Sequencer Item.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/Sequencer%20Item.lua",
+        "sha256": "0hln99qpbzq6571542hggf2wygh9638j1vck97q8a2iv7k78vswf"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/groups.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/groups.lua",
+        "sha256": "02gi0agyq2fqqk25gp52g4hcwpw6pjqi3yyqv8jaigm978ciawak"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/presets.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/presets.lua",
+        "sha256": "1p9c6g5l36vraycsljsfr8avsq871m37591gg711g0422zxxqja0"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Item Sampler/utils/json.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f0a176ffc92f2b5bc3cd6513314c884aa4a17f25/Items/Item%20Sampler/utils/json.lua",
         "sha256": "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv"
       }
     ],

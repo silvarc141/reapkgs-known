@@ -19,8 +19,15 @@
     "latest": [
       {
         "path": "LangPack/Russian.Mig.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/75366653db33a100137ff6f372b180a9192b454c/Translations/Russian.Mig.ReaperLangPack",
-        "sha256": "0pdqm12y9gvisq9fnplsa740y4hr09szf1vafvk20053wbnnz0yy"
+        "url": "https://github.com/ReaTeam/LangPacks/raw/4805f18ddb4ebb84f21c00ff8e9318b6aa9351ee/Translations/Russian.Mig.ReaperLangPack",
+        "sha256": "0bgw81v2jwzyhj1jfq8rxak117shk8pwwlkvvdfqlcr6bwbbvnlk"
+      }
+    ],
+    "7.76": [
+      {
+        "path": "LangPack/Russian.Mig.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/4805f18ddb4ebb84f21c00ff8e9318b6aa9351ee/Translations/Russian.Mig.ReaperLangPack",
+        "sha256": "0bgw81v2jwzyhj1jfq8rxak117shk8pwwlkvvdfqlcr6bwbbvnlk"
       }
     ],
     "7.74": [
@@ -519,8 +526,15 @@
     "latest": [
       {
         "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/3a62e0db59c887eba56e2bf83f779365372471bd/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
-        "sha256": "1s9ix8plybji17q3gzqmdkv3g10flk28yw4r45nqz6lj2vngkdm7"
+        "url": "https://github.com/ReaTeam/LangPacks/raw/3b0217a3cc10a2eaf2fefdd7e098ebf2451362b4/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1144mx5w3q83blxvxv9wribnzadqsxs8rgz17dp1afq09cllkf2w"
+      }
+    ],
+    "1.27": [
+      {
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/3b0217a3cc10a2eaf2fefdd7e098ebf2451362b4/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1144mx5w3q83blxvxv9wribnzadqsxs8rgz17dp1afq09cllkf2w"
       }
     ],
     "1.26": [
