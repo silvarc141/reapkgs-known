@@ -19,8 +19,15 @@
     "latest": [
       {
         "path": "LangPack/Russian.Mig.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/4805f18ddb4ebb84f21c00ff8e9318b6aa9351ee/Translations/Russian.Mig.ReaperLangPack",
-        "sha256": "0bgw81v2jwzyhj1jfq8rxak117shk8pwwlkvvdfqlcr6bwbbvnlk"
+        "url": "https://github.com/ReaTeam/LangPacks/raw/ec8eee01049beb7a040deb9637b13ac92642ca13/Translations/Russian.Mig.ReaperLangPack",
+        "sha256": "0kqzmmqham9vmyndrnji53m0g6fvyc8r7a4g5m0ws8vw9nxxrwrn"
+      }
+    ],
+    "7.77": [
+      {
+        "path": "LangPack/Russian.Mig.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/ec8eee01049beb7a040deb9637b13ac92642ca13/Translations/Russian.Mig.ReaperLangPack",
+        "sha256": "0kqzmmqham9vmyndrnji53m0g6fvyc8r7a4g5m0ws8vw9nxxrwrn"
       }
     ],
     "7.76": [
@@ -580,22 +587,6 @@
       }
     ]
   },
-  "SpanishLA.ReaperLangPack": {
-    "latest": [
-      {
-        "path": "LangPack/SpanishLA.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
-        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
-      }
-    ],
-    "6.45": [
-      {
-        "path": "LangPack/SpanishLA.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
-        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
-      }
-    ]
-  },
   "REAPER_SWS_ru_reapack-utf8.ReaperLangPack": {
     "latest": [
       {
@@ -623,6 +614,22 @@
         "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
         "url": "https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
         "sha256": "1akqyz023h4gz5pn3i7m0ncdnm1r1i93gqdcnj61ym4b7gpqz778"
+      }
+    ]
+  },
+  "SpanishLA.ReaperLangPack": {
+    "latest": [
+      {
+        "path": "LangPack/SpanishLA.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
+        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
+      }
+    ],
+    "6.45": [
+      {
+        "path": "LangPack/SpanishLA.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/e29bc51f1dc23062b377ab228398d81e5b509e3d/Translations/SpanishLA.ReaperLangPack",
+        "sha256": "1hk9k1s7fb56yf8ljbadzcf7js87gddfcy4rbv99hms11v8i7r9v"
       }
     ]
   }

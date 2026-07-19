@@ -15,22 +15,6 @@
       }
     ]
   },
-  "4-ch limiter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
-        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
-      }
-    ]
-  },
   "MMC locate.jsfx": {
     "latest": [
       {
@@ -72,22 +56,6 @@
         "path": "Effects/mrlimbic scripts/JSFX/MMC locate.jsfx",
         "url": "https://github.com/mrlimbic/reascripts/raw/83e519639a31ce8f1cab41862b97300b9f4b9404/JSFX/MMC%20locate.jsfx",
         "sha256": "09p14fnhw1qr9c2v34qfg34lalxkqjriz7f0f5f8pqbqhrgsm412"
-      }
-    ]
-  },
-  "Dopp Wobbler.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
-        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
-        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
       }
     ]
   },
@@ -151,6 +119,38 @@
       }
     ]
   },
+  "Dopp Wobbler.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
+        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/Dopp Wobbler.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/8748bcd3a5d8a74ad65aa36fc25f7c8f1c64559e/JSFX/Dopp%20Wobbler.jsfx",
+        "sha256": "0rig48nd6za3mrfxnja0j3lcdxgf83kg3za9crwjag6xzgykas75"
+      }
+    ]
+  },
+  "4-ch limiter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch limiter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20limiter.jsfx",
+        "sha256": "091s2d87vkdc4688wig19006mzmm7y72152f6620mckk1fbcnz5x"
+      }
+    ]
+  },
   "4-ch 4-band splitter.jsfx": {
     "latest": [
       {
@@ -199,6 +199,38 @@
       }
     ]
   },
+  "mrlimbic_apply vr rotate from item notes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
+        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
+        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
+      }
+    ]
+  },
+  "mrlimbic_merge_track_volume_envelope_into_selected_items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
+      }
+    ]
+  },
   "mrlimbic_create regions from item groups.lua": {
     "latest": [
       {
@@ -238,22 +270,6 @@
       }
     ]
   },
-  "mrlimbic_export video items on selected track(s) as EDL(s).lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
-        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
-        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
-      }
-    ]
-  },
   "mrlimbic_ffprobe scene detect.lua": {
     "latest": [
       {
@@ -277,35 +293,19 @@
       }
     ]
   },
-  "mrlimbic_merge_track_volume_envelope_into_selected_items.lua": {
+  "mrlimbic_export video items on selected track(s) as EDL(s).lua": {
     "latest": [
       {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
+        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
+        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
-      }
-    ]
-  },
-  "mrlimbic_apply vr rotate from item notes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
-        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
-        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
+        "path": "Scripts/mrlimbic scripts/Video/mrlimbic_export video items on selected track(s) as EDL(s).lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/cdfe4bddebb1dba83d9c85af76cc852d3c8b7a6c/Video/mrlimbic_export%20video%20items%20on%20selected%20track(s)%20as%20EDL(s).lua",
+        "sha256": "1ycmz55irfx2c7x34ggd94gv6nysaclvr25x8h1d36fjrdwi3xkl"
       }
     ]
   },
