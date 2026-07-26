@@ -191,29 +191,6 @@
       }
     ]
   },
-  "Strata_Open associated Strata project from selected audio file.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
-        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
-        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
-      }
-    ],
-    "1.0.0-rc.1": [
-      {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/b94a29e1314a9246c4bfceee3d6951041a85830f/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
-        "sha256": "0jmnigzd65gyh7wl00i1imfhahc64w2nvlqg6zwv3mjp79wf4hg3"
-      }
-    ]
-  },
   "Strata_Copy selection to next project.lua": {
     "latest": [
       {
@@ -234,6 +211,29 @@
         "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
         "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/8f259badba8dea287a47ca0347a9622e56eb6937/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
         "sha256": "0ymncn3ziibsp27jhyxj1fd4b0066fazfxypbr3ja6ml7i66w3y6"
+      }
+    ]
+  },
+  "Strata_Open associated Strata project from selected audio file.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
+        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
+        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
+      }
+    ],
+    "1.0.0-rc.1": [
+      {
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/b94a29e1314a9246c4bfceee3d6951041a85830f/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
+        "sha256": "0jmnigzd65gyh7wl00i1imfhahc64w2nvlqg6zwv3mjp79wf4hg3"
       }
     ]
   }
