@@ -38,19 +38,26 @@
       }
     ]
   },
-  "oleggoryachev_RADO-V5-ARTEK.theme": {
+  "Lokasenna_Default_5.0_Nitpicky_Edition.theme": {
     "latest": [
       {
-        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
-        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
-        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
+        "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
+        "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
+        "sha256": "1g62r16zg1qndf58sy2shs4707ziw7ylqcxf5bydbkmlzbb25ysy"
       }
     ],
-    "1": [
+    "15.01": [
       {
-        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
-        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
-        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
+        "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
+        "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
+        "sha256": "1g62r16zg1qndf58sy2shs4707ziw7ylqcxf5bydbkmlzbb25ysy"
+      }
+    ],
+    "15": [
+      {
+        "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
+        "url": "https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip",
+        "sha256": "1py8d83zpflr35r50vhz2bvhbgx7fbcgysgklmgdizfhksrk71md"
       }
     ]
   },
@@ -77,26 +84,19 @@
       }
     ]
   },
-  "Lokasenna_Default_5.0_Nitpicky_Edition.theme": {
+  "oleggoryachev_RADO-V5-ARTEK.theme": {
     "latest": [
       {
-        "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
-        "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0qzkcyk4hs1xp2l1qv3nd0pmjqaf04r2rhgsv42631wfh8kvgjav"
+        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
+        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
+        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
       }
     ],
-    "15.01": [
+    "1": [
       {
-        "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
-        "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0qzkcyk4hs1xp2l1qv3nd0pmjqaf04r2rhgsv42631wfh8kvgjav"
-      }
-    ],
-    "15": [
-      {
-        "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
-        "url": "https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip",
-        "sha256": "1py8d83zpflr35r50vhz2bvhbgx7fbcgysgklmgdizfhksrk71md"
+        "path": "ColorThemes/RADO-V5-ARTEK.ReaperThemeZip",
+        "url": "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip",
+        "sha256": "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s"
       }
     ]
   }
