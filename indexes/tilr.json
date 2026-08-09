@@ -1,4 +1,36 @@
 {
+  "MIDI Keyvel Filter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
+      }
+    ]
+  },
+  "Notes to CC.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
+        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
+        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
+      }
+    ]
+  },
   "Notes to 12 channel.jsfx": {
     "latest": [
       {
@@ -31,22 +63,6 @@
       }
     ]
   },
-  "MIDI Keyvel Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ]
-  },
   "Vel to CC.jsfx": {
     "latest": [
       {
@@ -60,128 +76,6 @@
         "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
         "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
-      }
-    ]
-  },
-  "Notes to CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
-        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
-        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
-      }
-    ]
-  },
-  "QuickFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/QuickFilter.jsfx",
-        "sha256": "1cspi0rkmjpq3k5gkjd1bir8cn67qlbarq1scir44y3daja2h0z2"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/QuickFilter.jsfx",
-        "sha256": "1cspi0rkmjpq3k5gkjd1bir8cn67qlbarq1scir44y3daja2h0z2"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ]
-  },
-  "skfilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
-        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
-        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter.jsfx",
-        "sha256": "145xdx93h6i59fnlr0wbrljw12bshzhr8qc9plx6h4759aal5d42"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ]
   },
@@ -5704,1491 +5598,6 @@
       }
     ]
   },
-  "jswavesynth.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx",
-        "sha256": "0w0zayvqdypq2m2lqdzn3v4qnnbk7dcwv1r4dv7k18c43m8zviqk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx.RPL",
-        "sha256": "0zjz6dv8mhmqdl1cys6v4r23smix6avipqp6fyysxaxj8mg9hrhj"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.4.3": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx",
-        "sha256": "0w0zayvqdypq2m2lqdzn3v4qnnbk7dcwv1r4dv7k18c43m8zviqk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx.RPL",
-        "sha256": "0zjz6dv8mhmqdl1cys6v4r23smix6avipqp6fyysxaxj8mg9hrhj"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.4.2": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth.jsfx",
-        "sha256": "0jc86ynkm4d2i4j60bwij8jsgzsrk5b9mcv8s9hm93001aanbrn7"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth.jsfx.RPL",
-        "sha256": "0zjz6dv8mhmqdl1cys6v4r23smix6avipqp6fyysxaxj8mg9hrhj"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.4.1": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth.jsfx",
-        "sha256": "0vygv6drg4cz8jp7k8zf35vl5wzdjkkpya3726rlsqk8mkjmvi0f"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth.jsfx.RPL",
-        "sha256": "10fa8ihfj9ph2kmqjd23fmm9zyxxfn1i24js08fp4zn0n3kqrz0r"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.4.0": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth.jsfx",
-        "sha256": "1hl3irl5v6g3b7fkc4q5kikva9bb2j3lmqj0162dcdfslf80w4vr"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth.jsfx.RPL",
-        "sha256": "10fa8ihfj9ph2kmqjd23fmm9zyxxfn1i24js08fp4zn0n3kqrz0r"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.3.0": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth.jsfx",
-        "sha256": "193jnw8a165nhnnjgz3ihjpp29ip6cm4vlyib3il2ksl0f0wx0k7"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.2.2": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth.jsfx",
-        "sha256": "0d5d7qggkjy224i5y5sqkspl8f8fr42zkv19z81j1zy8zjffll9c"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth.jsfx",
-        "sha256": "1k5842ac1imk30i06zwkxclz5bf40q2ia0php4vfilry5zky0kll"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth.jsfx",
-        "sha256": "1yi1wbp1nmpf0s97h4cf64gafaiv5rmiphb516s4fkxy2fp7f7pj"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.adsr.jsfx-inc",
-        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
-        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.mouselib.jsfx-inc",
-        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
-        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.wavetable.jsfx-inc",
-        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%201.wav",
-        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%202.wav",
-        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%203.wav",
-        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%204.wav",
-        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%205.wav",
-        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%201.wav",
-        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%202.wav",
-        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%203.wav",
-        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%204.wav",
-        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%205.wav",
-        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 6.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%206.wav",
-        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 7.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%207.wav",
-        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Saw%201.wav",
-        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Saw%202.wav",
-        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Saw%203.wav",
-        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%201.wav",
-        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%202.wav",
-        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 3.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%203.wav",
-        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 4.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%204.wav",
-        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 5.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%205.wav",
-        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Spectral.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Spectral.wav",
-        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 1.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Square%201.wav",
-        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 2.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Square%202.wav",
-        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Stairs.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Stairs.wav",
-        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
-      },
-      {
-        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Triangle.wav",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Triangle.wav",
-        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
-      }
-    ]
-  },
   "rippler.jsfx": {
     "latest": [
       {
@@ -9207,6 +7616,1491 @@
       }
     ]
   },
+  "jswavesynth.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx",
+        "sha256": "0w0zayvqdypq2m2lqdzn3v4qnnbk7dcwv1r4dv7k18c43m8zviqk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx.RPL",
+        "sha256": "0zjz6dv8mhmqdl1cys6v4r23smix6avipqp6fyysxaxj8mg9hrhj"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.4.3": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx",
+        "sha256": "0w0zayvqdypq2m2lqdzn3v4qnnbk7dcwv1r4dv7k18c43m8zviqk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth.jsfx.RPL",
+        "sha256": "0zjz6dv8mhmqdl1cys6v4r23smix6avipqp6fyysxaxj8mg9hrhj"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.4.2": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth.jsfx",
+        "sha256": "0jc86ynkm4d2i4j60bwij8jsgzsrk5b9mcv8s9hm93001aanbrn7"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth.jsfx.RPL",
+        "sha256": "0zjz6dv8mhmqdl1cys6v4r23smix6avipqp6fyysxaxj8mg9hrhj"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.4.1": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth.jsfx",
+        "sha256": "0vygv6drg4cz8jp7k8zf35vl5wzdjkkpya3726rlsqk8mkjmvi0f"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth.jsfx.RPL",
+        "sha256": "10fa8ihfj9ph2kmqjd23fmm9zyxxfn1i24js08fp4zn0n3kqrz0r"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0b1b4ef10154a00b3d0a9fa4be4f4b7dcc64597d/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.4.0": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth.jsfx",
+        "sha256": "1hl3irl5v6g3b7fkc4q5kikva9bb2j3lmqj0162dcdfslf80w4vr"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx.RPL",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth.jsfx.RPL",
+        "sha256": "10fa8ihfj9ph2kmqjd23fmm9zyxxfn1i24js08fp4zn0n3kqrz0r"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "17ppnvj7dzikq07r0a6gq0xcpw4dpj9y21jkir3djbhjrsncdm1z"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.3.0": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth.jsfx",
+        "sha256": "193jnw8a165nhnnjgz3ihjpp29ip6cm4vlyib3il2ksl0f0wx0k7"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.2.2": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth.jsfx",
+        "sha256": "0d5d7qggkjy224i5y5sqkspl8f8fr42zkv19z81j1zy8zjffll9c"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.2.1": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth.jsfx",
+        "sha256": "1k5842ac1imk30i06zwkxclz5bf40q2ia0php4vfilry5zky0kll"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/49d0119bf01b3cf760067046b02295ddd80267b1/Synth/tilr_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth.jsfx",
+        "sha256": "1yi1wbp1nmpf0s97h4cf64gafaiv5rmiphb516s4fkxy2fp7f7pj"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.adsr.jsfx-inc",
+        "sha256": "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.gfxlib.jsfx-inc",
+        "sha256": "09kkaf8jg1vjydl6g16xh1yninjhwjvz1fi1ahn0nmvblf44miva"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.mouselib.jsfx-inc",
+        "sha256": "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.rbj_filter.jsfx-inc",
+        "sha256": "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.wavetable.jsfx-inc",
+        "sha256": "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%201.wav",
+        "sha256": "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%202.wav",
+        "sha256": "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%203.wav",
+        "sha256": "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%204.wav",
+        "sha256": "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Complex 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Complex%205.wav",
+        "sha256": "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%201.wav",
+        "sha256": "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%202.wav",
+        "sha256": "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%203.wav",
+        "sha256": "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%204.wav",
+        "sha256": "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%205.wav",
+        "sha256": "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 6.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%206.wav",
+        "sha256": "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Organ 7.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Organ%207.wav",
+        "sha256": "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Saw%201.wav",
+        "sha256": "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Saw%202.wav",
+        "sha256": "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Saw 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Saw%203.wav",
+        "sha256": "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%201.wav",
+        "sha256": "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%202.wav",
+        "sha256": "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 3.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%203.wav",
+        "sha256": "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 4.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%204.wav",
+        "sha256": "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Sine 5.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Sine%205.wav",
+        "sha256": "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Spectral.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Spectral.wav",
+        "sha256": "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 1.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Square%201.wav",
+        "sha256": "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Square 2.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Square%202.wav",
+        "sha256": "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Stairs.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Stairs.wav",
+        "sha256": "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50"
+      },
+      {
+        "path": "Effects/Tilr/Synth/tilr_JSWavesynth/Triangle.wav",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/tilr_JSWavesynth/Triangle.wav",
+        "sha256": "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq"
+      }
+    ]
+  },
   "qdelay.jsfx": {
     "latest": [
       {
@@ -9398,52 +9292,6 @@
       }
     ]
   },
-  "QuickDualDelay.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
-      }
-    ]
-  },
   "QuickDelay.jsfx": {
     "latest": [
       {
@@ -9490,6 +9338,52 @@
       }
     ]
   },
+  "QuickDualDelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ]
+  },
   "quickdist.jsfx": {
     "latest": [
       {
@@ -9525,6 +9419,112 @@
         "path": "Effects/Tilr/Distortion/quickdist.jsfx",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/89366a4c6f6ffd788d2cb1020467c4c6319b9be6/Distortion/quickdist.jsfx",
         "sha256": "03fcbmky7jfsl1kqw1cv4ivxjm23fbbw6agdl6wmnssmw8dhi79n"
+      }
+    ]
+  },
+  "skfilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
+        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
+        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter.jsfx",
+        "sha256": "145xdx93h6i59fnlr0wbrljw12bshzhr8qc9plx6h4759aal5d42"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ]
+  },
+  "QuickFilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/QuickFilter.jsfx",
+        "sha256": "1cspi0rkmjpq3k5gkjd1bir8cn67qlbarq1scir44y3daja2h0z2"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/QuickFilter.jsfx",
+        "sha256": "1cspi0rkmjpq3k5gkjd1bir8cn67qlbarq1scir44y3daja2h0z2"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/3713438b8441baf7a0cb2e167c85e92605e7f4c1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ]
   },
