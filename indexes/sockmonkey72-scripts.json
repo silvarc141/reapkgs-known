@@ -1,72 +1,4 @@
 {
-  "automidireset.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "038nlpwha36h8k8cx6p9v02plpq4srndd34miykv26w714nc29pa"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.so",
-        "sha256": "1kapwhwah0bizmsrfj0q8mmasv0vbirhn704ddxb622vx210qpnk"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "0lmqb6q0l14c26n4pvkvsj1s7nvp46nrnf9iy4n3jja72gzi9qnr"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "048s3xr987dy7dvskly5s2namc7hrfyrv53wyk45k924373z3br9"
-      }
-    ],
-    "1.3.1": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "038nlpwha36h8k8cx6p9v02plpq4srndd34miykv26w714nc29pa"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.so",
-        "sha256": "1kapwhwah0bizmsrfj0q8mmasv0vbirhn704ddxb622vx210qpnk"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "0lmqb6q0l14c26n4pvkvsj1s7nvp46nrnf9iy4n3jja72gzi9qnr"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "048s3xr987dy7dvskly5s2namc7hrfyrv53wyk45k924373z3br9"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "0h3qzflzv7cjm6b1yc4pkq9lzv84aiys4zngasgz1qclimp6f5fn"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.so",
-        "sha256": "19qvkq1kgnghbdxq5ynas64f3p9q8zy353cikqz6j9irzb6xrndj"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "0s4szq7m77zpch3yqygzb5sp8qlvwvr5bs4h3rkf875fxxxp8qlj"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "0ad13906imn3hgxfpc1knds935xx4y15jsgskivyx0flvyp1rhq4"
-      }
-    ]
-  },
   "MIDIUtils.lua": {
     "latest": [
       {
@@ -1353,6 +1285,74 @@
       }
     ]
   },
+  "automidireset.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "038nlpwha36h8k8cx6p9v02plpq4srndd34miykv26w714nc29pa"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.so",
+        "sha256": "1kapwhwah0bizmsrfj0q8mmasv0vbirhn704ddxb622vx210qpnk"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "0lmqb6q0l14c26n4pvkvsj1s7nvp46nrnf9iy4n3jja72gzi9qnr"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "048s3xr987dy7dvskly5s2namc7hrfyrv53wyk45k924373z3br9"
+      }
+    ],
+    "1.3.1": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "038nlpwha36h8k8cx6p9v02plpq4srndd34miykv26w714nc29pa"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.so",
+        "sha256": "1kapwhwah0bizmsrfj0q8mmasv0vbirhn704ddxb622vx210qpnk"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "0lmqb6q0l14c26n4pvkvsj1s7nvp46nrnf9iy4n3jja72gzi9qnr"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "048s3xr987dy7dvskly5s2namc7hrfyrv53wyk45k924373z3br9"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "0h3qzflzv7cjm6b1yc4pkq9lzv84aiys4zngasgz1qclimp6f5fn"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.so",
+        "sha256": "19qvkq1kgnghbdxq5ynas64f3p9q8zy353cikqz6j9irzb6xrndj"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "0s4szq7m77zpch3yqygzb5sp8qlvwvr5bs4h3rkf875fxxxp8qlj"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "0ad13906imn3hgxfpc1knds935xx4y15jsgskivyx0flvyp1rhq4"
+      }
+    ]
+  },
   "childwindow.ext": {
     "latest": [
       {
@@ -1838,52 +1838,6 @@
       }
     ]
   },
-  "sockmonkey72_Smarter_Zoom.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/5dc7dbc5ea1e83da61eda1767e2b157ac9c16018/Various/sockmonkey72_Smarter_Zoom.lua",
-        "sha256": "1y8psks4i67ga3hblhkwb7wmvfd6bc3b2f40f669l9zhkf0brq1r"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/5dc7dbc5ea1e83da61eda1767e2b157ac9c16018/Various/sockmonkey72_Smarter_Zoom.lua",
-        "sha256": "1y8psks4i67ga3hblhkwb7wmvfd6bc3b2f40f669l9zhkf0brq1r"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/2b0750d3932c084ff3949754f3ed7976b15d2e5d/Various/sockmonkey72_Smarter_Zoom.lua",
-        "sha256": "1h6zf24hnyjvfvrc8azzpnm0dmqpgn15sv1d6f93db6bx34wpm0i"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab27a4d1a416b22c41997334802099d03c64875e/Various/sockmonkey72_Smarter_Zoom.lua",
-        "sha256": "1545v9h5ay1ahq53dsqg30ril4jyqxsmk8znfwb7z37wchipb8xa"
-      }
-    ]
-  },
-  "sockmonkey72_CalcProjectMediaFootprint.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
-      }
-    ]
-  },
   "sockmonkey72_FuzzyFloatCmpUtil.lua": {
     "latest": [
       {
@@ -1921,22 +1875,6 @@
       }
     ]
   },
-  "sockmonkey72_ToggleTimeSelection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
-      }
-    ]
-  },
   "sockmonkey72_StartupManager.lua": {
     "latest": [
       {
@@ -1967,51 +1905,65 @@
       }
     ]
   },
-  "sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua": {
+  "sockmonkey72_CalcProjectMediaFootprint.lua": {
     "latest": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
-        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
       }
     ],
-    "1.0": [
+    "1.0.0": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
-        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
       }
     ]
   },
-  "sockmonkey72_ToggleSendVolumeEnvelopes.lua": {
+  "sockmonkey72_ToggleTimeSelection.lua": {
     "latest": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
-        "sha256": "0n0paxjqf1yjrdxhgpank6gh08fidfa6c6min379vhf5hlk7q7h2"
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
-        "sha256": "0n0paxjqf1yjrdxhgpank6gh08fidfa6c6min379vhf5hlk7q7h2"
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
       }
     ]
   },
-  "sockmonkey72_ToggleWidthEnvelopes.lua": {
+  "sockmonkey72_Smarter_Zoom.lua": {
     "latest": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/5dc7dbc5ea1e83da61eda1767e2b157ac9c16018/Various/sockmonkey72_Smarter_Zoom.lua",
+        "sha256": "1y8psks4i67ga3hblhkwb7wmvfd6bc3b2f40f669l9zhkf0brq1r"
       }
     ],
-    "1.0": [
+    "1.05": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/5dc7dbc5ea1e83da61eda1767e2b157ac9c16018/Various/sockmonkey72_Smarter_Zoom.lua",
+        "sha256": "1y8psks4i67ga3hblhkwb7wmvfd6bc3b2f40f669l9zhkf0brq1r"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/2b0750d3932c084ff3949754f3ed7976b15d2e5d/Various/sockmonkey72_Smarter_Zoom.lua",
+        "sha256": "1h6zf24hnyjvfvrc8azzpnm0dmqpgn15sv1d6f93db6bx34wpm0i"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab27a4d1a416b22c41997334802099d03c64875e/Various/sockmonkey72_Smarter_Zoom.lua",
+        "sha256": "1545v9h5ay1ahq53dsqg30ril4jyqxsmk8znfwb7z37wchipb8xa"
       }
     ]
   },
@@ -2028,228 +1980,6 @@
         "path": "Scripts/sockmonkey72 Scripts/Metering/sockmonkey72_ClearClipsAfter3Seconds.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Metering/sockmonkey72_ClearClipsAfter3Seconds.lua",
         "sha256": "19nb757z4d46zjid4iwk0dhn4y993ngzh17pirp1i2izzi5hyl8i"
-      }
-    ]
-  },
-  "sockmonkey72_CreateCrossfadeUnderMouseCursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
-      }
-    ],
-    "1.8": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
-      }
-    ],
-    "1.7": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0xqqf0w9361mxy423598mpy1gssc9s4s1h953m42yxkxjw735fik"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "1hgz4ravzxrk7a7xqqlps9xc7g9fmf9cnw1ynd7lcx5s84p84hps"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0x55hxfhmjd7alhq6fdwl0py2zny80ahdym102g8nh1h8cc5hf0x"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0llp93ll6dpsm6m1f07qqdgrgbpb69kzdscpk3y2qr833564iah5"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "1n31qng9vkqn74pf2mwnmsbaplxswj5650g5rx7cyisjx7wq0kc3"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0s8yc6p42bas2hm033yri2jsbqmixzxqmshcyy3i0jf91jmam3mp"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0chrvvw3zpp05sinq4j12dlm3llagc4z0ni7nj5ngjlghlk8ipzd"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "16xs7hw774slq9crvx7x3f7ccjymp3jy3b9j1akp6yvc3phbq2cb"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0dy32qcr4piiz11a0qskn3ximlnlk321m56das09mxjhrf0gq2qs"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0j9i0yhs9yd0ax945fi1gyk1is5gs28l3v5snvhyvm80qnc7kp28"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0hhrrdr9pqvimrxa95d6qlazziy671l6i4gj9dgxfkdz790247yr"
-      }
-    ]
-  },
-  "sockmonkey72_SelectAllBeforeEditCursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "sha256": "02khnmvjlblqq1fjqvwzw90i1lk4hhhly9mzkadaw42hxx0fdr3f"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "sha256": "0qv92yaws0b8sviqcvnj8ml7lzwp7g9dq4s7cx5hnrqzfcw27w4d"
-      }
-    ]
-  },
-  "sockmonkey72_Paste at play position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
-        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
-        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
-      }
-    ]
-  },
-  "sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
       }
     ]
   },
@@ -8837,547 +8567,6 @@
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/53a89469c4242582bdfe00f2b5008a4bdab4adff/MIDI%20Editor/sockmonkey72_MIDIRazorEdits.lua",
         "sha256": "1dg5dsdbxxcrvalzphy6dbklg69al187zh7sx4brfiqvm71sb72b"
-      }
-    ]
-  },
-  "sockmonkey72_NudgeMIDI.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/NudgeMIDI/NudgeMIDIUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/NudgeMIDI/NudgeMIDIUtils.lua",
-        "sha256": "02k3hca3wmann185ghb7iriy3x57b3hfl7kd9s842985k1w0syx4"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDI.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDI.lua",
-        "sha256": "1qxfrzgzzm0ims90zp07vxiaqsly9mjbnsna2xvfvfh2lziavlkm"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
-        "sha256": "0hvf3b3w649qlalkw8h4w4rclimc1d9fnxq13v21azx7pch5z77k"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
-        "sha256": "0fzyka53ibpam18q947c09hf0vbr78kmx6kg69gj5bsa7zzx2r58"
-      }
-    ],
-    "1.5.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/NudgeMIDI/NudgeMIDIUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/NudgeMIDI/NudgeMIDIUtils.lua",
-        "sha256": "02k3hca3wmann185ghb7iriy3x57b3hfl7kd9s842985k1w0syx4"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDI.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDI.lua",
-        "sha256": "1qxfrzgzzm0ims90zp07vxiaqsly9mjbnsna2xvfvfh2lziavlkm"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
-        "sha256": "0hvf3b3w649qlalkw8h4w4rclimc1d9fnxq13v21azx7pch5z77k"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
-        "sha256": "0fzyka53ibpam18q947c09hf0vbr78kmx6kg69gj5bsa7zzx2r58"
-      }
-    ]
-  },
-  "sockmonkey72_Thin_CCs_Selected.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "0w5ajmbz2mx3cy6cwi1c0xihsgyyisf5fsjlr56vld5n368pnwwj"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "0kb3s1l27dgmhyj7b6b5yf6hxh5jm95xg756cws26d7d7d4d0546"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7.6": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "0w5ajmbz2mx3cy6cwi1c0xihsgyyisf5fsjlr56vld5n368pnwwj"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "0kb3s1l27dgmhyj7b6b5yf6hxh5jm95xg756cws26d7d7d4d0546"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7.5": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "0y4m2zhdi5365ljipkplxan10v0zy5lm5218d0wgwnh21dvp0f6a"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "0i9b1vs5i07f7yigb8k1n9p2r9kvzv6p0pgqsa2m8khrwibl1ysm"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7.4": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "1z2dhvmml4mh8hsis4x8fbs5x8cwz6fl7pp5g5amrbzp7glkfq0p"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "1g22q2in02anf3da6ra6zmmggn9y80ssw4v5h97y7cvj7hx8gpjp"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7.3": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "16kxl7ay59piihglanwphky750mz260y8fycmcgyv6kxp915fz88"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
-        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "0xk6gvwrs7b0dqlvrxwv2z8rx5fdzz6armh4vj1f84cm73661dqx"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7.2": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "16kxl7ay59piihglanwphky750mz260y8fycmcgyv6kxp915fz88"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "1zpzk7c6zkmfgvxkf1d9xhg2gh89ac3ggxi41fvkxjbs90ql1qhg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "16kxl7ay59piihglanwphky750mz260y8fycmcgyv6kxp915fz88"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "10pbpckacc48w8sigi6gwzng9c9fllz27wmrq5hijq2rlr8y5j47"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "0d7v7qkyf7m88k5rnbsajgz7gxsx7qr8rz1jjz5d8hz25w4s3gjy"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.7": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "0l4lwh7hb47fk0xz37icadihs47h4fnd1qqpxa9kjjjkqxz25dg4"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "10pbpckacc48w8sigi6gwzng9c9fllz27wmrq5hijq2rlr8y5j47"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "173phiwklpddphj4hyy78aqfnszblcn32w5qqym1bjzv0h6gg2am"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
-      }
-    ],
-    "1.6.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
-        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
-        "sha256": "1m8rvwxrjpxp8msi6jrcb518mfgp26l07a0a84bgbn84179ym48p"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
-        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
-        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
-        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
-        "sha256": "10pbpckacc48w8sigi6gwzng9c9fllz27wmrq5hijq2rlr8y5j47"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
-        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
-        "sha256": "0ywrzybidi6pcbgcd1r9f0nxjcrc89pg32i3chh21hb5zd1nmz1q"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
-        "sha256": "10c26zaqxv6b1f2f6wgkxh7gnna9l5i1my52jxqhrddgms2m7v61"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
-        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
       }
     ]
   },
@@ -133842,6 +133031,537 @@
       }
     ]
   },
+  "sockmonkey72_HarmonizeMIDI.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
+        "sha256": "01wrr4h6yjd1xxs8fwfbhjhjc5q165if7lbia30ywxg7xhiq0rk5"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDI.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDI.lua",
+        "sha256": "1jwxj710ab8p31j9hia6qm6fabcmybblb6cjsvdk8q592yyn04v2"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
+        "sha256": "1q5by37hndl74n2csbjwb80dvvryqd4g74q5l3iya5a19y9vz9cv"
+      }
+    ],
+    "1.4.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
+        "sha256": "01wrr4h6yjd1xxs8fwfbhjhjc5q165if7lbia30ywxg7xhiq0rk5"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDI.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDI.lua",
+        "sha256": "1jwxj710ab8p31j9hia6qm6fabcmybblb6cjsvdk8q592yyn04v2"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
+        "sha256": "1q5by37hndl74n2csbjwb80dvvryqd4g74q5l3iya5a19y9vz9cv"
+      }
+    ]
+  },
+  "sockmonkey72_Thin_CCs_Selected.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "0w5ajmbz2mx3cy6cwi1c0xihsgyyisf5fsjlr56vld5n368pnwwj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "0kb3s1l27dgmhyj7b6b5yf6hxh5jm95xg756cws26d7d7d4d0546"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7.6": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "0w5ajmbz2mx3cy6cwi1c0xihsgyyisf5fsjlr56vld5n368pnwwj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "0kb3s1l27dgmhyj7b6b5yf6hxh5jm95xg756cws26d7d7d4d0546"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0572caeb5e1cbc1ba8b5be7b3163d2b31c0195ce/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7.5": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "0y4m2zhdi5365ljipkplxan10v0zy5lm5218d0wgwnh21dvp0f6a"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "0i9b1vs5i07f7yigb8k1n9p2r9kvzv6p0pgqsa2m8khrwibl1ysm"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a0783417771d1b8de0da63644f3b960cd82064ee/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7.4": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "1z2dhvmml4mh8hsis4x8fbs5x8cwz6fl7pp5g5amrbzp7glkfq0p"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "1g22q2in02anf3da6ra6zmmggn9y80ssw4v5h97y7cvj7hx8gpjp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/9bbaadb7ade834db797f9c8f0f32155f1e988567/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7.3": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "16kxl7ay59piihglanwphky750mz260y8fycmcgyv6kxp915fz88"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Last_Clicked_Lane.lua",
+        "sha256": "0j03m0xpwg3986w6s6zdq10509ksair2m21jrqcz9i7f0r8fg59m"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "0xk6gvwrs7b0dqlvrxwv2z8rx5fdzz6armh4vj1f84cm73661dqx"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/abdaf8a3f5e853bf514ebb2881034fdeac664ba0/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7.2": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "16kxl7ay59piihglanwphky750mz260y8fycmcgyv6kxp915fz88"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "0w9pkggybvs12bsi0sz637wpz01ig10y5jigyj53jwvkyaw2rh8y"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "1zpzk7c6zkmfgvxkf1d9xhg2gh89ac3ggxi41fvkxjbs90ql1qhg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/6a187d5e204a8277506b7657e7e169639b3ec73e/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "16kxl7ay59piihglanwphky750mz260y8fycmcgyv6kxp915fz88"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "10pbpckacc48w8sigi6gwzng9c9fllz27wmrq5hijq2rlr8y5j47"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "0d7v7qkyf7m88k5rnbsajgz7gxsx7qr8rz1jjz5d8hz25w4s3gjy"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a903b41e4c38e8eba66d26dc2b76e1dd99471f10/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.7": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "0l4lwh7hb47fk0xz37icadihs47h4fnd1qqpxa9kjjjkqxz25dg4"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "10pbpckacc48w8sigi6gwzng9c9fllz27wmrq5hijq2rlr8y5j47"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "173phiwklpddphj4hyy78aqfnszblcn32w5qqym1bjzv0h6gg2am"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "14rmdhvp09ncjf1jirvhmvnahdlygizw51v3xgrb5spcs5w1iw3j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/10c8b5b646a06f21ec91d34345e264d7c9a99df8/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ],
+    "1.6.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/ThinCCs/RamerDouglasPeucker.lua",
+        "sha256": "0vdcl44pkh74rsjzswp95yxp3h6q5i0a7868blikvmklih9vwkbf"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/ThinCCs/ThinCCUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/ThinCCs/ThinCCUtils.lua",
+        "sha256": "1m8rvwxrjpxp8msi6jrcb518mfgp26l07a0a84bgbn84179ym48p"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_All.lua",
+        "sha256": "0k8g4izqa4jkyqrap9fnj8mybymvn6c544p3p4841ncvbhv385m6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_All_Visible.lua",
+        "sha256": "17carvkbk088g3sjwasqz35ks55x8a3wb28xs7cw0anq8px1r5jg"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Lane_Under_Mouse.lua",
+        "sha256": "0mk831f403xhdbf2k3hqrkwwpcsvf7v2wpp0wp281aihaa8p0qbl"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Selected_Items.lua",
+        "sha256": "10pbpckacc48w8sigi6gwzng9c9fllz27wmrq5hijq2rlr8y5j47"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_In_Time_Selection.lua",
+        "sha256": "0mlqj0grdjax4cs2ksddsg486m0ynsfplgvhyn3xb54sxjfbg22h"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_Selected.lua",
+        "sha256": "0ywrzybidi6pcbgcd1r9f0nxjcrc89pg32i3chh21hb5zd1nmz1q"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_Setup.lua",
+        "sha256": "10c26zaqxv6b1f2f6wgkxh7gnna9l5i1my52jxqhrddgms2m7v61"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_Thin_CCs_Visible_In_Time_Selection.lua",
+        "sha256": "1afwb4kcfl6ljgz0l142rdf5fhb23v7ivblngw0r7gs09vc4z9ql"
+      }
+    ]
+  },
   "sockmonkey72_TempoMapMIDINoteToBeatPrompt.lua": {
     "latest": [
       {
@@ -133908,39 +133628,81 @@
       }
     ]
   },
-  "sockmonkey72_HarmonizeMIDI.lua": {
+  "sockmonkey72_NudgeMIDI.lua": {
     "latest": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
-        "sha256": "01wrr4h6yjd1xxs8fwfbhjhjc5q165if7lbia30ywxg7xhiq0rk5"
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/NudgeMIDI/NudgeMIDIUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/NudgeMIDI/NudgeMIDIUtils.lua",
+        "sha256": "02k3hca3wmann185ghb7iriy3x57b3hfl7kd9s842985k1w0syx4"
       },
       {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDI.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDI.lua",
-        "sha256": "1jwxj710ab8p31j9hia6qm6fabcmybblb6cjsvdk8q592yyn04v2"
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDI.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDI.lua",
+        "sha256": "1qxfrzgzzm0ims90zp07vxiaqsly9mjbnsna2xvfvfh2lziavlkm"
       },
       {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
-        "sha256": "1q5by37hndl74n2csbjwb80dvvryqd4g74q5l3iya5a19y9vz9cv"
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
+        "sha256": "0hvf3b3w649qlalkw8h4w4rclimc1d9fnxq13v21azx7pch5z77k"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
+        "sha256": "0fzyka53ibpam18q947c09hf0vbr78kmx6kg69gj5bsa7zzx2r58"
       }
     ],
-    "1.4.1": [
+    "1.5.1": [
       {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/HarmonizeMIDI/HarmonizeMIDIUtils.lua",
-        "sha256": "01wrr4h6yjd1xxs8fwfbhjhjc5q165if7lbia30ywxg7xhiq0rk5"
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/NudgeMIDI/NudgeMIDIUtils.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/NudgeMIDI/NudgeMIDIUtils.lua",
+        "sha256": "02k3hca3wmann185ghb7iriy3x57b3hfl7kd9s842985k1w0syx4"
       },
       {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDI.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDI.lua",
-        "sha256": "1jwxj710ab8p31j9hia6qm6fabcmybblb6cjsvdk8q592yyn04v2"
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDI.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDI.lua",
+        "sha256": "1qxfrzgzzm0ims90zp07vxiaqsly9mjbnsna2xvfvfh2lziavlkm"
       },
       {
-        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_HarmonizeMIDIUsingLastSetting.lua",
-        "sha256": "1q5by37hndl74n2csbjwb80dvvryqd4g74q5l3iya5a19y9vz9cv"
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIBackwardUsingLastSetting.lua",
+        "sha256": "0hvf3b3w649qlalkw8h4w4rclimc1d9fnxq13v21azx7pch5z77k"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ef19320d9c4e5e681294c46fcb5119bae930f738/MIDI%20Editor/sockmonkey72_NudgeMIDIForwardUsingLastSetting.lua",
+        "sha256": "0fzyka53ibpam18q947c09hf0vbr78kmx6kg69gj5bsa7zzx2r58"
+      }
+    ]
+  },
+  "sockmonkey72_Fast forward 1s.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Fast forward 1s.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Fast%20forward%201s.lua",
+        "sha256": "03i6vj5kkrqgm6ws46lfm2f477b87wnhgrjyr5ls0wnb7p68l2a5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Fast forward 1s.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Fast%20forward%201s.lua",
+        "sha256": "03i6vj5kkrqgm6ws46lfm2f477b87wnhgrjyr5ls0wnb7p68l2a5"
+      }
+    ]
+  },
+  "sockmonkey72_Rewind 1s.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Rewind 1s.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Rewind%201s.lua",
+        "sha256": "084h4321kamxycwjrcp6sb3xii62bcxa3bn5y23rw0knfin23bry"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Rewind 1s.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Rewind%201s.lua",
+        "sha256": "084h4321kamxycwjrcp6sb3xii62bcxa3bn5y23rw0knfin23bry"
       }
     ]
   },
@@ -134407,6 +134169,228 @@
       }
     ]
   },
+  "sockmonkey72_Paste at play position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
+        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
+        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
+      }
+    ]
+  },
+  "sockmonkey72_CreateCrossfadeUnderMouseCursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
+      }
+    ],
+    "1.8": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
+      }
+    ],
+    "1.7": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0xqqf0w9361mxy423598mpy1gssc9s4s1h953m42yxkxjw735fik"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "1hgz4ravzxrk7a7xqqlps9xc7g9fmf9cnw1ynd7lcx5s84p84hps"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0x55hxfhmjd7alhq6fdwl0py2zny80ahdym102g8nh1h8cc5hf0x"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0llp93ll6dpsm6m1f07qqdgrgbpb69kzdscpk3y2qr833564iah5"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "1n31qng9vkqn74pf2mwnmsbaplxswj5650g5rx7cyisjx7wq0kc3"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0s8yc6p42bas2hm033yri2jsbqmixzxqmshcyy3i0jf91jmam3mp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0chrvvw3zpp05sinq4j12dlm3llagc4z0ni7nj5ngjlghlk8ipzd"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "16xs7hw774slq9crvx7x3f7ccjymp3jy3b9j1akp6yvc3phbq2cb"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0dy32qcr4piiz11a0qskn3ximlnlk321m56das09mxjhrf0gq2qs"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0j9i0yhs9yd0ax945fi1gyk1is5gs28l3v5snvhyvm80qnc7kp28"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0hhrrdr9pqvimrxa95d6qlazziy671l6i4gj9dgxfkdz790247yr"
+      }
+    ]
+  },
+  "sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
+      }
+    ]
+  },
+  "sockmonkey72_SelectAllBeforeEditCursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "sha256": "02khnmvjlblqq1fjqvwzw90i1lk4hhhly9mzkadaw42hxx0fdr3f"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "sha256": "0qv92yaws0b8sviqcvnj8ml7lzwp7g9dq4s7cx5hnrqzfcw27w4d"
+      }
+    ]
+  },
   "sockmonkey72_Peace_MOD.theme": {
     "latest": [
       {
@@ -134601,28 +134585,28 @@
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.4",
-        "sha256": "1lk41k4377p2fzrmx59p12nlvplripi7nrccysp4949b23ylpvsk"
+        "sha256": "07xylcyn12a44mdg44qv4kah9ppdyr9y4zb3vrzqjfhalzvc5yii"
       }
     ],
     "1.7.0-beta.3": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.3",
-        "sha256": "0cvqrcbxzs8414srglkhwlahph8kxq2gc34da1i1w4rf1sgbza1y"
+        "sha256": "1rpjnn5ckipblpqnp58354wnb8m9y094xqqzg9sgl7ka5giiwgf6"
       }
     ],
     "1.7.0-beta.2": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.2",
-        "sha256": "01m89amafc82l5pxap1jklsrbyxk1wgi5ym801zb248fkf7aj2vy"
+        "sha256": "1cfkyw9ws0pqvp9jpsriv9mxzr6fazg5pza7gwlb7mja3nqblc5n"
       }
     ],
     "1.7.0-beta.1": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.1",
-        "sha256": "14q12vbj12l2js5369f6hj1mnzvq11sxcjrbp0bx9dvynwijjgzf"
+        "sha256": "1bm9xva5w12j6hiybn6bzcnciqxy6d7d5pwz7xr1z7dyhl4l208d"
       }
     ],
     "1.6.0": [
@@ -134630,38 +134614,6 @@
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/download/v1.6/Peace_MOD.ReaperThemeZip",
         "sha256": "1899y1ly8yfjn7i4nzy093zr0hfk7l6k822isxzgvfhmahmnhvpj"
-      }
-    ]
-  },
-  "sockmonkey72_Rewind 1s.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Rewind 1s.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Rewind%201s.lua",
-        "sha256": "084h4321kamxycwjrcp6sb3xii62bcxa3bn5y23rw0knfin23bry"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Rewind 1s.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Rewind%201s.lua",
-        "sha256": "084h4321kamxycwjrcp6sb3xii62bcxa3bn5y23rw0knfin23bry"
-      }
-    ]
-  },
-  "sockmonkey72_Fast forward 1s.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Fast forward 1s.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Fast%20forward%201s.lua",
-        "sha256": "03i6vj5kkrqgm6ws46lfm2f477b87wnhgrjyr5ls0wnb7p68l2a5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Transport/sockmonkey72_Fast forward 1s.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Transport/sockmonkey72_Fast%20forward%201s.lua",
-        "sha256": "03i6vj5kkrqgm6ws46lfm2f477b87wnhgrjyr5ls0wnb7p68l2a5"
       }
     ]
   },
@@ -134724,6 +134676,54 @@
         "path": "Scripts/sockmonkey72 Scripts/Grouping/sockmonkey72_SmartItemGroupUngroup.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Grouping/sockmonkey72_SmartItemGroupUngroup.lua",
         "sha256": "1jmnzn2cjj5583lqpw450hzpqz6pzl3mrqn8rh7ya4jbxr00586z"
+      }
+    ]
+  },
+  "sockmonkey72_ToggleSendVolumeEnvelopes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
+        "sha256": "0n0paxjqf1yjrdxhgpank6gh08fidfa6c6min379vhf5hlk7q7h2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
+        "sha256": "0n0paxjqf1yjrdxhgpank6gh08fidfa6c6min379vhf5hlk7q7h2"
+      }
+    ]
+  },
+  "sockmonkey72_ToggleWidthEnvelopes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
+      }
+    ]
+  },
+  "sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
+        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
+        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
       }
     ]
   }
