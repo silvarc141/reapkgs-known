@@ -5,9 +5,7 @@ This repo repackages ReaPack indexes listed as 'known' on [reapack.com](https://
 >[!Warning]
 >Package data generation is automated, this flake provides no additional vetting of packages, beside the fact they are from the 'known' indexes.
 
-## Usage (TODO)
-
-### Home Manager + no module
+## Usage (home manager)
 
 (in flake.nix)
 ```nix
