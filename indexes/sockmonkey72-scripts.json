@@ -1,4 +1,104 @@
 {
+  "automidireset.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "1nz0yxcnkk5j5wpygwgxmk3pg6hbl35gpvv9wcwcmqs1fkzmy479"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x86_64.so",
+        "sha256": "0mzj3ig8hq01amw3q1wgkzi6q0in29iy7h65skhs8bkb7shi3d1q"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_aarch64.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_aarch64.so",
+        "sha256": "0xpx19x93hf17c41vydg2mnsgan7qs3hif1dcyzlhzzvbayfgkk2"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "1shx43lyq8xyaiphx2h1664vn0dwmajl5fhp48fdcq5x75s494hv"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "00s4j935704kfmw568cllqaq9hx3dn4ycv3r66vy3cj71vl0vxyc"
+      }
+    ],
+    "1.4.0": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "1nz0yxcnkk5j5wpygwgxmk3pg6hbl35gpvv9wcwcmqs1fkzmy479"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x86_64.so",
+        "sha256": "0mzj3ig8hq01amw3q1wgkzi6q0in29iy7h65skhs8bkb7shi3d1q"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_aarch64.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_aarch64.so",
+        "sha256": "0xpx19x93hf17c41vydg2mnsgan7qs3hif1dcyzlhzzvbayfgkk2"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "1shx43lyq8xyaiphx2h1664vn0dwmajl5fhp48fdcq5x75s494hv"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "00s4j935704kfmw568cllqaq9hx3dn4ycv3r66vy3cj71vl0vxyc"
+      }
+    ],
+    "1.3.1": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "038nlpwha36h8k8cx6p9v02plpq4srndd34miykv26w714nc29pa"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.so",
+        "sha256": "1kapwhwah0bizmsrfj0q8mmasv0vbirhn704ddxb622vx210qpnk"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "0lmqb6q0l14c26n4pvkvsj1s7nvp46nrnf9iy4n3jja72gzi9qnr"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "048s3xr987dy7dvskly5s2namc7hrfyrv53wyk45k924373z3br9"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "UserPlugins/reaper_automidireset.dylib",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.dylib",
+        "sha256": "0h3qzflzv7cjm6b1yc4pkq9lzv84aiys4zngasgz1qclimp6f5fn"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset.so",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.so",
+        "sha256": "19qvkq1kgnghbdxq5ynas64f3p9q8zy353cikqz6j9irzb6xrndj"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_w32.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_w32.dll",
+        "sha256": "0s4szq7m77zpch3yqygzb5sp8qlvwvr5bs4h3rkf875fxxxp8qlj"
+      },
+      {
+        "path": "UserPlugins/reaper_automidireset_x64.dll",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_x64.dll",
+        "sha256": "0ad13906imn3hgxfpc1knds935xx4y15jsgskivyx0flvyp1rhq4"
+      }
+    ]
+  },
   "MIDIUtils.lua": {
     "latest": [
       {
@@ -1285,106 +1385,6 @@
       }
     ]
   },
-  "automidireset.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "1nz0yxcnkk5j5wpygwgxmk3pg6hbl35gpvv9wcwcmqs1fkzmy479"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x86_64.so",
-        "sha256": "0mzj3ig8hq01amw3q1wgkzi6q0in29iy7h65skhs8bkb7shi3d1q"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_aarch64.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_aarch64.so",
-        "sha256": "0xpx19x93hf17c41vydg2mnsgan7qs3hif1dcyzlhzzvbayfgkk2"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "1shx43lyq8xyaiphx2h1664vn0dwmajl5fhp48fdcq5x75s494hv"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "00s4j935704kfmw568cllqaq9hx3dn4ycv3r66vy3cj71vl0vxyc"
-      }
-    ],
-    "1.4.0": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "1nz0yxcnkk5j5wpygwgxmk3pg6hbl35gpvv9wcwcmqs1fkzmy479"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x86_64.so",
-        "sha256": "0mzj3ig8hq01amw3q1wgkzi6q0in29iy7h65skhs8bkb7shi3d1q"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_aarch64.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_aarch64.so",
-        "sha256": "0xpx19x93hf17c41vydg2mnsgan7qs3hif1dcyzlhzzvbayfgkk2"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "1shx43lyq8xyaiphx2h1664vn0dwmajl5fhp48fdcq5x75s494hv"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a002e0bd09da8eeeebbc675472c72bc1dae548b3/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "00s4j935704kfmw568cllqaq9hx3dn4ycv3r66vy3cj71vl0vxyc"
-      }
-    ],
-    "1.3.1": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "038nlpwha36h8k8cx6p9v02plpq4srndd34miykv26w714nc29pa"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset.so",
-        "sha256": "1kapwhwah0bizmsrfj0q8mmasv0vbirhn704ddxb622vx210qpnk"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "0lmqb6q0l14c26n4pvkvsj1s7nvp46nrnf9iy4n3jja72gzi9qnr"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/a67521ebb4a93751af0c55cf43b2bd231c2f08a6/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "048s3xr987dy7dvskly5s2namc7hrfyrv53wyk45k924373z3br9"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "UserPlugins/reaper_automidireset.dylib",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.dylib",
-        "sha256": "0h3qzflzv7cjm6b1yc4pkq9lzv84aiys4zngasgz1qclimp6f5fn"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset.so",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset.so",
-        "sha256": "19qvkq1kgnghbdxq5ynas64f3p9q8zy353cikqz6j9irzb6xrndj"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_w32.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_w32.dll",
-        "sha256": "0s4szq7m77zpch3yqygzb5sp8qlvwvr5bs4h3rkf875fxxxp8qlj"
-      },
-      {
-        "path": "UserPlugins/reaper_automidireset_x64.dll",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/4ffd7a618e665c79facb91a1daa831e843b883c5/MIDI/automidireset/reaper_automidireset_x64.dll",
-        "sha256": "0ad13906imn3hgxfpc1knds935xx4y15jsgskivyx0flvyp1rhq4"
-      }
-    ]
-  },
   "childwindow.ext": {
     "latest": [
       {
@@ -1870,22 +1870,6 @@
       }
     ]
   },
-  "sockmonkey72_CalcProjectMediaFootprint.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
-      }
-    ]
-  },
   "sockmonkey72_FuzzyFloatCmpUtil.lua": {
     "latest": [
       {
@@ -1923,6 +1907,22 @@
       }
     ]
   },
+  "sockmonkey72_CalcProjectMediaFootprint.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
+      }
+    ]
+  },
   "sockmonkey72_Smarter_Zoom.lua": {
     "latest": [
       {
@@ -1953,22 +1953,6 @@
       }
     ]
   },
-  "sockmonkey72_ToggleTimeSelection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
-      }
-    ]
-  },
   "sockmonkey72_StartupManager.lua": {
     "latest": [
       {
@@ -1996,6 +1980,22 @@
         "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_StartupManager.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/d62aeeea80961587727f458793dd2ea5f1ea769c/Various/sockmonkey72_StartupManager.lua",
         "sha256": "1548bx7j843szp8gsfys5p22ssgdkxx67cqmdccl0wp0pn4sasxd"
+      }
+    ]
+  },
+  "sockmonkey72_ToggleTimeSelection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
       }
     ]
   },
@@ -2719,57 +2719,57 @@
     "latest": [
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
         "sha256": "0hqwhd7ijvsx9na7fnmh6vsdqjhvcxyka7klkkzswk71digbi3my"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
         "sha256": "0zqx5z2hsqglpvf6vqz0190k1mvh8ng811xai2kg8rbnhkk4vhf6"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
         "sha256": "021ng3qnnj33f8q2l49z19ipl0k4m8218wb2wmdfyhi7p1z3sdaj"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Global.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Global.lua",
-        "sha256": "1i2fp5n1y84gp96spjms8ldyscf4p2s8av11fpxxg7h9fp9mp8gi"
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "sha256": "0qs93xf1i2xknmm7c5wgd7h77i5gzxx7aylfmcyg1lfy049hkgkh"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
-        "sha256": "13ci2dq2j3548xzs4qndh9nijdbrj4r874byrq206lnh0h3xy5jq"
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "sha256": "10fzyc80ydi11pyrnnqqjw8aq8515sn029j9swnab3a68ksyamkn"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
         "sha256": "0lbh2y2k0khhks8hagnbjhqlrw3h16axdp4q9qxgzz82mavj23m9"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
-        "sha256": "0skmahkcxbps4gkmc5nns6yhr5xl35xswgxv9dpj51nx58p0d0dw"
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "sha256": "1ij9xb6ydmrp51814rdgfimd3693acpw0g834bhg3a0pp9rjkfgn"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
-        "sha256": "0vj2c4yb7ak64ijr7sf3zgz6sj27ncm5sc2y7z0b46qh3sdj83dz"
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "sha256": "1b2pf85853v14zcly4qaw9d85jm34q33q1bhr59r92v3f9r4k836"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
         "sha256": "0gs5jf186drgkbzci4wfl2hj48zrcy6g6zmysqr85r71i0mxxv4b"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
         "sha256": "0ix89ykij93vhwl1bi62sjl8ayl44nrwz5liqpp101691q6kh747"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
         "sha256": "1kq81k2nrnx9lfzsxk2qky23ys1b1z9a69z5xj8wnvacfd57dm9a"
       },
       {
@@ -2779,97 +2779,568 @@
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_CMD.pdf",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MRE_CMD.pdf",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MRE_CMD.pdf",
         "sha256": "1vj5jpn2406cdnij7wcdphh5v4nsagni7hcca07kvbasdw6h9awi"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_README.md",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/MRE_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MRE_README.md",
         "sha256": "13fjv15qf1b8yhrs8c5mcckkzm0c1s8f6dgi9xays8w7917dq17r"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/PitchBendMode_README.md",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/PitchBendMode_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/PitchBendMode_README.md",
         "sha256": "15dfv438y563ag7rq7vp2g61rvqwkqxpi92flljq605bv00s581k"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend.cur",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/bend.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/bend.cur",
         "sha256": "0mh1zw9bmgzzs6lnxh037c6ianj5yg4qccd2hvrklbmdyfdn81g0"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend_rmb.cur",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/bend_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/bend_rmb.cur",
         "sha256": "02bk6czs8z6ld4i1nb7vnmbwyzi63diz35km8a5b994sb73ai620"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/curve.cur",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/curve.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/curve.cur",
         "sha256": "14a1b67sz1zbyj4d982ami747minrpz8pav7xw04shyxxnfm6z2i"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/LICENSE",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/lua-scala/LICENSE",
         "sha256": "1p9mcqxm9dssvhczzkc5dysnnmwbb61g5zib2g587pq0rjalc0gx"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/scl.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/lua-scala/scl.lua",
         "sha256": "03040v9vk80nnym5jn3kwdghxk46as3hhjrxyqikvm7g2cy525nm"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
         "sha256": "0dd2x3xkr54gqia2czh18gy5bhzimx73al9zxcwxhvwjll0pmi24"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/README.md",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/lib/semver/README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/semver/README.md",
         "sha256": "15x4r5y7p2x3prv7nqxl8npqk7lrh0iimf4xbjmz408sw86hdinq"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/semver.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/lib/semver/semver.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/semver/semver.lua",
         "sha256": "0jw6fgw0z6b9g5czcrgk3dn9qacif078lmq1sl24zzsavqy5y6n9"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/rmb.cur",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/rmb.cur",
         "sha256": "0ghbfip7yf97mgdb2rzsra7adc19g9032pzj5k2gyn6a2vrg1pxj"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer.cur",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/slicer.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/slicer.cur",
         "sha256": "1bvrghps7lwb1ngm5r9y2lwbyshkrp0aznv95xv519k8vgxjiyq0"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer_rmb.cur",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/RazorEdits/slicer_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/slicer_rmb.cur",
         "sha256": "0i7q5rhwk9pxn92kky8f1rid791h3id2xvnd0fm6lx9zjdnsgl9j"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/sockmonkey72_MIDIRazorEdits.lua",
-        "sha256": "0jgzvjikq0fmxysqk525asg89d69553mppcbw5pl8hb7hj0ghva1"
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "sha256": "0qbr14144zg6dd3rz0jf0x92sna9vv2r3a9bsxjwhb76zbvwxy0a"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
         "sha256": "0kd2ir0daf2ww00jabx80pxpsnjad2xdr2h8k2blfgl7glf03bpp"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
         "sha256": "1hykzizds95xmhjkx8vy3c52c9nfpaia0rcbfcp5bi9r7l0gs370"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "sha256": "1hz7d2l20h9r32vi4xmw3a6fnlhzqvbvd3xw4kwx25gsgcb9kykx"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "sha256": "1sypklaxab8pmk5bcavp8rxjivakc9hg0c3wwsg2p429qcdadv0m"
+      }
+    ],
+    "1.5.1-beta.4": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "sha256": "0hqwhd7ijvsx9na7fnmh6vsdqjhvcxyka7klkkzswk71digbi3my"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "sha256": "0zqx5z2hsqglpvf6vqz0190k1mvh8ng811xai2kg8rbnhkk4vhf6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "sha256": "021ng3qnnj33f8q2l49z19ipl0k4m8218wb2wmdfyhi7p1z3sdaj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "sha256": "0qs93xf1i2xknmm7c5wgd7h77i5gzxx7aylfmcyg1lfy049hkgkh"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "sha256": "10fzyc80ydi11pyrnnqqjw8aq8515sn029j9swnab3a68ksyamkn"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "sha256": "0lbh2y2k0khhks8hagnbjhqlrw3h16axdp4q9qxgzz82mavj23m9"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "sha256": "1ij9xb6ydmrp51814rdgfimd3693acpw0g834bhg3a0pp9rjkfgn"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "sha256": "1b2pf85853v14zcly4qaw9d85jm34q33q1bhr59r92v3f9r4k836"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "sha256": "0gs5jf186drgkbzci4wfl2hj48zrcy6g6zmysqr85r71i0mxxv4b"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "sha256": "0ix89ykij93vhwl1bi62sjl8ayl44nrwz5liqpp101691q6kh747"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "sha256": "1kq81k2nrnx9lfzsxk2qky23ys1b1z9a69z5xj8wnvacfd57dm9a"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIUtils.lua",
+        "url": "https://raw.githubusercontent.com/jeremybernstein/ReaScripts/refs/heads/jb/extents_fixup/MIDI/MIDIUtils.lua",
+        "sha256": "0z0kkcp1f9jgm15ymvqkjwp2rpgv002lx3grxv07rjbq3pd8pvkv"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_CMD.pdf",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MRE_CMD.pdf",
+        "sha256": "1vj5jpn2406cdnij7wcdphh5v4nsagni7hcca07kvbasdw6h9awi"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/MRE_README.md",
+        "sha256": "13fjv15qf1b8yhrs8c5mcckkzm0c1s8f6dgi9xays8w7917dq17r"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/PitchBendMode_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/PitchBendMode_README.md",
+        "sha256": "15dfv438y563ag7rq7vp2g61rvqwkqxpi92flljq605bv00s581k"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/bend.cur",
+        "sha256": "0mh1zw9bmgzzs6lnxh037c6ianj5yg4qccd2hvrklbmdyfdn81g0"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/bend_rmb.cur",
+        "sha256": "02bk6czs8z6ld4i1nb7vnmbwyzi63diz35km8a5b994sb73ai620"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/curve.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/curve.cur",
+        "sha256": "14a1b67sz1zbyj4d982ami747minrpz8pav7xw04shyxxnfm6z2i"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "sha256": "1p9mcqxm9dssvhczzkc5dysnnmwbb61g5zib2g587pq0rjalc0gx"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "sha256": "03040v9vk80nnym5jn3kwdghxk46as3hhjrxyqikvm7g2cy525nm"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "sha256": "0dd2x3xkr54gqia2czh18gy5bhzimx73al9zxcwxhvwjll0pmi24"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/semver/README.md",
+        "sha256": "15x4r5y7p2x3prv7nqxl8npqk7lrh0iimf4xbjmz408sw86hdinq"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/semver.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/lib/semver/semver.lua",
+        "sha256": "0jw6fgw0z6b9g5czcrgk3dn9qacif078lmq1sl24zzsavqy5y6n9"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/rmb.cur",
+        "sha256": "0ghbfip7yf97mgdb2rzsra7adc19g9032pzj5k2gyn6a2vrg1pxj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/slicer.cur",
+        "sha256": "1bvrghps7lwb1ngm5r9y2lwbyshkrp0aznv95xv519k8vgxjiyq0"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/RazorEdits/slicer_rmb.cur",
+        "sha256": "0i7q5rhwk9pxn92kky8f1rid791h3id2xvnd0fm6lx9zjdnsgl9j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "sha256": "0qbr14144zg6dd3rz0jf0x92sna9vv2r3a9bsxjwhb76zbvwxy0a"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "sha256": "0kd2ir0daf2ww00jabx80pxpsnjad2xdr2h8k2blfgl7glf03bpp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "sha256": "1hykzizds95xmhjkx8vy3c52c9nfpaia0rcbfcp5bi9r7l0gs370"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "sha256": "1hz7d2l20h9r32vi4xmw3a6fnlhzqvbvd3xw4kwx25gsgcb9kykx"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b485c68412f5d6c91b1c76a828329d972c9513bb/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "sha256": "1sypklaxab8pmk5bcavp8rxjivakc9hg0c3wwsg2p429qcdadv0m"
+      }
+    ],
+    "1.5.1-beta.3": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "sha256": "0hqwhd7ijvsx9na7fnmh6vsdqjhvcxyka7klkkzswk71digbi3my"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "sha256": "0zqx5z2hsqglpvf6vqz0190k1mvh8ng811xai2kg8rbnhkk4vhf6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "sha256": "021ng3qnnj33f8q2l49z19ipl0k4m8218wb2wmdfyhi7p1z3sdaj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "sha256": "1i2fp5n1y84gp96spjms8ldyscf4p2s8av11fpxxg7h9fp9mp8gi"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "sha256": "16jfbwskkxpaw2mkbxlgdga75fd43palp9rhr3lrkzvlg5kpg692"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "sha256": "0lbh2y2k0khhks8hagnbjhqlrw3h16axdp4q9qxgzz82mavj23m9"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "sha256": "0skmahkcxbps4gkmc5nns6yhr5xl35xswgxv9dpj51nx58p0d0dw"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "sha256": "139wmv8fc9y04lhxjq2fnbm9i8i2wmavr4hxiz5mnlx6nppv6l0b"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "sha256": "0gs5jf186drgkbzci4wfl2hj48zrcy6g6zmysqr85r71i0mxxv4b"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "sha256": "0ix89ykij93vhwl1bi62sjl8ayl44nrwz5liqpp101691q6kh747"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "sha256": "1kq81k2nrnx9lfzsxk2qky23ys1b1z9a69z5xj8wnvacfd57dm9a"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIUtils.lua",
+        "url": "https://raw.githubusercontent.com/jeremybernstein/ReaScripts/refs/heads/jb/extents_fixup/MIDI/MIDIUtils.lua",
+        "sha256": "0z0kkcp1f9jgm15ymvqkjwp2rpgv002lx3grxv07rjbq3pd8pvkv"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_CMD.pdf",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MRE_CMD.pdf",
+        "sha256": "1vj5jpn2406cdnij7wcdphh5v4nsagni7hcca07kvbasdw6h9awi"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/MRE_README.md",
+        "sha256": "13fjv15qf1b8yhrs8c5mcckkzm0c1s8f6dgi9xays8w7917dq17r"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/PitchBendMode_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/PitchBendMode_README.md",
+        "sha256": "15dfv438y563ag7rq7vp2g61rvqwkqxpi92flljq605bv00s581k"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/bend.cur",
+        "sha256": "0mh1zw9bmgzzs6lnxh037c6ianj5yg4qccd2hvrklbmdyfdn81g0"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/bend_rmb.cur",
+        "sha256": "02bk6czs8z6ld4i1nb7vnmbwyzi63diz35km8a5b994sb73ai620"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/curve.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/curve.cur",
+        "sha256": "14a1b67sz1zbyj4d982ami747minrpz8pav7xw04shyxxnfm6z2i"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "sha256": "1p9mcqxm9dssvhczzkc5dysnnmwbb61g5zib2g587pq0rjalc0gx"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "sha256": "03040v9vk80nnym5jn3kwdghxk46as3hhjrxyqikvm7g2cy525nm"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "sha256": "0dd2x3xkr54gqia2czh18gy5bhzimx73al9zxcwxhvwjll0pmi24"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/lib/semver/README.md",
+        "sha256": "15x4r5y7p2x3prv7nqxl8npqk7lrh0iimf4xbjmz408sw86hdinq"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/semver.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/lib/semver/semver.lua",
+        "sha256": "0jw6fgw0z6b9g5czcrgk3dn9qacif078lmq1sl24zzsavqy5y6n9"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/rmb.cur",
+        "sha256": "0ghbfip7yf97mgdb2rzsra7adc19g9032pzj5k2gyn6a2vrg1pxj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/slicer.cur",
+        "sha256": "1bvrghps7lwb1ngm5r9y2lwbyshkrp0aznv95xv519k8vgxjiyq0"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/RazorEdits/slicer_rmb.cur",
+        "sha256": "0i7q5rhwk9pxn92kky8f1rid791h3id2xvnd0fm6lx9zjdnsgl9j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "sha256": "0rfr10dq9ls19x3ag35881csbjljix980q03p2va6djqn49p0q98"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "sha256": "0kd2ir0daf2ww00jabx80pxpsnjad2xdr2h8k2blfgl7glf03bpp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "sha256": "1hykzizds95xmhjkx8vy3c52c9nfpaia0rcbfcp5bi9r7l0gs370"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
         "sha256": "1farqpnf3jx57jj8fmzv7sfzj2v7vic1m9vmizsmy0sph5b9bxnp"
       },
       {
         "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/0bb5fe03b721b11ec6644fbca1d8ccf62db45bd6/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/524c9120f6d6ae9e9ae9b2737cadb707568aac8b/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "sha256": "1sypklaxab8pmk5bcavp8rxjivakc9hg0c3wwsg2p429qcdadv0m"
+      }
+    ],
+    "1.5.1-beta.2": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Analyze.lua",
+        "sha256": "0hqwhd7ijvsx9na7fnmh6vsdqjhvcxyka7klkkzswk71digbi3my"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Classes.lua",
+        "sha256": "0zqx5z2hsqglpvf6vqz0190k1mvh8ng811xai2kg8rbnhkk4vhf6"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Coords.lua",
+        "sha256": "021ng3qnnj33f8q2l49z19ipl0k4m8218wb2wmdfyhi7p1z3sdaj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Global.lua",
+        "sha256": "1i2fp5n1y84gp96spjms8ldyscf4p2s8av11fpxxg7h9fp9mp8gi"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Helper.lua",
+        "sha256": "13ci2dq2j3548xzs4qndh9nijdbrj4r874byrq206lnh0h3xy5jq"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Keys.lua",
+        "sha256": "0lbh2y2k0khhks8hagnbjhqlrw3h16axdp4q9qxgzz82mavj23m9"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_LICE.lua",
+        "sha256": "0skmahkcxbps4gkmc5nns6yhr5xl35xswgxv9dpj51nx58p0d0dw"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Lib.lua",
+        "sha256": "139wmv8fc9y04lhxjq2fnbm9i8i2wmavr4hxiz5mnlx6nppv6l0b"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Mode.lua",
+        "sha256": "0gs5jf186drgkbzci4wfl2hj48zrcy6g6zmysqr85r71i0mxxv4b"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_PitchBend.lua",
+        "sha256": "0ix89ykij93vhwl1bi62sjl8ayl44nrwz5liqpp101691q6kh747"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MIDIRazorEdits_Slicer.lua",
+        "sha256": "1kq81k2nrnx9lfzsxk2qky23ys1b1z9a69z5xj8wnvacfd57dm9a"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MIDIUtils.lua",
+        "url": "https://raw.githubusercontent.com/jeremybernstein/ReaScripts/refs/heads/jb/extents_fixup/MIDI/MIDIUtils.lua",
+        "sha256": "0z0kkcp1f9jgm15ymvqkjwp2rpgv002lx3grxv07rjbq3pd8pvkv"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_CMD.pdf",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MRE_CMD.pdf",
+        "sha256": "1vj5jpn2406cdnij7wcdphh5v4nsagni7hcca07kvbasdw6h9awi"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/MRE_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/MRE_README.md",
+        "sha256": "13fjv15qf1b8yhrs8c5mcckkzm0c1s8f6dgi9xays8w7917dq17r"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/PitchBendMode_README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/PitchBendMode_README.md",
+        "sha256": "15dfv438y563ag7rq7vp2g61rvqwkqxpi92flljq605bv00s581k"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/bend.cur",
+        "sha256": "0mh1zw9bmgzzs6lnxh037c6ianj5yg4qccd2hvrklbmdyfdn81g0"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/bend_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/bend_rmb.cur",
+        "sha256": "02bk6czs8z6ld4i1nb7vnmbwyzi63diz35km8a5b994sb73ai620"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/curve.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/curve.cur",
+        "sha256": "14a1b67sz1zbyj4d982ami747minrpz8pav7xw04shyxxnfm6z2i"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/lib/lua-scala/LICENSE",
+        "sha256": "1p9mcqxm9dssvhczzkc5dysnnmwbb61g5zib2g587pq0rjalc0gx"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/lib/lua-scala/scl.lua",
+        "sha256": "03040v9vk80nnym5jn3kwdghxk46as3hhjrxyqikvm7g2cy525nm"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/lib/semver/MIT-LICENSE.txt",
+        "sha256": "0dd2x3xkr54gqia2czh18gy5bhzimx73al9zxcwxhvwjll0pmi24"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/README.md",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/lib/semver/README.md",
+        "sha256": "15x4r5y7p2x3prv7nqxl8npqk7lrh0iimf4xbjmz408sw86hdinq"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/lib/semver/semver.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/lib/semver/semver.lua",
+        "sha256": "0jw6fgw0z6b9g5czcrgk3dn9qacif078lmq1sl24zzsavqy5y6n9"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/rmb.cur",
+        "sha256": "0ghbfip7yf97mgdb2rzsra7adc19g9032pzj5k2gyn6a2vrg1pxj"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/slicer.cur",
+        "sha256": "1bvrghps7lwb1ngm5r9y2lwbyshkrp0aznv95xv519k8vgxjiyq0"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/RazorEdits/slicer_rmb.cur",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/RazorEdits/slicer_rmb.cur",
+        "sha256": "0i7q5rhwk9pxn92kky8f1rid791h3id2xvnd0fm6lx9zjdnsgl9j"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/sockmonkey72_MIDIRazorEdits.lua",
+        "sha256": "1dnkkhbfpmi70s4jrsswj5l2jcagzfbyar0ksyh7iqw1yklg0gby"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_PitchBend.lua",
+        "sha256": "0kd2ir0daf2ww00jabx80pxpsnjad2xdr2h8k2blfgl7glf03bpp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_SelectedNotes.lua",
+        "sha256": "1hykzizds95xmhjkx8vy3c52c9nfpaia0rcbfcp5bi9r7l0gs370"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Settings.lua",
+        "sha256": "1farqpnf3jx57jj8fmzv7sfzj2v7vic1m9vmizsmy0sph5b9bxnp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/MIDI Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/868e5fdca026ea41f3d28596005065f4f8f630d8/MIDI%20Editor/sockmonkey72_MIDIRazorEdits_Slicer.lua",
         "sha256": "1sypklaxab8pmk5bcavp8rxjivakc9hg0c3wwsg2p429qcdadv0m"
       }
     ],
@@ -137835,28 +138306,28 @@
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.4",
-        "sha256": "1j3a7kaswrzyzpb4dmv4ba3g30lwp692mx32za6p5xywp9rbdhfh"
+        "sha256": "094bdiyn2ngjf0131g6xq7y37lk21xqvxcixmqk13zyq2b1zb16g"
       }
     ],
     "1.7.0-beta.3": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.3",
-        "sha256": "05bk9xgdis9ckfjs7q4zg6vivycb2ylg0kyc0z28kmx16cha2z5y"
+        "sha256": "1phgz0arkmi246lp8h7id2yyhiip3xc8bn3k7isnxaf6mislbgz1"
       }
     ],
     "1.7.0-beta.2": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.2",
-        "sha256": "07nc5kpsz7xaqmbb380sm7zxd56y9504nar3ifn5jbsjz0fxkcaq"
+        "sha256": "0ba7l3n3i6pak6i239lilik2b6nfcksmnwlabdlx57s66qwc9l6h"
       }
     ],
     "1.7.0-beta.1": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.1",
-        "sha256": "1dcd9czp17zlbkgn0371n0hlag2c3d8cy3zva7w18717qzszsa29"
+        "sha256": "0z4ld7sswqbw88b6rybqbbxhvvvjgxjaw1p912v3sz5v91p365bj"
       }
     ],
     "1.6.0": [
