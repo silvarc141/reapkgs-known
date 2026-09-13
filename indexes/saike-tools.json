@@ -2328,6 +2328,36 @@
       }
     ]
   },
+  "Transience.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/86789a8c95fdce21ab278978c45a1ffc1f863adf/Basics/Transience.jsfx",
+        "sha256": "11vpr3idsgdwhms8jbgwpxkjvb6l2bc7h89ghlar4ngrcp7miql3"
+      }
+    ],
+    "0.03": [
+      {
+        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/86789a8c95fdce21ab278978c45a1ffc1f863adf/Basics/Transience.jsfx",
+        "sha256": "11vpr3idsgdwhms8jbgwpxkjvb6l2bc7h89ghlar4ngrcp7miql3"
+      }
+    ],
+    "0.02": [
+      {
+        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/05ce5b27c3e2c7c74fbce3d356dd2eb6de1e5fd5/Basics/Transience.jsfx",
+        "sha256": "1gln23cvvpcl5piznfdngnyzh0gz21hp1fxlgrr8ahkflqpjwncj"
+      }
+    ],
+    "0.01": [
+      {
+        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/96b71d7b29fea748d391fd5a8a28a8bdbdbaa467/Basics/Transience.jsfx",
+        "sha256": "0s2w2h49hzpjabhh9v4lawfmn2fy36ygsvim1533cba9d10sirxq"
+      }
+    ]
+  },
   "wahriffic.jsfx": {
     "latest": [
       {
@@ -2363,36 +2393,6 @@
         "path": "Effects/Saike Tools/Basics/wahriffic.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/70116bf6af7d9fd6186db4b2d84367af843a417a/Basics/wahriffic.jsfx",
         "sha256": "0nmkwjkrahh4dz5r3rvlx0sfg9xb6aw6biqg2q2f9lhqkmcjbd3k"
-      }
-    ]
-  },
-  "Transience.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/86789a8c95fdce21ab278978c45a1ffc1f863adf/Basics/Transience.jsfx",
-        "sha256": "11vpr3idsgdwhms8jbgwpxkjvb6l2bc7h89ghlar4ngrcp7miql3"
-      }
-    ],
-    "0.03": [
-      {
-        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/86789a8c95fdce21ab278978c45a1ffc1f863adf/Basics/Transience.jsfx",
-        "sha256": "11vpr3idsgdwhms8jbgwpxkjvb6l2bc7h89ghlar4ngrcp7miql3"
-      }
-    ],
-    "0.02": [
-      {
-        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/05ce5b27c3e2c7c74fbce3d356dd2eb6de1e5fd5/Basics/Transience.jsfx",
-        "sha256": "1gln23cvvpcl5piznfdngnyzh0gz21hp1fxlgrr8ahkflqpjwncj"
-      }
-    ],
-    "0.01": [
-      {
-        "path": "Effects/Saike Tools/Basics/Transience.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/96b71d7b29fea748d391fd5a8a28a8bdbdbaa467/Basics/Transience.jsfx",
-        "sha256": "0s2w2h49hzpjabhh9v4lawfmn2fy36ygsvim1533cba9d10sirxq"
       }
     ]
   },
@@ -3795,18 +3795,6 @@
         "sha256": "10x3xfa2zmrkd4ba0cxr3q8axmnhs724ffg3gkbh3ac5yvwa3y38"
       }
     ],
-    "2.49": [
-      {
-        "path": "Effects/Saike Tools/Filther/Filther.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/410b3406fd6105f99c911181240695eecb8a6783/Filther/Filther.jsfx",
-        "sha256": "01385fbszg4y3kyz18kab79kyn001ic1fsyxlh6a27c45a6ryd7q"
-      },
-      {
-        "path": "Effects/Saike Tools/Filther/Filther.jsfx.rpl",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/410b3406fd6105f99c911181240695eecb8a6783/Filther/Filther.jsfx.rpl",
-        "sha256": "10x3xfa2zmrkd4ba0cxr3q8axmnhs724ffg3gkbh3ac5yvwa3y38"
-      }
-    ],
     "2.48": [
       {
         "path": "Effects/Saike Tools/Filther/Filther.jsfx",
@@ -3816,6 +3804,18 @@
       {
         "path": "Effects/Saike Tools/Filther/Filther.jsfx.rpl",
         "url": "https://github.com/JoepVanlier/JSFX/raw/e7abda2e9fe2d8a245e41851fc641607b6786408/Filther/Filther.jsfx.rpl",
+        "sha256": "10x3xfa2zmrkd4ba0cxr3q8axmnhs724ffg3gkbh3ac5yvwa3y38"
+      }
+    ],
+    "2.49": [
+      {
+        "path": "Effects/Saike Tools/Filther/Filther.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/410b3406fd6105f99c911181240695eecb8a6783/Filther/Filther.jsfx",
+        "sha256": "01385fbszg4y3kyz18kab79kyn001ic1fsyxlh6a27c45a6ryd7q"
+      },
+      {
+        "path": "Effects/Saike Tools/Filther/Filther.jsfx.rpl",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/410b3406fd6105f99c911181240695eecb8a6783/Filther/Filther.jsfx.rpl",
         "sha256": "10x3xfa2zmrkd4ba0cxr3q8axmnhs724ffg3gkbh3ac5yvwa3y38"
       }
     ],
@@ -6203,22 +6203,6 @@
       }
     ]
   },
-  "StereoSpectrumSplit.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Saike Tools/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/0eeb6f249e4c48143bd75a3db4c2317ee41152da/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
-        "sha256": "0zq9r02kjbbjmpw24rhwmzrzyxhbb53l164rrlaz25ipl9fcvwzz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Saike Tools/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/0eeb6f249e4c48143bd75a3db4c2317ee41152da/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
-        "sha256": "0zq9r02kjbbjmpw24rhwmzrzyxhbb53l164rrlaz25ipl9fcvwzz"
-      }
-    ]
-  },
   "SaikeMultiSpectralAnalyzer_MK2.jsfx": {
     "latest": [
       {
@@ -6248,6 +6232,22 @@
         "path": "Effects/Saike Tools/SpectrumAnalyzer/StereoManipulator.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/0eeb6f249e4c48143bd75a3db4c2317ee41152da/SpectrumAnalyzer/StereoManipulator.jsfx",
         "sha256": "13pywbwhwg974mvbdslvrfwzhb7n3mykafhfhmi2npk4rc1yv9bx"
+      }
+    ]
+  },
+  "StereoSpectrumSplit.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Saike Tools/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/0eeb6f249e4c48143bd75a3db4c2317ee41152da/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
+        "sha256": "0zq9r02kjbbjmpw24rhwmzrzyxhbb53l164rrlaz25ipl9fcvwzz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Saike Tools/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/0eeb6f249e4c48143bd75a3db4c2317ee41152da/SpectrumAnalyzer/StereoSpectrumSplit.jsfx",
+        "sha256": "0zq9r02kjbbjmpw24rhwmzrzyxhbb53l164rrlaz25ipl9fcvwzz"
       }
     ]
   },
@@ -9675,18 +9675,18 @@
         "sha256": "09id60w9wp41wd2nc5ssxsb3gj5lj72cw59s0vz867nlqrmc622l"
       }
     ],
-    "0.10": [
-      {
-        "path": "Effects/Saike Tools/Yutani/Saike_FMFilter2.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Saike_FMFilter2.jsfx",
-        "sha256": "0cda4cx4gdr8fwzr8x541ifs4dhh1x52kgbxxx7ffbwsvbm25kr6"
-      }
-    ],
     "0.09": [
       {
         "path": "Effects/Saike Tools/Yutani/Saike_FMFilter2.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Saike_FMFilter2.jsfx",
         "sha256": "0vq7nb5bp42wnmljmw910m2h198f4nvhfh36cqa2l2b1b0rqpapg"
+      }
+    ],
+    "0.10": [
+      {
+        "path": "Effects/Saike Tools/Yutani/Saike_FMFilter2.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Saike_FMFilter2.jsfx",
+        "sha256": "0cda4cx4gdr8fwzr8x541ifs4dhh1x52kgbxxx7ffbwsvbm25kr6"
       }
     ],
     "0.08": [
@@ -21671,6 +21671,62 @@
         "sha256": "0qj58b7475dd6hqswfwkr2699rr0522nap4srkgcdcvfjgicampj"
       }
     ],
+    "0.08": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/347f5881260cc486c44c13fd1f787e479f041022/SequencedFX/SequencedFX.jsfx",
+        "sha256": "0rl6cf4ycnj658wq6jkk5gh84rj59wr50srxy6kandgvw15h7z6r"
+      }
+    ],
+    "0.13": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/cb4645ab33e73a6ce320a2d423e0d45bf95adfd1/SequencedFX/SequencedFX.jsfx",
+        "sha256": "0cpk2si8x64b1dfgj9ny1dyxlza6x78zi07596cjmykh41lkqchr"
+      }
+    ],
+    "0.14": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/bbe42a75e538c79d2bae72e23c973a919ebbb68b/SequencedFX/SequencedFX.jsfx",
+        "sha256": "0s208swv6v7wdj7lvyri0xqc7maslcms04m8fnv2qlzfq8xnkhph"
+      }
+    ],
+    "0.04": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/85036321fb472f99fd52c38a6d7837d5642676dd/SequencedFX/SequencedFX.jsfx",
+        "sha256": "1c1x28729rb857w930m4bf5xflkla6pddxn0jgq94w9vryladz4g"
+      }
+    ],
+    "0.07": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/1e01cf9c32b8c127fad1a7de39fb32679740d533/SequencedFX/SequencedFX.jsfx",
+        "sha256": "1y2r9q7g7r4dbx77yca2wxayd6hm6v3z3sh9zpp4vxz6l0vklfd1"
+      }
+    ],
+    "0.11": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/d12fb7593501c6820ff6e4f6b2e64e31ebd5731f/SequencedFX/SequencedFX.jsfx",
+        "sha256": "1pvbq0yqalyi318rrl4iqx9hayz60zqfnmf4fv27ba9an6zqrzya"
+      }
+    ],
+    "0.09": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/1a616ccf4bd4586fbf5cf32808b80fdae4899e78/SequencedFX/SequencedFX.jsfx",
+        "sha256": "18lh2ixs15yrffd4vwab2f4fq42kg40i57xxf9680n647lsyf30b"
+      }
+    ],
+    "0.01": [
+      {
+        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/6a147221278d4c29002302d6fa55df69f9230c87/SequencedFX/SequencedFX.jsfx",
+        "sha256": "0z0gzgfn1kaxa2widn31calsi9s4djm6xrf5picikciyqh3vycw8"
+      }
+    ],
     "0.16": [
       {
         "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
@@ -21718,46 +21774,11 @@
         "sha256": "0qj58b7475dd6hqswfwkr2699rr0522nap4srkgcdcvfjgicampj"
       }
     ],
-    "0.14": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/bbe42a75e538c79d2bae72e23c973a919ebbb68b/SequencedFX/SequencedFX.jsfx",
-        "sha256": "0s208swv6v7wdj7lvyri0xqc7maslcms04m8fnv2qlzfq8xnkhph"
-      }
-    ],
-    "0.13": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/cb4645ab33e73a6ce320a2d423e0d45bf95adfd1/SequencedFX/SequencedFX.jsfx",
-        "sha256": "0cpk2si8x64b1dfgj9ny1dyxlza6x78zi07596cjmykh41lkqchr"
-      }
-    ],
     "0.12": [
       {
         "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/26b0a7ebefe0aa9715eb734da73137ea2b26960b/SequencedFX/SequencedFX.jsfx",
         "sha256": "1l0sr2lrfb3ynkzd296pkygs1i86q3cryx9psvccz38j1dbbvpja"
-      }
-    ],
-    "0.09": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/1a616ccf4bd4586fbf5cf32808b80fdae4899e78/SequencedFX/SequencedFX.jsfx",
-        "sha256": "18lh2ixs15yrffd4vwab2f4fq42kg40i57xxf9680n647lsyf30b"
-      }
-    ],
-    "0.08": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/347f5881260cc486c44c13fd1f787e479f041022/SequencedFX/SequencedFX.jsfx",
-        "sha256": "0rl6cf4ycnj658wq6jkk5gh84rj59wr50srxy6kandgvw15h7z6r"
-      }
-    ],
-    "0.11": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/d12fb7593501c6820ff6e4f6b2e64e31ebd5731f/SequencedFX/SequencedFX.jsfx",
-        "sha256": "1pvbq0yqalyi318rrl4iqx9hayz60zqfnmf4fv27ba9an6zqrzya"
       }
     ],
     "0.10": [
@@ -21779,27 +21800,6 @@
         "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/a93eebd62fe8d4b5cfac9ed30a9f4b053f8c1e83/SequencedFX/SequencedFX.jsfx",
         "sha256": "1n0kcxf0djqnlbnwfqjgq677ggawzw9cl8ck3dzc6wljihb2rhsh"
-      }
-    ],
-    "0.07": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/1e01cf9c32b8c127fad1a7de39fb32679740d533/SequencedFX/SequencedFX.jsfx",
-        "sha256": "1y2r9q7g7r4dbx77yca2wxayd6hm6v3z3sh9zpp4vxz6l0vklfd1"
-      }
-    ],
-    "0.04": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/85036321fb472f99fd52c38a6d7837d5642676dd/SequencedFX/SequencedFX.jsfx",
-        "sha256": "1c1x28729rb857w930m4bf5xflkla6pddxn0jgq94w9vryladz4g"
-      }
-    ],
-    "0.01": [
-      {
-        "path": "Effects/Saike Tools/SequencedFX/SequencedFX.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/6a147221278d4c29002302d6fa55df69f9230c87/SequencedFX/SequencedFX.jsfx",
-        "sha256": "0z0gzgfn1kaxa2widn31calsi9s4djm6xrf5picikciyqh3vycw8"
       }
     ]
   },
@@ -23746,6 +23746,13 @@
         "sha256": "05d9f86bz4m6pcw9ckaasf751gh1sh1hv53lam29ya8r5iaar3kh"
       }
     ],
+    "0.06": [
+      {
+        "path": "Effects/Saike Tools/NOTT/nott.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/a1d1260536aa2168c05c8391754b97e464ebede2/NOTT/nott.jsfx",
+        "sha256": "0zxpj6rax99bdjjn20hzdmp7bpc8ksj28pnwi4g9k9ndbcrpn2dl"
+      }
+    ],
     "0.04": [
       {
         "path": "Effects/Saike Tools/NOTT/nott.jsfx",
@@ -23753,18 +23760,11 @@
         "sha256": "0n1hlnpfxb41fy8fnsxdnrv4ncyvx8nkllizspvl1156v50iw1fx"
       }
     ],
-    "0.03": [
+    "0.02": [
       {
         "path": "Effects/Saike Tools/NOTT/nott.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/1ae9ce8830fd545c677abe0858e50a45de6f9e7b/NOTT/nott.jsfx",
-        "sha256": "1aq18y8nacf8k8x9ryxnqipcwibddkjcmin86p1nx1bvkq55mhzs"
-      }
-    ],
-    "0.06": [
-      {
-        "path": "Effects/Saike Tools/NOTT/nott.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/a1d1260536aa2168c05c8391754b97e464ebede2/NOTT/nott.jsfx",
-        "sha256": "0zxpj6rax99bdjjn20hzdmp7bpc8ksj28pnwi4g9k9ndbcrpn2dl"
+        "url": "https://github.com/JoepVanlier/JSFX/raw/1a0d529187c692dc8ad1bebc87beffeebe5502f2/NOTT/nott.jsfx",
+        "sha256": "14ih1an9pd2gpg5x5dfp5gpknxppwi65jr3pssan8zdqkiq1shrw"
       }
     ],
     "0.05": [
@@ -23774,11 +23774,11 @@
         "sha256": "1rirh2gphkzdfzc84h1r94dmnix6c6an1crb0pmmg1cz0xggrqlq"
       }
     ],
-    "0.02": [
+    "0.03": [
       {
         "path": "Effects/Saike Tools/NOTT/nott.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/1a0d529187c692dc8ad1bebc87beffeebe5502f2/NOTT/nott.jsfx",
-        "sha256": "14ih1an9pd2gpg5x5dfp5gpknxppwi65jr3pssan8zdqkiq1shrw"
+        "url": "https://github.com/JoepVanlier/JSFX/raw/1ae9ce8830fd545c677abe0858e50a45de6f9e7b/NOTT/nott.jsfx",
+        "sha256": "1aq18y8nacf8k8x9ryxnqipcwibddkjcmin86p1nx1bvkq55mhzs"
       }
     ],
     "0.01": [
@@ -30188,43 +30188,6 @@
         "sha256": "07g8vvrcwl50zd9gz2c36m290zil3xpndjfdah68hfjzw491brdc"
       }
     ],
-    "0.04": [
-      {
-        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc",
-        "sha256": "0rmzidv7k2qni8xq9csjvvkv0dbqg3bx9kw5z7myrq85d68mhzkg"
-      },
-      {
-        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc",
-        "sha256": "1s92d6sbadblprn581nsp2s3dbzxn85kxmlnpnifvjwcqqp4c4qi"
-      },
-      {
-        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc",
-        "sha256": "0045dhysxb8ankbn3xj14vnmav8awmmirp7cniqfv46gaz0jyg6k"
-      },
-      {
-        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc",
-        "sha256": "1h5axwlyh8bz2059gw855xa9yg6zxn43ygbjni2xz4y8m6m4jpd4"
-      },
-      {
-        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc",
-        "sha256": "19grbc3i8cl1w6l2hv6fcj6w8y7nijvnqhqfcsv86dfs374c4y79"
-      },
-      {
-        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc",
-        "sha256": "14wimv24idinqkvzyzqiy27d22sxh1c3praksxamzxslgi3i7iq3"
-      },
-      {
-        "path": "Effects/Saike Tools/lavaverb/saike_lava.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/saike_lava.jsfx",
-        "sha256": "1ixjsiswxja6jiqqwv23138jh99r32nc2r32h16x41cfbck7yhyn"
-      }
-    ],
     "0.03": [
       {
         "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc",
@@ -30260,6 +30223,43 @@
         "path": "Effects/Saike Tools/lavaverb/saike_lava.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/594a4d688de89382622b8dc3be09b5469743c5ee/lavaverb/saike_lava.jsfx",
         "sha256": "14ilcy022fjwbblb81wqvwjm7znvqpglb0ffldjx6hvhvysga9db"
+      }
+    ],
+    "0.04": [
+      {
+        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc",
+        "sha256": "0rmzidv7k2qni8xq9csjvvkv0dbqg3bx9kw5z7myrq85d68mhzkg"
+      },
+      {
+        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc",
+        "sha256": "1s92d6sbadblprn581nsp2s3dbzxn85kxmlnpnifvjwcqqp4c4qi"
+      },
+      {
+        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc",
+        "sha256": "0045dhysxb8ankbn3xj14vnmav8awmmirp7cniqfv46gaz0jyg6k"
+      },
+      {
+        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc",
+        "sha256": "1h5axwlyh8bz2059gw855xa9yg6zxn43ygbjni2xz4y8m6m4jpd4"
+      },
+      {
+        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc",
+        "sha256": "19grbc3i8cl1w6l2hv6fcj6w8y7nijvnqhqfcsv86dfs374c4y79"
+      },
+      {
+        "path": "Effects/Saike Tools/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc",
+        "sha256": "14wimv24idinqkvzyzqiy27d22sxh1c3praksxamzxslgi3i7iq3"
+      },
+      {
+        "path": "Effects/Saike Tools/lavaverb/saike_lava.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/64bf94126910b771924204d2bfa4f4f0d651f232/lavaverb/saike_lava.jsfx",
+        "sha256": "1ixjsiswxja6jiqqwv23138jh99r32nc2r32h16x41cfbck7yhyn"
       }
     ],
     "0.02": [
@@ -31120,6 +31120,41 @@
         "sha256": "1b37axvps0krag43syahvd5s4h71ha6qm6d30ln4idmr115bzkny"
       }
     ],
+    "0.05": [
+      {
+        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/ac953132c57753bcb8120ad08c6f9a625a69f3a5/saike_midi_arp/saike_midi_arp.jsfx",
+        "sha256": "1x11hln4rsmc87vy54gkmwjw3500yir3m22123g5cibnmjwb2888"
+      }
+    ],
+    "0.08": [
+      {
+        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/3db16bc643d49dc2d8d24a248df31fdaa30eefc9/saike_midi_arp/saike_midi_arp.jsfx",
+        "sha256": "1ss6n2rnbrypph5lngl2788y2zw51lfngqxmp0pj22gz5rxxc8c2"
+      }
+    ],
+    "0.04": [
+      {
+        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/02ec82c0b2491eeda946a820c37c735bcda86166/saike_midi_arp/saike_midi_arp.jsfx",
+        "sha256": "0m819s9ghsyr3pyglmpj4rlgkhbih289r87vw4mrgnsjwbjli5h5"
+      }
+    ],
+    "0.02": [
+      {
+        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/1a47fee33b9087b974ba218b49c961244bf26a2a/saike_midi_arp/saike_midi_arp.jsfx",
+        "sha256": "08739qqaqcfmkx3mwgrsn5kha325nwlfz9ajzg2qnxvxiqwwkk93"
+      }
+    ],
+    "0.06": [
+      {
+        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
+        "url": "https://github.com/JoepVanlier/JSFX/raw/f900c7f02b8625b1b3c3c34a2e5cf7628aa50635/saike_midi_arp/saike_midi_arp.jsfx",
+        "sha256": "1cy0rdas2miznpjf50vi23pwv0gi3vp8rbf5sbw13z9zj675i7xq"
+      }
+    ],
     "0.09": [
       {
         "path": "Effects/Saike Tools/saike_midi_arp/midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc",
@@ -31140,41 +31175,6 @@
         "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
         "url": "https://github.com/JoepVanlier/JSFX/raw/539cf77129d7e6d22c1c57df13142588c10a7439/saike_midi_arp/saike_midi_arp.jsfx",
         "sha256": "0axliadxbd1565xz1kmx4wlclkgxzspkwdq6is7k1hpi580rgzfz"
-      }
-    ],
-    "0.08": [
-      {
-        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/3db16bc643d49dc2d8d24a248df31fdaa30eefc9/saike_midi_arp/saike_midi_arp.jsfx",
-        "sha256": "1ss6n2rnbrypph5lngl2788y2zw51lfngqxmp0pj22gz5rxxc8c2"
-      }
-    ],
-    "0.06": [
-      {
-        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/f900c7f02b8625b1b3c3c34a2e5cf7628aa50635/saike_midi_arp/saike_midi_arp.jsfx",
-        "sha256": "1cy0rdas2miznpjf50vi23pwv0gi3vp8rbf5sbw13z9zj675i7xq"
-      }
-    ],
-    "0.05": [
-      {
-        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/ac953132c57753bcb8120ad08c6f9a625a69f3a5/saike_midi_arp/saike_midi_arp.jsfx",
-        "sha256": "1x11hln4rsmc87vy54gkmwjw3500yir3m22123g5cibnmjwb2888"
-      }
-    ],
-    "0.02": [
-      {
-        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/1a47fee33b9087b974ba218b49c961244bf26a2a/saike_midi_arp/saike_midi_arp.jsfx",
-        "sha256": "08739qqaqcfmkx3mwgrsn5kha325nwlfz9ajzg2qnxvxiqwwkk93"
-      }
-    ],
-    "0.04": [
-      {
-        "path": "Effects/Saike Tools/saike_midi_arp/saike_midi_arp.jsfx",
-        "url": "https://github.com/JoepVanlier/JSFX/raw/02ec82c0b2491eeda946a820c37c735bcda86166/saike_midi_arp/saike_midi_arp.jsfx",
-        "sha256": "0m819s9ghsyr3pyglmpj4rlgkhbih289r87vw4mrgnsjwbjli5h5"
       }
     ],
     "0.03": [

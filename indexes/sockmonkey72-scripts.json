@@ -1953,6 +1953,22 @@
       }
     ]
   },
+  "sockmonkey72_ToggleTimeSelection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
+      }
+    ]
+  },
   "sockmonkey72_StartupManager.lua": {
     "latest": [
       {
@@ -1980,22 +1996,6 @@
         "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_StartupManager.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/d62aeeea80961587727f458793dd2ea5f1ea769c/Various/sockmonkey72_StartupManager.lua",
         "sha256": "1548bx7j843szp8gsfys5p22ssgdkxx67cqmdccl0wp0pn4sasxd"
-      }
-    ]
-  },
-  "sockmonkey72_ToggleTimeSelection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
       }
     ]
   },
@@ -138116,8 +138116,15 @@
     "latest": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
-        "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/download/v1.7.6/Peace_MOD.ReaperThemeZip",
-        "sha256": "0jg12fbin8pfdknxjxb3pa3qxz3r27pnf2g8fgzf78adyl89c4jc"
+        "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/download/v1.7.7-beta.1/Peace_MOD.ReaperThemeZip",
+        "sha256": "1c79la39xhrf6w9dhvnkvcafyyg5z9w0ydn1rwgv1lqc3m44brm5"
+      }
+    ],
+    "1.7.7-beta.1": [
+      {
+        "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
+        "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/download/v1.7.7-beta.1/Peace_MOD.ReaperThemeZip",
+        "sha256": "1c79la39xhrf6w9dhvnkvcafyyg5z9w0ydn1rwgv1lqc3m44brm5"
       }
     ],
     "1.7.6": [
@@ -138306,28 +138313,28 @@
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.4",
-        "sha256": "094bdiyn2ngjf0131g6xq7y37lk21xqvxcixmqk13zyq2b1zb16g"
+        "sha256": "164q77iwy4dn6v0vjhak7jmv1xsp2rfs4xd5alwv372jr1hcnc6s"
       }
     ],
     "1.7.0-beta.3": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.3",
-        "sha256": "1phgz0arkmi246lp8h7id2yyhiip3xc8bn3k7isnxaf6mislbgz1"
+        "sha256": "0qpx4jxcpimbd10ywjpz8037zk0mv3haivbpcc2xbw6ygp2rfm3d"
       }
     ],
     "1.7.0-beta.2": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.2",
-        "sha256": "0ba7l3n3i6pak6i239lilik2b6nfcksmnwlabdlx57s66qwc9l6h"
+        "sha256": "1z1imhggayjf70rm1ijxhd15x6h7l12mngnc5vvdy9i590143wmz"
       }
     ],
     "1.7.0-beta.1": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.1",
-        "sha256": "0z4ld7sswqbw88b6rybqbbxhvvvjgxjaw1p912v3sz5v91p365bj"
+        "sha256": "0b5lghv4kvpdlsj191p4nhxzsv3ssq492kxjhrba7zkzcilchq4m"
       }
     ],
     "1.6.0": [
@@ -138335,22 +138342,6 @@
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/download/v1.6/Peace_MOD.ReaperThemeZip",
         "sha256": "1899y1ly8yfjn7i4nzy093zr0hfk7l6k822isxzgvfhmahmnhvpj"
-      }
-    ]
-  },
-  "sockmonkey72_Razor Edit - Fast Mode.eel": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Razor Edit - Fast Mode.eel",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Razor%20Edit%20-%20Fast%20Mode.eel",
-        "sha256": "0im5v6qd98hzdfh4xmi2s3srmf5ybrngsmz2ydgsj9s78qyqgacl"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Razor Edit - Fast Mode.eel",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Razor%20Edit%20-%20Fast%20Mode.eel",
-        "sha256": "0im5v6qd98hzdfh4xmi2s3srmf5ybrngsmz2ydgsj9s78qyqgacl"
       }
     ]
   },
@@ -138367,6 +138358,22 @@
         "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Selected Envelope Points to Razor Edit.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Selected%20Envelope%20Points%20to%20Razor%20Edit.lua",
         "sha256": "1kpki9vv8w39jzl41869hj5bdf2vzzg38sw4rnipwxmnbhw539bj"
+      }
+    ]
+  },
+  "sockmonkey72_Razor Edit - Fast Mode.eel": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Razor Edit - Fast Mode.eel",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Razor%20Edit%20-%20Fast%20Mode.eel",
+        "sha256": "0im5v6qd98hzdfh4xmi2s3srmf5ybrngsmz2ydgsj9s78qyqgacl"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Razor Edit - Fast Mode.eel",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Razor%20Edit%20-%20Fast%20Mode.eel",
+        "sha256": "0im5v6qd98hzdfh4xmi2s3srmf5ybrngsmz2ydgsj9s78qyqgacl"
       }
     ]
   },
@@ -138416,22 +138423,6 @@
       }
     ]
   },
-  "sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
-        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
-        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
-      }
-    ]
-  },
   "sockmonkey72_ToggleSendVolumeEnvelopes.lua": {
     "latest": [
       {
@@ -138445,6 +138436,22 @@
         "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
         "sha256": "0n0paxjqf1yjrdxhgpank6gh08fidfa6c6min379vhf5hlk7q7h2"
+      }
+    ]
+  },
+  "sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
+        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_Add point for current value on visible armed envelopes of selected tracks at edit cursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_Add%20point%20for%20current%20value%20on%20visible%20armed%20envelopes%20of%20selected%20tracks%20at%20edit%20cursor.lua",
+        "sha256": "1pg90nw4blmhdww0jk3hld9lkc1k2c5xnp8iann9gzqzhw3c88c2"
       }
     ]
   }

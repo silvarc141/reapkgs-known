@@ -1,81 +1,224 @@
 {
-  "MDF_51 to DMS.jsfx": {
+  "Loudener.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_51 to DMS.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_51%20to%20DMS.jsfx",
-        "sha256": "1dszw33wjmkxpn38qlym1dnwj3aakwpsyy1vhh2zm4njhsw99q74"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
+        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
+        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener.jsfx",
+        "sha256": "0g19nq9fiiahmk6akbxbdidvfaw8iwa9h3i4mx0fy05y98yax1qx"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_51 to DMS.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_51%20to%20DMS.jsfx",
-        "sha256": "1dszw33wjmkxpn38qlym1dnwj3aakwpsyy1vhh2zm4njhsw99q74"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/Loudener.jsfx",
+        "sha256": "0bngxkaiffp6g05ng58894kj9nxwccvv834g6v5qfvip4vnlkb5m"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
       }
     ]
   },
-  "MDF_DMS to Quad.jsfx": {
+  "visagemsc_Bassducker.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Quad.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Quad.jsfx",
-        "sha256": "08awmkwvd87sqc1c911q8lqdyrr6blbfmpa4f2hgd5nn1yy9l0hs"
+        "path": "Effects/ReaTeam JSFX/Distortion/visagemsc_Bassducker.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7aea7b45f0a4faa1331957e1a7835da1b7db6c28/Distortion/visagemsc_Bassducker.jsfx",
+        "sha256": "19v8bpj5l357v7mn25kgd7n96mbd4z1sbsnn9nkxv0cmkbgjz4zn"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Quad.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Quad.jsfx",
-        "sha256": "08awmkwvd87sqc1c911q8lqdyrr6blbfmpa4f2hgd5nn1yy9l0hs"
+        "path": "Effects/ReaTeam JSFX/Distortion/visagemsc_Bassducker.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7aea7b45f0a4faa1331957e1a7835da1b7db6c28/Distortion/visagemsc_Bassducker.jsfx",
+        "sha256": "19v8bpj5l357v7mn25kgd7n96mbd4z1sbsnn9nkxv0cmkbgjz4zn"
       }
     ]
   },
-  "MDF_DMS to 51.jsfx": {
+  "rcjach_RCInflator.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to 51.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%2051.jsfx",
-        "sha256": "0a3qzxcvmh9cl9qcnhrswb88lsx19q0nnf3589sklhd30340ci2n"
+        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
+        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to 51.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%2051.jsfx",
-        "sha256": "0a3qzxcvmh9cl9qcnhrswb88lsx19q0nnf3589sklhd30340ci2n"
+        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
+        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
       }
     ]
   },
-  "MDF_DMS to Stereo.jsfx": {
+  "RCInflator2_Ideal.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Stereo.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Stereo.jsfx",
-        "sha256": "1in3875nq4ax2sacqk4nsmk5w7av5q8w1yyr76fhs071nf7n8503"
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
+        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Stereo.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Stereo.jsfx",
-        "sha256": "1in3875nq4ax2sacqk4nsmk5w7av5q8w1yyr76fhs071nf7n8503"
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
+        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
       }
     ]
   },
-  "MDF_DMS to FOA.jsfx": {
+  "reincore_MegaGrit.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to FOA.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20FOA.jsfx",
-        "sha256": "1bdpdxl53d5w9na9xavjrbsq906nrpscnmbcwg2j81nd1a44dgdn"
+        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
+        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
+        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to FOA.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20FOA.jsfx",
-        "sha256": "1bdpdxl53d5w9na9xavjrbsq906nrpscnmbcwg2j81nd1a44dgdn"
+        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2e992d33e9fa76af1df04ba34e74c043cd2059dc/Distortion/reincore_MegaGrit.jsfx",
+        "sha256": "0xzih2j9dadl549g4agb5zbl4q42s0jrqqsgk7z2biy9s6fb3zc8"
+      }
+    ]
+  },
+  "TiaR_Ze Morpho Dist.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
+        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
+        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
+        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
+        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+      }
+    ]
+  },
+  "RCInflator2_Oxford.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
+        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
+        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
       }
     ]
   },
@@ -95,6 +238,70 @@
       }
     ]
   },
+  "MDF_DMS to FOA.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to FOA.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20FOA.jsfx",
+        "sha256": "1bdpdxl53d5w9na9xavjrbsq906nrpscnmbcwg2j81nd1a44dgdn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to FOA.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20FOA.jsfx",
+        "sha256": "1bdpdxl53d5w9na9xavjrbsq906nrpscnmbcwg2j81nd1a44dgdn"
+      }
+    ]
+  },
+  "MDF_DMS to 51.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to 51.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%2051.jsfx",
+        "sha256": "0a3qzxcvmh9cl9qcnhrswb88lsx19q0nnf3589sklhd30340ci2n"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to 51.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%2051.jsfx",
+        "sha256": "0a3qzxcvmh9cl9qcnhrswb88lsx19q0nnf3589sklhd30340ci2n"
+      }
+    ]
+  },
+  "MDF_51 to DMS.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_51 to DMS.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_51%20to%20DMS.jsfx",
+        "sha256": "1dszw33wjmkxpn38qlym1dnwj3aakwpsyy1vhh2zm4njhsw99q74"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_51 to DMS.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_51%20to%20DMS.jsfx",
+        "sha256": "1dszw33wjmkxpn38qlym1dnwj3aakwpsyy1vhh2zm4njhsw99q74"
+      }
+    ]
+  },
+  "MDF_DMS to Stereo.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Stereo.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Stereo.jsfx",
+        "sha256": "1in3875nq4ax2sacqk4nsmk5w7av5q8w1yyr76fhs071nf7n8503"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Stereo.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Stereo.jsfx",
+        "sha256": "1in3875nq4ax2sacqk4nsmk5w7av5q8w1yyr76fhs071nf7n8503"
+      }
+    ]
+  },
   "MDF_Quad to DMS.jsfx": {
     "latest": [
       {
@@ -111,19 +318,19 @@
       }
     ]
   },
-  "mschnell_Midi_Route_Note_On.jsfx": {
+  "MDF_DMS to Quad.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/mschnell_Midi_Route_Note_On.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7e4703d941aac30c3c8c30e6d7da063ac8fd1148/Routing/mschnell_Midi_Route_Note_On.jsfx",
-        "sha256": "1f1lj3hvqc7dac2hw5d5k3p3j3qvn4sgg4ajrbqjy199m6sqqn0q"
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Quad.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Quad.jsfx",
+        "sha256": "08awmkwvd87sqc1c911q8lqdyrr6blbfmpa4f2hgd5nn1yy9l0hs"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Routing/mschnell_Midi_Route_Note_On.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7e4703d941aac30c3c8c30e6d7da063ac8fd1148/Routing/mschnell_Midi_Route_Note_On.jsfx",
-        "sha256": "1f1lj3hvqc7dac2hw5d5k3p3j3qvn4sgg4ajrbqjy199m6sqqn0q"
+        "path": "Effects/ReaTeam JSFX/Routing/MDF_DMS to Quad.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f68071f3067f41a55c6400965b171e64a5d1f7d2/Routing/MDF_DMS%20to%20Quad.jsfx",
+        "sha256": "08awmkwvd87sqc1c911q8lqdyrr6blbfmpa4f2hgd5nn1yy9l0hs"
       }
     ]
   },
@@ -140,6 +347,22 @@
         "path": "Effects/ReaTeam JSFX/Routing/mrelwood_Routter.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/85495584464f4fed2f4d3b7010de4e4feb7c06ee/Routing/mrelwood_Routter.jsfx",
         "sha256": "1v9m6q0i0a54vqgbld4645gmd70vwfmd0s2ic3g56fx925q7lcy4"
+      }
+    ]
+  },
+  "mschnell_Midi_Route_Note_On.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/mschnell_Midi_Route_Note_On.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7e4703d941aac30c3c8c30e6d7da063ac8fd1148/Routing/mschnell_Midi_Route_Note_On.jsfx",
+        "sha256": "1f1lj3hvqc7dac2hw5d5k3p3j3qvn4sgg4ajrbqjy199m6sqqn0q"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Routing/mschnell_Midi_Route_Note_On.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7e4703d941aac30c3c8c30e6d7da063ac8fd1148/Routing/mschnell_Midi_Route_Note_On.jsfx",
+        "sha256": "1f1lj3hvqc7dac2hw5d5k3p3j3qvn4sgg4ajrbqjy199m6sqqn0q"
       }
     ]
   },
@@ -450,22 +673,6 @@
       }
     ]
   },
-  "TiaR_Ze DigiThArmOrgan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Synth/TiaR_Ze DigiThArmOrgan.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f66440945bb5726d469f050032c6d37bf9f7ab59/Synth/TiaR_Ze%20DigiThArmOrgan.jsfx",
-        "sha256": "0h1yda277x0bz9hgz5hmr26vd5v7i306ai6qhrsg68c2rkkmndhg"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/Synth/TiaR_Ze DigiThArmOrgan.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f66440945bb5726d469f050032c6d37bf9f7ab59/Synth/TiaR_Ze%20DigiThArmOrgan.jsfx",
-        "sha256": "0h1yda277x0bz9hgz5hmr26vd5v7i306ai6qhrsg68c2rkkmndhg"
-      }
-    ]
-  },
   "tilr_JS3Osc.jsfx": {
     "latest": [
       {
@@ -593,6 +800,22 @@
         "path": "Effects/ReaTeam JSFX/Synth/tilr_JS3Osc/3o.zdf_filter.jsfx-inc",
         "url": "https://github.com/ReaTeam/JSFX/raw/a0cc7b96493814a1fd71cfa37761a0cbf1f8b9c1/Synth/tilr_JS3Osc/3o.zdf_filter.jsfx-inc",
         "sha256": "1nndnqg1fm3dkgnvplh4537was3anhbjqw648lk314qnr54ciwm5"
+      }
+    ]
+  },
+  "TiaR_Ze DigiThArmOrgan.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Synth/TiaR_Ze DigiThArmOrgan.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f66440945bb5726d469f050032c6d37bf9f7ab59/Synth/TiaR_Ze%20DigiThArmOrgan.jsfx",
+        "sha256": "0h1yda277x0bz9hgz5hmr26vd5v7i306ai6qhrsg68c2rkkmndhg"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Synth/TiaR_Ze DigiThArmOrgan.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f66440945bb5726d469f050032c6d37bf9f7ab59/Synth/TiaR_Ze%20DigiThArmOrgan.jsfx",
+        "sha256": "0h1yda277x0bz9hgz5hmr26vd5v7i306ai6qhrsg68c2rkkmndhg"
       }
     ]
   },
@@ -5089,134 +5312,6 @@
       }
     ]
   },
-  "TiaR_Lattice Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
-        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
-        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
-        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
-        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
-      }
-    ]
-  },
-  "bellesondes_eq1979.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
-      }
-    ],
-    "0.95": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
-      }
-    ],
-    "0.92": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f1105ff08e915260ac414e5ab33e4346c87f75d7/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "0jrcpz6mvabm3qkfxdd9n2jm7z6n1p9vifqyv0720ajxjw1959jh"
-      }
-    ],
-    "0.9": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a81a54773a9c24066eea10d6b8b1af2dc7a8871a/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "113jk9kslmzzy6792cyr5wdkphgl67qq8hrzk40jqrpn4sx2zp5a"
-      }
-    ]
-  },
-  "tilr_QuickFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
-        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
-        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ]
-  },
-  "tilr_SKFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
-        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
-        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ]
-  },
   "albthealbatross_MIDI Chord Strummer.jsfx": {
     "latest": [
       {
@@ -5273,38 +5368,6 @@
       }
     ]
   },
-  "boreg_MIDI routing matrix.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/boreg_MIDI routing matrix.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/761437a19ffb621af3404658151efd16ade63173/MIDI/boreg_MIDI%20routing%20matrix.jsfx",
-        "sha256": "1gcqi5530xzvwpzlna7k7r02vc9yjyiv248rh7zabgw65hcqx0vl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/boreg_MIDI routing matrix.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/761437a19ffb621af3404658151efd16ade63173/MIDI/boreg_MIDI%20routing%20matrix.jsfx",
-        "sha256": "1gcqi5530xzvwpzlna7k7r02vc9yjyiv248rh7zabgw65hcqx0vl"
-      }
-    ]
-  },
-  "albthealbatross_MIDI Channel Cycler.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/albthealbatross_MIDI Channel Cycler.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2c2c462c676aa802276946a72563c919f1d784d8/MIDI/albthealbatross_MIDI%20Channel%20Cycler.jsfx",
-        "sha256": "0c391gz8s3vv85vk4fkl7rlz9mq225qww2fs3qgnyg9v0k97w0s6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/albthealbatross_MIDI Channel Cycler.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2c2c462c676aa802276946a72563c919f1d784d8/MIDI/albthealbatross_MIDI%20Channel%20Cycler.jsfx",
-        "sha256": "0c391gz8s3vv85vk4fkl7rlz9mq225qww2fs3qgnyg9v0k97w0s6"
-      }
-    ]
-  },
   "cfillion_MIDI note length control.jsfx": {
     "latest": [
       {
@@ -5332,6 +5395,125 @@
         "path": "Effects/ReaTeam JSFX/MIDI/cfillion_MIDI note length control.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/e64ae7ea6fad4806b5921083f52762271eeff5fd/MIDI/cfillion_MIDI%20note%20length%20control.jsfx",
         "sha256": "09qc3v5m3mffw5saslkz03kbcvzqrs4d4k1rbrbi2p059n31jvhs"
+      }
+    ]
+  },
+  "boreg_MIDI routing matrix.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/boreg_MIDI routing matrix.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/761437a19ffb621af3404658151efd16ade63173/MIDI/boreg_MIDI%20routing%20matrix.jsfx",
+        "sha256": "1gcqi5530xzvwpzlna7k7r02vc9yjyiv248rh7zabgw65hcqx0vl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/boreg_MIDI routing matrix.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/761437a19ffb621af3404658151efd16ade63173/MIDI/boreg_MIDI%20routing%20matrix.jsfx",
+        "sha256": "1gcqi5530xzvwpzlna7k7r02vc9yjyiv248rh7zabgw65hcqx0vl"
+      }
+    ]
+  },
+  "cfillion_Sustain pedal to note length.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Sustain pedal to note length.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ca7c02c4a274b0b15d2aa972c8e747bad69cfbe1/MIDI/cfillion_Sustain%20pedal%20to%20note%20length.jsfx",
+        "sha256": "0p8gp6lriy7rzii4sgvq1vjrk6hc0d32s5xy68xhxj1vngmnwgax"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Sustain pedal to note length.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ca7c02c4a274b0b15d2aa972c8e747bad69cfbe1/MIDI/cfillion_Sustain%20pedal%20to%20note%20length.jsfx",
+        "sha256": "0p8gp6lriy7rzii4sgvq1vjrk6hc0d32s5xy68xhxj1vngmnwgax"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Sustain pedal to note length.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7619ef24c53218875baaf2213727a77be7b1f4fd/MIDI/cfillion_Sustain%20pedal%20to%20note%20length.jsfx",
+        "sha256": "1rra7qzg9wcl0nbgrxx88y6fn79gx3f9mj321sj1sagl0qlfas1r"
+      }
+    ]
+  },
+  "bertbouwhuis_MIDI controller for S8 looper with fade in and out.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/bertbouwhuis_MIDI controller for S8 looper with fade in and out.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/dfa967305ea712ecef76ef4030937eb46971d802/MIDI/bertbouwhuis_MIDI%20controller%20for%20S8%20looper%20with%20fade%20in%20and%20out.jsfx",
+        "sha256": "086lzp3zgfyz0wx01l9ih9f057z2w6imhm318dq2lrkwcjiq1873"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/bertbouwhuis_MIDI controller for S8 looper with fade in and out.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/dfa967305ea712ecef76ef4030937eb46971d802/MIDI/bertbouwhuis_MIDI%20controller%20for%20S8%20looper%20with%20fade%20in%20and%20out.jsfx",
+        "sha256": "086lzp3zgfyz0wx01l9ih9f057z2w6imhm318dq2lrkwcjiq1873"
+      }
+    ]
+  },
+  "bor-T_MIDI_XY_Pad_Controller.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/64569a74fcd2806342a8d8eaaa6c26569f00ce89/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
+        "sha256": "0fasxl7zb72zparvqrg712cim83a9cjf5l4sgf3mrwfrph14ylfp"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/64569a74fcd2806342a8d8eaaa6c26569f00ce89/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
+        "sha256": "0fasxl7zb72zparvqrg712cim83a9cjf5l4sgf3mrwfrph14ylfp"
+      }
+    ]
+  },
+  "cfillion_Note Duplicator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Note Duplicator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f5af11d7b40782c8078ef8ba468732e8b1872dde/MIDI/cfillion_Note%20Duplicator.jsfx",
+        "sha256": "0226cgc6a954fw9ysfww78zcbphalqzqqxv4p7xlizh41gprxafv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Note Duplicator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f5af11d7b40782c8078ef8ba468732e8b1872dde/MIDI/cfillion_Note%20Duplicator.jsfx",
+        "sha256": "0226cgc6a954fw9ysfww78zcbphalqzqqxv4p7xlizh41gprxafv"
+      }
+    ]
+  },
+  "cfillion_MIDI Taps Repeater.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_MIDI Taps Repeater.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/6c28b721dcd622b0aa7421dfc18678b9392c51bd/MIDI/cfillion_MIDI%20Taps%20Repeater.jsfx",
+        "sha256": "1v8z160w31yphfw3j0pcqcsm8l06n7w9jh2hi6jpi6zqr3zy6x2i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_MIDI Taps Repeater.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/6c28b721dcd622b0aa7421dfc18678b9392c51bd/MIDI/cfillion_MIDI%20Taps%20Repeater.jsfx",
+        "sha256": "1v8z160w31yphfw3j0pcqcsm8l06n7w9jh2hi6jpi6zqr3zy6x2i"
+      }
+    ]
+  },
+  "ee33_Triggered Random Modal Riffer.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/ee33_Triggered Random Modal Riffer.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5cdadb30d3dc33d8401313a217ec3c0c4dd8ac19/MIDI/ee33_Triggered%20Random%20Modal%20Riffer.jsfx",
+        "sha256": "1llpzm4j1cv66zixwcf6hbk3vq87zmsp0pqisalssjnrfg4ni7mf"
+      }
+    ],
+    "1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/ee33_Triggered Random Modal Riffer.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5cdadb30d3dc33d8401313a217ec3c0c4dd8ac19/MIDI/ee33_Triggered%20Random%20Modal%20Riffer.jsfx",
+        "sha256": "1llpzm4j1cv66zixwcf6hbk3vq87zmsp0pqisalssjnrfg4ni7mf"
       }
     ]
   },
@@ -5421,61 +5603,6 @@
       }
     ]
   },
-  "cfillion_Sustain pedal to note length.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Sustain pedal to note length.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ca7c02c4a274b0b15d2aa972c8e747bad69cfbe1/MIDI/cfillion_Sustain%20pedal%20to%20note%20length.jsfx",
-        "sha256": "0p8gp6lriy7rzii4sgvq1vjrk6hc0d32s5xy68xhxj1vngmnwgax"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Sustain pedal to note length.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ca7c02c4a274b0b15d2aa972c8e747bad69cfbe1/MIDI/cfillion_Sustain%20pedal%20to%20note%20length.jsfx",
-        "sha256": "0p8gp6lriy7rzii4sgvq1vjrk6hc0d32s5xy68xhxj1vngmnwgax"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Sustain pedal to note length.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7619ef24c53218875baaf2213727a77be7b1f4fd/MIDI/cfillion_Sustain%20pedal%20to%20note%20length.jsfx",
-        "sha256": "1rra7qzg9wcl0nbgrxx88y6fn79gx3f9mj321sj1sagl0qlfas1r"
-      }
-    ]
-  },
-  "cfillion_Note Duplicator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Note Duplicator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f5af11d7b40782c8078ef8ba468732e8b1872dde/MIDI/cfillion_Note%20Duplicator.jsfx",
-        "sha256": "0226cgc6a954fw9ysfww78zcbphalqzqqxv4p7xlizh41gprxafv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_Note Duplicator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f5af11d7b40782c8078ef8ba468732e8b1872dde/MIDI/cfillion_Note%20Duplicator.jsfx",
-        "sha256": "0226cgc6a954fw9ysfww78zcbphalqzqqxv4p7xlizh41gprxafv"
-      }
-    ]
-  },
-  "ee33_Triggered Random Modal Riffer.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/ee33_Triggered Random Modal Riffer.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5cdadb30d3dc33d8401313a217ec3c0c4dd8ac19/MIDI/ee33_Triggered%20Random%20Modal%20Riffer.jsfx",
-        "sha256": "1llpzm4j1cv66zixwcf6hbk3vq87zmsp0pqisalssjnrfg4ni7mf"
-      }
-    ],
-    "1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/ee33_Triggered Random Modal Riffer.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5cdadb30d3dc33d8401313a217ec3c0c4dd8ac19/MIDI/ee33_Triggered%20Random%20Modal%20Riffer.jsfx",
-        "sha256": "1llpzm4j1cv66zixwcf6hbk3vq87zmsp0pqisalssjnrfg4ni7mf"
-      }
-    ]
-  },
   "albthealbatross_Multi-Channel MIDI Timing Randomizer.jsfx": {
     "latest": [
       {
@@ -5492,99 +5619,19 @@
       }
     ]
   },
-  "cfillion_MIDI Taps Repeater.jsfx": {
+  "albthealbatross_MIDI Channel Cycler.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_MIDI Taps Repeater.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/6c28b721dcd622b0aa7421dfc18678b9392c51bd/MIDI/cfillion_MIDI%20Taps%20Repeater.jsfx",
-        "sha256": "1v8z160w31yphfw3j0pcqcsm8l06n7w9jh2hi6jpi6zqr3zy6x2i"
+        "path": "Effects/ReaTeam JSFX/MIDI/albthealbatross_MIDI Channel Cycler.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2c2c462c676aa802276946a72563c919f1d784d8/MIDI/albthealbatross_MIDI%20Channel%20Cycler.jsfx",
+        "sha256": "0c391gz8s3vv85vk4fkl7rlz9mq225qww2fs3qgnyg9v0k97w0s6"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/cfillion_MIDI Taps Repeater.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/6c28b721dcd622b0aa7421dfc18678b9392c51bd/MIDI/cfillion_MIDI%20Taps%20Repeater.jsfx",
-        "sha256": "1v8z160w31yphfw3j0pcqcsm8l06n7w9jh2hi6jpi6zqr3zy6x2i"
-      }
-    ]
-  },
-  "eralumin_MIDI Channel Toggle.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/eralumin_MIDI Channel Toggle.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e3488ad87e1653827abb8d118aa688e71091d393/MIDI/eralumin_MIDI%20Channel%20Toggle.jsfx",
-        "sha256": "1jsr7fdg8rgwad17hiwy093j1hgj0sywvi8nalcpxi82xs47fhcs"
-      }
-    ],
-    "0.0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/eralumin_MIDI Channel Toggle.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e3488ad87e1653827abb8d118aa688e71091d393/MIDI/eralumin_MIDI%20Channel%20Toggle.jsfx",
-        "sha256": "1jsr7fdg8rgwad17hiwy093j1hgj0sywvi8nalcpxi82xs47fhcs"
-      }
-    ]
-  },
-  "bor-T_MIDI_XY_Pad_Controller.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/64569a74fcd2806342a8d8eaaa6c26569f00ce89/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
-        "sha256": "0fasxl7zb72zparvqrg712cim83a9cjf5l4sgf3mrwfrph14ylfp"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/64569a74fcd2806342a8d8eaaa6c26569f00ce89/MIDI/bor-T_MIDI_XY_Pad_Controller.jsfx",
-        "sha256": "0fasxl7zb72zparvqrg712cim83a9cjf5l4sgf3mrwfrph14ylfp"
-      }
-    ]
-  },
-  "bertbouwhuis_MIDI controller for S8 looper with fade in and out.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/bertbouwhuis_MIDI controller for S8 looper with fade in and out.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/dfa967305ea712ecef76ef4030937eb46971d802/MIDI/bertbouwhuis_MIDI%20controller%20for%20S8%20looper%20with%20fade%20in%20and%20out.jsfx",
-        "sha256": "086lzp3zgfyz0wx01l9ih9f057z2w6imhm318dq2lrkwcjiq1873"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/bertbouwhuis_MIDI controller for S8 looper with fade in and out.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/dfa967305ea712ecef76ef4030937eb46971d802/MIDI/bertbouwhuis_MIDI%20controller%20for%20S8%20looper%20with%20fade%20in%20and%20out.jsfx",
-        "sha256": "086lzp3zgfyz0wx01l9ih9f057z2w6imhm318dq2lrkwcjiq1873"
-      }
-    ]
-  },
-  "gofer_Poly Aftertouch Converter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/gofer_Poly Aftertouch Converter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/69de0b91fe05a8454432db53e22f9ad205d016ed/MIDI/gofer_Poly%20Aftertouch%20Converter.jsfx",
-        "sha256": "0zvqr5sf3sgafcqahfcvvx6cpm0azr4ijc585vf9fs9fh5b9pc8i"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/gofer_Poly Aftertouch Converter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/69de0b91fe05a8454432db53e22f9ad205d016ed/MIDI/gofer_Poly%20Aftertouch%20Converter.jsfx",
-        "sha256": "0zvqr5sf3sgafcqahfcvvx6cpm0azr4ijc585vf9fs9fh5b9pc8i"
-      }
-    ]
-  },
-  "juan_r_MIDI Floating Split.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Floating Split.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9b15e7d94c275f6d89c8098edc09ac3bd4e8d4e4/MIDI/juan_r_MIDI%20Floating%20Split.jsfx",
-        "sha256": "060dfwwqxn7kya63yl1mjgaqcz46d1ln60lbji6m193h5l5xf5lh"
-      }
-    ],
-    "0.02a": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Floating Split.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9b15e7d94c275f6d89c8098edc09ac3bd4e8d4e4/MIDI/juan_r_MIDI%20Floating%20Split.jsfx",
-        "sha256": "060dfwwqxn7kya63yl1mjgaqcz46d1ln60lbji6m193h5l5xf5lh"
+        "path": "Effects/ReaTeam JSFX/MIDI/albthealbatross_MIDI Channel Cycler.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2c2c462c676aa802276946a72563c919f1d784d8/MIDI/albthealbatross_MIDI%20Channel%20Cycler.jsfx",
+        "sha256": "0c391gz8s3vv85vk4fkl7rlz9mq225qww2fs3qgnyg9v0k97w0s6"
       }
     ]
   },
@@ -5601,22 +5648,6 @@
         "path": "Effects/ReaTeam JSFX/MIDI/juan_r_Keyboard MirrorInvert (Juan_R).jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/5f69f81737210bd2057467274b56efa068dc7ff0/MIDI/juan_r_Keyboard%20MirrorInvert%20(Juan_R).jsfx",
         "sha256": "08c8gmpvxrgbs6xv0vfbbpbnmrywbh5qjrgd0psl6jk744qbfhp4"
-      }
-    ]
-  },
-  "MB_ReautoMate.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/MB_ReautoMate.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd309de2616e145e29ba583b3964f829b8613047/MIDI/MB_ReautoMate.jsfx",
-        "sha256": "1plcakvwyvlg9361zambqpsxh0i6d2r7ll68sl5y24m6j9v4n7yy"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/MB_ReautoMate.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd309de2616e145e29ba583b3964f829b8613047/MIDI/MB_ReautoMate.jsfx",
-        "sha256": "1plcakvwyvlg9361zambqpsxh0i6d2r7ll68sl5y24m6j9v4n7yy"
       }
     ]
   },
@@ -5640,6 +5671,93 @@
         "path": "Effects/ReaTeam JSFX/MIDI/mathphreak_Learningbaby.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/6fee80c6f700aac85ae85bbfb1fde81ee8b5d639/MIDI/mathphreak_Learningbaby.jsfx",
         "sha256": "0x9dy8pmsflwmaqqbcm5y27nzav3lnzznvm5vgg7hplv8235iykr"
+      }
+    ]
+  },
+  "juan_r_MIDI Fret and Pick.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Fret and Pick.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/b4dc208414e2a944ca55f7aba7edb761f9ce2620/MIDI/juan_r_MIDI%20Fret%20and%20Pick.jsfx",
+        "sha256": "1vf90irl1y4mqgjyi2njs4kqcqnhpf436xrjvcvjiy8yqqirm1qg"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Fret and Pick.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/b4dc208414e2a944ca55f7aba7edb761f9ce2620/MIDI/juan_r_MIDI%20Fret%20and%20Pick.jsfx",
+        "sha256": "1vf90irl1y4mqgjyi2njs4kqcqnhpf436xrjvcvjiy8yqqirm1qg"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Fret and Pick.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/d7090b18c7843a19e5a9508fd3622890a01346fd/MIDI/juan_r_MIDI%20Fret%20and%20Pick.jsfx",
+        "sha256": "0rq92kl901f7cw7xcijprx28ygk4hiwp0509fid2mxb2fh0lpq9i"
+      }
+    ]
+  },
+  "gofer_Poly Aftertouch Converter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/gofer_Poly Aftertouch Converter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/69de0b91fe05a8454432db53e22f9ad205d016ed/MIDI/gofer_Poly%20Aftertouch%20Converter.jsfx",
+        "sha256": "0zvqr5sf3sgafcqahfcvvx6cpm0azr4ijc585vf9fs9fh5b9pc8i"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/gofer_Poly Aftertouch Converter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/69de0b91fe05a8454432db53e22f9ad205d016ed/MIDI/gofer_Poly%20Aftertouch%20Converter.jsfx",
+        "sha256": "0zvqr5sf3sgafcqahfcvvx6cpm0azr4ijc585vf9fs9fh5b9pc8i"
+      }
+    ]
+  },
+  "mbncp_PitchWheel.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_PitchWheel.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_PitchWheel.jsfx",
+        "sha256": "0pz2kvx52sjbmxl16151sh87nblvwz1klg701g9336czirh6cg17"
+      }
+    ],
+    "0.2": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_PitchWheel.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_PitchWheel.jsfx",
+        "sha256": "0pz2kvx52sjbmxl16151sh87nblvwz1klg701g9336czirh6cg17"
+      }
+    ]
+  },
+  "mbncp_Legato Control.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_Legato Control.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_Legato%20Control.jsfx",
+        "sha256": "0s2pjwma8m59x7gqfl7248kpl15clbl73833iisipxdvlsqckkcm"
+      }
+    ],
+    "0.3": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_Legato Control.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_Legato%20Control.jsfx",
+        "sha256": "0s2pjwma8m59x7gqfl7248kpl15clbl73833iisipxdvlsqckkcm"
+      }
+    ]
+  },
+  "MB_ReautoMate.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/MB_ReautoMate.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd309de2616e145e29ba583b3964f829b8613047/MIDI/MB_ReautoMate.jsfx",
+        "sha256": "1plcakvwyvlg9361zambqpsxh0i6d2r7ll68sl5y24m6j9v4n7yy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/MB_ReautoMate.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd309de2616e145e29ba583b3964f829b8613047/MIDI/MB_ReautoMate.jsfx",
+        "sha256": "1plcakvwyvlg9361zambqpsxh0i6d2r7ll68sl5y24m6j9v4n7yy"
       }
     ]
   },
@@ -5712,77 +5830,6 @@
       }
     ]
   },
-  "MB_MIDI Event Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/MB_MIDI Event Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/0d26f30c50af08b8a4182a06224d9d551972fad0/MIDI/MB_MIDI%20Event%20Filter.jsfx",
-        "sha256": "0xgb5gm34kq8js7wkq9nhphdms9lxqjdbflj3ls8ydg64c61ipmz"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/MB_MIDI Event Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/0d26f30c50af08b8a4182a06224d9d551972fad0/MIDI/MB_MIDI%20Event%20Filter.jsfx",
-        "sha256": "0xgb5gm34kq8js7wkq9nhphdms9lxqjdbflj3ls8ydg64c61ipmz"
-      }
-    ]
-  },
-  "juan_r_MIDI Fret and Pick.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Fret and Pick.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/b4dc208414e2a944ca55f7aba7edb761f9ce2620/MIDI/juan_r_MIDI%20Fret%20and%20Pick.jsfx",
-        "sha256": "1vf90irl1y4mqgjyi2njs4kqcqnhpf436xrjvcvjiy8yqqirm1qg"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Fret and Pick.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/b4dc208414e2a944ca55f7aba7edb761f9ce2620/MIDI/juan_r_MIDI%20Fret%20and%20Pick.jsfx",
-        "sha256": "1vf90irl1y4mqgjyi2njs4kqcqnhpf436xrjvcvjiy8yqqirm1qg"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Fret and Pick.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/d7090b18c7843a19e5a9508fd3622890a01346fd/MIDI/juan_r_MIDI%20Fret%20and%20Pick.jsfx",
-        "sha256": "0rq92kl901f7cw7xcijprx28ygk4hiwp0509fid2mxb2fh0lpq9i"
-      }
-    ]
-  },
-  "mbncp_Legato Control.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_Legato Control.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_Legato%20Control.jsfx",
-        "sha256": "0s2pjwma8m59x7gqfl7248kpl15clbl73833iisipxdvlsqckkcm"
-      }
-    ],
-    "0.3": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_Legato Control.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_Legato%20Control.jsfx",
-        "sha256": "0s2pjwma8m59x7gqfl7248kpl15clbl73833iisipxdvlsqckkcm"
-      }
-    ]
-  },
-  "mbncp_PitchWheel.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_PitchWheel.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_PitchWheel.jsfx",
-        "sha256": "0pz2kvx52sjbmxl16151sh87nblvwz1klg701g9336czirh6cg17"
-      }
-    ],
-    "0.2": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mbncp_PitchWheel.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/82ceb72da14753dcb3ce9be5722c07ff7a1aedad/MIDI/mbncp_PitchWheel.jsfx",
-        "sha256": "0pz2kvx52sjbmxl16151sh87nblvwz1klg701g9336czirh6cg17"
-      }
-    ]
-  },
   "mschnell_MIDI MPE to single channel.jsfx": {
     "latest": [
       {
@@ -5843,29 +5890,6 @@
       }
     ]
   },
-  "mschnell_MIDI route via GMEM.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI route via GMEM.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/420b50bd897bb66957604932f9ff49dcdb6fd669/MIDI/mschnell_MIDI%20route%20via%20GMEM.jsfx",
-        "sha256": "0jiyc7mqfzn3ahkzbs8qbq98l3xgxi0bfbfszqjk6z9jq67d6afx"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI route via GMEM.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/420b50bd897bb66957604932f9ff49dcdb6fd669/MIDI/mschnell_MIDI%20route%20via%20GMEM.jsfx",
-        "sha256": "0jiyc7mqfzn3ahkzbs8qbq98l3xgxi0bfbfszqjk6z9jq67d6afx"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI route via GMEM.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a2e7dcd6474d37271c6929edf38abeae05288e76/MIDI/mschnell_MIDI%20route%20via%20GMEM.jsfx",
-        "sha256": "0rjcm42yma1zv7kml1lnz0ps3zavp6mw5p32d6fjdfwhblmvd26k"
-      }
-    ]
-  },
   "mschnell_MIDI PB x X.jsfx": {
     "latest": [
       {
@@ -5886,6 +5910,29 @@
         "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI PB x X.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/f14cf7c0a33c50bd40c7645c5ac5d0b7c66bf53a/MIDI/mschnell_MIDI%20PB%20x%20X.jsfx",
         "sha256": "095a4xdhgakp4fl4nkhmslbpqfm30dk2xnlwmr2rj4d0gb2njgdg"
+      }
+    ]
+  },
+  "mschnell_MIDI route via GMEM.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI route via GMEM.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/420b50bd897bb66957604932f9ff49dcdb6fd669/MIDI/mschnell_MIDI%20route%20via%20GMEM.jsfx",
+        "sha256": "0jiyc7mqfzn3ahkzbs8qbq98l3xgxi0bfbfszqjk6z9jq67d6afx"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI route via GMEM.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/420b50bd897bb66957604932f9ff49dcdb6fd669/MIDI/mschnell_MIDI%20route%20via%20GMEM.jsfx",
+        "sha256": "0jiyc7mqfzn3ahkzbs8qbq98l3xgxi0bfbfszqjk6z9jq67d6afx"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI route via GMEM.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a2e7dcd6474d37271c6929edf38abeae05288e76/MIDI/mschnell_MIDI%20route%20via%20GMEM.jsfx",
+        "sha256": "0rjcm42yma1zv7kml1lnz0ps3zavp6mw5p32d6fjdfwhblmvd26k"
       }
     ]
   },
@@ -5937,6 +5984,22 @@
         "path": "Effects/ReaTeam JSFX/MIDI/mschnell_MIDI Slider and MIDI CC.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/cd889d12d109ff2885e4ab4edd1951417d2ec664/MIDI/mschnell_MIDI%20Slider%20and%20MIDI%20CC.jsfx",
         "sha256": "0lx313vnsiwgda4z7yp93lvzpqh5nlmy6h2z982nhca327p17svx"
+      }
+    ]
+  },
+  "eralumin_MIDI Channel Toggle.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/eralumin_MIDI Channel Toggle.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e3488ad87e1653827abb8d118aa688e71091d393/MIDI/eralumin_MIDI%20Channel%20Toggle.jsfx",
+        "sha256": "1jsr7fdg8rgwad17hiwy093j1hgj0sywvi8nalcpxi82xs47fhcs"
+      }
+    ],
+    "0.0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/eralumin_MIDI Channel Toggle.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e3488ad87e1653827abb8d118aa688e71091d393/MIDI/eralumin_MIDI%20Channel%20Toggle.jsfx",
+        "sha256": "1jsr7fdg8rgwad17hiwy093j1hgj0sywvi8nalcpxi82xs47fhcs"
       }
     ]
   },
@@ -6000,6 +6063,68 @@
       }
     ]
   },
+  "mschnell_Send All Notes Off.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Send All Notes Off.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3e570290e5b6736ddd2a31acde5c3229fa0df2a4/MIDI/mschnell_Send%20All%20Notes%20Off.jsfx",
+        "sha256": "19xam45zzbwrv2lmqmsjsi3ykqidhc5v26alnxsszxh89vpdr535"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Send All Notes Off.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3e570290e5b6736ddd2a31acde5c3229fa0df2a4/MIDI/mschnell_Send%20All%20Notes%20Off.jsfx",
+        "sha256": "19xam45zzbwrv2lmqmsjsi3ykqidhc5v26alnxsszxh89vpdr535"
+      }
+    ]
+  },
+  "mschnell_Note On Velocity Tool.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Note On Velocity Tool.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9c50d42c143474a039015fe36c9a669f4ea9089e/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx",
+        "sha256": "1wmkqcxdgkwq25xba4p6m2llwbhdk2wkfckhn02rjnmn11bns6kn"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Note On Velocity Tool.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9c50d42c143474a039015fe36c9a669f4ea9089e/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx",
+        "sha256": "1wmkqcxdgkwq25xba4p6m2llwbhdk2wkfckhn02rjnmn11bns6kn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Note On Velocity Tool.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/295b72b8f05c2c617a62d78baab88e53074df611/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx",
+        "sha256": "070ai4cn6mqyh98aap5qdpfafmx1fqzzi74ypii6k5lr624f17ac"
+      }
+    ]
+  },
+  "mschnell_XY Pad.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_XY Pad.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3d9293eb094edaa11ce24e125dc9832f3e1fac2d/MIDI/mschnell_XY%20Pad.jsfx",
+        "sha256": "0lhc8766ynf60am58misw0raqv2ycymygg7k3ssxr5z32wy2dw7r"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_XY Pad.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3d9293eb094edaa11ce24e125dc9832f3e1fac2d/MIDI/mschnell_XY%20Pad.jsfx",
+        "sha256": "0lhc8766ynf60am58misw0raqv2ycymygg7k3ssxr5z32wy2dw7r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_XY Pad.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/896c2b86bcd951a3a262442b2b5aff6d2068c879/MIDI/mschnell_XY%20Pad.jsfx",
+        "sha256": "1qkci5b054iw5w9h3i5nq0fgxh8z6gayyj617zjm9frxk4qkab7v"
+      }
+    ]
+  },
   "mschnellsid_XY Pad X.jsfx": {
     "latest": [
       {
@@ -6030,33 +6155,51 @@
       }
     ]
   },
-  "polgo_MIDI Envelocity.jsfx": {
+  "MB_MIDI Event Filter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5c62576226d6de42da39944835c291d2610a1f80/MIDI/polgo_MIDI%20Envelocity.jsfx",
-        "sha256": "1x9g8ayq7bsdqdlzdwsy9bz0bbrczwwzyc2lqb08j2c9vs2n31n0"
+        "path": "Effects/ReaTeam JSFX/MIDI/MB_MIDI Event Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/0d26f30c50af08b8a4182a06224d9d551972fad0/MIDI/MB_MIDI%20Event%20Filter.jsfx",
+        "sha256": "0xgb5gm34kq8js7wkq9nhphdms9lxqjdbflj3ls8ydg64c61ipmz"
       }
     ],
-    "1.2": [
+    "2.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5c62576226d6de42da39944835c291d2610a1f80/MIDI/polgo_MIDI%20Envelocity.jsfx",
-        "sha256": "1x9g8ayq7bsdqdlzdwsy9bz0bbrczwwzyc2lqb08j2c9vs2n31n0"
+        "path": "Effects/ReaTeam JSFX/MIDI/MB_MIDI Event Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/0d26f30c50af08b8a4182a06224d9d551972fad0/MIDI/MB_MIDI%20Event%20Filter.jsfx",
+        "sha256": "0xgb5gm34kq8js7wkq9nhphdms9lxqjdbflj3ls8ydg64c61ipmz"
+      }
+    ]
+  },
+  "juan_r_MIDI Floating Split.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Floating Split.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9b15e7d94c275f6d89c8098edc09ac3bd4e8d4e4/MIDI/juan_r_MIDI%20Floating%20Split.jsfx",
+        "sha256": "060dfwwqxn7kya63yl1mjgaqcz46d1ln60lbji6m193h5l5xf5lh"
       }
     ],
-    "1.1": [
+    "0.02a": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5a4946fe1aa9b585ef1283c27fb59e313ebab0a0/MIDI/polgo_MIDI%20Envelocity.jsfx",
-        "sha256": "04iy5v3kp9m3zjff57dmnii85w8j5a7ss5d4raa2l7r9005qh3la"
+        "path": "Effects/ReaTeam JSFX/MIDI/juan_r_MIDI Floating Split.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9b15e7d94c275f6d89c8098edc09ac3bd4e8d4e4/MIDI/juan_r_MIDI%20Floating%20Split.jsfx",
+        "sha256": "060dfwwqxn7kya63yl1mjgaqcz46d1ln60lbji6m193h5l5xf5lh"
+      }
+    ]
+  },
+  "rekseffeks_MIDI CC to pitchbend.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/rekseffeks_MIDI CC to pitchbend.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ba80e945ecd5f56437d19092e2dd7b743234a305/MIDI/rekseffeks_MIDI%20CC%20to%20pitchbend.jsfx",
+        "sha256": "1wb0j4641gxxsi22f6mmgiskgdjhdgd27a9nbg901yy5ii4dfw8g"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/d02ac6953c13cdd24cc918ac996a55c3415addcf/MIDI/polgo_MIDI%20Envelocity.jsfx",
-        "sha256": "14wfn67mq47pmkjyq8yhn1iqlm3b1ld0cafawy9lqqiyd7gw652i"
+        "path": "Effects/ReaTeam JSFX/MIDI/rekseffeks_MIDI CC to pitchbend.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ba80e945ecd5f56437d19092e2dd7b743234a305/MIDI/rekseffeks_MIDI%20CC%20to%20pitchbend.jsfx",
+        "sha256": "1wb0j4641gxxsi22f6mmgiskgdjhdgd27a9nbg901yy5ii4dfw8g"
       }
     ]
   },
@@ -6073,107 +6216,6 @@
         "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Slider to MIDI NRPM.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/57388237549c19dff78537f769a414b3c0046a86/MIDI/mschnell_Slider%20to%20MIDI%20NRPM.jsfx",
         "sha256": "088ww1v9jmxlzxqpidc4h7rddapy9nr37wkpr0qp0kc8s07i5w5w"
-      }
-    ]
-  },
-  "mschnell_XY Pad.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_XY Pad.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3d9293eb094edaa11ce24e125dc9832f3e1fac2d/MIDI/mschnell_XY%20Pad.jsfx",
-        "sha256": "0lhc8766ynf60am58misw0raqv2ycymygg7k3ssxr5z32wy2dw7r"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_XY Pad.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3d9293eb094edaa11ce24e125dc9832f3e1fac2d/MIDI/mschnell_XY%20Pad.jsfx",
-        "sha256": "0lhc8766ynf60am58misw0raqv2ycymygg7k3ssxr5z32wy2dw7r"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_XY Pad.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/896c2b86bcd951a3a262442b2b5aff6d2068c879/MIDI/mschnell_XY%20Pad.jsfx",
-        "sha256": "1qkci5b054iw5w9h3i5nq0fgxh8z6gayyj617zjm9frxk4qkab7v"
-      }
-    ]
-  },
-  "mschnell_Note On Velocity Tool.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Note On Velocity Tool.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9c50d42c143474a039015fe36c9a669f4ea9089e/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx",
-        "sha256": "1wmkqcxdgkwq25xba4p6m2llwbhdk2wkfckhn02rjnmn11bns6kn"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Note On Velocity Tool.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9c50d42c143474a039015fe36c9a669f4ea9089e/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx",
-        "sha256": "1wmkqcxdgkwq25xba4p6m2llwbhdk2wkfckhn02rjnmn11bns6kn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Note On Velocity Tool.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/295b72b8f05c2c617a62d78baab88e53074df611/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx",
-        "sha256": "070ai4cn6mqyh98aap5qdpfafmx1fqzzi74ypii6k5lr624f17ac"
-      }
-    ]
-  },
-  "mschnell_Send All Notes Off.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Send All Notes Off.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3e570290e5b6736ddd2a31acde5c3229fa0df2a4/MIDI/mschnell_Send%20All%20Notes%20Off.jsfx",
-        "sha256": "19xam45zzbwrv2lmqmsjsi3ykqidhc5v26alnxsszxh89vpdr535"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/mschnell_Send All Notes Off.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3e570290e5b6736ddd2a31acde5c3229fa0df2a4/MIDI/mschnell_Send%20All%20Notes%20Off.jsfx",
-        "sha256": "19xam45zzbwrv2lmqmsjsi3ykqidhc5v26alnxsszxh89vpdr535"
-      }
-    ]
-  },
-  "talagan_MIDI CC Bistate Button.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI CC Bistate Button.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5658bba94a67a0ead7c7d3b3ea749037310f095d/MIDI/talagan_MIDI%20CC%20Bistate%20Button.jsfx",
-        "sha256": "1j0kqxl9xq3d0gicspyzyx0rb5hs2lcnq0jd88w83shbg1q31pqc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI CC Bistate Button.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5658bba94a67a0ead7c7d3b3ea749037310f095d/MIDI/talagan_MIDI%20CC%20Bistate%20Button.jsfx",
-        "sha256": "1j0kqxl9xq3d0gicspyzyx0rb5hs2lcnq0jd88w83shbg1q31pqc"
-      }
-    ]
-  },
-  "polgo_MIDI Varocity.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Varocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9df9682cee8e1bcceac9b3d3f273c3641fee9065/MIDI/polgo_MIDI%20Varocity.jsfx",
-        "sha256": "0bj42p2xfhcyj00dydch6jlns51gd3cdilp3yx78adw0xnpsiwpf"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Varocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9df9682cee8e1bcceac9b3d3f273c3641fee9065/MIDI/polgo_MIDI%20Varocity.jsfx",
-        "sha256": "0bj42p2xfhcyj00dydch6jlns51gd3cdilp3yx78adw0xnpsiwpf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Varocity.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/de50332c6e1fa8a186430c83e11ca3e29aa8bdac/MIDI/polgo_MIDI%20Varocity.jsfx",
-        "sha256": "1jmha8l27yljj7ix9kd2qg9kvx0hps5y6v4izbvbfkkcj1lbxqm2"
       }
     ]
   },
@@ -11408,65 +11450,72 @@
       }
     ]
   },
-  "rekseffeks_MIDI CC to pitchbend.jsfx": {
+  "polgo_MIDI Varocity.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/rekseffeks_MIDI CC to pitchbend.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ba80e945ecd5f56437d19092e2dd7b743234a305/MIDI/rekseffeks_MIDI%20CC%20to%20pitchbend.jsfx",
-        "sha256": "1wb0j4641gxxsi22f6mmgiskgdjhdgd27a9nbg901yy5ii4dfw8g"
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Varocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9df9682cee8e1bcceac9b3d3f273c3641fee9065/MIDI/polgo_MIDI%20Varocity.jsfx",
+        "sha256": "0bj42p2xfhcyj00dydch6jlns51gd3cdilp3yx78adw0xnpsiwpf"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Varocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9df9682cee8e1bcceac9b3d3f273c3641fee9065/MIDI/polgo_MIDI%20Varocity.jsfx",
+        "sha256": "0bj42p2xfhcyj00dydch6jlns51gd3cdilp3yx78adw0xnpsiwpf"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/rekseffeks_MIDI CC to pitchbend.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ba80e945ecd5f56437d19092e2dd7b743234a305/MIDI/rekseffeks_MIDI%20CC%20to%20pitchbend.jsfx",
-        "sha256": "1wb0j4641gxxsi22f6mmgiskgdjhdgd27a9nbg901yy5ii4dfw8g"
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Varocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/de50332c6e1fa8a186430c83e11ca3e29aa8bdac/MIDI/polgo_MIDI%20Varocity.jsfx",
+        "sha256": "1jmha8l27yljj7ix9kd2qg9kvx0hps5y6v4izbvbfkkcj1lbxqm2"
       }
     ]
   },
-  "talagan_MIDI Delay X.jsfx": {
+  "polgo_MIDI Envelocity.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/eeb087b70ffc2d19b41e379e41bb5b56b8c9092b/MIDI/talagan_MIDI%20Delay%20X.jsfx",
-        "sha256": "1g1l8p1xc0df2339lhdv6aygk9yrj48f2m020zpwvdh3i44pcmss"
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5c62576226d6de42da39944835c291d2610a1f80/MIDI/polgo_MIDI%20Envelocity.jsfx",
+        "sha256": "1x9g8ayq7bsdqdlzdwsy9bz0bbrczwwzyc2lqb08j2c9vs2n31n0"
       }
     ],
-    "0.5": [
+    "1.2": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/eeb087b70ffc2d19b41e379e41bb5b56b8c9092b/MIDI/talagan_MIDI%20Delay%20X.jsfx",
-        "sha256": "1g1l8p1xc0df2339lhdv6aygk9yrj48f2m020zpwvdh3i44pcmss"
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5c62576226d6de42da39944835c291d2610a1f80/MIDI/polgo_MIDI%20Envelocity.jsfx",
+        "sha256": "1x9g8ayq7bsdqdlzdwsy9bz0bbrczwwzyc2lqb08j2c9vs2n31n0"
       }
     ],
-    "0.4": [
+    "1.1": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a1ebfccf88d05d34606104b462acb08b0e8104ec/MIDI/talagan_MIDI%20Delay%20X.jsfx",
-        "sha256": "17cr2d0aqs1qqpixnq884bpi9dq9nabxv2s32crlxh2c2pl8ks1y"
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5a4946fe1aa9b585ef1283c27fb59e313ebab0a0/MIDI/polgo_MIDI%20Envelocity.jsfx",
+        "sha256": "04iy5v3kp9m3zjff57dmnii85w8j5a7ss5d4raa2l7r9005qh3la"
       }
     ],
-    "0.3": [
+    "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5f8d18f7941f41390119c757fcfecc65f8b8fa97/MIDI/talagan_MIDI%20Delay%20X.jsfx",
-        "sha256": "0ha2py1w9alkyzd7if76nfdsxb23y1bi2b74yz5c01hyg5qv9ffh"
+        "path": "Effects/ReaTeam JSFX/MIDI/polgo_MIDI Envelocity.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/d02ac6953c13cdd24cc918ac996a55c3415addcf/MIDI/polgo_MIDI%20Envelocity.jsfx",
+        "sha256": "14wfn67mq47pmkjyq8yhn1iqlm3b1ld0cafawy9lqqiyd7gw652i"
       }
     ]
   },
-  "talagan_MIDI Force Notes to Range.jsfx": {
+  "talagan_MIDI CC Bistate Button.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Force Notes to Range.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/75226ffbcdabab68d94ccf87727f2d7ee956077e/MIDI/talagan_MIDI%20Force%20Notes%20to%20Range.jsfx",
-        "sha256": "0m676nr8sgb0hjs7jskhiqg0v93vsip2ch5py3x0b2qmyjb48ca2"
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI CC Bistate Button.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5658bba94a67a0ead7c7d3b3ea749037310f095d/MIDI/talagan_MIDI%20CC%20Bistate%20Button.jsfx",
+        "sha256": "1j0kqxl9xq3d0gicspyzyx0rb5hs2lcnq0jd88w83shbg1q31pqc"
       }
     ],
-    "0.5": [
+    "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Force Notes to Range.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/75226ffbcdabab68d94ccf87727f2d7ee956077e/MIDI/talagan_MIDI%20Force%20Notes%20to%20Range.jsfx",
-        "sha256": "0m676nr8sgb0hjs7jskhiqg0v93vsip2ch5py3x0b2qmyjb48ca2"
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI CC Bistate Button.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5658bba94a67a0ead7c7d3b3ea749037310f095d/MIDI/talagan_MIDI%20CC%20Bistate%20Button.jsfx",
+        "sha256": "1j0kqxl9xq3d0gicspyzyx0rb5hs2lcnq0jd88w83shbg1q31pqc"
       }
     ]
   },
@@ -11497,6 +11546,36 @@
         "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Channel Matrix Router.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/9fdae3e34da7a0e150915cbebbf94e1c10d8535f/MIDI/talagan_MIDI%20Channel%20Matrix%20Router.jsfx",
         "sha256": "0j2a2g9lmmwvcgzspbza4rrli3mhcfp506yqjqgkdmgpkajk725s"
+      }
+    ]
+  },
+  "talagan_MIDI Delay X.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/eeb087b70ffc2d19b41e379e41bb5b56b8c9092b/MIDI/talagan_MIDI%20Delay%20X.jsfx",
+        "sha256": "1g1l8p1xc0df2339lhdv6aygk9yrj48f2m020zpwvdh3i44pcmss"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/eeb087b70ffc2d19b41e379e41bb5b56b8c9092b/MIDI/talagan_MIDI%20Delay%20X.jsfx",
+        "sha256": "1g1l8p1xc0df2339lhdv6aygk9yrj48f2m020zpwvdh3i44pcmss"
+      }
+    ],
+    "0.4": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a1ebfccf88d05d34606104b462acb08b0e8104ec/MIDI/talagan_MIDI%20Delay%20X.jsfx",
+        "sha256": "17cr2d0aqs1qqpixnq884bpi9dq9nabxv2s32crlxh2c2pl8ks1y"
+      }
+    ],
+    "0.3": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Delay X.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5f8d18f7941f41390119c757fcfecc65f8b8fa97/MIDI/talagan_MIDI%20Delay%20X.jsfx",
+        "sha256": "0ha2py1w9alkyzd7if76nfdsxb23y1bi2b74yz5c01hyg5qv9ffh"
       }
     ]
   },
@@ -11557,19 +11636,19 @@
       }
     ]
   },
-  "talagan_MIDI Split Pitch Bend to CCs.jsfx": {
+  "talagan_MIDI Force Notes to Range.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Split Pitch Bend to CCs.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/99a12abd264bfb2da185457ed136c8999bee6163/MIDI/talagan_MIDI%20Split%20Pitch%20Bend%20to%20CCs.jsfx",
-        "sha256": "04zzvgnq1rb5k3j787fr847wk1z06q07lnsliw4n9s26ci99gqxk"
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Force Notes to Range.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/75226ffbcdabab68d94ccf87727f2d7ee956077e/MIDI/talagan_MIDI%20Force%20Notes%20to%20Range.jsfx",
+        "sha256": "0m676nr8sgb0hjs7jskhiqg0v93vsip2ch5py3x0b2qmyjb48ca2"
       }
     ],
     "0.5": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Split Pitch Bend to CCs.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/99a12abd264bfb2da185457ed136c8999bee6163/MIDI/talagan_MIDI%20Split%20Pitch%20Bend%20to%20CCs.jsfx",
-        "sha256": "04zzvgnq1rb5k3j787fr847wk1z06q07lnsliw4n9s26ci99gqxk"
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Force Notes to Range.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/75226ffbcdabab68d94ccf87727f2d7ee956077e/MIDI/talagan_MIDI%20Force%20Notes%20to%20Range.jsfx",
+        "sha256": "0m676nr8sgb0hjs7jskhiqg0v93vsip2ch5py3x0b2qmyjb48ca2"
       }
     ]
   },
@@ -11600,6 +11679,38 @@
         "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Note Remapper.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/be973f9b7104038382c78a3be21ed5bb98a036b6/MIDI/talagan_MIDI%20Note%20Remapper.jsfx",
         "sha256": "15s0hwaw0r21r9x7hq3s6kpfhr2m5z7xw09qk3l7ci7xv26g61g3"
+      }
+    ]
+  },
+  "talagan_MIDI Poly Aftertouch CC Multiplexer.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Poly Aftertouch CC Multiplexer.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3fa7494a11057c1bcf75d5a509ca2ad70466406a/MIDI/talagan_MIDI%20Poly%20Aftertouch%20CC%20Multiplexer.jsfx",
+        "sha256": "0hpry0rr93d4xcjvsp6sybyp4gd5jwjpj8413bj7qxrcncg6mbbb"
+      }
+    ],
+    "0.9": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Poly Aftertouch CC Multiplexer.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3fa7494a11057c1bcf75d5a509ca2ad70466406a/MIDI/talagan_MIDI%20Poly%20Aftertouch%20CC%20Multiplexer.jsfx",
+        "sha256": "0hpry0rr93d4xcjvsp6sybyp4gd5jwjpj8413bj7qxrcncg6mbbb"
+      }
+    ]
+  },
+  "talagan_MIDI Split Pitch Bend to CCs.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Split Pitch Bend to CCs.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/99a12abd264bfb2da185457ed136c8999bee6163/MIDI/talagan_MIDI%20Split%20Pitch%20Bend%20to%20CCs.jsfx",
+        "sha256": "04zzvgnq1rb5k3j787fr847wk1z06q07lnsliw4n9s26ci99gqxk"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Split Pitch Bend to CCs.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/99a12abd264bfb2da185457ed136c8999bee6163/MIDI/talagan_MIDI%20Split%20Pitch%20Bend%20to%20CCs.jsfx",
+        "sha256": "04zzvgnq1rb5k3j787fr847wk1z06q07lnsliw4n9s26ci99gqxk"
       }
     ]
   },
@@ -11791,54 +11902,6 @@
       }
     ]
   },
-  "tomaszpio_MIDI hold notes range.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_MIDI hold notes range.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ce70663a65b33ead55e9f365c01f992e9015a2d5/MIDI/tomaszpio_MIDI%20hold%20notes%20range.jsfx",
-        "sha256": "07l4pa59rfx236c13rrh8dnqkq9wdwnh3szaig9v5bqp5bzkswmy"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_MIDI hold notes range.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ce70663a65b33ead55e9f365c01f992e9015a2d5/MIDI/tomaszpio_MIDI%20hold%20notes%20range.jsfx",
-        "sha256": "07l4pa59rfx236c13rrh8dnqkq9wdwnh3szaig9v5bqp5bzkswmy"
-      }
-    ]
-  },
-  "tomaszpio_APC Pad Blinker (Sync to Transport).jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_APC Pad Blinker (Sync to Transport).jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/8d0fdc416983c49ef15a50daf94e1366ab2a28e2/MIDI/tomaszpio_APC%20Pad%20Blinker%20(Sync%20to%20Transport).jsfx",
-        "sha256": "1s84zgk23awjcg1hbq9dx0npyqi3962mjpfq7xw52z0ik07h892l"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_APC Pad Blinker (Sync to Transport).jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/8d0fdc416983c49ef15a50daf94e1366ab2a28e2/MIDI/tomaszpio_APC%20Pad%20Blinker%20(Sync%20to%20Transport).jsfx",
-        "sha256": "1s84zgk23awjcg1hbq9dx0npyqi3962mjpfq7xw52z0ik07h892l"
-      }
-    ]
-  },
-  "urtzurd_MIDI Glissando.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/urtzurd_MIDI Glissando.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e7ed9a1ccc661d901153d5e07d8357142d864a4b/MIDI/urtzurd_MIDI%20Glissando.jsfx",
-        "sha256": "1rs0v2xya6wq4bsx6n9x4xwmvb32hn76xib3yb2m1li0djn0cvxg"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/urtzurd_MIDI Glissando.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e7ed9a1ccc661d901153d5e07d8357142d864a4b/MIDI/urtzurd_MIDI%20Glissando.jsfx",
-        "sha256": "1rs0v2xya6wq4bsx6n9x4xwmvb32hn76xib3yb2m1li0djn0cvxg"
-      }
-    ]
-  },
   "willdevelop_MIDI every note the same.jsfx": {
     "latest": [
       {
@@ -11862,19 +11925,51 @@
       }
     ]
   },
-  "willdevelop_every_note_the_same.jsfx": {
+  "tomaszpio_MIDI hold notes range.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_every_note_the_same.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/030b9a53dd1ac3d03c524e7000aeee8c45ecc066/MIDI/willdevelop_every_note_the_same.jsfx",
-        "sha256": "062v2rv1nwv7n4p171n6xky32rvx4y0vvl15mvip45lrygfinlqs"
+        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_MIDI hold notes range.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ce70663a65b33ead55e9f365c01f992e9015a2d5/MIDI/tomaszpio_MIDI%20hold%20notes%20range.jsfx",
+        "sha256": "07l4pa59rfx236c13rrh8dnqkq9wdwnh3szaig9v5bqp5bzkswmy"
       }
     ],
-    "2.0": [
+    "1.0.0": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_every_note_the_same.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/030b9a53dd1ac3d03c524e7000aeee8c45ecc066/MIDI/willdevelop_every_note_the_same.jsfx",
-        "sha256": "062v2rv1nwv7n4p171n6xky32rvx4y0vvl15mvip45lrygfinlqs"
+        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_MIDI hold notes range.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ce70663a65b33ead55e9f365c01f992e9015a2d5/MIDI/tomaszpio_MIDI%20hold%20notes%20range.jsfx",
+        "sha256": "07l4pa59rfx236c13rrh8dnqkq9wdwnh3szaig9v5bqp5bzkswmy"
+      }
+    ]
+  },
+  "willdevelop_MIDI Velocity Filter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_MIDI Velocity Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/92ca2e5987db31f53f951fc625b3642f9f28d1fb/MIDI/willdevelop_MIDI%20Velocity%20Filter.jsfx",
+        "sha256": "1q4mrzd1srdyrb1pnpfsj8spm4a3pwlhfyhm3lzpwhq5islkf17m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_MIDI Velocity Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/92ca2e5987db31f53f951fc625b3642f9f28d1fb/MIDI/willdevelop_MIDI%20Velocity%20Filter.jsfx",
+        "sha256": "1q4mrzd1srdyrb1pnpfsj8spm4a3pwlhfyhm3lzpwhq5islkf17m"
+      }
+    ]
+  },
+  "tomaszpio_APC Pad Blinker (Sync to Transport).jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_APC Pad Blinker (Sync to Transport).jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/8d0fdc416983c49ef15a50daf94e1366ab2a28e2/MIDI/tomaszpio_APC%20Pad%20Blinker%20(Sync%20to%20Transport).jsfx",
+        "sha256": "1s84zgk23awjcg1hbq9dx0npyqi3962mjpfq7xw52z0ik07h892l"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_APC Pad Blinker (Sync to Transport).jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/8d0fdc416983c49ef15a50daf94e1366ab2a28e2/MIDI/tomaszpio_APC%20Pad%20Blinker%20(Sync%20to%20Transport).jsfx",
+        "sha256": "1s84zgk23awjcg1hbq9dx0npyqi3962mjpfq7xw52z0ik07h892l"
       }
     ]
   },
@@ -11901,6 +11996,54 @@
       }
     ]
   },
+  "urtzurd_MIDI Glissando.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/urtzurd_MIDI Glissando.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e7ed9a1ccc661d901153d5e07d8357142d864a4b/MIDI/urtzurd_MIDI%20Glissando.jsfx",
+        "sha256": "1rs0v2xya6wq4bsx6n9x4xwmvb32hn76xib3yb2m1li0djn0cvxg"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/urtzurd_MIDI Glissando.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e7ed9a1ccc661d901153d5e07d8357142d864a4b/MIDI/urtzurd_MIDI%20Glissando.jsfx",
+        "sha256": "1rs0v2xya6wq4bsx6n9x4xwmvb32hn76xib3yb2m1li0djn0cvxg"
+      }
+    ]
+  },
+  "willdevelop_every_note_the_same.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_every_note_the_same.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/030b9a53dd1ac3d03c524e7000aeee8c45ecc066/MIDI/willdevelop_every_note_the_same.jsfx",
+        "sha256": "062v2rv1nwv7n4p171n6xky32rvx4y0vvl15mvip45lrygfinlqs"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_every_note_the_same.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/030b9a53dd1ac3d03c524e7000aeee8c45ecc066/MIDI/willdevelop_every_note_the_same.jsfx",
+        "sha256": "062v2rv1nwv7n4p171n6xky32rvx4y0vvl15mvip45lrygfinlqs"
+      }
+    ]
+  },
+  "tomaszpio_AKAI APC mini grid toggle.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_AKAI APC mini grid toggle.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c8ab0e4dce9b81436442e2ef26816ab832f4605e/MIDI/tomaszpio_AKAI%20APC%20mini%20grid%20toggle.jsfx",
+        "sha256": "0i2gm837r6c0b0misbi8a8zy3r0cilhkyd3hcx19m12f3nq6a0c2"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_AKAI APC mini grid toggle.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c8ab0e4dce9b81436442e2ef26816ab832f4605e/MIDI/tomaszpio_AKAI%20APC%20mini%20grid%20toggle.jsfx",
+        "sha256": "0i2gm837r6c0b0misbi8a8zy3r0cilhkyd3hcx19m12f3nq6a0c2"
+      }
+    ]
+  },
   "XQ_Drum Converter.jsfx": {
     "latest": [
       {
@@ -11914,22 +12057,6 @@
         "path": "Effects/ReaTeam JSFX/MIDI/XQ_Drum Converter.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/81ba14a83f1e6f88882ee5a704b724689dcfbd61/MIDI/XQ_Drum%20Converter.jsfx",
         "sha256": "1r5i071grk8l1h5dkm4kgchjvs2730411858fl8x2cl9pmdvr8fa"
-      }
-    ]
-  },
-  "XQ_Drum Equalizer.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/XQ_Drum Equalizer.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/1714dc8b03443be9d56102323cea9550c256a603/MIDI/XQ_Drum%20Equalizer.jsfx",
-        "sha256": "0m6xsky6sk72qiaifqlj6njacrn7qipjp7r4bjby2sfmjfpjnwnv"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/XQ_Drum Equalizer.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/1714dc8b03443be9d56102323cea9550c256a603/MIDI/XQ_Drum%20Equalizer.jsfx",
-        "sha256": "0m6xsky6sk72qiaifqlj6njacrn7qipjp7r4bjby2sfmjfpjnwnv"
       }
     ]
   },
@@ -11963,51 +12090,19 @@
       }
     ]
   },
-  "willdevelop_MIDI Velocity Filter.jsfx": {
+  "XQ_Drum Equalizer.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_MIDI Velocity Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/92ca2e5987db31f53f951fc625b3642f9f28d1fb/MIDI/willdevelop_MIDI%20Velocity%20Filter.jsfx",
-        "sha256": "1q4mrzd1srdyrb1pnpfsj8spm4a3pwlhfyhm3lzpwhq5islkf17m"
+        "path": "Effects/ReaTeam JSFX/MIDI/XQ_Drum Equalizer.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/1714dc8b03443be9d56102323cea9550c256a603/MIDI/XQ_Drum%20Equalizer.jsfx",
+        "sha256": "0m6xsky6sk72qiaifqlj6njacrn7qipjp7r4bjby2sfmjfpjnwnv"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Effects/ReaTeam JSFX/MIDI/willdevelop_MIDI Velocity Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/92ca2e5987db31f53f951fc625b3642f9f28d1fb/MIDI/willdevelop_MIDI%20Velocity%20Filter.jsfx",
-        "sha256": "1q4mrzd1srdyrb1pnpfsj8spm4a3pwlhfyhm3lzpwhq5islkf17m"
-      }
-    ]
-  },
-  "talagan_MIDI Poly Aftertouch CC Multiplexer.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Poly Aftertouch CC Multiplexer.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3fa7494a11057c1bcf75d5a509ca2ad70466406a/MIDI/talagan_MIDI%20Poly%20Aftertouch%20CC%20Multiplexer.jsfx",
-        "sha256": "0hpry0rr93d4xcjvsp6sybyp4gd5jwjpj8413bj7qxrcncg6mbbb"
-      }
-    ],
-    "0.9": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/talagan_MIDI Poly Aftertouch CC Multiplexer.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3fa7494a11057c1bcf75d5a509ca2ad70466406a/MIDI/talagan_MIDI%20Poly%20Aftertouch%20CC%20Multiplexer.jsfx",
-        "sha256": "0hpry0rr93d4xcjvsp6sybyp4gd5jwjpj8413bj7qxrcncg6mbbb"
-      }
-    ]
-  },
-  "tomaszpio_AKAI APC mini grid toggle.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_AKAI APC mini grid toggle.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c8ab0e4dce9b81436442e2ef26816ab832f4605e/MIDI/tomaszpio_AKAI%20APC%20mini%20grid%20toggle.jsfx",
-        "sha256": "0i2gm837r6c0b0misbi8a8zy3r0cilhkyd3hcx19m12f3nq6a0c2"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/MIDI/tomaszpio_AKAI APC mini grid toggle.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c8ab0e4dce9b81436442e2ef26816ab832f4605e/MIDI/tomaszpio_AKAI%20APC%20mini%20grid%20toggle.jsfx",
-        "sha256": "0i2gm837r6c0b0misbi8a8zy3r0cilhkyd3hcx19m12f3nq6a0c2"
+        "path": "Effects/ReaTeam JSFX/MIDI/XQ_Drum Equalizer.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/1714dc8b03443be9d56102323cea9550c256a603/MIDI/XQ_Drum%20Equalizer.jsfx",
+        "sha256": "0m6xsky6sk72qiaifqlj6njacrn7qipjp7r4bjby2sfmjfpjnwnv"
       }
     ]
   },
@@ -12048,6 +12143,22 @@
       }
     ]
   },
+  "CoreyScogin_TimeDelayByDistance.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7f2f0c085b27393a6c642f3f6cffd8197aa4f262/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
+        "sha256": "19sx6599nv510iawzmzqadlr7y98399vaxvjzvih8h57rvdc256z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7f2f0c085b27393a6c642f3f6cffd8197aa4f262/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
+        "sha256": "19sx6599nv510iawzmzqadlr7y98399vaxvjzvih8h57rvdc256z"
+      }
+    ]
+  },
   "CoreyScogin_AutoMixer.jsfx": {
     "latest": [
       {
@@ -12085,6 +12196,29 @@
       }
     ]
   },
+  "jw_gfxscope-beat-retrigger.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/jw_gfxscope-beat-retrigger.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/71f572fac33bb78f8a156d8544d630eaf6d7d746/Utility/jw_gfxscope-beat-retrigger.jsfx",
+        "sha256": "0fmxpfaymzlxhjxz89148w01zzlpmjf5ch56imc4rm4a8913smdz"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/jw_gfxscope-beat-retrigger.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/71f572fac33bb78f8a156d8544d630eaf6d7d746/Utility/jw_gfxscope-beat-retrigger.jsfx",
+        "sha256": "0fmxpfaymzlxhjxz89148w01zzlpmjf5ch56imc4rm4a8913smdz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/jw_gfxscope-beat-retrigger.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5178a1b63d48a568a0b6d600d2fdf308b5043822/Utility/jw_gfxscope-beat-retrigger.jsfx",
+        "sha256": "1sla3w1zal6mpkdr0id3imbxwdcxi8hf21gqqxw0hrxfrz1mxwkg"
+      }
+    ]
+  },
   "az_Automute.jsfx": {
     "latest": [
       {
@@ -12101,67 +12235,35 @@
       }
     ]
   },
-  "denisfilippov_Simple Stereo Width Control.jsfx": {
+  "jcgurango_Pre-Arranged Looper.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/denisfilippov_Simple Stereo Width Control.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/74461a8f7932a1a944ec1d186987cc9d20306d19/Utility/denisfilippov_Simple%20Stereo%20Width%20Control.jsfx",
-        "sha256": "0dnl8xdxvrlf64gpiv8wkxl2kjk1gsdmxwwviwf0frir7ki0c8mx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/denisfilippov_Simple Stereo Width Control.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/74461a8f7932a1a944ec1d186987cc9d20306d19/Utility/denisfilippov_Simple%20Stereo%20Width%20Control.jsfx",
-        "sha256": "0dnl8xdxvrlf64gpiv8wkxl2kjk1gsdmxwwviwf0frir7ki0c8mx"
-      }
-    ]
-  },
-  "dylanmadigan_Automatic Gain Stager.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/dylanmadigan_Automatic Gain Stager.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/caf74fef8fd11678b8d5cf22644827278f714790/Utility/dylanmadigan_Automatic%20Gain%20Stager.jsfx",
-        "sha256": "1hjrgjb9pv9h8jnz31kv5yy27bvz3m96abrslj95lb2a6fh3svv9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/dylanmadigan_Automatic Gain Stager.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/caf74fef8fd11678b8d5cf22644827278f714790/Utility/dylanmadigan_Automatic%20Gain%20Stager.jsfx",
-        "sha256": "1hjrgjb9pv9h8jnz31kv5yy27bvz3m96abrslj95lb2a6fh3svv9"
-      }
-    ]
-  },
-  "CoreyScogin_TimeDelayByDistance.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7f2f0c085b27393a6c642f3f6cffd8197aa4f262/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
-        "sha256": "19sx6599nv510iawzmzqadlr7y98399vaxvjzvih8h57rvdc256z"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7f2f0c085b27393a6c642f3f6cffd8197aa4f262/Utility/CoreyScogin_TimeDelayByDistance.jsfx",
-        "sha256": "19sx6599nv510iawzmzqadlr7y98399vaxvjzvih8h57rvdc256z"
-      }
-    ]
-  },
-  "jcgurango_MIDI Arranged Looper.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_MIDI Arranged Looper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/81ced97f1ff0c3b584ee4c28cba5b93e28dfc74a/Utility/jcgurango_MIDI%20Arranged%20Looper.jsfx",
-        "sha256": "0gdj7qzmvqpnh3lh2yvsr0in827gz3yskawk70yh8gin6zcxik7c"
+        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_Pre-Arranged Looper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f2b75f841d580fbe5e4e5b88aa73e588f6d3b1ae/Utility/jcgurango_Pre-Arranged%20Looper.jsfx",
+        "sha256": "1zlch6wknym1gik05j9g0iy1mk36949xgwbd30qfnvrsn2j6g9mi"
       }
     ],
     "0.1": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_MIDI Arranged Looper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/81ced97f1ff0c3b584ee4c28cba5b93e28dfc74a/Utility/jcgurango_MIDI%20Arranged%20Looper.jsfx",
-        "sha256": "0gdj7qzmvqpnh3lh2yvsr0in827gz3yskawk70yh8gin6zcxik7c"
+        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_Pre-Arranged Looper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f2b75f841d580fbe5e4e5b88aa73e588f6d3b1ae/Utility/jcgurango_Pre-Arranged%20Looper.jsfx",
+        "sha256": "1zlch6wknym1gik05j9g0iy1mk36949xgwbd30qfnvrsn2j6g9mi"
+      }
+    ]
+  },
+  "mrelwood_Blipper.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mrelwood_Blipper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/0bfd56000b352869f3c541270adcc53b3014869c/Utility/mrelwood_Blipper.jsfx",
+        "sha256": "1h0zjdbn4nmfadnq7d8a249fb8vcpm5y58fwac74ics8263wf0sv"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mrelwood_Blipper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/0bfd56000b352869f3c541270adcc53b3014869c/Utility/mrelwood_Blipper.jsfx",
+        "sha256": "1h0zjdbn4nmfadnq7d8a249fb8vcpm5y58fwac74ics8263wf0sv"
       }
     ]
   },
@@ -12178,6 +12280,22 @@
         "path": "Effects/ReaTeam JSFX/Utility/jsh_Inline Input Viewer (MCP embedded).jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/017d960c39c064ad2b1abf42e8bea02087debf1c/Utility/jsh_Inline%20Input%20Viewer%20(MCP%20embedded).jsfx",
         "sha256": "00xcjnpw8jmyzg625gi4x6brpp02zjw3nckd35lyiqnnf6n0gxy5"
+      }
+    ]
+  },
+  "denisfilippov_Simple Stereo Width Control.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/denisfilippov_Simple Stereo Width Control.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/74461a8f7932a1a944ec1d186987cc9d20306d19/Utility/denisfilippov_Simple%20Stereo%20Width%20Control.jsfx",
+        "sha256": "0dnl8xdxvrlf64gpiv8wkxl2kjk1gsdmxwwviwf0frir7ki0c8mx"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/denisfilippov_Simple Stereo Width Control.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/74461a8f7932a1a944ec1d186987cc9d20306d19/Utility/denisfilippov_Simple%20Stereo%20Width%20Control.jsfx",
+        "sha256": "0dnl8xdxvrlf64gpiv8wkxl2kjk1gsdmxwwviwf0frir7ki0c8mx"
       }
     ]
   },
@@ -12232,58 +12350,42 @@
       }
     ]
   },
-  "jcgurango_Pre-Arranged Looper.jsfx": {
+  "mschnell_Midi Auto Engage.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_Pre-Arranged Looper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f2b75f841d580fbe5e4e5b88aa73e588f6d3b1ae/Utility/jcgurango_Pre-Arranged%20Looper.jsfx",
-        "sha256": "1zlch6wknym1gik05j9g0iy1mk36949xgwbd30qfnvrsn2j6g9mi"
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi Auto Engage.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3595ffcaf00633ec9cdd314e78a7fcd23e00f6ad/Utility/mschnell_Midi%20Auto%20Engage.jsfx",
+        "sha256": "1hi2ks1900bn5hdzg8jd5pr7i5ymgwz9pa1z8m95pk4bmch3l1bz"
       }
     ],
-    "0.1": [
+    "3.2": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_Pre-Arranged Looper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f2b75f841d580fbe5e4e5b88aa73e588f6d3b1ae/Utility/jcgurango_Pre-Arranged%20Looper.jsfx",
-        "sha256": "1zlch6wknym1gik05j9g0iy1mk36949xgwbd30qfnvrsn2j6g9mi"
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi Auto Engage.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/3595ffcaf00633ec9cdd314e78a7fcd23e00f6ad/Utility/mschnell_Midi%20Auto%20Engage.jsfx",
+        "sha256": "1hi2ks1900bn5hdzg8jd5pr7i5ymgwz9pa1z8m95pk4bmch3l1bz"
       }
     ]
   },
-  "jw_gfxscope-beat-retrigger.jsfx": {
+  "mschnell_Midi CC Table.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/jw_gfxscope-beat-retrigger.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/71f572fac33bb78f8a156d8544d630eaf6d7d746/Utility/jw_gfxscope-beat-retrigger.jsfx",
-        "sha256": "0fmxpfaymzlxhjxz89148w01zzlpmjf5ch56imc4rm4a8913smdz"
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi CC Table.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4928d1e2adb0fb24fce568a758f82f2f9dafa4f2/Utility/mschnell_Midi%20CC%20Table.jsfx",
+        "sha256": "1icd9igi789h67cdga2yr6lrnjxn0i6lnk41wzjkdjij00a8jlad"
       }
     ],
     "1.1": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/jw_gfxscope-beat-retrigger.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/71f572fac33bb78f8a156d8544d630eaf6d7d746/Utility/jw_gfxscope-beat-retrigger.jsfx",
-        "sha256": "0fmxpfaymzlxhjxz89148w01zzlpmjf5ch56imc4rm4a8913smdz"
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi CC Table.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4928d1e2adb0fb24fce568a758f82f2f9dafa4f2/Utility/mschnell_Midi%20CC%20Table.jsfx",
+        "sha256": "1icd9igi789h67cdga2yr6lrnjxn0i6lnk41wzjkdjij00a8jlad"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/jw_gfxscope-beat-retrigger.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5178a1b63d48a568a0b6d600d2fdf308b5043822/Utility/jw_gfxscope-beat-retrigger.jsfx",
-        "sha256": "1sla3w1zal6mpkdr0id3imbxwdcxi8hf21gqqxw0hrxfrz1mxwkg"
-      }
-    ]
-  },
-  "mrelwood_Blipper.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mrelwood_Blipper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/0bfd56000b352869f3c541270adcc53b3014869c/Utility/mrelwood_Blipper.jsfx",
-        "sha256": "1h0zjdbn4nmfadnq7d8a249fb8vcpm5y58fwac74ics8263wf0sv"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mrelwood_Blipper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/0bfd56000b352869f3c541270adcc53b3014869c/Utility/mrelwood_Blipper.jsfx",
-        "sha256": "1h0zjdbn4nmfadnq7d8a249fb8vcpm5y58fwac74ics8263wf0sv"
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi CC Table.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/fb32cf664c09c8d6f58ab8a4beefc512bd23d333/Utility/mschnell_Midi%20CC%20Table.jsfx",
+        "sha256": "1ffy47hikb13biriim9h3cvr9ndccann7f1g4s2qddw0f7zw8560"
       }
     ]
   },
@@ -12317,26 +12419,19 @@
       }
     ]
   },
-  "mschnell_Midi CC Table.jsfx": {
+  "dylanmadigan_Automatic Gain Stager.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi CC Table.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4928d1e2adb0fb24fce568a758f82f2f9dafa4f2/Utility/mschnell_Midi%20CC%20Table.jsfx",
-        "sha256": "1icd9igi789h67cdga2yr6lrnjxn0i6lnk41wzjkdjij00a8jlad"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi CC Table.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4928d1e2adb0fb24fce568a758f82f2f9dafa4f2/Utility/mschnell_Midi%20CC%20Table.jsfx",
-        "sha256": "1icd9igi789h67cdga2yr6lrnjxn0i6lnk41wzjkdjij00a8jlad"
+        "path": "Effects/ReaTeam JSFX/Utility/dylanmadigan_Automatic Gain Stager.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/caf74fef8fd11678b8d5cf22644827278f714790/Utility/dylanmadigan_Automatic%20Gain%20Stager.jsfx",
+        "sha256": "1hjrgjb9pv9h8jnz31kv5yy27bvz3m96abrslj95lb2a6fh3svv9"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi CC Table.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/fb32cf664c09c8d6f58ab8a4beefc512bd23d333/Utility/mschnell_Midi%20CC%20Table.jsfx",
-        "sha256": "1ffy47hikb13biriim9h3cvr9ndccann7f1g4s2qddw0f7zw8560"
+        "path": "Effects/ReaTeam JSFX/Utility/dylanmadigan_Automatic Gain Stager.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/caf74fef8fd11678b8d5cf22644827278f714790/Utility/dylanmadigan_Automatic%20Gain%20Stager.jsfx",
+        "sha256": "1hjrgjb9pv9h8jnz31kv5yy27bvz3m96abrslj95lb2a6fh3svv9"
       }
     ]
   },
@@ -12353,22 +12448,6 @@
         "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI CC2SYSEX.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/b8648ffe3bb379ca435a51ffe7506d0504c840d9/Utility/mschnell_MIDI%20CC2SYSEX.jsfx",
         "sha256": "1raw2yj37c9vypg1xz8zjgrzzhzz7dagyjvizq01zx3q4nw10qc0"
-      }
-    ]
-  },
-  "mschnell_Midi Auto Engage.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi Auto Engage.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3595ffcaf00633ec9cdd314e78a7fcd23e00f6ad/Utility/mschnell_Midi%20Auto%20Engage.jsfx",
-        "sha256": "1hi2ks1900bn5hdzg8jd5pr7i5ymgwz9pa1z8m95pk4bmch3l1bz"
-      }
-    ],
-    "3.2": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Midi Auto Engage.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/3595ffcaf00633ec9cdd314e78a7fcd23e00f6ad/Utility/mschnell_Midi%20Auto%20Engage.jsfx",
-        "sha256": "1hi2ks1900bn5hdzg8jd5pr7i5ymgwz9pa1z8m95pk4bmch3l1bz"
       }
     ]
   },
@@ -12430,6 +12509,22 @@
       }
     ]
   },
+  "jcgurango_MIDI Arranged Looper.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_MIDI Arranged Looper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/81ced97f1ff0c3b584ee4c28cba5b93e28dfc74a/Utility/jcgurango_MIDI%20Arranged%20Looper.jsfx",
+        "sha256": "0gdj7qzmvqpnh3lh2yvsr0in827gz3yskawk70yh8gin6zcxik7c"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/jcgurango_MIDI Arranged Looper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/81ced97f1ff0c3b584ee4c28cba5b93e28dfc74a/Utility/jcgurango_MIDI%20Arranged%20Looper.jsfx",
+        "sha256": "0gdj7qzmvqpnh3lh2yvsr0in827gz3yskawk70yh8gin6zcxik7c"
+      }
+    ]
+  },
   "mschnell_MIDI Display Patch Name.jsfx": {
     "latest": [
       {
@@ -12450,6 +12545,45 @@
         "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display Patch Name.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/54284f1a2903c0a93754a5a2a3ea11e90549cc8a/Utility/mschnell_MIDI%20Display%20Patch%20Name.jsfx",
         "sha256": "1gw6ckhwq1f19z1r89qarpg0fxap119kcyaghganrqfxm0f84x40"
+      }
+    ]
+  },
+  "mschnell_MIDI Trigger CC.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Trigger CC.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/966e57c82d5d555d55880143ac1114611df30dbd/Utility/mschnell_MIDI%20Trigger%20CC.jsfx",
+        "sha256": "1sd39px086aw0r73qpx87zihiiz5qbk6a1k47458p99wj9nwpy33"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Trigger CC.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/966e57c82d5d555d55880143ac1114611df30dbd/Utility/mschnell_MIDI%20Trigger%20CC.jsfx",
+        "sha256": "1sd39px086aw0r73qpx87zihiiz5qbk6a1k47458p99wj9nwpy33"
+      }
+    ]
+  },
+  "mschnell_MIDI Display 3 CCs.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display 3 CCs.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e406e613bd9be4e08806d32c7ea607513caa0430/Utility/mschnell_MIDI%20Display%203%20CCs.jsfx",
+        "sha256": "0y259fq0ycwc5mqrfpn5cz87flfbks16qg2k4qxwg3wpwgzfv1iq"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display 3 CCs.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e406e613bd9be4e08806d32c7ea607513caa0430/Utility/mschnell_MIDI%20Display%203%20CCs.jsfx",
+        "sha256": "0y259fq0ycwc5mqrfpn5cz87flfbks16qg2k4qxwg3wpwgzfv1iq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display 3 CCs.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/71ee3a3be10296f069c3505aaecaf22974306a8e/Utility/mschnell_MIDI%20Display%203%20CCs.jsfx",
+        "sha256": "11l99kfzwn4mnlxk801im8hba82qn85dm9gc3whq0k1zp4l0bhpz"
       }
     ]
   },
@@ -12490,45 +12624,6 @@
       }
     ]
   },
-  "mschnell_MIDI Display 3 CCs.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display 3 CCs.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e406e613bd9be4e08806d32c7ea607513caa0430/Utility/mschnell_MIDI%20Display%203%20CCs.jsfx",
-        "sha256": "0y259fq0ycwc5mqrfpn5cz87flfbks16qg2k4qxwg3wpwgzfv1iq"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display 3 CCs.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e406e613bd9be4e08806d32c7ea607513caa0430/Utility/mschnell_MIDI%20Display%203%20CCs.jsfx",
-        "sha256": "0y259fq0ycwc5mqrfpn5cz87flfbks16qg2k4qxwg3wpwgzfv1iq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Display 3 CCs.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/71ee3a3be10296f069c3505aaecaf22974306a8e/Utility/mschnell_MIDI%20Display%203%20CCs.jsfx",
-        "sha256": "11l99kfzwn4mnlxk801im8hba82qn85dm9gc3whq0k1zp4l0bhpz"
-      }
-    ]
-  },
-  "mschnell_MIDI Trigger CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Trigger CC.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/966e57c82d5d555d55880143ac1114611df30dbd/Utility/mschnell_MIDI%20Trigger%20CC.jsfx",
-        "sha256": "1sd39px086aw0r73qpx87zihiiz5qbk6a1k47458p99wj9nwpy33"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_MIDI Trigger CC.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/966e57c82d5d555d55880143ac1114611df30dbd/Utility/mschnell_MIDI%20Trigger%20CC.jsfx",
-        "sha256": "1sd39px086aw0r73qpx87zihiiz5qbk6a1k47458p99wj9nwpy33"
-      }
-    ]
-  },
   "mschnell_Multi_Sin_Generator.jsfx": {
     "latest": [
       {
@@ -12549,6 +12644,48 @@
         "path": "Effects/ReaTeam JSFX/Utility/mschnell_Multi_Sin_Generator.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/eb173d02c6007e832f745ce16d56ce765c29bad7/Utility/mschnell_Multi_Sin_Generator.jsfx",
         "sha256": "19a6vmmxp8sp05a1cpgna8dcwsqsj2ghqn1mkrmgn9jsl8x33ndn"
+      }
+    ]
+  },
+  "nofish_Volume utility +-10db (sample accurate automation).jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/nofish_Volume utility +-10db (sample accurate automation).jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2e2341f8d03374a1b29eb2f12f25f751856266d0/Utility/nofish_Volume%20utility%20+-10db%20(sample%20accurate%20automation).jsfx",
+        "sha256": "121bsajy0fp3wcb4275gmd7cckdjpk3ycnig5p5dnrlj8r1kgf2h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/nofish_Volume utility +-10db (sample accurate automation).jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2e2341f8d03374a1b29eb2f12f25f751856266d0/Utility/nofish_Volume%20utility%20+-10db%20(sample%20accurate%20automation).jsfx",
+        "sha256": "121bsajy0fp3wcb4275gmd7cckdjpk3ycnig5p5dnrlj8r1kgf2h"
+      }
+    ]
+  },
+  "zenomod_VU Meter (ZenoMOD) - UserThemes.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2001.jsfx-inc",
+        "sha256": "12sav4qlix8bfvaqv7yf1556z2rpidaaz229bmz6353qyx37nglf"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 02.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2002.jsfx-inc",
+        "sha256": "14y6lkcjdky3kqqnr5pbf2shp836r268gqi81j10zr1rw69rvia0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2001.jsfx-inc",
+        "sha256": "12sav4qlix8bfvaqv7yf1556z2rpidaaz229bmz6353qyx37nglf"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 02.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2002.jsfx-inc",
+        "sha256": "14y6lkcjdky3kqqnr5pbf2shp836r268gqi81j10zr1rw69rvia0"
       }
     ]
   },
@@ -12589,144 +12726,6 @@
       }
     ]
   },
-  "mschnell_Slider to Midi PS.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Slider to Midi PS.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ce5f775585f977c96e98aa22e6c7c557a12e48c5/Utility/mschnell_Slider%20to%20Midi%20PS.jsfx",
-        "sha256": "1nznnc3887c43qp73y2k5zkkh3r6ja7m3x8f5i4ilzaha4br47nm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Slider to Midi PS.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/ce5f775585f977c96e98aa22e6c7c557a12e48c5/Utility/mschnell_Slider%20to%20Midi%20PS.jsfx",
-        "sha256": "1nznnc3887c43qp73y2k5zkkh3r6ja7m3x8f5i4ilzaha4br47nm"
-      }
-    ]
-  },
-  "nofish_Volume utility +-10db (sample accurate automation).jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/nofish_Volume utility +-10db (sample accurate automation).jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2e2341f8d03374a1b29eb2f12f25f751856266d0/Utility/nofish_Volume%20utility%20+-10db%20(sample%20accurate%20automation).jsfx",
-        "sha256": "121bsajy0fp3wcb4275gmd7cckdjpk3ycnig5p5dnrlj8r1kgf2h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/nofish_Volume utility +-10db (sample accurate automation).jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2e2341f8d03374a1b29eb2f12f25f751856266d0/Utility/nofish_Volume%20utility%20+-10db%20(sample%20accurate%20automation).jsfx",
-        "sha256": "121bsajy0fp3wcb4275gmd7cckdjpk3ycnig5p5dnrlj8r1kgf2h"
-      }
-    ]
-  },
-  "ReaperBlog_-12dB Dim.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_-12dB Dim.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Utility/ReaperBlog_-12dB%20Dim.jsfx",
-        "sha256": "1frmpjjjf4qlq9p832y4bdmmz6bcxfpdv3qpz38sp3m1qpr91yf7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_-12dB Dim.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Utility/ReaperBlog_-12dB%20Dim.jsfx",
-        "sha256": "1frmpjjjf4qlq9p832y4bdmmz6bcxfpdv3qpz38sp3m1qpr91yf7"
-      }
-    ]
-  },
-  "mschnell_Mute monitor when recording.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Mute monitor when recording.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/14645c70e2070ee75184cdfa4f8c0f20ed9ac8e2/Utility/mschnell_Mute%20monitor%20when%20recording.jsfx",
-        "sha256": "1xnj7mk25769s1rc9ids3c0n1bjwl52pxzygpfwsfiwg1jclf006"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Mute monitor when recording.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/14645c70e2070ee75184cdfa4f8c0f20ed9ac8e2/Utility/mschnell_Mute%20monitor%20when%20recording.jsfx",
-        "sha256": "1xnj7mk25769s1rc9ids3c0n1bjwl52pxzygpfwsfiwg1jclf006"
-      }
-    ]
-  },
-  "ReaperBlog_Macro Controller.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Macro Controller.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/82faf67f48b2c7cac642ae097688e970d6e35bd8/Utility/ReaperBlog_Macro%20Controller.jsfx",
-        "sha256": "05w6mm62m7v51ifvxc7bh5cfky3kgzzaip2yzrdk8a1fl55b605b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Macro Controller.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/82faf67f48b2c7cac642ae097688e970d6e35bd8/Utility/ReaperBlog_Macro%20Controller.jsfx",
-        "sha256": "05w6mm62m7v51ifvxc7bh5cfky3kgzzaip2yzrdk8a1fl55b605b"
-      }
-    ]
-  },
-  "zenomod_VU Meter (ZenoMOD) - UserThemes.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2001.jsfx-inc",
-        "sha256": "12sav4qlix8bfvaqv7yf1556z2rpidaaz229bmz6353qyx37nglf"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 02.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2002.jsfx-inc",
-        "sha256": "14y6lkcjdky3kqqnr5pbf2shp836r268gqi81j10zr1rw69rvia0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2001.jsfx-inc",
-        "sha256": "12sav4qlix8bfvaqv7yf1556z2rpidaaz229bmz6353qyx37nglf"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/zenomod_VU Meter (ZenoMOD) - UserThemes/User Theme 02.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2c70d2746cde6dd6c054a4c3c4c36a00078408f8/Utility/zenomod_VU%20Meter%20(ZenoMOD)%20-%20UserThemes/User%20Theme%2002.jsfx-inc",
-        "sha256": "14y6lkcjdky3kqqnr5pbf2shp836r268gqi81j10zr1rw69rvia0"
-      }
-    ]
-  },
-  "ReaperBlog_Multichannel Volume Trim 2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Multichannel Volume Trim 2.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4d2c42a984bd4d4ee5aadf068b643041b2868855/Utility/ReaperBlog_Multichannel%20Volume%20Trim%202.jsfx",
-        "sha256": "0sc1mlxw3y847smr2lw252g67q05xw8qk5aw5pmx4cfwll06aykm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Multichannel Volume Trim 2.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4d2c42a984bd4d4ee5aadf068b643041b2868855/Utility/ReaperBlog_Multichannel%20Volume%20Trim%202.jsfx",
-        "sha256": "0sc1mlxw3y847smr2lw252g67q05xw8qk5aw5pmx4cfwll06aykm"
-      }
-    ]
-  },
-  "TimeWaster MIDI-Mouse.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/TimeWaster MIDI-Mouse.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4f4eac539c384e374d2d434f9fe712789c01a73e/Utility/TimeWaster%20MIDI-Mouse.jsfx",
-        "sha256": "19655kavhdajhkwgsaw6z62a72rn6c7mv49lqifrj7bnf6xyavvv"
-      }
-    ],
-    "0.1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Utility/TimeWaster MIDI-Mouse.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4f4eac539c384e374d2d434f9fe712789c01a73e/Utility/TimeWaster%20MIDI-Mouse.jsfx",
-        "sha256": "19655kavhdajhkwgsaw6z62a72rn6c7mv49lqifrj7bnf6xyavvv"
-      }
-    ]
-  },
   "ReaperBlog_Multichannel Volume Trim.jsfx": {
     "latest": [
       {
@@ -12747,6 +12746,86 @@
         "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Multichannel Volume Trim.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/4d2c42a984bd4d4ee5aadf068b643041b2868855/Utility/ReaperBlog_Multichannel%20Volume%20Trim.jsfx",
         "sha256": "0jfmkc3xar6723m1dknhzym28nc9xkpgp74ymzkdrdz5dr83mvqi"
+      }
+    ]
+  },
+  "mschnell_Mute monitor when recording.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Mute monitor when recording.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/14645c70e2070ee75184cdfa4f8c0f20ed9ac8e2/Utility/mschnell_Mute%20monitor%20when%20recording.jsfx",
+        "sha256": "1xnj7mk25769s1rc9ids3c0n1bjwl52pxzygpfwsfiwg1jclf006"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Mute monitor when recording.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/14645c70e2070ee75184cdfa4f8c0f20ed9ac8e2/Utility/mschnell_Mute%20monitor%20when%20recording.jsfx",
+        "sha256": "1xnj7mk25769s1rc9ids3c0n1bjwl52pxzygpfwsfiwg1jclf006"
+      }
+    ]
+  },
+  "mschnell_Slider to Midi PS.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Slider to Midi PS.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ce5f775585f977c96e98aa22e6c7c557a12e48c5/Utility/mschnell_Slider%20to%20Midi%20PS.jsfx",
+        "sha256": "1nznnc3887c43qp73y2k5zkkh3r6ja7m3x8f5i4ilzaha4br47nm"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/mschnell_Slider to Midi PS.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/ce5f775585f977c96e98aa22e6c7c557a12e48c5/Utility/mschnell_Slider%20to%20Midi%20PS.jsfx",
+        "sha256": "1nznnc3887c43qp73y2k5zkkh3r6ja7m3x8f5i4ilzaha4br47nm"
+      }
+    ]
+  },
+  "ReaperBlog_Multichannel Volume Trim 2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Multichannel Volume Trim 2.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4d2c42a984bd4d4ee5aadf068b643041b2868855/Utility/ReaperBlog_Multichannel%20Volume%20Trim%202.jsfx",
+        "sha256": "0sc1mlxw3y847smr2lw252g67q05xw8qk5aw5pmx4cfwll06aykm"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Multichannel Volume Trim 2.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4d2c42a984bd4d4ee5aadf068b643041b2868855/Utility/ReaperBlog_Multichannel%20Volume%20Trim%202.jsfx",
+        "sha256": "0sc1mlxw3y847smr2lw252g67q05xw8qk5aw5pmx4cfwll06aykm"
+      }
+    ]
+  },
+  "ReaperBlog_Macro Controller.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Macro Controller.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/82faf67f48b2c7cac642ae097688e970d6e35bd8/Utility/ReaperBlog_Macro%20Controller.jsfx",
+        "sha256": "05w6mm62m7v51ifvxc7bh5cfky3kgzzaip2yzrdk8a1fl55b605b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_Macro Controller.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/82faf67f48b2c7cac642ae097688e970d6e35bd8/Utility/ReaperBlog_Macro%20Controller.jsfx",
+        "sha256": "05w6mm62m7v51ifvxc7bh5cfky3kgzzaip2yzrdk8a1fl55b605b"
+      }
+    ]
+  },
+  "TimeWaster MIDI-Mouse.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/TimeWaster MIDI-Mouse.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4f4eac539c384e374d2d434f9fe712789c01a73e/Utility/TimeWaster%20MIDI-Mouse.jsfx",
+        "sha256": "19655kavhdajhkwgsaw6z62a72rn6c7mv49lqifrj7bnf6xyavvv"
+      }
+    ],
+    "0.1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/TimeWaster MIDI-Mouse.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4f4eac539c384e374d2d434f9fe712789c01a73e/Utility/TimeWaster%20MIDI-Mouse.jsfx",
+        "sha256": "19655kavhdajhkwgsaw6z62a72rn6c7mv49lqifrj7bnf6xyavvv"
       }
     ]
   },
@@ -12864,6 +12943,22 @@
       }
     ]
   },
+  "ReaperBlog_-12dB Dim.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_-12dB Dim.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Utility/ReaperBlog_-12dB%20Dim.jsfx",
+        "sha256": "1frmpjjjf4qlq9p832y4bdmmz6bcxfpdv3qpz38sp3m1qpr91yf7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Utility/ReaperBlog_-12dB Dim.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Utility/ReaperBlog_-12dB%20Dim.jsfx",
+        "sha256": "1frmpjjjf4qlq9p832y4bdmmz6bcxfpdv3qpz38sp3m1qpr91yf7"
+      }
+    ]
+  },
   "brumbear_LiveBeatRepeater.jsfx": {
     "latest": [
       {
@@ -12929,22 +13024,6 @@
       }
     ]
   },
-  "brumbear_LiveScrubberDucky.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Misc/brumbear_LiveScrubberDucky.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5191a2e9953caaccb7f2b9710ddf7d03170528d0/Misc/brumbear_LiveScrubberDucky.jsfx",
-        "sha256": "15cczaiks9snfh4a4l6akccadv7rjwgnwy3m54m1wris1jb67xix"
-      }
-    ],
-    "0.7": [
-      {
-        "path": "Effects/ReaTeam JSFX/Misc/brumbear_LiveScrubberDucky.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/5191a2e9953caaccb7f2b9710ddf7d03170528d0/Misc/brumbear_LiveScrubberDucky.jsfx",
-        "sha256": "15cczaiks9snfh4a4l6akccadv7rjwgnwy3m54m1wris1jb67xix"
-      }
-    ]
-  },
   "TiaR_PM_Resynth.jsfx": {
     "latest": [
       {
@@ -12961,6 +13040,22 @@
       }
     ]
   },
+  "brumbear_LiveScrubberDucky.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Misc/brumbear_LiveScrubberDucky.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5191a2e9953caaccb7f2b9710ddf7d03170528d0/Misc/brumbear_LiveScrubberDucky.jsfx",
+        "sha256": "15cczaiks9snfh4a4l6akccadv7rjwgnwy3m54m1wris1jb67xix"
+      }
+    ],
+    "0.7": [
+      {
+        "path": "Effects/ReaTeam JSFX/Misc/brumbear_LiveScrubberDucky.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/5191a2e9953caaccb7f2b9710ddf7d03170528d0/Misc/brumbear_LiveScrubberDucky.jsfx",
+        "sha256": "15cczaiks9snfh4a4l6akccadv7rjwgnwy3m54m1wris1jb67xix"
+      }
+    ]
+  },
   "mrelwood_BandbAss.jsfx": {
     "latest": [
       {
@@ -12974,22 +13069,6 @@
         "path": "Effects/ReaTeam JSFX/Dynamic/mrelwood_BandbAss.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/4b3c36d9e2ec19f04a9029c01266a9c5700d5a1f/Dynamic/mrelwood_BandbAss.jsfx",
         "sha256": "0b0wp4wagrh66kwk78118i38bli539qx5i7w943hhgm012bcjhyq"
-      }
-    ]
-  },
-  "sinefabula_Hard Clipper.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Dynamic/sinefabula_Hard Clipper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4fc0cd87b046cbee6c7a5d916fb8207b276cb01f/Dynamic/sinefabula_Hard%20Clipper.jsfx",
-        "sha256": "1l4n1lc4cqyf2hba8l170dpj2j33hf55fnyipagf8dp8zq5bihl9"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/Dynamic/sinefabula_Hard Clipper.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4fc0cd87b046cbee6c7a5d916fb8207b276cb01f/Dynamic/sinefabula_Hard%20Clipper.jsfx",
-        "sha256": "1l4n1lc4cqyf2hba8l170dpj2j33hf55fnyipagf8dp8zq5bihl9"
       }
     ]
   },
@@ -13013,6 +13092,165 @@
         "path": "Effects/ReaTeam JSFX/Dynamic/ersh_Transient Controller 2.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/4c623ee381675c5d754d54264d35644bc2a02e33/Dynamic/ersh_Transient%20Controller%202.jsfx",
         "sha256": "0m0rvhhiwiq9j9wk71fprrcnlsd47bvsnbi7dvs6l661fp9x2787"
+      }
+    ]
+  },
+  "sinefabula_Hard Clipper.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Dynamic/sinefabula_Hard Clipper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4fc0cd87b046cbee6c7a5d916fb8207b276cb01f/Dynamic/sinefabula_Hard%20Clipper.jsfx",
+        "sha256": "1l4n1lc4cqyf2hba8l170dpj2j33hf55fnyipagf8dp8zq5bihl9"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Dynamic/sinefabula_Hard Clipper.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4fc0cd87b046cbee6c7a5d916fb8207b276cb01f/Dynamic/sinefabula_Hard%20Clipper.jsfx",
+        "sha256": "1l4n1lc4cqyf2hba8l170dpj2j33hf55fnyipagf8dp8zq5bihl9"
+      }
+    ]
+  },
+  "mschnell_Delay_Modulator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/mschnell_Delay_Modulator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/292c9214c8891815c5abfd50b51580226f8886f8/Modulation/mschnell_Delay_Modulator.jsfx",
+        "sha256": "04j2snrvndkbarc957bki39rl7fn9h7fvls4jkhxvfxh3brp79gi"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/mschnell_Delay_Modulator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/292c9214c8891815c5abfd50b51580226f8886f8/Modulation/mschnell_Delay_Modulator.jsfx",
+        "sha256": "04j2snrvndkbarc957bki39rl7fn9h7fvls4jkhxvfxh3brp79gi"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/mschnell_Delay_Modulator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f74027d1e393e61f3687aae209014342bf727c2a/Modulation/mschnell_Delay_Modulator.jsfx",
+        "sha256": "0w0zl27jdb8m6zm7sdiz5hv0nb6hl1jhhli8d56x9xgxfzqhyd76"
+      }
+    ]
+  },
+  "snjuk2_LFO.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO.jsfx",
+        "sha256": "1accic3bfwm4k8illxfqyjvaj3hf56saqzh9km573bmx9h4zy80z"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
+        "sha256": "0mmfxpg2vznjrjqz8wgkkhf5fr4xznx2c57pwm4dxl4d74qb4njw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO.jsfx",
+        "sha256": "1accic3bfwm4k8illxfqyjvaj3hf56saqzh9km573bmx9h4zy80z"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
+        "sha256": "0mmfxpg2vznjrjqz8wgkkhf5fr4xznx2c57pwm4dxl4d74qb4njw"
+      }
+    ]
+  },
+  "TiaR_ChopChop.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_ChopChop.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7691aab88e23bba10e4e17c7915f3563654dd3b9/Modulation/TiaR_ChopChop.jsfx",
+        "sha256": "1gxbdxx3vj52rdbp76g1dspj9gfz48pz9qpbd0rahyf9qqm4hms0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_ChopChop.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/7691aab88e23bba10e4e17c7915f3563654dd3b9/Modulation/TiaR_ChopChop.jsfx",
+        "sha256": "1gxbdxx3vj52rdbp76g1dspj9gfz48pz9qpbd0rahyf9qqm4hms0"
+      }
+    ]
+  },
+  "TiaR_Ze Little Scanner Chorus.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Little Scanner Chorus.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Little%20Scanner%20Chorus.jsfx",
+        "sha256": "0pw7k20y1i1cklin8afvr2fghpgsd3bd265i13307d2ya1mnx3xg"
+      }
+    ],
+    "1.06": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Little Scanner Chorus.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Little%20Scanner%20Chorus.jsfx",
+        "sha256": "0pw7k20y1i1cklin8afvr2fghpgsd3bd265i13307d2ya1mnx3xg"
+      }
+    ]
+  },
+  "TiaR_Ze Big Chorus.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus.jsfx",
+        "sha256": "0ag74izd3ngrhq55c6x8dmfgkypb4nf1a0pd645snzdzipam4nr8"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_SCP_01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_SCP_01.jsfx-inc",
+        "sha256": "0a6gdbwllayq4a7cxjjsww625b0sd8n06srlx11sk5iszf55hq5l"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.RPL",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.RPL",
+        "sha256": "1dk7zzs5km7f5zy89mm2bcxvg943i3y9276lsaj3y4aa5m7960rk"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
+        "sha256": "0mdbrlgp5pvq4lbbyxlsy5lm49bwmq033g7pbpqj920yv9f5zq1l"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus.jsfx",
+        "sha256": "0ag74izd3ngrhq55c6x8dmfgkypb4nf1a0pd645snzdzipam4nr8"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_SCP_01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_SCP_01.jsfx-inc",
+        "sha256": "0a6gdbwllayq4a7cxjjsww625b0sd8n06srlx11sk5iszf55hq5l"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.RPL",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.RPL",
+        "sha256": "1dk7zzs5km7f5zy89mm2bcxvg943i3y9276lsaj3y4aa5m7960rk"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
+        "sha256": "0mdbrlgp5pvq4lbbyxlsy5lm49bwmq033g7pbpqj920yv9f5zq1l"
+      }
+    ]
+  },
+  "tilr_Albeton - Autopan.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/tilr_Albeton - Autopan.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/36b372806f6b0fe8448cf268e451dc20ca81bd11/Modulation/tilr_Albeton%20-%20Autopan.jsfx",
+        "sha256": "1yilpr206ipnacf5h35aszafv8abx931m9jwczgrsc66ahv395c9"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Modulation/tilr_Albeton - Autopan.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/36b372806f6b0fe8448cf268e451dc20ca81bd11/Modulation/tilr_Albeton%20-%20Autopan.jsfx",
+        "sha256": "1yilpr206ipnacf5h35aszafv8abx931m9jwczgrsc66ahv395c9"
       }
     ]
   },
@@ -13072,369 +13310,131 @@
       }
     ]
   },
-  "reincore_MegaGrit.jsfx": {
+  "tilr_QuickFilter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
-        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
-      }
-    ],
-    "2.0": [
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
+        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
+      },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
-        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2e992d33e9fa76af1df04ba34e74c043cd2059dc/Distortion/reincore_MegaGrit.jsfx",
-        "sha256": "0xzih2j9dadl549g4agb5zbl4q42s0jrqqsgk7z2biy9s6fb3zc8"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
+        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ]
   },
-  "Loudener.jsfx": {
+  "TiaR_Lattice Filter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
-        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
+        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
-        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener.jsfx",
-        "sha256": "0g19nq9fiiahmk6akbxbdidvfaw8iwa9h3i4mx0fy05y98yax1qx"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
+        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/Loudener.jsfx",
-        "sha256": "0bngxkaiffp6g05ng58894kj9nxwccvv834g6v5qfvip4vnlkb5m"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
+        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
+        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
       }
     ]
   },
-  "TiaR_Ze Morpho Dist.jsfx": {
+  "tilr_SKFilter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
-        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
+        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
-        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
-        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
+        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
-        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
-      }
-    ]
-  },
-  "visagemsc_Bassducker.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/visagemsc_Bassducker.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7aea7b45f0a4faa1331957e1a7835da1b7db6c28/Distortion/visagemsc_Bassducker.jsfx",
-        "sha256": "19v8bpj5l357v7mn25kgd7n96mbd4z1sbsnn9nkxv0cmkbgjz4zn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/visagemsc_Bassducker.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7aea7b45f0a4faa1331957e1a7835da1b7db6c28/Distortion/visagemsc_Bassducker.jsfx",
-        "sha256": "19v8bpj5l357v7mn25kgd7n96mbd4z1sbsnn9nkxv0cmkbgjz4zn"
-      }
-    ]
-  },
-  "RCInflator2_Oxford.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
-        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
-        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
-      }
-    ]
-  },
-  "rcjach_RCInflator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
-        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
-        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
-      }
-    ]
-  },
-  "RCInflator2_Ideal.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
-        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
-        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
-      }
-    ]
-  },
-  "snjuk2_LFO.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO.jsfx",
-        "sha256": "1accic3bfwm4k8illxfqyjvaj3hf56saqzh9km573bmx9h4zy80z"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
-        "sha256": "0mmfxpg2vznjrjqz8wgkkhf5fr4xznx2c57pwm4dxl4d74qb4njw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO.jsfx",
-        "sha256": "1accic3bfwm4k8illxfqyjvaj3hf56saqzh9km573bmx9h4zy80z"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/87afd84cf52eae9b22396be59d71f8fe3148dd57/Modulation/snjuk2_LFO/gfxlib.jsfx-inc",
-        "sha256": "0mmfxpg2vznjrjqz8wgkkhf5fr4xznx2c57pwm4dxl4d74qb4njw"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ]
   },
-  "mschnell_Delay_Modulator.jsfx": {
+  "bellesondes_eq1979.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Modulation/mschnell_Delay_Modulator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/292c9214c8891815c5abfd50b51580226f8886f8/Modulation/mschnell_Delay_Modulator.jsfx",
-        "sha256": "04j2snrvndkbarc957bki39rl7fn9h7fvls4jkhxvfxh3brp79gi"
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
       }
     ],
-    "1.1": [
+    "0.95": [
       {
-        "path": "Effects/ReaTeam JSFX/Modulation/mschnell_Delay_Modulator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/292c9214c8891815c5abfd50b51580226f8886f8/Modulation/mschnell_Delay_Modulator.jsfx",
-        "sha256": "04j2snrvndkbarc957bki39rl7fn9h7fvls4jkhxvfxh3brp79gi"
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
       }
     ],
-    "1.0": [
+    "0.92": [
       {
-        "path": "Effects/ReaTeam JSFX/Modulation/mschnell_Delay_Modulator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f74027d1e393e61f3687aae209014342bf727c2a/Modulation/mschnell_Delay_Modulator.jsfx",
-        "sha256": "0w0zl27jdb8m6zm7sdiz5hv0nb6hl1jhhli8d56x9xgxfzqhyd76"
-      }
-    ]
-  },
-  "TiaR_ChopChop.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_ChopChop.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7691aab88e23bba10e4e17c7915f3563654dd3b9/Modulation/TiaR_ChopChop.jsfx",
-        "sha256": "1gxbdxx3vj52rdbp76g1dspj9gfz48pz9qpbd0rahyf9qqm4hms0"
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f1105ff08e915260ac414e5ab33e4346c87f75d7/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "0jrcpz6mvabm3qkfxdd9n2jm7z6n1p9vifqyv0720ajxjw1959jh"
       }
     ],
-    "1.0": [
+    "0.9": [
       {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_ChopChop.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/7691aab88e23bba10e4e17c7915f3563654dd3b9/Modulation/TiaR_ChopChop.jsfx",
-        "sha256": "1gxbdxx3vj52rdbp76g1dspj9gfz48pz9qpbd0rahyf9qqm4hms0"
-      }
-    ]
-  },
-  "TiaR_Ze Big Chorus.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus.jsfx",
-        "sha256": "0ag74izd3ngrhq55c6x8dmfgkypb4nf1a0pd645snzdzipam4nr8"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_SCP_01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_SCP_01.jsfx-inc",
-        "sha256": "0a6gdbwllayq4a7cxjjsww625b0sd8n06srlx11sk5iszf55hq5l"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.RPL",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.RPL",
-        "sha256": "1dk7zzs5km7f5zy89mm2bcxvg943i3y9276lsaj3y4aa5m7960rk"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
-        "sha256": "0mdbrlgp5pvq4lbbyxlsy5lm49bwmq033g7pbpqj920yv9f5zq1l"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus.jsfx",
-        "sha256": "0ag74izd3ngrhq55c6x8dmfgkypb4nf1a0pd645snzdzipam4nr8"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_SCP_01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_SCP_01.jsfx-inc",
-        "sha256": "0a6gdbwllayq4a7cxjjsww625b0sd8n06srlx11sk5iszf55hq5l"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.RPL",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.RPL",
-        "sha256": "1dk7zzs5km7f5zy89mm2bcxvg943i3y9276lsaj3y4aa5m7960rk"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Big Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Big%20Chorus/TiaR_ZeBigChorus_03.jsfx-inc",
-        "sha256": "0mdbrlgp5pvq4lbbyxlsy5lm49bwmq033g7pbpqj920yv9f5zq1l"
-      }
-    ]
-  },
-  "TiaR_Ze Little Scanner Chorus.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Little Scanner Chorus.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Little%20Scanner%20Chorus.jsfx",
-        "sha256": "0pw7k20y1i1cklin8afvr2fghpgsd3bd265i13307d2ya1mnx3xg"
-      }
-    ],
-    "1.06": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/TiaR_Ze Little Scanner Chorus.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Modulation/TiaR_Ze%20Little%20Scanner%20Chorus.jsfx",
-        "sha256": "0pw7k20y1i1cklin8afvr2fghpgsd3bd265i13307d2ya1mnx3xg"
-      }
-    ]
-  },
-  "tilr_Albeton - Autopan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/tilr_Albeton - Autopan.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/36b372806f6b0fe8448cf268e451dc20ca81bd11/Modulation/tilr_Albeton%20-%20Autopan.jsfx",
-        "sha256": "1yilpr206ipnacf5h35aszafv8abx931m9jwczgrsc66ahv395c9"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Modulation/tilr_Albeton - Autopan.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/36b372806f6b0fe8448cf268e451dc20ca81bd11/Modulation/tilr_Albeton%20-%20Autopan.jsfx",
-        "sha256": "1yilpr206ipnacf5h35aszafv8abx931m9jwczgrsc66ahv395c9"
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a81a54773a9c24066eea10d6b8b1af2dc7a8871a/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "113jk9kslmzzy6792cyr5wdkphgl67qq8hrzk40jqrpn4sx2zp5a"
       }
     ]
   }

@@ -4,14 +4,14 @@
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0crlxhnfn1k82dkqidggaqlgbphy07nl4kj5p1p7gi76ypd1mg6w"
+        "sha256": "0wjsxmxvgg136caw05cmmvaxlpjazmays000bkqiyxs6pksx71w3"
       }
     ],
     "15.01": [
       {
         "path": "ColorThemes/Default 5.0 Nitpicky Edition.ReaperThemeZip",
         "url": "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1",
-        "sha256": "0crlxhnfn1k82dkqidggaqlgbphy07nl4kj5p1p7gi76ypd1mg6w"
+        "sha256": "0wjsxmxvgg136caw05cmmvaxlpjazmays000bkqiyxs6pksx71w3"
       }
     ],
     "15": [
@@ -38,6 +38,22 @@
       }
     ]
   },
+  "cfillion_Default v4.0 + width.theme": {
+    "latest": [
+      {
+        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
+        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
+        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
+        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
+      }
+    ]
+  },
   "Pet_Default_v5_Dark_Extended.theme": {
     "latest": [
       {
@@ -58,22 +74,6 @@
         "path": "ColorThemes/Default_5_Dark_Extended.ReaperThemeZip",
         "url": "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip",
         "sha256": "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z"
-      }
-    ]
-  },
-  "cfillion_Default v4.0 + width.theme": {
-    "latest": [
-      {
-        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
-        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "ColorThemes/Default_4.0 + width.ReaperThemeZip",
-        "url": "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip",
-        "sha256": "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp"
       }
     ]
   },
