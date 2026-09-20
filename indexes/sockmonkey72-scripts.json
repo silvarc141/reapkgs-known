@@ -1870,6 +1870,22 @@
       }
     ]
   },
+  "sockmonkey72_CalcProjectMediaFootprint.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
+        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
+      }
+    ]
+  },
   "sockmonkey72_FuzzyFloatCmpUtil.lua": {
     "latest": [
       {
@@ -1907,22 +1923,6 @@
       }
     ]
   },
-  "sockmonkey72_CalcProjectMediaFootprint.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/041159abdd2e3f1159e427bbd79ad4c8ac52c6b8/Various/sockmonkey72_CalcProjectMediaFootprint.lua",
-        "sha256": "0vlq02j3frag2l60x3q09dn7bggz2bd4hnq4sl9jla8w5nba380w"
-      }
-    ]
-  },
   "sockmonkey72_Smarter_Zoom.lua": {
     "latest": [
       {
@@ -1950,22 +1950,6 @@
         "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_Smarter_Zoom.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab27a4d1a416b22c41997334802099d03c64875e/Various/sockmonkey72_Smarter_Zoom.lua",
         "sha256": "1545v9h5ay1ahq53dsqg30ril4jyqxsmk8znfwb7z37wchipb8xa"
-      }
-    ]
-  },
-  "sockmonkey72_ToggleTimeSelection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
-        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
       }
     ]
   },
@@ -1999,6 +1983,22 @@
       }
     ]
   },
+  "sockmonkey72_ToggleTimeSelection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/b8d9d9d4e9a5a4e9d07d85b98098d471ff1f72d7/Various/sockmonkey72_ToggleTimeSelection.lua",
+        "sha256": "0rk5ayf6nc94yagif3xj4xq5jz7dnlnd57i8zxi50q7kl7dkqgpg"
+      }
+    ]
+  },
   "sockmonkey72_ClearClipsAfter3Seconds.lua": {
     "latest": [
       {
@@ -2012,228 +2012,6 @@
         "path": "Scripts/sockmonkey72 Scripts/Metering/sockmonkey72_ClearClipsAfter3Seconds.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Metering/sockmonkey72_ClearClipsAfter3Seconds.lua",
         "sha256": "19nb757z4d46zjid4iwk0dhn4y993ngzh17pirp1i2izzi5hyl8i"
-      }
-    ]
-  },
-  "sockmonkey72_CreateCrossfadeUnderMouseCursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
-      }
-    ],
-    "1.8": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
-      }
-    ],
-    "1.7": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0xqqf0w9361mxy423598mpy1gssc9s4s1h953m42yxkxjw735fik"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "1hgz4ravzxrk7a7xqqlps9xc7g9fmf9cnw1ynd7lcx5s84p84hps"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0x55hxfhmjd7alhq6fdwl0py2zny80ahdym102g8nh1h8cc5hf0x"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0llp93ll6dpsm6m1f07qqdgrgbpb69kzdscpk3y2qr833564iah5"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "1n31qng9vkqn74pf2mwnmsbaplxswj5650g5rx7cyisjx7wq0kc3"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0s8yc6p42bas2hm033yri2jsbqmixzxqmshcyy3i0jf91jmam3mp"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0chrvvw3zpp05sinq4j12dlm3llagc4z0ni7nj5ngjlghlk8ipzd"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "16xs7hw774slq9crvx7x3f7ccjymp3jy3b9j1akp6yvc3phbq2cb"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0dy32qcr4piiz11a0qskn3ximlnlk321m56das09mxjhrf0gq2qs"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
-        "sha256": "0j9i0yhs9yd0ax945fi1gyk1is5gs28l3v5snvhyvm80qnc7kp28"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
-        "sha256": "0hhrrdr9pqvimrxa95d6qlazziy671l6i4gj9dgxfkdz790247yr"
-      }
-    ]
-  },
-  "sockmonkey72_SelectAllBeforeEditCursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
-        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
-        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
-        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
-        "sha256": "02khnmvjlblqq1fjqvwzw90i1lk4hhhly9mzkadaw42hxx0fdr3f"
-      },
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
-        "sha256": "0qv92yaws0b8sviqcvnj8ml7lzwp7g9dq4s7cx5hnrqzfcw27w4d"
-      }
-    ]
-  },
-  "sockmonkey72_Paste at play position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
-        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
-        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
-      }
-    ]
-  },
-  "sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
-        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
       }
     ]
   },
@@ -138112,6 +137890,228 @@
       }
     ]
   },
+  "sockmonkey72_Paste at play position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
+        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_Paste at play position.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Items%20Editing/sockmonkey72_Paste%20at%20play%20position.lua",
+        "sha256": "1aw3l4vmfvqfspvxm42l285gbz8xhph7fglf0cazj4z1dansm17d"
+      }
+    ]
+  },
+  "sockmonkey72_CreateCrossfadeUnderMouseCursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
+      }
+    ],
+    "1.8": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "16qaci08xmvhb92l5yykxbrhf8vkj9xgkwsyvfx0c64lhydk8rkh"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/feb3da03b67cf233f7fbc738147768886c88272e/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "02m891xp5r6zilx7k19i9dhid7pa8abnx8s1c9bs28nag3kg2gcz"
+      }
+    ],
+    "1.7": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0xqqf0w9361mxy423598mpy1gssc9s4s1h953m42yxkxjw735fik"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/279e8a5ace0ad17b7c0f90168a10855bc7748138/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "1hgz4ravzxrk7a7xqqlps9xc7g9fmf9cnw1ynd7lcx5s84p84hps"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0x55hxfhmjd7alhq6fdwl0py2zny80ahdym102g8nh1h8cc5hf0x"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ae0993a37318d9acd638b5ad13ffe0b883604ac4/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0llp93ll6dpsm6m1f07qqdgrgbpb69kzdscpk3y2qr833564iah5"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/ab070cd14ab40f9737a8114bf13d60cd242395d6/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "1n31qng9vkqn74pf2mwnmsbaplxswj5650g5rx7cyisjx7wq0kc3"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fee821ce260044a88a5fede07432aba01ea44def/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "189l7607a0cg34jnba6arck2wza7l9hq1i60l9qsz4bf1f2igbi4"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0s8yc6p42bas2hm033yri2jsbqmixzxqmshcyy3i0jf91jmam3mp"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/d3c56d50e75c2c3a0c632371309d2940f649f3b5/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0chrvvw3zpp05sinq4j12dlm3llagc4z0ni7nj5ngjlghlk8ipzd"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/fd12723ed280b8c2ac8c5105a95bfc943e92ae68/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0pip4v4bslx92r6v4sj5iz2gi84x215rprjzq4k421p9akh2rj22"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "16xs7hw774slq9crvx7x3f7ccjymp3jy3b9j1akp6yvc3phbq2cb"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/3ced5f0b1c217e928dd083fab4d3dc4cb5c76db0/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0dy32qcr4piiz11a0qskn3ximlnlk321m56das09mxjhrf0gq2qs"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor.lua",
+        "sha256": "0j9i0yhs9yd0ax945fi1gyk1is5gs28l3v5snvhyvm80qnc7kp28"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/8b368e46b7b3e54e4ccf72b5712de697b4bf8196/Items%20Editing/sockmonkey72_CreateCrossfadeUnderMouseCursor_Config.lua",
+        "sha256": "0hhrrdr9pqvimrxa95d6qlazziy671l6i4gj9dgxfkdz790247yr"
+      }
+    ]
+  },
+  "sockmonkey72_SelectAllBeforeEditCursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "sha256": "1i23rlz1fdzhmlyzdh5kgpld3baa1rv4wgpq52dfvnng8qsjag37"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "sha256": "0grmrs9ammhylhs6630kgg23pawkr7ic7gq5zmp2grlm0fh24gcy"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllEndingBeforeEditCursor.lua",
+        "sha256": "0wv68qk4gvx7gcvi0jswramh64m1wbpdxma7lqi5mvh883myx2pk"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAllOverlappingAndAfterEditCursor.lua",
+        "sha256": "0fhlydzwvflh9ra6nzlgpchgrrc7haydyzlj5vb7lg4sigh0v516"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/eecca8c478ebf8e76ee16f998096ba6190082afd/Items%20Editing/sockmonkey72_SelectAroundEditCursorLib.lua",
+        "sha256": "1a5mp9wy0769ab89f4g1yx1bprvg8ahjdqh6np57d2fjbdxp68mj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllAfterEditCursor.lua",
+        "sha256": "02khnmvjlblqq1fjqvwzw90i1lk4hhhly9mzkadaw42hxx0fdr3f"
+      },
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/356525e6ddbb57e1a8839ca6a545577640d308e1/Items%20Editing/sockmonkey72_SelectAllBeforeEditCursor.lua",
+        "sha256": "0qv92yaws0b8sviqcvnj8ml7lzwp7g9dq4s7cx5hnrqzfcw27w4d"
+      }
+    ]
+  },
+  "sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Items Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/786cf6f63e8139752c8ac8b298ef175807a5caf4/Items%20Editing/sockmonkey72_SplitItemUnderMouseCursorIgnoringSnap.lua",
+        "sha256": "0w4js778chjmd5fxigf79daq77cgivsvzz4sfbhwygvpf8d9jyl7"
+      }
+    ]
+  },
   "sockmonkey72_Peace_MOD.theme": {
     "latest": [
       {
@@ -138313,28 +138313,28 @@
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.4",
-        "sha256": "164q77iwy4dn6v0vjhak7jmv1xsp2rfs4xd5alwv372jr1hcnc6s"
+        "sha256": "0k41yzl5r9d0q7a0cayvkv1zpng19rvbi4dyqpkjzb5vk9b0w9bx"
       }
     ],
     "1.7.0-beta.3": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.3",
-        "sha256": "0qpx4jxcpimbd10ywjpz8037zk0mv3haivbpcc2xbw6ygp2rfm3d"
+        "sha256": "19rvc08i9fbmpvaqvj1s2k89l89q58wvs6b5zxjs8hlv0gizykc0"
       }
     ],
     "1.7.0-beta.2": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.2",
-        "sha256": "1z1imhggayjf70rm1ijxhd15x6h7l12mngnc5vvdy9i590143wmz"
+        "sha256": "14fh4s3skdv038jvc45y5qlwnakbdraq0w9pqjckq2vqs6sydv51"
       }
     ],
     "1.7.0-beta.1": [
       {
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/tag/v1.7.0-beta.1",
-        "sha256": "0b5lghv4kvpdlsj191p4nhxzsv3ssq492kxjhrba7zkzcilchq4m"
+        "sha256": "15qp6s6c5gclyf31iawgmk5fid6kd4f2q8826dnm05lk7s40n77h"
       }
     ],
     "1.6.0": [
@@ -138342,22 +138342,6 @@
         "path": "ColorThemes/Peace_MOD.ReaperThemeZip",
         "url": "https://github.com/jeremybernstein/REAPER_Peace/releases/download/v1.6/Peace_MOD.ReaperThemeZip",
         "sha256": "1899y1ly8yfjn7i4nzy093zr0hfk7l6k822isxzgvfhmahmnhvpj"
-      }
-    ]
-  },
-  "sockmonkey72_Selected Envelope Points to Razor Edit.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Selected Envelope Points to Razor Edit.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Selected%20Envelope%20Points%20to%20Razor%20Edit.lua",
-        "sha256": "1kpki9vv8w39jzl41869hj5bdf2vzzg38sw4rnipwxmnbhw539bj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Selected Envelope Points to Razor Edit.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Selected%20Envelope%20Points%20to%20Razor%20Edit.lua",
-        "sha256": "1kpki9vv8w39jzl41869hj5bdf2vzzg38sw4rnipwxmnbhw539bj"
       }
     ]
   },
@@ -138374,6 +138358,22 @@
         "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Razor Edit - Fast Mode.eel",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Razor%20Edit%20-%20Fast%20Mode.eel",
         "sha256": "0im5v6qd98hzdfh4xmi2s3srmf5ybrngsmz2ydgsj9s78qyqgacl"
+      }
+    ]
+  },
+  "sockmonkey72_Selected Envelope Points to Razor Edit.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Selected Envelope Points to Razor Edit.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Selected%20Envelope%20Points%20to%20Razor%20Edit.lua",
+        "sha256": "1kpki9vv8w39jzl41869hj5bdf2vzzg38sw4rnipwxmnbhw539bj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Razor Edit/sockmonkey72_Selected Envelope Points to Razor Edit.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Razor%20Edit/sockmonkey72_Selected%20Envelope%20Points%20to%20Razor%20Edit.lua",
+        "sha256": "1kpki9vv8w39jzl41869hj5bdf2vzzg38sw4rnipwxmnbhw539bj"
       }
     ]
   },
@@ -138407,22 +138407,6 @@
       }
     ]
   },
-  "sockmonkey72_ToggleWidthEnvelopes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
-        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
-      }
-    ]
-  },
   "sockmonkey72_ToggleSendVolumeEnvelopes.lua": {
     "latest": [
       {
@@ -138436,6 +138420,22 @@
         "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
         "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleSendVolumeEnvelopes.lua",
         "sha256": "0n0paxjqf1yjrdxhgpank6gh08fidfa6c6min379vhf5hlk7q7h2"
+      }
+    ]
+  },
+  "sockmonkey72_ToggleWidthEnvelopes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/sockmonkey72 Scripts/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "url": "https://github.com/jeremybernstein/ReaScripts/raw/1f72e864647c4de01da51c368807c6e44c0cb825/Envelopes/sockmonkey72_ToggleWidthEnvelopes.lua",
+        "sha256": "1mbacnc9rp1qk64z8y76mnmpzi2wkgy1rj6cdnrw5q2nyhgq8phn"
       }
     ]
   },

@@ -135,6 +135,315 @@
       }
     ]
   },
+  "tomtjes_Calculate total length of items on selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Calculate total length of items on selected tracks.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Calculate%20total%20length%20of%20items%20on%20selected%20tracks.lua",
+        "sha256": "0bhpkgip9vkrsyg92c8ifqz7wdsn65lhs2qcww1ind0mbp14xdlm"
+      }
+    ],
+    "1.0 2023-12-19": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Calculate total length of items on selected tracks.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Calculate%20total%20length%20of%20items%20on%20selected%20tracks.lua",
+        "sha256": "0bhpkgip9vkrsyg92c8ifqz7wdsn65lhs2qcww1ind0mbp14xdlm"
+      }
+    ]
+  },
+  "tomtjes_Show Project Length in MCP.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0c3mmd0jqbkzrd52j8ipjggxvk840fdv1hk165gynyggi86nga83"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "0yra8cja72zxxxwi4vfb45bncgcnjq091kqa5rhflvpck5h252gj"
+      }
+    ],
+    "1.06 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0c3mmd0jqbkzrd52j8ipjggxvk840fdv1hk165gynyggi86nga83"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "0yra8cja72zxxxwi4vfb45bncgcnjq091kqa5rhflvpck5h252gj"
+      }
+    ],
+    "1.05 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6940e06deede1ae3d42862f934bc60b68fb7b0b1/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "05ihz8kqfzxg41zxng4rmx6q0pgrma9zavhglaypwv183flxr3w4"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6940e06deede1ae3d42862f934bc60b68fb7b0b1/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6940e06deede1ae3d42862f934bc60b68fb7b0b1/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "10v440ywn1a64l5h3dcnmsmlzvb5ng8wqjpjmb7xv6lgvqfk4yg1"
+      }
+    ],
+    "1.05-pre8 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0iaryjf2rr1alqknndi8cd1rl3qnljsl16d49883w07qr8kg2j8p"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "0gaqaxjjgdpyn97h60yhdgsq52j47r52avlvdq19vk68r99sp0hy"
+      }
+    ],
+    "1.05-pre7 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "15q9kd6by3fwz016bf3rclih6p5m9sbx0ri6db8i00bmh9drxm13"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "1q0z728mlzjphmwbpqnib4gqvii2dagyh55dflnyadahs5b3rp95"
+      }
+    ],
+    "1.05-pre6 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "15q9kd6by3fwz016bf3rclih6p5m9sbx0ri6db8i00bmh9drxm13"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "12wkbkvvj3rpdj6gkibiw5sqnp552ylf11rvbs9a55x49idhf5a6"
+      }
+    ],
+    "1.05-pre5 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "03z55lhhzshfzsmzz6v9186gfy631aq2jqpdm20bp7kjlg820nrc"
+      }
+    ],
+    "1.05-pre4 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "0hfsqxx93r4kp5s864chq9pyqciwnmjr9i89wm58sd3y48zfwcbg"
+      }
+    ],
+    "1.05-pre3 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "1a0j76wmxmvisp1n4k171nbc7789bbv7gslrhfkvdh91r89iilr4"
+      }
+    ],
+    "1.05-pre2 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "0fkb2ksqxbp9lysqszh6ygg2qqv534m5vwgzzm98yhkifhiw7czi"
+      }
+    ],
+    "1.05-pre1 2024-07-06": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
+        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
+        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "19n04f1mmvwiwh8nyjg0da56m2fzii0pc5266imlq2qsxy7fh01y"
+      }
+    ],
+    "1.04 2024-07-03": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/82554502cda1b59e42f5d160d4a01ce50b1ae338/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "1sfva9lx6vz63fzky4c37813s3ky1ky520pkbjf83fhvcc1qmriq"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/82554502cda1b59e42f5d160d4a01ce50b1ae338/Metadata/tomtjes_Show%20Project%20Length.jsfx",
+        "sha256": "054w45ghhcq2rdri6ihrcvm1csbjp8zk228vm328jjx7k91ishgw"
+      }
+    ],
+    "1.02 2024-07-03": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/37c1db48cb6a35d066b1413298174ea0d19895c8/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "0xp090dsssx0djwlv144mp7kqy4166j7h0cq116c496bh3d908wl"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show_project_length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/37c1db48cb6a35d066b1413298174ea0d19895c8/Metadata/jsfx/tomtjes_Show_project_length.jsfx",
+        "sha256": "054w45ghhcq2rdri6ihrcvm1csbjp8zk228vm328jjx7k91ishgw"
+      }
+    ],
+    "1.01 2024-07-01": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/c7e03fc1e9cd2d4a3456607bc4092b1455306dbc/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "1qlb5vnwld5i7xyihmmg7vd2sn7isfmvqy8q5wd291xcfbx3cgcg"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show_project_length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/c7e03fc1e9cd2d4a3456607bc4092b1455306dbc/Metadata/jsfx/tomtjes_Show_project_length.jsfx",
+        "sha256": "054w45ghhcq2rdri6ihrcvm1csbjp8zk228vm328jjx7k91ishgw"
+      }
+    ],
+    "1.0 2024-06-28": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
+        "sha256": "004ydkcjkg5gr9cl6b9xxbz0airyki3fwiadn0j9s5bk3ii0d4g1"
+      },
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show_project_length.jsfx",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Metadata/jsfx/tomtjes_Show_project_length.jsfx",
+        "sha256": "1qwdxl74m7jf07lzmw3nlcsflzci3cbf54b6z50d8cy53j4ld2a0"
+      }
+    ]
+  },
+  "tomtjes_Show Project Length.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
+        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
+      }
+    ],
+    "1.0 2023-12-20": [
+      {
+        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
+        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
+      }
+    ]
+  },
   "tomtjes_Collapse empty space between items.lua": {
     "latest": [
       {
@@ -190,6 +499,22 @@
         "path": "Scripts/Radio Toolkit/Items/tomtjes_Collapse empty space between items.lua",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6caab78a77b7477b7621c59d5ab09b6ebbe246bc/Items/tomtjes_Collapse%20empty%20space%20between%20items.lua",
         "sha256": "0n9ryiqnlhxjn98is860pam63ykf4xv76p2kgysc415kax3pgc5h"
+      }
+    ]
+  },
+  "tomtjes_Split item on track according to info items on other track, copy notes to take names.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
+        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
+      }
+    ],
+    "0.1 2016-09-19": [
+      {
+        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
+        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
+        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
       }
     ]
   },
@@ -287,22 +612,6 @@
         "path": "Scripts/Radio Toolkit/Items/tomtjes_Glue adjacent items on track.lua",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Items/tomtjes_Glue%20adjacent%20items%20on%20track.lua",
         "sha256": "1ng0r674jxy919fads49jbzs2hxsqhsfn2d2v8lcp1d1cwvil03n"
-      }
-    ]
-  },
-  "tomtjes_Split item on track according to info items on other track, copy notes to take names.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
-        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
-      }
-    ],
-    "0.1 2016-09-19": [
-      {
-        "path": "Scripts/Radio Toolkit/Items/tomtjes_Split item on track according to info items on other track, copy notes to take names.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2edcfb4671cb3635e1b04469e3f2873ac21774c1/Items/tomtjes_Split%20item%20on%20track%20according%20to%20info%20items%20on%20other%20track,%20copy%20notes%20to%20take%20names.lua",
-        "sha256": "0vcddx9jgsqf0nn0cyh6pb5xsmibdggf5h5ypr92fzp2lfsb1dwg"
       }
     ]
   },
@@ -608,315 +917,6 @@
         "path": "Scripts/Radio Toolkit/Time Selection/tomtjes_Set inpoint = outpoint if inpoint = 0.lua",
         "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b45465e74117ad22538c79dd1945794f4403a8c/Time%20Selection/tomtjes_Set%20inpoint%20=%20outpoint%20if%20inpoint%20=%200.lua",
         "sha256": "14bfji7snb3k0cxqk3wi8qxq20b9p4vfv1j3mxrc03v60j87d7xx"
-      }
-    ]
-  },
-  "tomtjes_Show Project Length in MCP.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0c3mmd0jqbkzrd52j8ipjggxvk840fdv1hk165gynyggi86nga83"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "0yra8cja72zxxxwi4vfb45bncgcnjq091kqa5rhflvpck5h252gj"
-      }
-    ],
-    "1.06 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0c3mmd0jqbkzrd52j8ipjggxvk840fdv1hk165gynyggi86nga83"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/e330c4732ed22a6152271c415968dda796aaf30f/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "0yra8cja72zxxxwi4vfb45bncgcnjq091kqa5rhflvpck5h252gj"
-      }
-    ],
-    "1.05 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6940e06deede1ae3d42862f934bc60b68fb7b0b1/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "05ihz8kqfzxg41zxng4rmx6q0pgrma9zavhglaypwv183flxr3w4"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6940e06deede1ae3d42862f934bc60b68fb7b0b1/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6940e06deede1ae3d42862f934bc60b68fb7b0b1/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "10v440ywn1a64l5h3dcnmsmlzvb5ng8wqjpjmb7xv6lgvqfk4yg1"
-      }
-    ],
-    "1.05-pre8 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0iaryjf2rr1alqknndi8cd1rl3qnljsl16d49883w07qr8kg2j8p"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/8d670a7a21426f843753ec5d9f2c743c784f04fc/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "0gaqaxjjgdpyn97h60yhdgsq52j47r52avlvdq19vk68r99sp0hy"
-      }
-    ],
-    "1.05-pre7 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "15q9kd6by3fwz016bf3rclih6p5m9sbx0ri6db8i00bmh9drxm13"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/95c5f17ef180bb0b6f9e7edbcd2669fa3010350c/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "1q0z728mlzjphmwbpqnib4gqvii2dagyh55dflnyadahs5b3rp95"
-      }
-    ],
-    "1.05-pre6 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "15q9kd6by3fwz016bf3rclih6p5m9sbx0ri6db8i00bmh9drxm13"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/b54cc3ea2e484cf7fa569a2e15fe160824946dc2/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "12wkbkvvj3rpdj6gkibiw5sqnp552ylf11rvbs9a55x49idhf5a6"
-      }
-    ],
-    "1.05-pre5 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/de4049b2ff05827ab934a0cc1daf9e73b890145c/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "03z55lhhzshfzsmzz6v9186gfy631aq2jqpdm20bp7kjlg820nrc"
-      }
-    ],
-    "1.05-pre4 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/2b883fd2627aa4db960ffa08e64976d9f2f528ec/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "0hfsqxx93r4kp5s864chq9pyqciwnmjr9i89wm58sd3y48zfwcbg"
-      }
-    ],
-    "1.05-pre3 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/40ac2fd01d98af54ffbddea1adf46d035bd0bb2b/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "1a0j76wmxmvisp1n4k171nbc7789bbv7gslrhfkvdh91r89iilr4"
-      }
-    ],
-    "1.05-pre2 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/be311908569e14d5ce434f0e761b6c6907619769/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "0fkb2ksqxbp9lysqszh6ygg2qqv534m5vwgzzm98yhkifhiw7czi"
-      }
-    ],
-    "1.05-pre1 2024-07-06": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Get Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/helpers/tomtjes_Get%20Project%20Length.lua",
-        "sha256": "0amdrajqh9kj61s0irnj7blf2qwn5kzv1sqgvidgpb6irgw94dzk"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Insert Project Length FX in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/helpers/tomtjes_Insert%20Project%20Length%20FX%20in%20MCP.lua",
-        "sha256": "032f1adc85ncn952sp634qx2kr8bp3p6dw9aszis7fj61dw0j3z3"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/helpers/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/helpers/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "07xcrhqadc2qkzq9sg71schh6pkh3ay4qjj5d854cnwwa1g2pzdj"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/6899441f08f5419d9a0d57a6276146cc65134795/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "19n04f1mmvwiwh8nyjg0da56m2fzii0pc5266imlq2qsxy7fh01y"
-      }
-    ],
-    "1.04 2024-07-03": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/82554502cda1b59e42f5d160d4a01ce50b1ae338/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "1sfva9lx6vz63fzky4c37813s3ky1ky520pkbjf83fhvcc1qmriq"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/82554502cda1b59e42f5d160d4a01ce50b1ae338/Metadata/tomtjes_Show%20Project%20Length.jsfx",
-        "sha256": "054w45ghhcq2rdri6ihrcvm1csbjp8zk228vm328jjx7k91ishgw"
-      }
-    ],
-    "1.02 2024-07-03": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/37c1db48cb6a35d066b1413298174ea0d19895c8/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "0xp090dsssx0djwlv144mp7kqy4166j7h0cq116c496bh3d908wl"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show_project_length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/37c1db48cb6a35d066b1413298174ea0d19895c8/Metadata/jsfx/tomtjes_Show_project_length.jsfx",
-        "sha256": "054w45ghhcq2rdri6ihrcvm1csbjp8zk228vm328jjx7k91ishgw"
-      }
-    ],
-    "1.01 2024-07-01": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/c7e03fc1e9cd2d4a3456607bc4092b1455306dbc/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "1qlb5vnwld5i7xyihmmg7vd2sn7isfmvqy8q5wd291xcfbx3cgcg"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show_project_length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/c7e03fc1e9cd2d4a3456607bc4092b1455306dbc/Metadata/jsfx/tomtjes_Show_project_length.jsfx",
-        "sha256": "054w45ghhcq2rdri6ihrcvm1csbjp8zk228vm328jjx7k91ishgw"
-      }
-    ],
-    "1.0 2024-06-28": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length in MCP.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Metadata/tomtjes_Show%20Project%20Length%20in%20MCP.lua",
-        "sha256": "004ydkcjkg5gr9cl6b9xxbz0airyki3fwiadn0j9s5bk3ii0d4g1"
-      },
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show_project_length.jsfx",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/406ebeaaa2deb8dbc2ac0e98427caef17f77a0ac/Metadata/jsfx/tomtjes_Show_project_length.jsfx",
-        "sha256": "1qwdxl74m7jf07lzmw3nlcsflzci3cbf54b6z50d8cy53j4ld2a0"
-      }
-    ]
-  },
-  "tomtjes_Calculate total length of items on selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Calculate total length of items on selected tracks.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Calculate%20total%20length%20of%20items%20on%20selected%20tracks.lua",
-        "sha256": "0bhpkgip9vkrsyg92c8ifqz7wdsn65lhs2qcww1ind0mbp14xdlm"
-      }
-    ],
-    "1.0 2023-12-19": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Calculate total length of items on selected tracks.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Calculate%20total%20length%20of%20items%20on%20selected%20tracks.lua",
-        "sha256": "0bhpkgip9vkrsyg92c8ifqz7wdsn65lhs2qcww1ind0mbp14xdlm"
-      }
-    ]
-  },
-  "tomtjes_Show Project Length.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
-        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
-      }
-    ],
-    "1.0 2023-12-20": [
-      {
-        "path": "Scripts/Radio Toolkit/Metadata/tomtjes_Show Project Length.lua",
-        "url": "https://github.com/tomtjes/Radio-Toolkit/raw/0da2a859cb4b087a03c0ae07f9e3c2e664975a87/Metadata/tomtjes_Show%20Project%20Length.lua",
-        "sha256": "0gzvbyykgwsvqfkdm7yngffbhmnqj7s286aa2hvbmihksvyzfaw0"
       }
     ]
   },

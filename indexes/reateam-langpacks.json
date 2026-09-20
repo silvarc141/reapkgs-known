@@ -15,6 +15,36 @@
       }
     ]
   },
+  "REAPER_SWS_ru_reapack-utf8.ReaperLangPack": {
+    "latest": [
+      {
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "0zxdvasgfpim5s7byh7n1j9jc1c79azbh8lk8s8z8fy8f509r0lf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
+        "sha256": "1akqyz023h4gz5pn3i7m0ncdnm1r1i93gqdcnj61ym4b7gpqz778"
+      }
+    ]
+  },
   "pt-BR Brazilian (REAPER+SWS).ReaperLangPack": {
     "latest": [
       {
@@ -212,42 +242,19 @@
       }
     ]
   },
-  "REAPER_SWS_ru_reapack-utf8.ReaperLangPack": {
-    "latest": [
-      {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "13lfihx90kp6rp2qkb7vpcil47220c0yr6mkkgncfm453xxycblc"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "0zxdvasgfpim5s7byh7n1j9jc1c79azbh8lk8s8z8fy8f509r0lf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
-        "sha256": "1akqyz023h4gz5pn3i7m0ncdnm1r1i93gqdcnj61ym4b7gpqz778"
-      }
-    ]
-  },
   "Russian.Mig.ReaperLangPack": {
     "latest": [
       {
         "path": "LangPack/Russian.Mig.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/7a39b323b8cb5fe8ac28a1a5d7b28c0ad35d67ad/Translations/Russian.Mig.ReaperLangPack",
-        "sha256": "0vcm12l1z3x9wic12n3pqz0bys30bwivrz134601qxva3j7gsxs4"
+        "url": "https://github.com/ReaTeam/LangPacks/raw/880f69c83fcdeb7a120df7ceb2bf8d169a947d81/Translations/Russian.Mig.ReaperLangPack",
+        "sha256": "19cli7spcwhnna10n27rwap9blc9k76a9znkkw5dqjv72sda0f04"
+      }
+    ],
+    "7.79": [
+      {
+        "path": "LangPack/Russian.Mig.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/880f69c83fcdeb7a120df7ceb2bf8d169a947d81/Translations/Russian.Mig.ReaperLangPack",
+        "sha256": "19cli7spcwhnna10n27rwap9blc9k76a9znkkw5dqjv72sda0f04"
       }
     ],
     "7.78": [
@@ -586,8 +593,15 @@
     "latest": [
       {
         "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/6083e73e43c2ea3eeccfdda0e1cf0387dee0799e/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
-        "sha256": "0jmkbpv692kdlp369n2i6s82r8j6ydjxdis9g180fb1nfi5442n1"
+        "url": "https://github.com/ReaTeam/LangPacks/raw/4a769be8ea6c5d2c36f9c5c42541894404eb652a/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1kirz1wpdy9x8z4cigqxr634x91jkbz2ymplawrac7dyvc0c2rjf"
+      }
+    ],
+    "1.31": [
+      {
+        "path": "LangPack/Українська - Ukrainian.ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/4a769be8ea6c5d2c36f9c5c42541894404eb652a/Translations/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20-%20Ukrainian.ReaperLangPack",
+        "sha256": "1kirz1wpdy9x8z4cigqxr634x91jkbz2ymplawrac7dyvc0c2rjf"
       }
     ],
     "1.30": [
