@@ -1749,59 +1749,6 @@
       }
     ]
   },
-  "FileManager.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
-        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
-        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/ee336a8c316e3e69b93346dfc0d7f5a3c6e4e7aa/ImGui_Tools/FileManager.lua",
-        "sha256": "0ia1c7b9y18yy96dnmivmc2nbmhqigcidnpkby43kg1qvrncqymf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/83bdb98a77f333514472564977d603d7200c3fac/ImGui_Tools/FileManager.lua",
-        "sha256": "16dqphk0d1hlb1nw08lwm2nzry0b4g87k2vyzxcvqzr0d4yfkf12"
-      }
-    ]
-  },
-  "Sexan_Chunk_Viewer.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/1440abe4cebb885b9b07a5c342b291d1e038a762/ImGui_Tools/Sexan_Chunk_Viewer.lua",
-        "sha256": "07dprrg6gn7p8cc2h13pzxfnj6lpivp71p6q0b85lzr7bz6fidm7"
-      }
-    ]
-  },
   "Lil_Item_Homie.lua": {
     "latest": [
       {
@@ -2059,6 +2006,59 @@
         "path": "Scripts/Sexan_Scripts/ApiParser/ReaperDefinitionsGenerator.lua",
         "url": "https://github.com/GoranKovac/ReaScripts/raw/b0d93d59486c191dddbc3b1cbf0e59adce8a9c0e/ApiParser/ReaperDefinitionsGenerator.lua",
         "sha256": "1b2nbqwg414mnasizx8jdri2l26kpcnrcdf3y3pvhkmsxiiqhhi1"
+      }
+    ]
+  },
+  "Sexan_Chunk_Viewer.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/45345ce282bb01267eb0e9a3cb4db232bacd8e7b/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "sha256": "11cl3csbm9ivz6hn5617f98j5w8jpbn4s0pi5zy2jhxi6wvdx887"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/1440abe4cebb885b9b07a5c342b291d1e038a762/ImGui_Tools/Sexan_Chunk_Viewer.lua",
+        "sha256": "07dprrg6gn7p8cc2h13pzxfnj6lpivp71p6q0b85lzr7bz6fidm7"
+      }
+    ]
+  },
+  "FileManager.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
+        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/08dea01cffb72382710673b4650a8ba6cda92435/ImGui_Tools/FileManager.lua",
+        "sha256": "082m9bws8f8gwy9sz0l5xxs1iqlhsqv3iyaybz5x8zljbn0vlnw4"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/ee336a8c316e3e69b93346dfc0d7f5a3c6e4e7aa/ImGui_Tools/FileManager.lua",
+        "sha256": "0ia1c7b9y18yy96dnmivmc2nbmhqigcidnpkby43kg1qvrncqymf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/ImGui_Tools/FileManager.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/83bdb98a77f333514472564977d603d7200c3fac/ImGui_Tools/FileManager.lua",
+        "sha256": "16dqphk0d1hlb1nw08lwm2nzry0b4g87k2vyzxcvqzr0d4yfkf12"
       }
     ]
   },
@@ -32868,22 +32868,6 @@
       }
     ]
   },
-  "Sexan_Show midi note name in tooltip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
-        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
-        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
-      }
-    ]
-  },
   "Sexan_Remove in order time selection items tracks.lua": {
     "latest": [
       {
@@ -32897,6 +32881,22 @@
         "path": "Scripts/Sexan_Scripts/Other/Sexan_Remove in order time selection items tracks.lua",
         "url": "https://github.com/GoranKovac/ReaScripts/raw/e46e203d5b205689742ae26940d8ce4b7addc5de/Other/Sexan_Remove%20in%20order%20time%20selection%20items%20tracks.lua",
         "sha256": "0f6mb4gn9spgck1b77dpnq6jclrizmibpzzw269x1c06vwh5wkk2"
+      }
+    ]
+  },
+  "Sexan_Show midi note name in tooltip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
+        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
+        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
       }
     ]
   },
