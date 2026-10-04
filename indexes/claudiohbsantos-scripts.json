@@ -1,4 +1,36 @@
 {
+  "CS Surround Channel Order Converter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
+        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
+        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
+      }
+    ]
+  },
+  "CS Stereo Phase Meter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
+        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
+        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
+      }
+    ]
+  },
   "CS Channel Router.jsfx": {
     "latest": [
       {
@@ -31,38 +63,6 @@
       }
     ]
   },
-  "CS Surround Channel Order Converter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
-        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
-        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
-      }
-    ]
-  },
-  "CS LR to Center Channel Send (Ch 3 Mixer).jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
-        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
-        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
-      }
-    ]
-  },
   "CS Surround LFE Send.jsfx": {
     "latest": [
       {
@@ -79,93 +79,19 @@
       }
     ]
   },
-  "CS Stereo Phase Meter.jsfx": {
+  "CS LR to Center Channel Send (Ch 3 Mixer).jsfx": {
     "latest": [
       {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
-        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
+        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
       }
     ],
-    "1.2": [
+    "1.1": [
       {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
-        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
-      }
-    ]
-  },
-  "CS_Checkerboard Selected Items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Checkerboard Selected Items/CS_Checkerboard Selected Items.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Checkerboard%20Selected%20Items.lua",
-        "sha256": "1h2qgabvhk6mm979qa2njfihb23d7klmwznq6i325m8k9wkyksp1"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Checkerboard Selected Items/CS_Checkerboard Selected Items.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Checkerboard%20Selected%20Items.lua",
-        "sha256": "1h2qgabvhk6mm979qa2njfihb23d7klmwznq6i325m8k9wkyksp1"
-      }
-    ]
-  },
-  "CS_Toggle Item or Track Volume Envelope Visible depending on mouse context.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/View/CS_Toggle%20Item%20or%20Track%20Volume%20Envelope%20Visible%20depending%20on%20mouse%20context.lua",
-        "sha256": "07kp8dqiz1ax9qhglbm9d1y7zlx96qdxghikq13jgswgkby68gyl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/View/CS_Toggle%20Item%20or%20Track%20Volume%20Envelope%20Visible%20depending%20on%20mouse%20context.lua",
-        "sha256": "07kp8dqiz1ax9qhglbm9d1y7zlx96qdxghikq13jgswgkby68gyl"
-      }
-    ]
-  },
-  "CS_Only Show Tracks With Items Inside Time Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Only Show Tracks With Items Inside Time Selection/CS_Only Show Tracks With Items Inside Time Selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Only%20Show%20Tracks%20With%20Items%20Inside%20Time%20Selection.lua",
-        "sha256": "1a6m0k98sfaypd63llfl78arz3gl17rns015qfylp93l8f3bcs53"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Only Show Tracks With Items Inside Time Selection/CS_Only Show Tracks With Items Inside Time Selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Only%20Show%20Tracks%20With%20Items%20Inside%20Time%20Selection.lua",
-        "sha256": "1a6m0k98sfaypd63llfl78arz3gl17rns015qfylp93l8f3bcs53"
-      }
-    ]
-  },
-  "CS_Show FX Chain for item or Track depending on mouse context.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Show FX Chain for item or Track depending on mouse context/CS_Show FX Chain for item or Track depending on mouse context.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Show%20FX%20Chain%20for%20item%20or%20Track%20depending%20on%20mouse%20context.lua",
-        "sha256": "1vangsyf1bvlrqz39gipxnfirm5b3544f8yawq5vkzp9nrfdr439"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Show FX Chain for item or Track depending on mouse context/CS_Show FX Chain for item or Track depending on mouse context.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Show%20FX%20Chain%20for%20item%20or%20Track%20depending%20on%20mouse%20context.lua",
-        "sha256": "1vangsyf1bvlrqz39gipxnfirm5b3544f8yawq5vkzp9nrfdr439"
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
+        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
       }
     ]
   },
@@ -238,214 +164,6 @@
       }
     ]
   },
-  "CS_Create Marker 0 - Blue.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Blue.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Blue.lua",
-        "sha256": "04k5rg2ryjngr8ajzsz15c08rhnbvds1s18r3s2mjw7qlr80wb4h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Blue.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Blue.lua",
-        "sha256": "04k5rg2ryjngr8ajzsz15c08rhnbvds1s18r3s2mjw7qlr80wb4h"
-      }
-    ]
-  },
-  "CS_Create Marker 0.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200.lua",
-        "sha256": "1gd3cqyrh21gjzsxy80igaicl64hfdq498p23n4k428b4hzdvfwb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200.lua",
-        "sha256": "1gd3cqyrh21gjzsxy80igaicl64hfdq498p23n4k428b4hzdvfwb"
-      }
-    ]
-  },
-  "CS_Create Markers at Snap Offsets.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Markers at Snap Offsets.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Create%20Markers%20at%20Snap%20Offsets.lua",
-        "sha256": "0qw8ld9nnlzx1n0jd3dvsq98pc26kv02g1zy2wxy881vl6n1zfr3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Markers at Snap Offsets.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Create%20Markers%20at%20Snap%20Offsets.lua",
-        "sha256": "0qw8ld9nnlzx1n0jd3dvsq98pc26kv02g1zy2wxy881vl6n1zfr3"
-      }
-    ]
-  },
-  "CS_Add First Marker that crosses item to the take name.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Add First Marker that crosses item to the take name.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Add%20First%20Marker%20that%20crosses%20item%20to%20the%20take%20name.lua",
-        "sha256": "0j4ph4b1cxnkcg1rs4myzxz0yz7pl9a3n866wmqi4gkv0kw3ydnp"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Add First Marker that crosses item to the take name.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Add%20First%20Marker%20that%20crosses%20item%20to%20the%20take%20name.lua",
-        "sha256": "0j4ph4b1cxnkcg1rs4myzxz0yz7pl9a3n866wmqi4gkv0kw3ydnp"
-      }
-    ]
-  },
-  "CS_Remove all warning markers 999.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 999.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20999.lua",
-        "sha256": "1jnwq3b6mvc9sikq70ffk4kzh5cmpnd6nccs14g1fkh4adj9rv0m"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 999.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20999.lua",
-        "sha256": "1jnwq3b6mvc9sikq70ffk4kzh5cmpnd6nccs14g1fkh4adj9rv0m"
-      }
-    ]
-  },
-  "CS_Create random colored region at time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create random colored region at time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20random%20colored%20region%20at%20time%20selection.lua",
-        "sha256": "0pr9q679vhcxjhf1ayjsvd0cpnjhljk47i5gdc7hf53sd2sxa8pk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create random colored region at time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20random%20colored%20region%20at%20time%20selection.lua",
-        "sha256": "0pr9q679vhcxjhf1ayjsvd0cpnjhljk47i5gdc7hf53sd2sxa8pk"
-      }
-    ]
-  },
-  "CS_Create Marker 0 - Green.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Green.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Green.lua",
-        "sha256": "12c69jkykz4i1148hh5vzqkg3md6k959kzc6yn3vp0g567zpvbgn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Green.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Green.lua",
-        "sha256": "12c69jkykz4i1148hh5vzqkg3md6k959kzc6yn3vp0g567zpvbgn"
-      }
-    ]
-  },
-  "CS_Reset Marker 0 to cursor position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Reset Marker 0 to cursor position.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Reset%20Marker%200%20to%20cursor%20position.lua",
-        "sha256": "0gbyv0bc76csdxq2vba5qszxna3m4mqslv6d452r4dr4vbclgd8s"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Reset Marker 0 to cursor position.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Reset%20Marker%200%20to%20cursor%20position.lua",
-        "sha256": "0gbyv0bc76csdxq2vba5qszxna3m4mqslv6d452r4dr4vbclgd8s"
-      }
-    ]
-  },
-  "CS_Place Markers at Out of Phase points.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at Out of Phase points.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20Out%20of%20Phase%20points.lua",
-        "sha256": "02qca5hcvnzg7w13psqfm48048cgpy942awb6v234555c8km7h4b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at Out of Phase points.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20Out%20of%20Phase%20points.lua",
-        "sha256": "02qca5hcvnzg7w13psqfm48048cgpy942awb6v234555c8km7h4b"
-      }
-    ]
-  },
-  "CS_Place Markers at clipping points.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at clipping points.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20clipping%20points.lua",
-        "sha256": "17wh89nc2sda4v401g5g3hxkvziyscfzilhrz7qfp1q7a0b556dh"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at clipping points.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20clipping%20points.lua",
-        "sha256": "17wh89nc2sda4v401g5g3hxkvziyscfzilhrz7qfp1q7a0b556dh"
-      }
-    ]
-  },
-  "CS_Remove all warning markers 998.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 998.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20998.lua",
-        "sha256": "06nhzgbrmr12ggv5bpkaakjqf0kvgg0gwjx17fh3q9ib3wqn8c4r"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 998.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20998.lua",
-        "sha256": "06nhzgbrmr12ggv5bpkaakjqf0kvgg0gwjx17fh3q9ib3wqn8c4r"
-      }
-    ]
-  },
-  "CS_Go to highest numbered Marker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Go to highest numbered Marker/CS_Go to highest numbered Marker.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Markers/CS_Go%20to%20highest%20numbered%20Marker.lua",
-        "sha256": "1vqqm770wr2ih4p395kfvm2qp5nb89082jph5ingrxw00khql697"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Go to highest numbered Marker/CS_Go to highest numbered Marker.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Markers/CS_Go%20to%20highest%20numbered%20Marker.lua",
-        "sha256": "1vqqm770wr2ih4p395kfvm2qp5nb89082jph5ingrxw00khql697"
-      }
-    ]
-  },
-  "CS_Edit Bottom Item to Match Edits in selected items on top track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Edit Bottom Item to Match Edits in selected items on top track.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Edit%20Bottom%20Item%20to%20Match%20Edits%20in%20selected%20items%20on%20top%20track.lua",
-        "sha256": "0hbn7q551ykz8j70lgmvialddw86swb15fr7mr6v1wdz10yx6j91"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Edit Bottom Item to Match Edits in selected items on top track.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Edit%20Bottom%20Item%20to%20Match%20Edits%20in%20selected%20items%20on%20top%20track.lua",
-        "sha256": "0hbn7q551ykz8j70lgmvialddw86swb15fr7mr6v1wdz10yx6j91"
-      }
-    ]
-  },
   "CS_Copy Take Volume Envelope to Track Volume Envelope.lua": {
     "latest": [
       {
@@ -469,6 +187,38 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Copy Take Volume Envelope to Track Volume Envelope/CS_Library.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
         "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ]
+  },
+  "CS_Copy selected item before all markers within time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Copy selected item before all markers within time selection/CS_Copy selected item before all markers within time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Copy%20selected%20item%20before%20all%20markers%20within%20time%20selection.lua",
+        "sha256": "1kk7yvkmq6xsvih8ynx6rsr6irx04q1rjxpr53s9h79d6xa98irn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Copy selected item before all markers within time selection/CS_Copy selected item before all markers within time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Copy%20selected%20item%20before%20all%20markers%20within%20time%20selection.lua",
+        "sha256": "1kk7yvkmq6xsvih8ynx6rsr6irx04q1rjxpr53s9h79d6xa98irn"
+      }
+    ]
+  },
+  "CS_Extend edges in both directions fading from time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Extend edges in both directions fading from time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Extend%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
+        "sha256": "19n2q1q6v5j7kfbyr54rk0ijxhy5npnrih9ybszp23qv3qd79big"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Extend edges in both directions fading from time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Extend%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
+        "sha256": "19n2q1q6v5j7kfbyr54rk0ijxhy5npnrih9ybszp23qv3qd79big"
       }
     ]
   },
@@ -511,35 +261,19 @@
       }
     ]
   },
-  "CS_Copy selected item before all markers within time selection.lua": {
+  "CS_Edit Bottom Item to Match Edits in selected items on top track.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Copy selected item before all markers within time selection/CS_Copy selected item before all markers within time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Copy%20selected%20item%20before%20all%20markers%20within%20time%20selection.lua",
-        "sha256": "1kk7yvkmq6xsvih8ynx6rsr6irx04q1rjxpr53s9h79d6xa98irn"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Edit Bottom Item to Match Edits in selected items on top track.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Edit%20Bottom%20Item%20to%20Match%20Edits%20in%20selected%20items%20on%20top%20track.lua",
+        "sha256": "0hbn7q551ykz8j70lgmvialddw86swb15fr7mr6v1wdz10yx6j91"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Copy selected item before all markers within time selection/CS_Copy selected item before all markers within time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Copy%20selected%20item%20before%20all%20markers%20within%20time%20selection.lua",
-        "sha256": "1kk7yvkmq6xsvih8ynx6rsr6irx04q1rjxpr53s9h79d6xa98irn"
-      }
-    ]
-  },
-  "CS_Extend edges in both directions fading from time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Extend edges in both directions fading from time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Extend%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
-        "sha256": "19n2q1q6v5j7kfbyr54rk0ijxhy5npnrih9ybszp23qv3qd79big"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Extend edges in both directions fading from time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Extend%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
-        "sha256": "19n2q1q6v5j7kfbyr54rk0ijxhy5npnrih9ybszp23qv3qd79big"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Edit Bottom Item to Match Edits in selected items on top track.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Edit%20Bottom%20Item%20to%20Match%20Edits%20in%20selected%20items%20on%20top%20track.lua",
+        "sha256": "0hbn7q551ykz8j70lgmvialddw86swb15fr7mr6v1wdz10yx6j91"
       }
     ]
   },
@@ -566,22 +300,6 @@
       }
     ]
   },
-  "CS_Label REV if it has been reversed.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Label REV if it has been reversed.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Label%20REV%20if%20it%20has%20been%20reversed.lua",
-        "sha256": "0yqpld9symzp76b7qnjjlk9qsygrw1b41qqinr31j3k9iz446k6v"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Label REV if it has been reversed.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Label%20REV%20if%20it%20has%20been%20reversed.lua",
-        "sha256": "0yqpld9symzp76b7qnjjlk9qsygrw1b41qqinr31j3k9iz446k6v"
-      }
-    ]
-  },
   "CS_Extend selected item to fill time Selection.lua": {
     "latest": [
       {
@@ -595,90 +313,6 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Extend selected item to fill time Selection.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/81bb4b11c63798a4eb2e40e1abf2086ad47eb14b/Lua/Editing/CS_Extend%20selected%20item%20to%20fill%20time%20Selection.lua",
         "sha256": "1gwnswn34za3ai9706m288n1izsqg9dkl85pnq98d6ypbb680wm1"
-      }
-    ]
-  },
-  "CS_Smart Delete.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Smart Delete.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Delete.lua",
-        "sha256": "0l5iq2qp1nvniba7a1gpcmmyqcalrigibhz09kaqadmp2hx3iz6q"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Smart Delete.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Delete.lua",
-        "sha256": "0l5iq2qp1nvniba7a1gpcmmyqcalrigibhz09kaqadmp2hx3iz6q"
-      }
-    ]
-  },
-  "CS_Nudge Cursor or Item right by grid division based on Item Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item right by grid division based on Item Selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20right%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
-        "sha256": "0f0ja15nrc3zaxwpvrifnma1rzsn91gavggj2f4c49ji2k2jcz3m"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item right by grid division based on Item Selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20right%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
-        "sha256": "0f0ja15nrc3zaxwpvrifnma1rzsn91gavggj2f4c49ji2k2jcz3m"
-      }
-    ]
-  },
-  "CS_Nudge Cursor or Item left by grid division based on Item Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item left by grid division based on Item Selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20left%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
-        "sha256": "183q7vcxznm6bhzp35frhmm68qpxpljbk0x6q0p11mv0mcgbhg43"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item left by grid division based on Item Selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20left%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
-        "sha256": "183q7vcxznm6bhzp35frhmm68qpxpljbk0x6q0p11mv0mcgbhg43"
-      }
-    ]
-  },
-  "CS_Smart Mute.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Smart Mute.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Mute.lua",
-        "sha256": "17p47w7wmwf16670j67xi2v5p8mb3kw54dqk7bfrwpp5zv44n3cy"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Smart Mute.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Mute.lua",
-        "sha256": "17p47w7wmwf16670j67xi2v5p8mb3kw54dqk7bfrwpp5zv44n3cy"
       }
     ]
   },
@@ -698,61 +332,35 @@
       }
     ]
   },
-  "CS_Smart Trim Left Edge.lua": {
+  "CS_Label REV if it has been reversed.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Smart Trim Left Edge.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Trim%20Left%20Edge.lua",
-        "sha256": "1iamrlnxnyxggkr1y3fawi7xjg59wgpn05dr8x2dpvfy1v17hqnp"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Smart Trim Left Edge.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Trim%20Left%20Edge.lua",
-        "sha256": "1iamrlnxnyxggkr1y3fawi7xjg59wgpn05dr8x2dpvfy1v17hqnp"
-      }
-    ]
-  },
-  "CS_Shrink edges in both directions fading from time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Shrink edges in both directions fading from time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Shrink%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
-        "sha256": "1kv894j8nsnzwg81yf7z61ykv29s43i4ihxq3qwvsp4a15plail3"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Label REV if it has been reversed.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Label%20REV%20if%20it%20has%20been%20reversed.lua",
+        "sha256": "0yqpld9symzp76b7qnjjlk9qsygrw1b41qqinr31j3k9iz446k6v"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Shrink edges in both directions fading from time selection.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Shrink%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
-        "sha256": "1kv894j8nsnzwg81yf7z61ykv29s43i4ihxq3qwvsp4a15plail3"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Label REV if it has been reversed.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Label%20REV%20if%20it%20has%20been%20reversed.lua",
+        "sha256": "0yqpld9symzp76b7qnjjlk9qsygrw1b41qqinr31j3k9iz446k6v"
       }
     ]
   },
-  "CS_Smart Split.lua": {
+  "CS_Nudge Cursor or Item left by grid division based on Item Selection.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split.lua",
-        "sha256": "0dl6d01941sb2m74vaj4smghibd10b9l6jfxxdm5c2lqmhfmmxw8"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item left by grid division based on Item Selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20left%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
+        "sha256": "183q7vcxznm6bhzp35frhmm68qpxpljbk0x6q0p11mv0mcgbhg43"
       }
     ],
-    "1.3": [
+    "1.0": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split.lua",
-        "sha256": "0dl6d01941sb2m74vaj4smghibd10b9l6jfxxdm5c2lqmhfmmxw8"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item left by grid division based on Item Selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20left%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
+        "sha256": "183q7vcxznm6bhzp35frhmm68qpxpljbk0x6q0p11mv0mcgbhg43"
       }
     ]
   },
@@ -782,35 +390,71 @@
       }
     ]
   },
-  "CS_Pro Tools Tab to Next Transient.lua": {
+  "CS_Smart Mute.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Pro Tools Tab to Next Transient.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Next%20Transient.lua",
-        "sha256": "1naw4dxwrc0abc5m09byf9vpbakcz3md0y0njz8dczayc332vgwn"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Smart Mute.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Mute.lua",
+        "sha256": "17p47w7wmwf16670j67xi2v5p8mb3kw54dqk7bfrwpp5zv44n3cy"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Pro Tools Tab to Next Transient.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Next%20Transient.lua",
-        "sha256": "1naw4dxwrc0abc5m09byf9vpbakcz3md0y0njz8dczayc332vgwn"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Mute/CS_Smart Mute.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Mute.lua",
+        "sha256": "17p47w7wmwf16670j67xi2v5p8mb3kw54dqk7bfrwpp5zv44n3cy"
       }
     ]
   },
-  "CS_Smart Set Snap Offset.lua": {
+  "CS_Nudge Cursor or Item right by grid division based on Item Selection.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Set Snap Offset.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Set%20Snap%20Offset.lua",
-        "sha256": "106ncmnyzk6mbi6sws6kbj3n7vk4xkjw4yp1k98x1zhsyif3a56v"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item right by grid division based on Item Selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20right%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
+        "sha256": "0f0ja15nrc3zaxwpvrifnma1rzsn91gavggj2f4c49ji2k2jcz3m"
       }
     ],
-    "1.1": [
+    "1.0": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Set Snap Offset.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Set%20Snap%20Offset.lua",
-        "sha256": "106ncmnyzk6mbi6sws6kbj3n7vk4xkjw4yp1k98x1zhsyif3a56v"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Nudge Cursor or Item right by grid division based on Item Selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Nudge%20Cursor%20or%20Item%20right%20by%20grid%20division%20based%20on%20Item%20Selection.lua",
+        "sha256": "0f0ja15nrc3zaxwpvrifnma1rzsn91gavggj2f4c49ji2k2jcz3m"
+      }
+    ]
+  },
+  "CS_Smart Delete.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Smart Delete.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Delete.lua",
+        "sha256": "0l5iq2qp1nvniba7a1gpcmmyqcalrigibhz09kaqadmp2hx3iz6q"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Delete/CS_Smart Delete.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Delete.lua",
+        "sha256": "0l5iq2qp1nvniba7a1gpcmmyqcalrigibhz09kaqadmp2hx3iz6q"
       }
     ]
   },
@@ -830,22 +474,6 @@
       }
     ]
   },
-  "CS_Smart Split Following Snapping.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split Following Snapping.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split%20Following%20Snapping.lua",
-        "sha256": "0b3h84cg1cxrwna8ki5bx8f10x7a6vs0f7v3nfxqxzkv3qkr5amy"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split Following Snapping.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split%20Following%20Snapping.lua",
-        "sha256": "0b3h84cg1cxrwna8ki5bx8f10x7a6vs0f7v3nfxqxzkv3qkr5amy"
-      }
-    ]
-  },
   "CS_Remove Selected area of Item and select right portion.lua": {
     "latest": [
       {
@@ -859,6 +487,80 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Remove Selected area of Item and select right portion.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Remove%20Selected%20area%20of%20Item%20and%20select%20right%20portion.lua",
         "sha256": "1jy4b7gnd2j18l2k75xyvja4sqcfkrgmn4f94dm9kqf272xj924k"
+      }
+    ]
+  },
+  "CS_Smart Set Snap Offset.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Set Snap Offset.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Set%20Snap%20Offset.lua",
+        "sha256": "106ncmnyzk6mbi6sws6kbj3n7vk4xkjw4yp1k98x1zhsyif3a56v"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Set Snap Offset.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Set%20Snap%20Offset.lua",
+        "sha256": "106ncmnyzk6mbi6sws6kbj3n7vk4xkjw4yp1k98x1zhsyif3a56v"
+      }
+    ]
+  },
+  "CS_Pro Tools Tab to Next Transient.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Pro Tools Tab to Next Transient.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Next%20Transient.lua",
+        "sha256": "1naw4dxwrc0abc5m09byf9vpbakcz3md0y0njz8dczayc332vgwn"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Pro Tools Tab to Next Transient.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Next%20Transient.lua",
+        "sha256": "1naw4dxwrc0abc5m09byf9vpbakcz3md0y0njz8dczayc332vgwn"
+      }
+    ]
+  },
+  "CS_Shrink edges in both directions fading from time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Shrink edges in both directions fading from time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Shrink%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
+        "sha256": "1kv894j8nsnzwg81yf7z61ykv29s43i4ihxq3qwvsp4a15plail3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Shrink edges in both directions fading from time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Shrink%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua",
+        "sha256": "1kv894j8nsnzwg81yf7z61ykv29s43i4ihxq3qwvsp4a15plail3"
+      }
+    ]
+  },
+  "CS_Smart Trim Left Edge.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Smart Trim Left Edge.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Trim%20Left%20Edge.lua",
+        "sha256": "1iamrlnxnyxggkr1y3fawi7xjg59wgpn05dr8x2dpvfy1v17hqnp"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Left Edge/CS_Smart Trim Left Edge.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Trim%20Left%20Edge.lua",
+        "sha256": "1iamrlnxnyxggkr1y3fawi7xjg59wgpn05dr8x2dpvfy1v17hqnp"
       }
     ]
   },
@@ -878,6 +580,38 @@
       }
     ]
   },
+  "CS_Smart Split Following Snapping.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split Following Snapping.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split%20Following%20Snapping.lua",
+        "sha256": "0b3h84cg1cxrwna8ki5bx8f10x7a6vs0f7v3nfxqxzkv3qkr5amy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split Following Snapping.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split%20Following%20Snapping.lua",
+        "sha256": "0b3h84cg1cxrwna8ki5bx8f10x7a6vs0f7v3nfxqxzkv3qkr5amy"
+      }
+    ]
+  },
+  "CS_Smart Split.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split.lua",
+        "sha256": "0dl6d01941sb2m74vaj4smghibd10b9l6jfxxdm5c2lqmhfmmxw8"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Split.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split.lua",
+        "sha256": "0dl6d01941sb2m74vaj4smghibd10b9l6jfxxdm5c2lqmhfmmxw8"
+      }
+    ]
+  },
   "CS_Smart Fade.lua": {
     "latest": [
       {
@@ -891,6 +625,198 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Fade.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Fade.lua",
         "sha256": "0kvbnggr7p45bmz3jsc7sbfx4lhw4bsjmc6pwaj763drcdi1ly5s"
+      }
+    ]
+  },
+  "CS_Create Marker 0 - Blue.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Blue.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Blue.lua",
+        "sha256": "04k5rg2ryjngr8ajzsz15c08rhnbvds1s18r3s2mjw7qlr80wb4h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Blue.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Blue.lua",
+        "sha256": "04k5rg2ryjngr8ajzsz15c08rhnbvds1s18r3s2mjw7qlr80wb4h"
+      }
+    ]
+  },
+  "CS_Create Marker 0 - Green.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Green.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Green.lua",
+        "sha256": "12c69jkykz4i1148hh5vzqkg3md6k959kzc6yn3vp0g567zpvbgn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0 - Green.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Green.lua",
+        "sha256": "12c69jkykz4i1148hh5vzqkg3md6k959kzc6yn3vp0g567zpvbgn"
+      }
+    ]
+  },
+  "CS_Create random colored region at time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create random colored region at time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20random%20colored%20region%20at%20time%20selection.lua",
+        "sha256": "0pr9q679vhcxjhf1ayjsvd0cpnjhljk47i5gdc7hf53sd2sxa8pk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create random colored region at time selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20random%20colored%20region%20at%20time%20selection.lua",
+        "sha256": "0pr9q679vhcxjhf1ayjsvd0cpnjhljk47i5gdc7hf53sd2sxa8pk"
+      }
+    ]
+  },
+  "CS_Create Markers at Snap Offsets.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Markers at Snap Offsets.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Create%20Markers%20at%20Snap%20Offsets.lua",
+        "sha256": "0qw8ld9nnlzx1n0jd3dvsq98pc26kv02g1zy2wxy881vl6n1zfr3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Markers at Snap Offsets.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Create%20Markers%20at%20Snap%20Offsets.lua",
+        "sha256": "0qw8ld9nnlzx1n0jd3dvsq98pc26kv02g1zy2wxy881vl6n1zfr3"
+      }
+    ]
+  },
+  "CS_Create Marker 0.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200.lua",
+        "sha256": "1gd3cqyrh21gjzsxy80igaicl64hfdq498p23n4k428b4hzdvfwb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Create Marker 0.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200.lua",
+        "sha256": "1gd3cqyrh21gjzsxy80igaicl64hfdq498p23n4k428b4hzdvfwb"
+      }
+    ]
+  },
+  "CS_Add First Marker that crosses item to the take name.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Add First Marker that crosses item to the take name.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Add%20First%20Marker%20that%20crosses%20item%20to%20the%20take%20name.lua",
+        "sha256": "0j4ph4b1cxnkcg1rs4myzxz0yz7pl9a3n866wmqi4gkv0kw3ydnp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Add First Marker that crosses item to the take name.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/206a3c2d1f7eaa03cc2ad02c8b6e4ddd10014c14/Lua/Markers/CS_Add%20First%20Marker%20that%20crosses%20item%20to%20the%20take%20name.lua",
+        "sha256": "0j4ph4b1cxnkcg1rs4myzxz0yz7pl9a3n866wmqi4gkv0kw3ydnp"
+      }
+    ]
+  },
+  "CS_Place Markers at Out of Phase points.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at Out of Phase points.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20Out%20of%20Phase%20points.lua",
+        "sha256": "02qca5hcvnzg7w13psqfm48048cgpy942awb6v234555c8km7h4b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at Out of Phase points.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20Out%20of%20Phase%20points.lua",
+        "sha256": "02qca5hcvnzg7w13psqfm48048cgpy942awb6v234555c8km7h4b"
+      }
+    ]
+  },
+  "CS_Place Markers at clipping points.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at clipping points.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20clipping%20points.lua",
+        "sha256": "17wh89nc2sda4v401g5g3hxkvziyscfzilhrz7qfp1q7a0b556dh"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Place Markers at clipping points.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20clipping%20points.lua",
+        "sha256": "17wh89nc2sda4v401g5g3hxkvziyscfzilhrz7qfp1q7a0b556dh"
+      }
+    ]
+  },
+  "CS_Reset Marker 0 to cursor position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Reset Marker 0 to cursor position.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Reset%20Marker%200%20to%20cursor%20position.lua",
+        "sha256": "0gbyv0bc76csdxq2vba5qszxna3m4mqslv6d452r4dr4vbclgd8s"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Reset Marker 0 to cursor position.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Reset%20Marker%200%20to%20cursor%20position.lua",
+        "sha256": "0gbyv0bc76csdxq2vba5qszxna3m4mqslv6d452r4dr4vbclgd8s"
+      }
+    ]
+  },
+  "CS_Remove all warning markers 998.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 998.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20998.lua",
+        "sha256": "06nhzgbrmr12ggv5bpkaakjqf0kvgg0gwjx17fh3q9ib3wqn8c4r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 998.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20998.lua",
+        "sha256": "06nhzgbrmr12ggv5bpkaakjqf0kvgg0gwjx17fh3q9ib3wqn8c4r"
+      }
+    ]
+  },
+  "CS_Go to highest numbered Marker.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Go to highest numbered Marker/CS_Go to highest numbered Marker.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Markers/CS_Go%20to%20highest%20numbered%20Marker.lua",
+        "sha256": "1vqqm770wr2ih4p395kfvm2qp5nb89082jph5ingrxw00khql697"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Go to highest numbered Marker/CS_Go to highest numbered Marker.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Markers/CS_Go%20to%20highest%20numbered%20Marker.lua",
+        "sha256": "1vqqm770wr2ih4p395kfvm2qp5nb89082jph5ingrxw00khql697"
+      }
+    ]
+  },
+  "CS_Remove all warning markers 999.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 999.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20999.lua",
+        "sha256": "1jnwq3b6mvc9sikq70ffk4kzh5cmpnd6nccs14g1fkh4adj9rv0m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Markers/CS_Remove all warning markers 999.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Remove%20all%20warning%20markers%20999.lua",
+        "sha256": "1jnwq3b6mvc9sikq70ffk4kzh5cmpnd6nccs14g1fkh4adj9rv0m"
       }
     ]
   },
@@ -1080,6 +1006,29 @@
       }
     ]
   },
+  "CS_Set Minimum Grid Division Pixels to 0.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Minimum Grid Division Pixels to 0.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0ce3eeefc0385febbfca8774693a25eb733079fd/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua",
+        "sha256": "0jjydyj3zzdjrf3dz5hgl64djiq8fiz52mg4j3gcnhwn3pjcpcbv"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Minimum Grid Division Pixels to 0.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0ce3eeefc0385febbfca8774693a25eb733079fd/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua",
+        "sha256": "0jjydyj3zzdjrf3dz5hgl64djiq8fiz52mg4j3gcnhwn3pjcpcbv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Minimum Grid Division Pixels to 0.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7f27cb52a2ace901e26ed63c87830c568ca0f9d5/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua",
+        "sha256": "0c56w2lgx5xp089ayfycgivb4iqcwwi7ys9x7dpb25sj45wbwfm1"
+      }
+    ]
+  },
   "CS_Set Time Selection In.lua": {
     "latest": [
       {
@@ -1194,29 +1143,6 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Time Selection In.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/2df7f88ea887878f68381ce4c3e768b3d258be59/Lua/Tools/CS_Set%20Time%20Selection%20In.lua",
         "sha256": "0v0hlymy2v3fyba3dhp2iszifrmn1pqhnby2l3bc3cc6ky2akzbn"
-      }
-    ]
-  },
-  "CS_Set Minimum Grid Division Pixels to 0.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Minimum Grid Division Pixels to 0.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0ce3eeefc0385febbfca8774693a25eb733079fd/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua",
-        "sha256": "0jjydyj3zzdjrf3dz5hgl64djiq8fiz52mg4j3gcnhwn3pjcpcbv"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Minimum Grid Division Pixels to 0.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0ce3eeefc0385febbfca8774693a25eb733079fd/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua",
-        "sha256": "0jjydyj3zzdjrf3dz5hgl64djiq8fiz52mg4j3gcnhwn3pjcpcbv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Tools/CS_Set Minimum Grid Division Pixels to 0.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7f27cb52a2ace901e26ed63c87830c568ca0f9d5/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua",
-        "sha256": "0c56w2lgx5xp089ayfycgivb4iqcwwi7ys9x7dpb25sj45wbwfm1"
       }
     ]
   },
@@ -1528,39 +1454,6 @@
       }
     ]
   },
-  "CS_Item Disable LoopSource.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
-        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
-        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
-        "sha256": "1rzbzldjpx13zw1kl6gy173szs8fvmsarb02kjbshknzgqn26c1q"
-      }
-    ]
-  },
   "CS_Item Disable Invert Phase.lua": {
     "latest": [
       {
@@ -1627,6 +1520,91 @@
       }
     ]
   },
+  "CS_Item Disable LoopSource.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
+        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
+        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
+        "sha256": "1rzbzldjpx13zw1kl6gy173szs8fvmsarb02kjbshknzgqn26c1q"
+      }
+    ]
+  },
+  "CS_Select all items with same number of channels.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
+        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
+        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
+      }
+    ]
+  },
+  "CS_Select All item with same custom color as selected item.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
+        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
+        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
+      }
+    ]
+  },
   "CS_Item Enable LoopSource.lua": {
     "latest": [
       {
@@ -1657,58 +1635,6 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
         "sha256": "0svfsz40vsd0v5y5frixkb2f6jiszsivamvg65win1k8nx3lg86p"
-      }
-    ]
-  },
-  "CS_Select All item with same custom color as selected item.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
-        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
-        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
-      }
-    ]
-  },
-  "CS_Select all items with same number of channels.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
-        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
-        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
       }
     ]
   },
@@ -1781,6 +1707,80 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Playback/CS_SoloXOR_Across_Projects.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ca06bed8cfb4885dddd64ed6ed5c96a7f19256d3/Lua/Playback/CS_SoloXOR_Across_Projects.lua",
         "sha256": "1l5qb35fz0n8i0v3q30samdmxa5qkhrfmbvfkfkbxpvhiya3pniv"
+      }
+    ]
+  },
+  "CS_Toggle Item or Track Volume Envelope Visible depending on mouse context.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/View/CS_Toggle%20Item%20or%20Track%20Volume%20Envelope%20Visible%20depending%20on%20mouse%20context.lua",
+        "sha256": "07kp8dqiz1ax9qhglbm9d1y7zlx96qdxghikq13jgswgkby68gyl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context/CS_Toggle Item or Track Volume Envelope Visible depending on mouse context.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/View/CS_Toggle%20Item%20or%20Track%20Volume%20Envelope%20Visible%20depending%20on%20mouse%20context.lua",
+        "sha256": "07kp8dqiz1ax9qhglbm9d1y7zlx96qdxghikq13jgswgkby68gyl"
+      }
+    ]
+  },
+  "CS_Show FX Chain for item or Track depending on mouse context.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Show FX Chain for item or Track depending on mouse context/CS_Show FX Chain for item or Track depending on mouse context.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Show%20FX%20Chain%20for%20item%20or%20Track%20depending%20on%20mouse%20context.lua",
+        "sha256": "1vangsyf1bvlrqz39gipxnfirm5b3544f8yawq5vkzp9nrfdr439"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Show FX Chain for item or Track depending on mouse context/CS_Show FX Chain for item or Track depending on mouse context.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Show%20FX%20Chain%20for%20item%20or%20Track%20depending%20on%20mouse%20context.lua",
+        "sha256": "1vangsyf1bvlrqz39gipxnfirm5b3544f8yawq5vkzp9nrfdr439"
+      }
+    ]
+  },
+  "CS_Only Show Tracks With Items Inside Time Selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Only Show Tracks With Items Inside Time Selection/CS_Only Show Tracks With Items Inside Time Selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Only%20Show%20Tracks%20With%20Items%20Inside%20Time%20Selection.lua",
+        "sha256": "1a6m0k98sfaypd63llfl78arz3gl17rns015qfylp93l8f3bcs53"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Only Show Tracks With Items Inside Time Selection/CS_Only Show Tracks With Items Inside Time Selection.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Only%20Show%20Tracks%20With%20Items%20Inside%20Time%20Selection.lua",
+        "sha256": "1a6m0k98sfaypd63llfl78arz3gl17rns015qfylp93l8f3bcs53"
+      }
+    ]
+  },
+  "CS_Checkerboard Selected Items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Checkerboard Selected Items/CS_Checkerboard Selected Items.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Checkerboard%20Selected%20Items.lua",
+        "sha256": "1h2qgabvhk6mm979qa2njfihb23d7klmwznq6i325m8k9wkyksp1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/View/CS_Checkerboard Selected Items/CS_Checkerboard Selected Items.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/View/CS_Checkerboard%20Selected%20Items.lua",
+        "sha256": "1h2qgabvhk6mm979qa2njfihb23d7klmwznq6i325m8k9wkyksp1"
       }
     ]
   },

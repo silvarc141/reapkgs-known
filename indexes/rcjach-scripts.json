@@ -1,40 +1,17 @@
 {
-  "AB Comparison - 1INnOUT Stereo.jsfx": {
+  "RCAutoPanner.jsfx": {
     "latest": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
-        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/a4adeb1a75ac1fda2bc37a2bd9a961911f38d464/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
+        "sha256": "0xazr1407z01rcvk5xnfcnwwznr2lfjw0lc6r1b5k0n5yygk80cg"
       }
     ],
-    "1.2": [
+    "1.0pre1": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
-        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
-      }
-    ]
-  },
-  "RCBitRangeGain.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk"
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/a4adeb1a75ac1fda2bc37a2bd9a961911f38d464/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
+        "sha256": "0xazr1407z01rcvk5xnfcnwwznr2lfjw0lc6r1b5k0n5yygk80cg"
       }
     ]
   },
@@ -89,42 +66,19 @@
       }
     ]
   },
-  "RCNoiseBuzz.jsfx": {
+  "AB Comparison - 1INnOUT Stereo.jsfx": {
     "latest": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
+        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
       }
     ],
-    "1.3": [
+    "1.2": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "1d94izbhy8h1gxh2ahshpwz0mnd0k4na5xn0vqzfkwjqm9maqhls"
-      }
-    ]
-  },
-  "RCEveryGain.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
-        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
-        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison - 1INnOUT Stereo.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx",
+        "sha256": "028wsp1gx29vk8b088c9p3m2v19k8hympjw359hj0mrlac80h0az"
       }
     ]
   },
@@ -167,19 +121,65 @@
       }
     ]
   },
-  "RCAutoPanner.jsfx": {
+  "RCBitRangeGain.jsfx": {
     "latest": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/a4adeb1a75ac1fda2bc37a2bd9a961911f38d464/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
-        "sha256": "0xazr1407z01rcvk5xnfcnwwznr2lfjw0lc6r1b5k0n5yygk80cg"
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
       }
     ],
-    "1.0pre1": [
+    "1.3": [
       {
-        "path": "Effects/RCJacH Scripts/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/a4adeb1a75ac1fda2bc37a2bd9a961911f38d464/JSFX/Synth/ReaModular/RCAutoPanner.jsfx",
-        "sha256": "0xazr1407z01rcvk5xnfcnwwznr2lfjw0lc6r1b5k0n5yygk80cg"
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk"
+      }
+    ]
+  },
+  "RCNoiseBuzz.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "1d94izbhy8h1gxh2ahshpwz0mnd0k4na5xn0vqzfkwjqm9maqhls"
+      }
+    ]
+  },
+  "RCEveryGain.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
+        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
+        "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
       }
     ]
   },
@@ -199,19 +199,51 @@
       }
     ]
   },
-  "RCJacH_MIDI Humanizer.lua": {
+  "RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua": {
     "latest": [
       {
-        "path": "Scripts/RCJacH Scripts/MIDI Editor/RCJacH_MIDI Humanizer.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6b39571436e61e0abb55612f15e417970fc480ed/MIDI%20Editor/RCJacH_MIDI%20Humanizer.lua",
-        "sha256": "09ndxg8dd06n98psh9scdl9y6qzqai4qb51iihg8qyi8xr9yzacm"
+        "path": "Scripts/RCJacH Scripts/Templating/RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Templating/RCJacH_Set%20Airwindows%20Console%20TrackFX%20Pin%20Mapping.lua",
+        "sha256": "1xn757y6d4rc5f997ir8b7ilapy2x1ki7sa9q6c7m6ay05mjdd4k"
       }
     ],
-    "0.1": [
+    "1.0a": [
       {
-        "path": "Scripts/RCJacH Scripts/MIDI Editor/RCJacH_MIDI Humanizer.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6b39571436e61e0abb55612f15e417970fc480ed/MIDI%20Editor/RCJacH_MIDI%20Humanizer.lua",
-        "sha256": "09ndxg8dd06n98psh9scdl9y6qzqai4qb51iihg8qyi8xr9yzacm"
+        "path": "Scripts/RCJacH Scripts/Templating/RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Templating/RCJacH_Set%20Airwindows%20Console%20TrackFX%20Pin%20Mapping.lua",
+        "sha256": "1xn757y6d4rc5f997ir8b7ilapy2x1ki7sa9q6c7m6ay05mjdd4k"
+      }
+    ]
+  },
+  "RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
+        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
+      }
+    ],
+    "1.0a": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
+        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
+      }
+    ]
+  },
+  "RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
+        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
+      }
+    ],
+    "1.0a": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
+        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
       }
     ]
   },
@@ -273,67 +305,19 @@
       }
     ]
   },
-  "RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua": {
+  "RCJacH_MIDI Humanizer.lua": {
     "latest": [
       {
-        "path": "Scripts/RCJacH Scripts/Templating/RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Templating/RCJacH_Set%20Airwindows%20Console%20TrackFX%20Pin%20Mapping.lua",
-        "sha256": "1xn757y6d4rc5f997ir8b7ilapy2x1ki7sa9q6c7m6ay05mjdd4k"
+        "path": "Scripts/RCJacH Scripts/MIDI Editor/RCJacH_MIDI Humanizer.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6b39571436e61e0abb55612f15e417970fc480ed/MIDI%20Editor/RCJacH_MIDI%20Humanizer.lua",
+        "sha256": "09ndxg8dd06n98psh9scdl9y6qzqai4qb51iihg8qyi8xr9yzacm"
       }
     ],
-    "1.0a": [
+    "0.1": [
       {
-        "path": "Scripts/RCJacH Scripts/Templating/RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Templating/RCJacH_Set%20Airwindows%20Console%20TrackFX%20Pin%20Mapping.lua",
-        "sha256": "1xn757y6d4rc5f997ir8b7ilapy2x1ki7sa9q6c7m6ay05mjdd4k"
-      }
-    ]
-  },
-  "RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
-        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
-      }
-    ],
-    "1.0a": [
-      {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua",
-        "sha256": "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3"
-      }
-    ]
-  },
-  "RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
-        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
-      }
-    ],
-    "1.0a": [
-      {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
-        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
-      }
-    ]
-  },
-  "RCJacH_Split items under mouse cursor (obey snapping and selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
-        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
-        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
+        "path": "Scripts/RCJacH Scripts/MIDI Editor/RCJacH_MIDI Humanizer.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6b39571436e61e0abb55612f15e417970fc480ed/MIDI%20Editor/RCJacH_MIDI%20Humanizer.lua",
+        "sha256": "09ndxg8dd06n98psh9scdl9y6qzqai4qb51iihg8qyi8xr9yzacm"
       }
     ]
   },
@@ -369,22 +353,6 @@
       }
     ]
   },
-  "RCJacH_Select Tracks with Regex.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
-        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
-      }
-    ],
-    "1.0a": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
-        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
-      }
-    ]
-  },
   "RCJacH_Delete content under mouse (contextual).lua": {
     "latest": [
       {
@@ -401,6 +369,22 @@
       }
     ]
   },
+  "RCJacH_Select Tracks with Regex.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
+        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
+      }
+    ],
+    "1.0a": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
+        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
+      }
+    ]
+  },
   "RCJacH_Quick add or edit take marker under mouse cursor.lua": {
     "latest": [
       {
@@ -414,6 +398,22 @@
         "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Quick add or edit take marker under mouse cursor.lua",
         "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Quick%20add%20or%20edit%20take%20marker%20under%20mouse%20cursor.lua",
         "sha256": "0n2n53snzwfm2x1ncpl83cwxbihphvkk6s4lv46jqyfz47y8gzlf"
+      }
+    ]
+  },
+  "RCJacH_Split items under mouse cursor (obey snapping and selection).lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
+        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
+        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
       }
     ]
   },

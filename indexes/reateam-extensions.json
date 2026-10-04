@@ -7542,28 +7542,55 @@
     "latest": [
       {
         "path": "UserPlugins/ReaSonus/en-US.ini",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.1/en-US.ini",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/en-US.ini",
         "sha256": "1hwhq7mzfvmb80s261y1kagrjw1lxp1dqbny9ikjw46bk7gi5mv0"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.1/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "sha256": "06x5fc3xmjm1cs4yiv1ncfq49frnm346milqlvwd6x9lfzwxkvxm"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "0w0ig5r41q8jzg4nna4a8l0w512d6kajf0v73nlbh4q92507q8zw"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.1/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "sha256": "06x5fc3xmjm1cs4yiv1ncfq49frnm346milqlvwd6x9lfzwxkvxm"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "0w0ig5r41q8jzg4nna4a8l0w512d6kajf0v73nlbh4q92507q8zw"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-x64.dll",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.1/reaper_ReasonusNative-x64.dll",
-        "sha256": "1kam7xr1zb82zv6kj0hfimdll6glmr2bkdvga5cqzsl6pv2rnrbw"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-x64.dll",
+        "sha256": "0xz0nlv6j6pfahckhy84b5ccqdzwr5vklx5c3l7lyajfbj5jjrc3"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-x86.dll",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.1/reaper_ReasonusNative-x86.dll",
-        "sha256": "0www3h3171dnbpm5xim4q8rwdpl17hws4r2zf0ma8gxw3xpcm0ni"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-x86.dll",
+        "sha256": "17zp0fmwmpqs4p8fhlqw3qm9wlvh628vw77xidxc65hwvinz3yyk"
+      }
+    ],
+    "0.11.2": [
+      {
+        "path": "UserPlugins/ReaSonus/en-US.ini",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/en-US.ini",
+        "sha256": "1hwhq7mzfvmb80s261y1kagrjw1lxp1dqbny9ikjw46bk7gi5mv0"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "0w0ig5r41q8jzg4nna4a8l0w512d6kajf0v73nlbh4q92507q8zw"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "0w0ig5r41q8jzg4nna4a8l0w512d6kajf0v73nlbh4q92507q8zw"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-x64.dll",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-x64.dll",
+        "sha256": "0xz0nlv6j6pfahckhy84b5ccqdzwr5vklx5c3l7lyajfbj5jjrc3"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-x86.dll",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-x86.dll",
+        "sha256": "17zp0fmwmpqs4p8fhlqw3qm9wlvh628vw77xidxc65hwvinz3yyk"
       }
     ],
     "0.11.1": [
@@ -11467,7 +11494,7 @@
       {
         "path": "UserPlugins/Grooves/Logic_8A.rgt",
         "url": "https://github.com/reaper-oss/sws/raw/v2.14.0.4-beta/FingersExtras/Grooves/Logic_8A.rgt",
-        "sha256": "1m6234gxgd0bknl7a5haq6y8ifnykz05mrzkn7nackaqd0rjbk2g"
+        "sha256": ""
       },
       {
         "path": "UserPlugins/Grooves/Logic_8B.rgt",
