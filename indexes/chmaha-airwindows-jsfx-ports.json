@@ -1,4 +1,112 @@
 {
+  "Altitude.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Altitude.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Altitude.jsfx",
+        "sha256": "10pjjz844m71zpzhd78h3k5whpbmwwi5ha13knr7hh7s0m9zdgj9"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Altitude.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Altitude.jsfx",
+        "sha256": "10pjjz844m71zpzhd78h3k5whpbmwwi5ha13knr7hh7s0m9zdgj9"
+      }
+    ]
+  },
+  "Amphitrite.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Amphitrite.jsfx",
+        "sha256": "1bm7dqkh09cfqdcqba7jlsa2h0agnshw7rfr9rl1pj0186w377k9"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Amphitrite.jsfx",
+        "sha256": "1bm7dqkh09cfqdcqba7jlsa2h0agnshw7rfr9rl1pj0186w377k9"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Amphitrite.jsfx",
+        "sha256": "092zzagfcfk65f4xc2c7knscnq2qwip4simn2ddpkqa2y3a20gry"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Amphitrite.jsfx",
+        "sha256": "02byz3a5q96g4495r06ixa9qfy47lwnwz9scrj99i1jqcr5cy10h"
+      }
+    ]
+  },
+  "AllEars.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/AllEars.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/AllEars.jsfx",
+        "sha256": "1xk6k9wqyl41mfcdg60bn8al6gph4q37agzbszjj1fcaik0fgk4b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/AllEars.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/AllEars.jsfx",
+        "sha256": "1xk6k9wqyl41mfcdg60bn8al6gph4q37agzbszjj1fcaik0fgk4b"
+      }
+    ]
+  },
+  "Aurora.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Aurora.jsfx",
+        "sha256": "063z59mifvrkzdbkc2q6k3k8dkzjvv2w7maasi2j02574715pggk"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Aurora.jsfx",
+        "sha256": "063z59mifvrkzdbkc2q6k3k8dkzjvv2w7maasi2j02574715pggk"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Aurora.jsfx",
+        "sha256": "1x9j6x2w6pqjwa43awbw8mk2yvd5v8rqzkns50cd54v5d4d0g5r3"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Aurora.jsfx",
+        "sha256": "0iij3sx416d7xvia6s8k00lx0bbpbr49d6xmclz5kv7af5fxihxm"
+      }
+    ]
+  },
+  "Ambrosia.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Ambrosia.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Ambrosia.jsfx",
+        "sha256": "0k428r6vn5arrllpa3fhf7w8xvay9dd985l10x5c0yry3ajas6j0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Ambrosia.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Ambrosia.jsfx",
+        "sha256": "0k428r6vn5arrllpa3fhf7w8xvay9dd985l10x5c0yry3ajas6j0"
+      }
+    ]
+  },
   "78SlewClipper.jsfx": {
     "latest": [
       {
@@ -38,19 +146,19 @@
       }
     ]
   },
-  "AllEars.jsfx": {
+  "Biased.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/AllEars.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/AllEars.jsfx",
-        "sha256": "1xk6k9wqyl41mfcdg60bn8al6gph4q37agzbszjj1fcaik0fgk4b"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Biased.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Biased.jsfx",
+        "sha256": "01laanm8xazrz9mkgdrr2sggblvwrqq57wq5k4b3j7fk2hl991y9"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/AllEars.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/AllEars.jsfx",
-        "sha256": "1xk6k9wqyl41mfcdg60bn8al6gph4q37agzbszjj1fcaik0fgk4b"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Biased.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Biased.jsfx",
+        "sha256": "01laanm8xazrz9mkgdrr2sggblvwrqq57wq5k4b3j7fk2hl991y9"
       }
     ]
   },
@@ -67,114 +175,6 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/6-7.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/9cfe5846f0b217a26ce05289af502de5b6666bc1/Various/6-7.jsfx",
         "sha256": "1rgnq6gzwvlhi6xvp236wildvqqn34whds35lc0ya3fxi90avzvb"
-      }
-    ]
-  },
-  "Ambrosia.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Ambrosia.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Ambrosia.jsfx",
-        "sha256": "0k428r6vn5arrllpa3fhf7w8xvay9dd985l10x5c0yry3ajas6j0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Ambrosia.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Ambrosia.jsfx",
-        "sha256": "0k428r6vn5arrllpa3fhf7w8xvay9dd985l10x5c0yry3ajas6j0"
-      }
-    ]
-  },
-  "Altitude.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Altitude.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Altitude.jsfx",
-        "sha256": "10pjjz844m71zpzhd78h3k5whpbmwwi5ha13knr7hh7s0m9zdgj9"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Altitude.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Altitude.jsfx",
-        "sha256": "10pjjz844m71zpzhd78h3k5whpbmwwi5ha13knr7hh7s0m9zdgj9"
-      }
-    ]
-  },
-  "Aurora.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Aurora.jsfx",
-        "sha256": "063z59mifvrkzdbkc2q6k3k8dkzjvv2w7maasi2j02574715pggk"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Aurora.jsfx",
-        "sha256": "063z59mifvrkzdbkc2q6k3k8dkzjvv2w7maasi2j02574715pggk"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Aurora.jsfx",
-        "sha256": "1x9j6x2w6pqjwa43awbw8mk2yvd5v8rqzkns50cd54v5d4d0g5r3"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Aurora.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Aurora.jsfx",
-        "sha256": "0iij3sx416d7xvia6s8k00lx0bbpbr49d6xmclz5kv7af5fxihxm"
-      }
-    ]
-  },
-  "Amphitrite.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Amphitrite.jsfx",
-        "sha256": "1bm7dqkh09cfqdcqba7jlsa2h0agnshw7rfr9rl1pj0186w377k9"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Amphitrite.jsfx",
-        "sha256": "1bm7dqkh09cfqdcqba7jlsa2h0agnshw7rfr9rl1pj0186w377k9"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Amphitrite.jsfx",
-        "sha256": "092zzagfcfk65f4xc2c7knscnq2qwip4simn2ddpkqa2y3a20gry"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Amphitrite.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Amphitrite.jsfx",
-        "sha256": "02byz3a5q96g4495r06ixa9qfy47lwnwz9scrj99i1jqcr5cy10h"
-      }
-    ]
-  },
-  "Biased.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Biased.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Biased.jsfx",
-        "sha256": "01laanm8xazrz9mkgdrr2sggblvwrqq57wq5k4b3j7fk2hl991y9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Biased.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Biased.jsfx",
-        "sha256": "01laanm8xazrz9mkgdrr2sggblvwrqq57wq5k4b3j7fk2hl991y9"
       }
     ]
   },
@@ -201,22 +201,6 @@
       }
     ]
   },
-  "ChannelTwister.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/ChannelTwister.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c6bded83391733d219e6bc11e709619d923d268/Various/ChannelTwister.jsfx",
-        "sha256": "1zl2rd5wh6s803159xbp6mm0pfgk4ildv2dr6w0f66l23ln91vc6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/ChannelTwister.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c6bded83391733d219e6bc11e709619d923d268/Various/ChannelTwister.jsfx",
-        "sha256": "1zl2rd5wh6s803159xbp6mm0pfgk4ildv2dr6w0f66l23ln91vc6"
-      }
-    ]
-  },
   "Biquadicus.jsfx": {
     "latest": [
       {
@@ -233,81 +217,19 @@
       }
     ]
   },
-  "ClippySquish.jsfx": {
+  "ChannelTwister.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/ClippySquish.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/ClippySquish.jsfx",
-        "sha256": "07la8xvaabimcn76x2rj4pb71ic4lg90fmhbki3swla0z93giz6h"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/ChannelTwister.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c6bded83391733d219e6bc11e709619d923d268/Various/ChannelTwister.jsfx",
+        "sha256": "1zl2rd5wh6s803159xbp6mm0pfgk4ildv2dr6w0f66l23ln91vc6"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/ClippySquish.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/ClippySquish.jsfx",
-        "sha256": "07la8xvaabimcn76x2rj4pb71ic4lg90fmhbki3swla0z93giz6h"
-      }
-    ]
-  },
-  "CataclysmicClipper.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/CataclysmicClipper.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/690f09a383cff3e013c80649a1b0f079d8c1471e/Various/CataclysmicClipper.jsfx",
-        "sha256": "1f8vca6jc2yicvhb75mpj2aqhhz32lrm6m5fssv7jzgavcr9q7kz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/CataclysmicClipper.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/690f09a383cff3e013c80649a1b0f079d8c1471e/Various/CataclysmicClipper.jsfx",
-        "sha256": "1f8vca6jc2yicvhb75mpj2aqhhz32lrm6m5fssv7jzgavcr9q7kz"
-      }
-    ]
-  },
-  "Dolbify.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Dolbify.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/c312b07f1c40e24a007cca82ecf8962dce443115/Various/Dolbify.jsfx",
-        "sha256": "0jh3kg3qkp394lb0i0miv2ignmcxzknc2gp45hkxb9ajkl12g7i7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Dolbify.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/c312b07f1c40e24a007cca82ecf8962dce443115/Various/Dolbify.jsfx",
-        "sha256": "0jh3kg3qkp394lb0i0miv2ignmcxzknc2gp45hkxb9ajkl12g7i7"
-      }
-    ]
-  },
-  "Discordia.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/340cbc25a38e70f35b5d04fbd29be3a7480af770/Various/Discordia.jsfx",
-        "sha256": "1vr6g4shs7df3f06zzf0b73hh00kbs1s1ikw8h1vdanvf6cdb7xn"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/340cbc25a38e70f35b5d04fbd29be3a7480af770/Various/Discordia.jsfx",
-        "sha256": "1vr6g4shs7df3f06zzf0b73hh00kbs1s1ikw8h1vdanvf6cdb7xn"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Discordia.jsfx",
-        "sha256": "0l0jpq6gqkd84lyabjppyd0d6k23lp1wpfn7vwkdj90zbgvfl3sv"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Discordia.jsfx",
-        "sha256": "1a5wpbqjwjwmcbhz4dw35xqiljamxmnb5rl7ii8w84azlrcbv47w"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/ChannelTwister.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c6bded83391733d219e6bc11e709619d923d268/Various/ChannelTwister.jsfx",
+        "sha256": "1zl2rd5wh6s803159xbp6mm0pfgk4ildv2dr6w0f66l23ln91vc6"
       }
     ]
   },
@@ -341,6 +263,68 @@
       }
     ]
   },
+  "CataclysmicClipper.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/CataclysmicClipper.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/690f09a383cff3e013c80649a1b0f079d8c1471e/Various/CataclysmicClipper.jsfx",
+        "sha256": "1f8vca6jc2yicvhb75mpj2aqhhz32lrm6m5fssv7jzgavcr9q7kz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/CataclysmicClipper.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/690f09a383cff3e013c80649a1b0f079d8c1471e/Various/CataclysmicClipper.jsfx",
+        "sha256": "1f8vca6jc2yicvhb75mpj2aqhhz32lrm6m5fssv7jzgavcr9q7kz"
+      }
+    ]
+  },
+  "Discordia.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/340cbc25a38e70f35b5d04fbd29be3a7480af770/Various/Discordia.jsfx",
+        "sha256": "1vr6g4shs7df3f06zzf0b73hh00kbs1s1ikw8h1vdanvf6cdb7xn"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/340cbc25a38e70f35b5d04fbd29be3a7480af770/Various/Discordia.jsfx",
+        "sha256": "1vr6g4shs7df3f06zzf0b73hh00kbs1s1ikw8h1vdanvf6cdb7xn"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Discordia.jsfx",
+        "sha256": "0l0jpq6gqkd84lyabjppyd0d6k23lp1wpfn7vwkdj90zbgvfl3sv"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Discordia.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Discordia.jsfx",
+        "sha256": "1a5wpbqjwjwmcbhz4dw35xqiljamxmnb5rl7ii8w84azlrcbv47w"
+      }
+    ]
+  },
+  "ClippySquish.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/ClippySquish.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/ClippySquish.jsfx",
+        "sha256": "07la8xvaabimcn76x2rj4pb71ic4lg90fmhbki3swla0z93giz6h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/ClippySquish.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/ClippySquish.jsfx",
+        "sha256": "07la8xvaabimcn76x2rj4pb71ic4lg90fmhbki3swla0z93giz6h"
+      }
+    ]
+  },
   "CoralBones.jsfx": {
     "latest": [
       {
@@ -361,22 +345,6 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/CoralBones.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/CoralBones.jsfx",
         "sha256": "0iy2nc043vxamc6169gccd67wkb2cfkjbcifjz22y5hhrd04yzxf"
-      }
-    ]
-  },
-  "EdgeFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/EdgeFilter.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/94b1734edb0760ef670feec1eacedb365ed9b080/Various/EdgeFilter.jsfx",
-        "sha256": "0g0w004n9swas5d8psdqbgp7p1094fp5c347p6jqz3jlrz894g0a"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/EdgeFilter.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/94b1734edb0760ef670feec1eacedb365ed9b080/Various/EdgeFilter.jsfx",
-        "sha256": "0g0w004n9swas5d8psdqbgp7p1094fp5c347p6jqz3jlrz894g0a"
       }
     ]
   },
@@ -426,6 +394,38 @@
       }
     ]
   },
+  "Dolbify.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Dolbify.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/c312b07f1c40e24a007cca82ecf8962dce443115/Various/Dolbify.jsfx",
+        "sha256": "0jh3kg3qkp394lb0i0miv2ignmcxzknc2gp45hkxb9ajkl12g7i7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Dolbify.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/c312b07f1c40e24a007cca82ecf8962dce443115/Various/Dolbify.jsfx",
+        "sha256": "0jh3kg3qkp394lb0i0miv2ignmcxzknc2gp45hkxb9ajkl12g7i7"
+      }
+    ]
+  },
+  "EdgeFilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/EdgeFilter.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/94b1734edb0760ef670feec1eacedb365ed9b080/Various/EdgeFilter.jsfx",
+        "sha256": "0g0w004n9swas5d8psdqbgp7p1094fp5c347p6jqz3jlrz894g0a"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/EdgeFilter.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/94b1734edb0760ef670feec1eacedb365ed9b080/Various/EdgeFilter.jsfx",
+        "sha256": "0g0w004n9swas5d8psdqbgp7p1094fp5c347p6jqz3jlrz894g0a"
+      }
+    ]
+  },
   "Evolution.jsfx": {
     "latest": [
       {
@@ -439,6 +439,22 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/Evolution.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Evolution.jsfx",
         "sha256": "1xiad7qcavml1d9aif7vnas521q5dlb3kalj20p8krayhz88797n"
+      }
+    ]
+  },
+  "Enyo.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Enyo.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/10b2621ec3a03441b555f44ca65a4ea7c06959da/Various/Enyo.jsfx",
+        "sha256": "154j0d30ijn0pqn4hxsjcr0pz3g9nraapifw78w1sbhgj22chd3i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Enyo.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/10b2621ec3a03441b555f44ca65a4ea7c06959da/Various/Enyo.jsfx",
+        "sha256": "154j0d30ijn0pqn4hxsjcr0pz3g9nraapifw78w1sbhgj22chd3i"
       }
     ]
   },
@@ -465,67 +481,19 @@
       }
     ]
   },
-  "Enyo.jsfx": {
+  "FrostHype.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Enyo.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/10b2621ec3a03441b555f44ca65a4ea7c06959da/Various/Enyo.jsfx",
-        "sha256": "154j0d30ijn0pqn4hxsjcr0pz3g9nraapifw78w1sbhgj22chd3i"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/FrostHype.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/aec0822f6a0d1a8301d71bc52fccccd0547a882a/Various/FrostHype.jsfx",
+        "sha256": "1my2n2z1fxcnbk8hgnyzjmgxcjjq8bxhs89q122snfhfg6mssg7y"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Enyo.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/10b2621ec3a03441b555f44ca65a4ea7c06959da/Various/Enyo.jsfx",
-        "sha256": "154j0d30ijn0pqn4hxsjcr0pz3g9nraapifw78w1sbhgj22chd3i"
-      }
-    ]
-  },
-  "FILM.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/FILM.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/FILM.jsfx",
-        "sha256": "0ka5ddn260clfyd2z696ymas4kz7xibic6zxqnbk5f02ligj6d1n"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/FILM.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/FILM.jsfx",
-        "sha256": "0ka5ddn260clfyd2z696ymas4kz7xibic6zxqnbk5f02ligj6d1n"
-      }
-    ]
-  },
-  "flattop.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/flattop.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/flattop.jsfx",
-        "sha256": "13agfxq4nfrdfkybbbsgkdp2v228yfs1y17hrpdlrlc7p5fbjrv8"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/flattop.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/flattop.jsfx",
-        "sha256": "13agfxq4nfrdfkybbbsgkdp2v228yfs1y17hrpdlrlc7p5fbjrv8"
-      }
-    ]
-  },
-  "Flutternutter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Flutternutter.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Flutternutter.jsfx",
-        "sha256": "02dc0x33q2fb30k85ylpkg637yxf1gsfskr6w0jnk6v2k8xyf804"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Flutternutter.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Flutternutter.jsfx",
-        "sha256": "02dc0x33q2fb30k85ylpkg637yxf1gsfskr6w0jnk6v2k8xyf804"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/FrostHype.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/aec0822f6a0d1a8301d71bc52fccccd0547a882a/Various/FrostHype.jsfx",
+        "sha256": "1my2n2z1fxcnbk8hgnyzjmgxcjjq8bxhs89q122snfhfg6mssg7y"
       }
     ]
   },
@@ -559,19 +527,83 @@
       }
     ]
   },
-  "FrostHype.jsfx": {
+  "FILM.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/FrostHype.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/aec0822f6a0d1a8301d71bc52fccccd0547a882a/Various/FrostHype.jsfx",
-        "sha256": "1my2n2z1fxcnbk8hgnyzjmgxcjjq8bxhs89q122snfhfg6mssg7y"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/FILM.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/FILM.jsfx",
+        "sha256": "0ka5ddn260clfyd2z696ymas4kz7xibic6zxqnbk5f02ligj6d1n"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/FrostHype.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/aec0822f6a0d1a8301d71bc52fccccd0547a882a/Various/FrostHype.jsfx",
-        "sha256": "1my2n2z1fxcnbk8hgnyzjmgxcjjq8bxhs89q122snfhfg6mssg7y"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/FILM.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/FILM.jsfx",
+        "sha256": "0ka5ddn260clfyd2z696ymas4kz7xibic6zxqnbk5f02ligj6d1n"
+      }
+    ]
+  },
+  "Flutternutter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Flutternutter.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Flutternutter.jsfx",
+        "sha256": "02dc0x33q2fb30k85ylpkg637yxf1gsfskr6w0jnk6v2k8xyf804"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Flutternutter.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Flutternutter.jsfx",
+        "sha256": "02dc0x33q2fb30k85ylpkg637yxf1gsfskr6w0jnk6v2k8xyf804"
+      }
+    ]
+  },
+  "flattop.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/flattop.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/flattop.jsfx",
+        "sha256": "13agfxq4nfrdfkybbbsgkdp2v228yfs1y17hrpdlrlc7p5fbjrv8"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/flattop.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/flattop.jsfx",
+        "sha256": "13agfxq4nfrdfkybbbsgkdp2v228yfs1y17hrpdlrlc7p5fbjrv8"
+      }
+    ]
+  },
+  "GrooveLens2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/GrooveLens2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/fd0fb30f45fe30ba96c863c888dcd6dff1cd01c5/Various/GrooveLens2.jsfx",
+        "sha256": "1d9zzkmwl2vrx9z5kzq3y62805fk2fyb40fdi1ralhs7ii2855m0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/GrooveLens2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/fd0fb30f45fe30ba96c863c888dcd6dff1cd01c5/Various/GrooveLens2.jsfx",
+        "sha256": "1d9zzkmwl2vrx9z5kzq3y62805fk2fyb40fdi1ralhs7ii2855m0"
+      }
+    ]
+  },
+  "FlutterNutter2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/FlutterNutter2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/9073ed3b8dcb287ee00e51f0e464556d61daee0d/Various/FlutterNutter2.jsfx",
+        "sha256": "0ypzs5ka9lbxl5zfq9sbaq65qygddh5j5rhb0a3jwjw2w4mzr598"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/FlutterNutter2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/9073ed3b8dcb287ee00e51f0e464556d61daee0d/Various/FlutterNutter2.jsfx",
+        "sha256": "0ypzs5ka9lbxl5zfq9sbaq65qygddh5j5rhb0a3jwjw2w4mzr598"
       }
     ]
   },
@@ -598,51 +630,19 @@
       }
     ]
   },
-  "FlutterNutter2.jsfx": {
+  "Luminator.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/FlutterNutter2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/9073ed3b8dcb287ee00e51f0e464556d61daee0d/Various/FlutterNutter2.jsfx",
-        "sha256": "0ypzs5ka9lbxl5zfq9sbaq65qygddh5j5rhb0a3jwjw2w4mzr598"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Luminator.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/998fa9802e496c094f6f19584e3f591a702c2e67/Various/Luminator.jsfx",
+        "sha256": "1mfmiai8s6fqm6p9xbzgg2y0jzkfhjjq91p4rrc62aznh40slpvx"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/FlutterNutter2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/9073ed3b8dcb287ee00e51f0e464556d61daee0d/Various/FlutterNutter2.jsfx",
-        "sha256": "0ypzs5ka9lbxl5zfq9sbaq65qygddh5j5rhb0a3jwjw2w4mzr598"
-      }
-    ]
-  },
-  "GrooveLens2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/GrooveLens2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/fd0fb30f45fe30ba96c863c888dcd6dff1cd01c5/Various/GrooveLens2.jsfx",
-        "sha256": "1d9zzkmwl2vrx9z5kzq3y62805fk2fyb40fdi1ralhs7ii2855m0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/GrooveLens2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/fd0fb30f45fe30ba96c863c888dcd6dff1cd01c5/Various/GrooveLens2.jsfx",
-        "sha256": "1d9zzkmwl2vrx9z5kzq3y62805fk2fyb40fdi1ralhs7ii2855m0"
-      }
-    ]
-  },
-  "Hippity Hoppity.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Hippity Hoppity.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Hippity%20Hoppity.jsfx",
-        "sha256": "1p7nwsvcf0v7inracbmz6x964ikd9ybs9q2rwr3m7s1pkfpc4cli"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Hippity Hoppity.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Hippity%20Hoppity.jsfx",
-        "sha256": "1p7nwsvcf0v7inracbmz6x964ikd9ybs9q2rwr3m7s1pkfpc4cli"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Luminator.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/998fa9802e496c094f6f19584e3f591a702c2e67/Various/Luminator.jsfx",
+        "sha256": "1mfmiai8s6fqm6p9xbzgg2y0jzkfhjjq91p4rrc62aznh40slpvx"
       }
     ]
   },
@@ -662,51 +662,19 @@
       }
     ]
   },
-  "Luminator.jsfx": {
+  "Hippity Hoppity.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Luminator.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/998fa9802e496c094f6f19584e3f591a702c2e67/Various/Luminator.jsfx",
-        "sha256": "1mfmiai8s6fqm6p9xbzgg2y0jzkfhjjq91p4rrc62aznh40slpvx"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Hippity Hoppity.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Hippity%20Hoppity.jsfx",
+        "sha256": "1p7nwsvcf0v7inracbmz6x964ikd9ybs9q2rwr3m7s1pkfpc4cli"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Luminator.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/998fa9802e496c094f6f19584e3f591a702c2e67/Various/Luminator.jsfx",
-        "sha256": "1mfmiai8s6fqm6p9xbzgg2y0jzkfhjjq91p4rrc62aznh40slpvx"
-      }
-    ]
-  },
-  "LonelyCurve.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/LonelyCurve.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/92648d0e56e0a14fec34bfdde92b99e72feb534b/Various/LonelyCurve.jsfx",
-        "sha256": "00r561rwhsankhx2v8wqwylcw2r3yyv81l5qbcg61sif71gdrigb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/LonelyCurve.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/92648d0e56e0a14fec34bfdde92b99e72feb534b/Various/LonelyCurve.jsfx",
-        "sha256": "00r561rwhsankhx2v8wqwylcw2r3yyv81l5qbcg61sif71gdrigb"
-      }
-    ]
-  },
-  "MadHatter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/MadHatter.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MadHatter.jsfx",
-        "sha256": "0lsisji8y0m527r1cz8jdygw955snh95bda9d4fvksv9d829905h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/MadHatter.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MadHatter.jsfx",
-        "sha256": "0lsisji8y0m527r1cz8jdygw955snh95bda9d4fvksv9d829905h"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Hippity Hoppity.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Hippity%20Hoppity.jsfx",
+        "sha256": "1p7nwsvcf0v7inracbmz6x964ikd9ybs9q2rwr3m7s1pkfpc4cli"
       }
     ]
   },
@@ -726,26 +694,19 @@
       }
     ]
   },
-  "Magnetica.jsfx": {
+  "MadHatter.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetica.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f7becae3a6d17efde1f1f785d3c4eedddfe0df64/Various/Magnetica.jsfx",
-        "sha256": "1d0pq5r6zsxcr3cladzhjpyab2dzwyzjzrkr7rgcjhgsp5dx6x3v"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetica.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f7becae3a6d17efde1f1f785d3c4eedddfe0df64/Various/Magnetica.jsfx",
-        "sha256": "1d0pq5r6zsxcr3cladzhjpyab2dzwyzjzrkr7rgcjhgsp5dx6x3v"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/MadHatter.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MadHatter.jsfx",
+        "sha256": "0lsisji8y0m527r1cz8jdygw955snh95bda9d4fvksv9d829905h"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetica.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ab3a734ba5402185910c307f42b4b892da311a6f/Various/Magnetica.jsfx",
-        "sha256": "09sz7wsy35gpka01ffgn1xw7xd3sw2k3x43flnjwbrqgrjw4sm99"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/MadHatter.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MadHatter.jsfx",
+        "sha256": "0lsisji8y0m527r1cz8jdygw955snh95bda9d4fvksv9d829905h"
       }
     ]
   },
@@ -779,6 +740,45 @@
       }
     ]
   },
+  "LonelyCurve.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/LonelyCurve.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/92648d0e56e0a14fec34bfdde92b99e72feb534b/Various/LonelyCurve.jsfx",
+        "sha256": "00r561rwhsankhx2v8wqwylcw2r3yyv81l5qbcg61sif71gdrigb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/LonelyCurve.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/92648d0e56e0a14fec34bfdde92b99e72feb534b/Various/LonelyCurve.jsfx",
+        "sha256": "00r561rwhsankhx2v8wqwylcw2r3yyv81l5qbcg61sif71gdrigb"
+      }
+    ]
+  },
+  "Magnetica.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetica.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f7becae3a6d17efde1f1f785d3c4eedddfe0df64/Various/Magnetica.jsfx",
+        "sha256": "1d0pq5r6zsxcr3cladzhjpyab2dzwyzjzrkr7rgcjhgsp5dx6x3v"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetica.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f7becae3a6d17efde1f1f785d3c4eedddfe0df64/Various/Magnetica.jsfx",
+        "sha256": "1d0pq5r6zsxcr3cladzhjpyab2dzwyzjzrkr7rgcjhgsp5dx6x3v"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetica.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ab3a734ba5402185910c307f42b4b892da311a6f/Various/Magnetica.jsfx",
+        "sha256": "09sz7wsy35gpka01ffgn1xw7xd3sw2k3x43flnjwbrqgrjw4sm99"
+      }
+    ]
+  },
   "Magnetique.jsfx": {
     "latest": [
       {
@@ -799,6 +799,36 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/Magnetique.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Magnetique.jsfx",
         "sha256": "018nskinb75fyc4cx7i3kbd49is4lc9dkfaj4ihf3rrb8m37jrmr"
+      }
+    ]
+  },
+  "MuTube.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/MuTube.jsfx",
+        "sha256": "1kipzkm6i4s02ihkwgsjsz8pgycxf8vxa6b9hipgbxhaw0ni4p1r"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/MuTube.jsfx",
+        "sha256": "1kipzkm6i4s02ihkwgsjsz8pgycxf8vxa6b9hipgbxhaw0ni4p1r"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/MuTube.jsfx",
+        "sha256": "0jjjh65zzs1yi91qmp08pppgzk3v6hg7963si0hvbrldp0d51zby"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MuTube.jsfx",
+        "sha256": "0bd8dq17kx8cq9wpal6j6fjnma6m8mi2j0rxk6w27ni4bxb6mb2v"
       }
     ]
   },
@@ -841,6 +871,45 @@
       }
     ]
   },
+  "Oxide and Seek.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Oxide and Seek.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/8da0a0c50394fb92907a07733f8eb8fd47503236/Various/Oxide%20and%20Seek.jsfx",
+        "sha256": "02jfglxrgvkkrhgxy71f3dbhzm50qwizx6z96k5imqibl71ra9xf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Oxide and Seek.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/8da0a0c50394fb92907a07733f8eb8fd47503236/Various/Oxide%20and%20Seek.jsfx",
+        "sha256": "02jfglxrgvkkrhgxy71f3dbhzm50qwizx6z96k5imqibl71ra9xf"
+      }
+    ]
+  },
+  "Pascal.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Pascal.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Pascal.jsfx",
+        "sha256": "1488h89kl4mzc44c0a5iqigcypgim5x89iqncmzspisp2xknjlk8"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Pascal.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Pascal.jsfx",
+        "sha256": "1488h89kl4mzc44c0a5iqigcypgim5x89iqncmzspisp2xknjlk8"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Pascal.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Pascal.jsfx",
+        "sha256": "0aysvlapc2042zjawb64l51iqhfnc12w50y4biy9ddhld5qx5ivr"
+      }
+    ]
+  },
   "multisine.jsfx": {
     "latest": [
       {
@@ -854,36 +923,6 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/multisine.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/multisine.jsfx",
         "sha256": "1dkbjs11q2gh28ppdj3pb6dq9kq92wlidbcg7p9y158h7xdaal3v"
-      }
-    ]
-  },
-  "MuTube.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/MuTube.jsfx",
-        "sha256": "1kipzkm6i4s02ihkwgsjsz8pgycxf8vxa6b9hipgbxhaw0ni4p1r"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/MuTube.jsfx",
-        "sha256": "1kipzkm6i4s02ihkwgsjsz8pgycxf8vxa6b9hipgbxhaw0ni4p1r"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/MuTube.jsfx",
-        "sha256": "0jjjh65zzs1yi91qmp08pppgzk3v6hg7963si0hvbrldp0d51zby"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/MuTube.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MuTube.jsfx",
-        "sha256": "0bd8dq17kx8cq9wpal6j6fjnma6m8mi2j0rxk6w27ni4bxb6mb2v"
       }
     ]
   },
@@ -907,6 +946,22 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/Oxonia.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Oxonia.jsfx",
         "sha256": "05njka1351rqzng695nz1plfsdrvzshxckx99yk4r4hj9jacnymd"
+      }
+    ]
+  },
+  "NogginKnock.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/NogginKnock.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/975ce55d68496c33f7ae6d6c087dc908b205b9b0/Various/NogginKnock.jsfx",
+        "sha256": "0vvqhv9l7frx8vsk8p9givic4h4fn2v90sp67qlxizsgda0ryavx"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/NogginKnock.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/975ce55d68496c33f7ae6d6c087dc908b205b9b0/Various/NogginKnock.jsfx",
+        "sha256": "0vvqhv9l7frx8vsk8p9givic4h4fn2v90sp67qlxizsgda0ryavx"
       }
     ]
   },
@@ -956,93 +1011,6 @@
       }
     ]
   },
-  "Pascal.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Pascal.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Pascal.jsfx",
-        "sha256": "1488h89kl4mzc44c0a5iqigcypgim5x89iqncmzspisp2xknjlk8"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Pascal.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Pascal.jsfx",
-        "sha256": "1488h89kl4mzc44c0a5iqigcypgim5x89iqncmzspisp2xknjlk8"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Pascal.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Pascal.jsfx",
-        "sha256": "0aysvlapc2042zjawb64l51iqhfnc12w50y4biy9ddhld5qx5ivr"
-      }
-    ]
-  },
-  "NogginKnock.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/NogginKnock.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/975ce55d68496c33f7ae6d6c087dc908b205b9b0/Various/NogginKnock.jsfx",
-        "sha256": "0vvqhv9l7frx8vsk8p9givic4h4fn2v90sp67qlxizsgda0ryavx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/NogginKnock.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/975ce55d68496c33f7ae6d6c087dc908b205b9b0/Various/NogginKnock.jsfx",
-        "sha256": "0vvqhv9l7frx8vsk8p9givic4h4fn2v90sp67qlxizsgda0ryavx"
-      }
-    ]
-  },
-  "Oxide and Seek.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Oxide and Seek.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/8da0a0c50394fb92907a07733f8eb8fd47503236/Various/Oxide%20and%20Seek.jsfx",
-        "sha256": "02jfglxrgvkkrhgxy71f3dbhzm50qwizx6z96k5imqibl71ra9xf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Oxide and Seek.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/8da0a0c50394fb92907a07733f8eb8fd47503236/Various/Oxide%20and%20Seek.jsfx",
-        "sha256": "02jfglxrgvkkrhgxy71f3dbhzm50qwizx6z96k5imqibl71ra9xf"
-      }
-    ]
-  },
-  "Possessed.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Possessed.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/5eb4d0203aa7005d62b72a28499ee98f9723550a/Various/Possessed.jsfx",
-        "sha256": "0gpn1faiglg81rgaq35srmlw8h6cf5mv8cjrh3kapq11q467pzlg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Possessed.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/5eb4d0203aa7005d62b72a28499ee98f9723550a/Various/Possessed.jsfx",
-        "sha256": "0gpn1faiglg81rgaq35srmlw8h6cf5mv8cjrh3kapq11q467pzlg"
-      }
-    ]
-  },
-  "PrimalOvertones.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/PrimalOvertones.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f964690cc7c62d408d9b818b5e6fd556b1877ad8/Various/PrimalOvertones.jsfx",
-        "sha256": "1qwsv11ridqj0byys3bwq8azvzvmdmmw984ih69jf4hr9fr1li0v"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/PrimalOvertones.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f964690cc7c62d408d9b818b5e6fd556b1877ad8/Various/PrimalOvertones.jsfx",
-        "sha256": "1qwsv11ridqj0byys3bwq8azvzvmdmmw984ih69jf4hr9fr1li0v"
-      }
-    ]
-  },
   "QuantumGain.jsfx": {
     "latest": [
       {
@@ -1075,6 +1043,22 @@
       }
     ]
   },
+  "Possessed.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Possessed.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/5eb4d0203aa7005d62b72a28499ee98f9723550a/Various/Possessed.jsfx",
+        "sha256": "0gpn1faiglg81rgaq35srmlw8h6cf5mv8cjrh3kapq11q467pzlg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Possessed.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/5eb4d0203aa7005d62b72a28499ee98f9723550a/Various/Possessed.jsfx",
+        "sha256": "0gpn1faiglg81rgaq35srmlw8h6cf5mv8cjrh3kapq11q467pzlg"
+      }
+    ]
+  },
   "ReelDeel.jsfx": {
     "latest": [
       {
@@ -1098,6 +1082,38 @@
       }
     ]
   },
+  "PrimalOvertones.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/PrimalOvertones.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f964690cc7c62d408d9b818b5e6fd556b1877ad8/Various/PrimalOvertones.jsfx",
+        "sha256": "1qwsv11ridqj0byys3bwq8azvzvmdmmw984ih69jf4hr9fr1li0v"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/PrimalOvertones.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/f964690cc7c62d408d9b818b5e6fd556b1877ad8/Various/PrimalOvertones.jsfx",
+        "sha256": "1qwsv11ridqj0byys3bwq8azvzvmdmmw984ih69jf4hr9fr1li0v"
+      }
+    ]
+  },
+  "SAW3.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SAW3.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/4048a53238c01bee75fdeb0cf6b674b9a3737eb9/Various/SAW3.jsfx",
+        "sha256": "1hi762wkf6s8f31bjx05d4xqcd9r4siyjwwdrhqp9s0dmm9dmybp"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SAW3.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/4048a53238c01bee75fdeb0cf6b674b9a3737eb9/Various/SAW3.jsfx",
+        "sha256": "1hi762wkf6s8f31bjx05d4xqcd9r4siyjwwdrhqp9s0dmm9dmybp"
+      }
+    ]
+  },
   "Reelty.jsfx": {
     "latest": [
       {
@@ -1114,42 +1130,19 @@
       }
     ]
   },
-  "Saccharine.jsfx": {
+  "QuantumPan.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Saccharine.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ded5deee6a7f00bfd83bfccf619706f874d3503c/Various/Saccharine.jsfx",
-        "sha256": "0myh7zckh7bfvdlwn92dylrfbik0clg7iimfqmynmk1hrzaql6pn"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/QuantumPan.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/43742e4c1c501d1329e0fead54367f247e805d18/Various/QuantumPan.jsfx",
+        "sha256": "0f2m84gvh7fp1fn8z3rl73x6c5d1ir29accp7cswdr67a4bpj3mh"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Saccharine.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ded5deee6a7f00bfd83bfccf619706f874d3503c/Various/Saccharine.jsfx",
-        "sha256": "0myh7zckh7bfvdlwn92dylrfbik0clg7iimfqmynmk1hrzaql6pn"
-      }
-    ]
-  },
-  "SeriouslyAmazingWidener2.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/SeriouslyAmazingWidener2.jsfx",
-        "sha256": "0p4sxlfhbg204zck5ancbvlh5wnmmcx4r2fc390kl3i16dzz34g9"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/SeriouslyAmazingWidener2.jsfx",
-        "sha256": "0p4sxlfhbg204zck5ancbvlh5wnmmcx4r2fc390kl3i16dzz34g9"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/SeriouslyAmazingWidener2.jsfx",
-        "sha256": "0fmnc9q5d72ww83l8wc12infv6qndnmp7pqngxswffbn6x8lxj37"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/QuantumPan.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/43742e4c1c501d1329e0fead54367f247e805d18/Various/QuantumPan.jsfx",
+        "sha256": "0f2m84gvh7fp1fn8z3rl73x6c5d1ir29accp7cswdr67a4bpj3mh"
       }
     ]
   },
@@ -1166,6 +1159,22 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/SeriouslyAmazingWidener.jsfx",
         "sha256": "07dim2wx2d3bf2qn3550v6wa8a5i14cmm35inzawghiknd45w3l3"
+      }
+    ]
+  },
+  "Saccharine.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Saccharine.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ded5deee6a7f00bfd83bfccf619706f874d3503c/Various/Saccharine.jsfx",
+        "sha256": "0myh7zckh7bfvdlwn92dylrfbik0clg7iimfqmynmk1hrzaql6pn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Saccharine.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ded5deee6a7f00bfd83bfccf619706f874d3503c/Various/Saccharine.jsfx",
+        "sha256": "0myh7zckh7bfvdlwn92dylrfbik0clg7iimfqmynmk1hrzaql6pn"
       }
     ]
   },
@@ -1222,19 +1231,58 @@
       }
     ]
   },
-  "SAW3.jsfx": {
+  "Snippity.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SAW3.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/4048a53238c01bee75fdeb0cf6b674b9a3737eb9/Various/SAW3.jsfx",
-        "sha256": "1hi762wkf6s8f31bjx05d4xqcd9r4siyjwwdrhqp9s0dmm9dmybp"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Snippity.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Snippity.jsfx",
+        "sha256": "1jm69g5vxniql6nwqr3g73wakxv1db1apzfd7wrp7lwyp564d5c9"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SAW3.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/4048a53238c01bee75fdeb0cf6b674b9a3737eb9/Various/SAW3.jsfx",
-        "sha256": "1hi762wkf6s8f31bjx05d4xqcd9r4siyjwwdrhqp9s0dmm9dmybp"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Snippity.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Snippity.jsfx",
+        "sha256": "1jm69g5vxniql6nwqr3g73wakxv1db1apzfd7wrp7lwyp564d5c9"
+      }
+    ]
+  },
+  "SeriouslyAmazingWidener2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/SeriouslyAmazingWidener2.jsfx",
+        "sha256": "0p4sxlfhbg204zck5ancbvlh5wnmmcx4r2fc390kl3i16dzz34g9"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/SeriouslyAmazingWidener2.jsfx",
+        "sha256": "0p4sxlfhbg204zck5ancbvlh5wnmmcx4r2fc390kl3i16dzz34g9"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SeriouslyAmazingWidener2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/SeriouslyAmazingWidener2.jsfx",
+        "sha256": "0fmnc9q5d72ww83l8wc12infv6qndnmp7pqngxswffbn6x8lxj37"
+      }
+    ]
+  },
+  "SineGlow.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SineGlow.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/827025ff06877804e696c26a8d8426931912b402/Various/SineGlow.jsfx",
+        "sha256": "0gdd66447baclismzbl6j9pk0589qvx3rbhdc6nk73ni7h1l94jq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/SineGlow.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/827025ff06877804e696c26a8d8426931912b402/Various/SineGlow.jsfx",
+        "sha256": "0gdd66447baclismzbl6j9pk0589qvx3rbhdc6nk73ni7h1l94jq"
       }
     ]
   },
@@ -1261,54 +1309,6 @@
       }
     ]
   },
-  "Snippity.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Snippity.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Snippity.jsfx",
-        "sha256": "1jm69g5vxniql6nwqr3g73wakxv1db1apzfd7wrp7lwyp564d5c9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Snippity.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Snippity.jsfx",
-        "sha256": "1jm69g5vxniql6nwqr3g73wakxv1db1apzfd7wrp7lwyp564d5c9"
-      }
-    ]
-  },
-  "SineGlow.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SineGlow.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/827025ff06877804e696c26a8d8426931912b402/Various/SineGlow.jsfx",
-        "sha256": "0gdd66447baclismzbl6j9pk0589qvx3rbhdc6nk73ni7h1l94jq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/SineGlow.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/827025ff06877804e696c26a8d8426931912b402/Various/SineGlow.jsfx",
-        "sha256": "0gdd66447baclismzbl6j9pk0589qvx3rbhdc6nk73ni7h1l94jq"
-      }
-    ]
-  },
-  "QuantumPan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/QuantumPan.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/43742e4c1c501d1329e0fead54367f247e805d18/Various/QuantumPan.jsfx",
-        "sha256": "0f2m84gvh7fp1fn8z3rl73x6c5d1ir29accp7cswdr67a4bpj3mh"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/QuantumPan.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/43742e4c1c501d1329e0fead54367f247e805d18/Various/QuantumPan.jsfx",
-        "sha256": "0f2m84gvh7fp1fn8z3rl73x6c5d1ir29accp7cswdr67a4bpj3mh"
-      }
-    ]
-  },
   "StudioSphere.jsfx": {
     "latest": [
       {
@@ -1325,6 +1325,22 @@
       }
     ]
   },
+  "Stratos.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Stratos.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/85f1129983ef8ba8353ad6408bd2a77334241def/Various/Stratos.jsfx",
+        "sha256": "19w53461cp29a32yhk8bncsdvvs5zw4s6ywsysani2qfscr7061m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Stratos.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/85f1129983ef8ba8353ad6408bd2a77334241def/Various/Stratos.jsfx",
+        "sha256": "19w53461cp29a32yhk8bncsdvvs5zw4s6ywsysani2qfscr7061m"
+      }
+    ]
+  },
   "Squishmallow.jsfx": {
     "latest": [
       {
@@ -1338,6 +1354,22 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/Squishmallow.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0165e9fab17bab79e61f114a5392cf83cb2d8c32/Various/Squishmallow.jsfx",
         "sha256": "1ycghnjdsaiw5asgjgj3xvppaldv1m1sb8i61qppic3sn5rmdbmi"
+      }
+    ]
+  },
+  "TOED.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/TOED.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/bc2a0d756858f03479dfefa4e5248075f1471521/Various/TOED.jsfx",
+        "sha256": "0z4qiqz64f0qg0d3nqzibhl4vz0jlp7wnwc8fykfj2pxxc2d79yk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/TOED.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/bc2a0d756858f03479dfefa4e5248075f1471521/Various/TOED.jsfx",
+        "sha256": "0z4qiqz64f0qg0d3nqzibhl4vz0jlp7wnwc8fykfj2pxxc2d79yk"
       }
     ]
   },
@@ -1364,70 +1396,6 @@
       }
     ]
   },
-  "Stratos.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Stratos.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/85f1129983ef8ba8353ad6408bd2a77334241def/Various/Stratos.jsfx",
-        "sha256": "19w53461cp29a32yhk8bncsdvvs5zw4s6ywsysani2qfscr7061m"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Stratos.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/85f1129983ef8ba8353ad6408bd2a77334241def/Various/Stratos.jsfx",
-        "sha256": "19w53461cp29a32yhk8bncsdvvs5zw4s6ywsysani2qfscr7061m"
-      }
-    ]
-  },
-  "TOED.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/TOED.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/bc2a0d756858f03479dfefa4e5248075f1471521/Various/TOED.jsfx",
-        "sha256": "0z4qiqz64f0qg0d3nqzibhl4vz0jlp7wnwc8fykfj2pxxc2d79yk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/TOED.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/bc2a0d756858f03479dfefa4e5248075f1471521/Various/TOED.jsfx",
-        "sha256": "0z4qiqz64f0qg0d3nqzibhl4vz0jlp7wnwc8fykfj2pxxc2d79yk"
-      }
-    ]
-  },
-  "Walkety.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Walkety.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Walkety.jsfx",
-        "sha256": "11g5b2rkrsw4vfh860kj4il9hwp9wmd2pl54pva2naffs0d97jxi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Walkety.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Walkety.jsfx",
-        "sha256": "11g5b2rkrsw4vfh860kj4il9hwp9wmd2pl54pva2naffs0d97jxi"
-      }
-    ]
-  },
-  "VelvetEQ.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/VelvetEQ.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ea06a6b755085c10ffaf12401c6d272f5a47e325/Various/VelvetEQ.jsfx",
-        "sha256": "14vp6jy3jw7cfp0kjxvn7ry8j8w7v0dxi0dd5h4asp6vh1nhq6g7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/VelvetEQ.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ea06a6b755085c10ffaf12401c6d272f5a47e325/Various/VelvetEQ.jsfx",
-        "sha256": "14vp6jy3jw7cfp0kjxvn7ry8j8w7v0dxi0dd5h4asp6vh1nhq6g7"
-      }
-    ]
-  },
   "Typhon.jsfx": {
     "latest": [
       {
@@ -1444,22 +1412,6 @@
       }
     ]
   },
-  "Valvity.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Valvity.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Valvity.jsfx",
-        "sha256": "08v977v3l73zbvihsi9bmpx1gn9hid0mhh1q1daq8lys291ip9nd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Various/Valvity.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Valvity.jsfx",
-        "sha256": "08v977v3l73zbvihsi9bmpx1gn9hid0mhh1q1daq8lys291ip9nd"
-      }
-    ]
-  },
   "TripleCurve.jsfx": {
     "latest": [
       {
@@ -1473,6 +1425,22 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Various/TripleCurve.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/5ead5267bc639893264f061004f6d3260af6e8f1/Various/TripleCurve.jsfx",
         "sha256": "0z6yqdnzf6rw6k30ganhiy55lrns6afrab5x6w66q7lyxxssbf8h"
+      }
+    ]
+  },
+  "Valvity.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Valvity.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Valvity.jsfx",
+        "sha256": "08v977v3l73zbvihsi9bmpx1gn9hid0mhh1q1daq8lys291ip9nd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Valvity.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Valvity.jsfx",
+        "sha256": "08v977v3l73zbvihsi9bmpx1gn9hid0mhh1q1daq8lys291ip9nd"
       }
     ]
   },
@@ -1499,45 +1467,51 @@
       }
     ]
   },
-  "Em-See-Eye_Console.jsfx": {
+  "VelvetEQ.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Bus.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Bus.jsfx",
-        "sha256": "10l4fy0fpf44vm1dhv032c2kv9nq56ilica777bp5n5yiypvlsdq"
-      },
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Channel.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Channel.jsfx",
-        "sha256": "0srk8fx1gli659mpsmasyhvfy1g7jzzjk090mb0bbn8fjnslwh1k"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/VelvetEQ.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ea06a6b755085c10ffaf12401c6d272f5a47e325/Various/VelvetEQ.jsfx",
+        "sha256": "14vp6jy3jw7cfp0kjxvn7ry8j8w7v0dxi0dd5h4asp6vh1nhq6g7"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Bus.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Bus.jsfx",
-        "sha256": "10l4fy0fpf44vm1dhv032c2kv9nq56ilica777bp5n5yiypvlsdq"
-      },
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Channel.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Channel.jsfx",
-        "sha256": "0srk8fx1gli659mpsmasyhvfy1g7jzzjk090mb0bbn8fjnslwh1k"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/VelvetEQ.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/ea06a6b755085c10ffaf12401c6d272f5a47e325/Various/VelvetEQ.jsfx",
+        "sha256": "14vp6jy3jw7cfp0kjxvn7ry8j8w7v0dxi0dd5h4asp6vh1nhq6g7"
       }
     ]
   },
-  "desk-a-docious.jsfx": {
+  "Walkety.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/desk-a-docious.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/desk-a-docious.jsfx",
-        "sha256": "0kwmggkk2bp4jbsynnczbf49mdgaxn8900xm5ck4gxyi25hx557v"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Walkety.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Walkety.jsfx",
+        "sha256": "11g5b2rkrsw4vfh860kj4il9hwp9wmd2pl54pva2naffs0d97jxi"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/desk-a-docious.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/desk-a-docious.jsfx",
-        "sha256": "0kwmggkk2bp4jbsynnczbf49mdgaxn8900xm5ck4gxyi25hx557v"
+        "path": "Effects/chmaha airwindows JSFX Ports/Various/Walkety.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Walkety.jsfx",
+        "sha256": "11g5b2rkrsw4vfh860kj4il9hwp9wmd2pl54pva2naffs0d97jxi"
+      }
+    ]
+  },
+  "Analog-a-licious.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Analog-a-licious.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Analog-a-licious.jsfx",
+        "sha256": "00fffd4pzy2wjayjfcdqdmaj4kzy5x28lklwh8im9c9ncqn9ki6h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Analog-a-licious.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Analog-a-licious.jsfx",
+        "sha256": "00fffd4pzy2wjayjfcdqdmaj4kzy5x28lklwh8im9c9ncqn9ki6h"
       }
     ]
   },
@@ -1769,6 +1743,71 @@
       }
     ]
   },
+  "Em-See-Eye_Console.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Bus.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Bus.jsfx",
+        "sha256": "10l4fy0fpf44vm1dhv032c2kv9nq56ilica777bp5n5yiypvlsdq"
+      },
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Channel.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Channel.jsfx",
+        "sha256": "0srk8fx1gli659mpsmasyhvfy1g7jzzjk090mb0bbn8fjnslwh1k"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Bus.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Bus.jsfx",
+        "sha256": "10l4fy0fpf44vm1dhv032c2kv9nq56ilica777bp5n5yiypvlsdq"
+      },
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Em-See-Eye_Channel.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Channel.jsfx",
+        "sha256": "0srk8fx1gli659mpsmasyhvfy1g7jzzjk090mb0bbn8fjnslwh1k"
+      }
+    ]
+  },
+  "desk-a-docious.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/desk-a-docious.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/desk-a-docious.jsfx",
+        "sha256": "0kwmggkk2bp4jbsynnczbf49mdgaxn8900xm5ck4gxyi25hx557v"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/desk-a-docious.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/desk-a-docious.jsfx",
+        "sha256": "0kwmggkk2bp4jbsynnczbf49mdgaxn8900xm5ck4gxyi25hx557v"
+      }
+    ]
+  },
+  "Elsa.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Elsa.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Elsa.jsfx",
+        "sha256": "1hjriq4nzkwq6zn56lickzls58pzcdq2krn8jk0qqmiwwpsagnb5"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Elsa.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Elsa.jsfx",
+        "sha256": "1hjriq4nzkwq6zn56lickzls58pzcdq2krn8jk0qqmiwwpsagnb5"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Elsa.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Elsa.jsfx",
+        "sha256": "0n191w2sq647cr21riqawbrhxl6vphgdj6whkdxp2sn9ivfyz52f"
+      }
+    ]
+  },
   "CoraMeta.jsfx": {
     "latest": [
       {
@@ -1801,45 +1840,6 @@
       }
     ]
   },
-  "Elsa.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Elsa.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Elsa.jsfx",
-        "sha256": "1hjriq4nzkwq6zn56lickzls58pzcdq2krn8jk0qqmiwwpsagnb5"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Elsa.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Elsa.jsfx",
-        "sha256": "1hjriq4nzkwq6zn56lickzls58pzcdq2krn8jk0qqmiwwpsagnb5"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Elsa.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Elsa.jsfx",
-        "sha256": "0n191w2sq647cr21riqawbrhxl6vphgdj6whkdxp2sn9ivfyz52f"
-      }
-    ]
-  },
-  "Analog-a-licious.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Analog-a-licious.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Analog-a-licious.jsfx",
-        "sha256": "00fffd4pzy2wjayjfcdqdmaj4kzy5x28lklwh8im9c9ncqn9ki6h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Analog-a-licious.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Analog-a-licious.jsfx",
-        "sha256": "00fffd4pzy2wjayjfcdqdmaj4kzy5x28lklwh8im9c9ncqn9ki6h"
-      }
-    ]
-  },
   "MagicFairyDust.jsfx": {
     "latest": [
       {
@@ -1860,32 +1860,6 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Consoles/MagicFairyDust.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/MagicFairyDust.jsfx",
         "sha256": "0q8kimaph5wd0xnchr7wwbcah2zr6jvnwn572pdnmhaxxwbb2b97"
-      }
-    ]
-  },
-  "Octo4_Console.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Bus.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Bus.jsfx",
-        "sha256": "0y2wjnq2x7518mdvjbj4dbmaivjjqi5azxg4vhxcphqc68akqc7p"
-      },
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Channel.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Channel.jsfx",
-        "sha256": "19hyvf3gi3n251jp771z4n0cwmb4cnjg9ns8kn2j8sjirjirvcc9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Bus.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Bus.jsfx",
-        "sha256": "0y2wjnq2x7518mdvjbj4dbmaivjjqi5azxg4vhxcphqc68akqc7p"
-      },
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Channel.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Channel.jsfx",
-        "sha256": "19hyvf3gi3n251jp771z4n0cwmb4cnjg9ns8kn2j8sjirjirvcc9"
       }
     ]
   },
@@ -1912,6 +1886,22 @@
         "path": "Effects/chmaha airwindows JSFX Ports/Consoles/HorizonChannel.jsfx",
         "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/7e3dfc32ed3b066f3567fc537047fc49a479ff06/Consoles/HorizonChannel.jsfx",
         "sha256": "14a16rsfq6fx459z9sm2mzbfn14jf4n1w5sz90zhhsmgpycrrihg"
+      }
+    ]
+  },
+  "MagicFairyDust2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/MagicFairyDust2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/36aa03be04709e89813896732b3c5a3242c0affb/Consoles/MagicFairyDust2.jsfx",
+        "sha256": "09d5dfz5fghnm98snknvzn3v9xmbmdcrr8j4irkw1l7z07pr8iiz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/MagicFairyDust2.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/36aa03be04709e89813896732b3c5a3242c0affb/Consoles/MagicFairyDust2.jsfx",
+        "sha256": "09d5dfz5fghnm98snknvzn3v9xmbmdcrr8j4irkw1l7z07pr8iiz"
       }
     ]
   },
@@ -2149,19 +2139,29 @@
       }
     ]
   },
-  "MagicFairyDust2.jsfx": {
+  "Octo4_Console.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/MagicFairyDust2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/36aa03be04709e89813896732b3c5a3242c0affb/Consoles/MagicFairyDust2.jsfx",
-        "sha256": "09d5dfz5fghnm98snknvzn3v9xmbmdcrr8j4irkw1l7z07pr8iiz"
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Bus.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Bus.jsfx",
+        "sha256": "0y2wjnq2x7518mdvjbj4dbmaivjjqi5azxg4vhxcphqc68akqc7p"
+      },
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Channel.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Channel.jsfx",
+        "sha256": "19hyvf3gi3n251jp771z4n0cwmb4cnjg9ns8kn2j8sjirjirvcc9"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/MagicFairyDust2.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/36aa03be04709e89813896732b3c5a3242c0affb/Consoles/MagicFairyDust2.jsfx",
-        "sha256": "09d5dfz5fghnm98snknvzn3v9xmbmdcrr8j4irkw1l7z07pr8iiz"
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Bus.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Bus.jsfx",
+        "sha256": "0y2wjnq2x7518mdvjbj4dbmaivjjqi5azxg4vhxcphqc68akqc7p"
+      },
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Consoles/Octo4Channel.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Channel.jsfx",
+        "sha256": "19hyvf3gi3n251jp771z4n0cwmb4cnjg9ns8kn2j8sjirjirvcc9"
       }
     ]
   },
@@ -2290,228 +2290,6 @@
       }
     ]
   },
-  "EssenzaDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/EssenzaDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/EssenzaDither.jsfx",
-        "sha256": "1ph0iir0l8z53v276k9ag3mrgyvhgyp1894ziiba0sy7d7gcfr98"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/EssenzaDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/EssenzaDither.jsfx",
-        "sha256": "1ph0iir0l8z53v276k9ag3mrgyvhgyp1894ziiba0sy7d7gcfr98"
-      }
-    ]
-  },
-  "Nintenda.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Nintenda.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Nintenda.jsfx",
-        "sha256": "1jy8r8lyzr7q6g6xh7dv1764x1parmrgfvx98kh3n86y1kcsj0sh"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Nintenda.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Nintenda.jsfx",
-        "sha256": "1jy8r8lyzr7q6g6xh7dv1764x1parmrgfvx98kh3n86y1kcsj0sh"
-      }
-    ]
-  },
-  "GroovyDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/GroovyDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Dithers/GroovyDither.jsfx",
-        "sha256": "15fnfgapw0phvc3xzixj9m78hqn5ldkj61clpzzwa4hgzr28xm5k"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/GroovyDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Dithers/GroovyDither.jsfx",
-        "sha256": "15fnfgapw0phvc3xzixj9m78hqn5ldkj61clpzzwa4hgzr28xm5k"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/GroovyDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/GroovyDither.jsfx",
-        "sha256": "0py8w0izcq52vg85m52nvkd58nza97ggbjh47zflwrfxl3z9pjms"
-      }
-    ]
-  },
-  "six-dither_sid.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/six-dither_sid.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/six-dither_sid.jsfx",
-        "sha256": "01rgqnz4hi8nf78z3bmc6q4zyh1zry9nccb0vh5ckw19ldn17bfl"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/six-dither_sid.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/six-dither_sid.jsfx",
-        "sha256": "01rgqnz4hi8nf78z3bmc6q4zyh1zry9nccb0vh5ckw19ldn17bfl"
-      }
-    ]
-  },
-  "LucidityDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/LucidityDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/d95b6f50ee393de142c7a44e53f3b7fbc9c1e305/Dithers/LucidityDither.jsfx",
-        "sha256": "1falib8qczzsmp5p9lkf2zndbfaj07szkgvq05vxyg8zvyc5c7b8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/LucidityDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/d95b6f50ee393de142c7a44e53f3b7fbc9c1e305/Dithers/LucidityDither.jsfx",
-        "sha256": "1falib8qczzsmp5p9lkf2zndbfaj07szkgvq05vxyg8zvyc5c7b8"
-      }
-    ]
-  },
-  "ReelDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ReelDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/ReelDither.jsfx",
-        "sha256": "0d64rylc9gs9myg96j5v3ha2j9icnhagaz3rs0xhpzkdxc4yan37"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ReelDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/ReelDither.jsfx",
-        "sha256": "0d64rylc9gs9myg96j5v3ha2j9icnhagaz3rs0xhpzkdxc4yan37"
-      }
-    ]
-  },
-  "PirateDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/PirateDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/PirateDither.jsfx",
-        "sha256": "192aq493i1hg1gf471ghqigmgdzy00rhbiqlmp2n2xkfc6d34bgr"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/PirateDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/PirateDither.jsfx",
-        "sha256": "192aq493i1hg1gf471ghqigmgdzy00rhbiqlmp2n2xkfc6d34bgr"
-      }
-    ]
-  },
-  "ScottyDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ScottyDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1fd97589a7839f3f7de2367c7d68f151c263568a/Dithers/ScottyDither.jsfx",
-        "sha256": "0sl8nxr0njppkda47d8mbj1vyppavkjbzlpacgji7syj3zml4jcn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ScottyDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1fd97589a7839f3f7de2367c7d68f151c263568a/Dithers/ScottyDither.jsfx",
-        "sha256": "0sl8nxr0njppkda47d8mbj1vyppavkjbzlpacgji7syj3zml4jcn"
-      }
-    ]
-  },
-  "Twilight.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Twilight.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Twilight.jsfx",
-        "sha256": "0w3xqmwkwj0rvb8va8v2kp27awmlh63n87k8d2skg7srm2djnibz"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Twilight.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Twilight.jsfx",
-        "sha256": "0w3xqmwkwj0rvb8va8v2kp27awmlh63n87k8d2skg7srm2djnibz"
-      }
-    ]
-  },
-  "WTFDither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/WTFDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/WTFDither.jsfx",
-        "sha256": "038jly9lqwpm0ma1yziwgshz81b3s70p6ll8rm4q5bnmjq3r8lm5"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/WTFDither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/WTFDither.jsfx",
-        "sha256": "038jly9lqwpm0ma1yziwgshz81b3s70p6ll8rm4q5bnmjq3r8lm5"
-      }
-    ]
-  },
-  "Xonnos Dither.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Xonnos Dither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Xonnos%20Dither.jsfx",
-        "sha256": "0k3z49i20nj6zv72gy3rahr35k2wn4dqj4wa1bda4avkgq9aq4xm"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Xonnos Dither.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Xonnos%20Dither.jsfx",
-        "sha256": "0k3z49i20nj6zv72gy3rahr35k2wn4dqj4wa1bda4avkgq9aq4xm"
-      }
-    ]
-  },
-  "Stan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Stan.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Stan.jsfx",
-        "sha256": "1x536xz6jpsmsbjqx3ilv84s82wqraxjbyrd9m5q6hjspvssg7rw"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Stan.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Stan.jsfx",
-        "sha256": "1x536xz6jpsmsbjqx3ilv84s82wqraxjbyrd9m5q6hjspvssg7rw"
-      }
-    ]
-  },
-  "Interstellar.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/Interstellar.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Reverbs/Interstellar.jsfx",
-        "sha256": "193cav5aknby9cznvfzw24jykkfhzc5dcmphjry2lp53fxjkgsid"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/Interstellar.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Reverbs/Interstellar.jsfx",
-        "sha256": "193cav5aknby9cznvfzw24jykkfhzc5dcmphjry2lp53fxjkgsid"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/Interstellar.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/Interstellar.jsfx",
-        "sha256": "1hwnlanwf1lr2jr5jqjhzc2mxkn6341ms5fz3lh5cji9dpn8qx9r"
-      }
-    ]
-  },
   "Bricastic.jsfx": {
     "latest": [
       {
@@ -2574,35 +2352,42 @@
       }
     ]
   },
-  "NW8BPlateReverb.jsfx": {
+  "Interstellar.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8BPlateReverb.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/NW8BPlateReverb.jsfx",
-        "sha256": "1wl2pp06s8pnjpsifh9n9d7d7d1lz9r0ix99bmcmhbw0w97p93mv"
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/Interstellar.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Reverbs/Interstellar.jsfx",
+        "sha256": "193cav5aknby9cznvfzw24jykkfhzc5dcmphjry2lp53fxjkgsid"
       }
     ],
-    "1.0": [
+    "1.3": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8BPlateReverb.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/NW8BPlateReverb.jsfx",
-        "sha256": "1wl2pp06s8pnjpsifh9n9d7d7d1lz9r0ix99bmcmhbw0w97p93mv"
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/Interstellar.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Reverbs/Interstellar.jsfx",
+        "sha256": "193cav5aknby9cznvfzw24jykkfhzc5dcmphjry2lp53fxjkgsid"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/Interstellar.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/Interstellar.jsfx",
+        "sha256": "1hwnlanwf1lr2jr5jqjhzc2mxkn6341ms5fz3lh5cji9dpn8qx9r"
       }
     ]
   },
-  "NW8DPlateReverb.jsfx": {
+  "NW8CPlateReverb.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8DPlateReverb.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/a13769ec0935310d69b7a9e97dec86d0f5b197f5/Reverbs/NW8DPlateReverb.jsfx",
-        "sha256": "174891bpg63bkhdmzspgspp2v23fah2vsv6g7gds1gk1kylbr80g"
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8CPlateReverb.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c7f87946e1429bbf1d364f1bba30f8b979fabb7/Reverbs/NW8CPlateReverb.jsfx",
+        "sha256": "1khmcf0h7cv7vda7iprn4dm5lyva6ybipj3gs5lgk22jy9c85yqi"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8DPlateReverb.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/a13769ec0935310d69b7a9e97dec86d0f5b197f5/Reverbs/NW8DPlateReverb.jsfx",
-        "sha256": "174891bpg63bkhdmzspgspp2v23fah2vsv6g7gds1gk1kylbr80g"
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8CPlateReverb.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c7f87946e1429bbf1d364f1bba30f8b979fabb7/Reverbs/NW8CPlateReverb.jsfx",
+        "sha256": "1khmcf0h7cv7vda7iprn4dm5lyva6ybipj3gs5lgk22jy9c85yqi"
       }
     ]
   },
@@ -2622,19 +2407,234 @@
       }
     ]
   },
-  "NW8CPlateReverb.jsfx": {
+  "NW8DPlateReverb.jsfx": {
     "latest": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8CPlateReverb.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c7f87946e1429bbf1d364f1bba30f8b979fabb7/Reverbs/NW8CPlateReverb.jsfx",
-        "sha256": "1khmcf0h7cv7vda7iprn4dm5lyva6ybipj3gs5lgk22jy9c85yqi"
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8DPlateReverb.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/a13769ec0935310d69b7a9e97dec86d0f5b197f5/Reverbs/NW8DPlateReverb.jsfx",
+        "sha256": "174891bpg63bkhdmzspgspp2v23fah2vsv6g7gds1gk1kylbr80g"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8CPlateReverb.jsfx",
-        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c7f87946e1429bbf1d364f1bba30f8b979fabb7/Reverbs/NW8CPlateReverb.jsfx",
-        "sha256": "1khmcf0h7cv7vda7iprn4dm5lyva6ybipj3gs5lgk22jy9c85yqi"
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8DPlateReverb.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/a13769ec0935310d69b7a9e97dec86d0f5b197f5/Reverbs/NW8DPlateReverb.jsfx",
+        "sha256": "174891bpg63bkhdmzspgspp2v23fah2vsv6g7gds1gk1kylbr80g"
+      }
+    ]
+  },
+  "NW8BPlateReverb.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8BPlateReverb.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/NW8BPlateReverb.jsfx",
+        "sha256": "1wl2pp06s8pnjpsifh9n9d7d7d1lz9r0ix99bmcmhbw0w97p93mv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Reverbs/NW8BPlateReverb.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/NW8BPlateReverb.jsfx",
+        "sha256": "1wl2pp06s8pnjpsifh9n9d7d7d1lz9r0ix99bmcmhbw0w97p93mv"
+      }
+    ]
+  },
+  "EssenzaDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/EssenzaDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/EssenzaDither.jsfx",
+        "sha256": "1ph0iir0l8z53v276k9ag3mrgyvhgyp1894ziiba0sy7d7gcfr98"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/EssenzaDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/EssenzaDither.jsfx",
+        "sha256": "1ph0iir0l8z53v276k9ag3mrgyvhgyp1894ziiba0sy7d7gcfr98"
+      }
+    ]
+  },
+  "LucidityDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/LucidityDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/d95b6f50ee393de142c7a44e53f3b7fbc9c1e305/Dithers/LucidityDither.jsfx",
+        "sha256": "1falib8qczzsmp5p9lkf2zndbfaj07szkgvq05vxyg8zvyc5c7b8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/LucidityDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/d95b6f50ee393de142c7a44e53f3b7fbc9c1e305/Dithers/LucidityDither.jsfx",
+        "sha256": "1falib8qczzsmp5p9lkf2zndbfaj07szkgvq05vxyg8zvyc5c7b8"
+      }
+    ]
+  },
+  "GroovyDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/GroovyDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Dithers/GroovyDither.jsfx",
+        "sha256": "15fnfgapw0phvc3xzixj9m78hqn5ldkj61clpzzwa4hgzr28xm5k"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/GroovyDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Dithers/GroovyDither.jsfx",
+        "sha256": "15fnfgapw0phvc3xzixj9m78hqn5ldkj61clpzzwa4hgzr28xm5k"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/GroovyDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/GroovyDither.jsfx",
+        "sha256": "0py8w0izcq52vg85m52nvkd58nza97ggbjh47zflwrfxl3z9pjms"
+      }
+    ]
+  },
+  "Nintenda.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Nintenda.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Nintenda.jsfx",
+        "sha256": "1jy8r8lyzr7q6g6xh7dv1764x1parmrgfvx98kh3n86y1kcsj0sh"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Nintenda.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Nintenda.jsfx",
+        "sha256": "1jy8r8lyzr7q6g6xh7dv1764x1parmrgfvx98kh3n86y1kcsj0sh"
+      }
+    ]
+  },
+  "PirateDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/PirateDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/PirateDither.jsfx",
+        "sha256": "192aq493i1hg1gf471ghqigmgdzy00rhbiqlmp2n2xkfc6d34bgr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/PirateDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/PirateDither.jsfx",
+        "sha256": "192aq493i1hg1gf471ghqigmgdzy00rhbiqlmp2n2xkfc6d34bgr"
+      }
+    ]
+  },
+  "six-dither_sid.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/six-dither_sid.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/six-dither_sid.jsfx",
+        "sha256": "01rgqnz4hi8nf78z3bmc6q4zyh1zry9nccb0vh5ckw19ldn17bfl"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/six-dither_sid.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/six-dither_sid.jsfx",
+        "sha256": "01rgqnz4hi8nf78z3bmc6q4zyh1zry9nccb0vh5ckw19ldn17bfl"
+      }
+    ]
+  },
+  "ScottyDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ScottyDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1fd97589a7839f3f7de2367c7d68f151c263568a/Dithers/ScottyDither.jsfx",
+        "sha256": "0sl8nxr0njppkda47d8mbj1vyppavkjbzlpacgji7syj3zml4jcn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ScottyDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1fd97589a7839f3f7de2367c7d68f151c263568a/Dithers/ScottyDither.jsfx",
+        "sha256": "0sl8nxr0njppkda47d8mbj1vyppavkjbzlpacgji7syj3zml4jcn"
+      }
+    ]
+  },
+  "ReelDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ReelDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/ReelDither.jsfx",
+        "sha256": "0d64rylc9gs9myg96j5v3ha2j9icnhagaz3rs0xhpzkdxc4yan37"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/ReelDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/ReelDither.jsfx",
+        "sha256": "0d64rylc9gs9myg96j5v3ha2j9icnhagaz3rs0xhpzkdxc4yan37"
+      }
+    ]
+  },
+  "Xonnos Dither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Xonnos Dither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Xonnos%20Dither.jsfx",
+        "sha256": "0k3z49i20nj6zv72gy3rahr35k2wn4dqj4wa1bda4avkgq9aq4xm"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Xonnos Dither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Xonnos%20Dither.jsfx",
+        "sha256": "0k3z49i20nj6zv72gy3rahr35k2wn4dqj4wa1bda4avkgq9aq4xm"
+      }
+    ]
+  },
+  "WTFDither.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/WTFDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/WTFDither.jsfx",
+        "sha256": "038jly9lqwpm0ma1yziwgshz81b3s70p6ll8rm4q5bnmjq3r8lm5"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/WTFDither.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/WTFDither.jsfx",
+        "sha256": "038jly9lqwpm0ma1yziwgshz81b3s70p6ll8rm4q5bnmjq3r8lm5"
+      }
+    ]
+  },
+  "Twilight.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Twilight.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Twilight.jsfx",
+        "sha256": "0w3xqmwkwj0rvb8va8v2kp27awmlh63n87k8d2skg7srm2djnibz"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Twilight.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Twilight.jsfx",
+        "sha256": "0w3xqmwkwj0rvb8va8v2kp27awmlh63n87k8d2skg7srm2djnibz"
+      }
+    ]
+  },
+  "Stan.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Stan.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Stan.jsfx",
+        "sha256": "1x536xz6jpsmsbjqx3ilv84s82wqraxjbyrd9m5q6hjspvssg7rw"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/chmaha airwindows JSFX Ports/Dithers/Stan.jsfx",
+        "url": "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Stan.jsfx",
+        "sha256": "1x536xz6jpsmsbjqx3ilv84s82wqraxjbyrd9m5q6hjspvssg7rw"
       }
     ]
   }

@@ -1,4 +1,36 @@
 {
+  "GFX MIDI Filter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/GFX MIDI Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/766fa15d1159d26bd9bf6c7a1721e9fe0246696e/MIDI/GFX%20MIDI%20Filter.jsfx",
+        "sha256": "104ypgiifh8s0l5kgn0ni31n7wcql20sf4gprccp42iylv3hk0wc"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Tilr/MIDI/GFX MIDI Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/766fa15d1159d26bd9bf6c7a1721e9fe0246696e/MIDI/GFX%20MIDI%20Filter.jsfx",
+        "sha256": "104ypgiifh8s0l5kgn0ni31n7wcql20sf4gprccp42iylv3hk0wc"
+      }
+    ]
+  },
+  "Notes to 12 channel.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+      }
+    ]
+  },
   "Notes to CC.jsfx": {
     "latest": [
       {
@@ -44,38 +76,6 @@
         "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
         "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
-      }
-    ]
-  },
-  "GFX MIDI Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/GFX MIDI Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/766fa15d1159d26bd9bf6c7a1721e9fe0246696e/MIDI/GFX%20MIDI%20Filter.jsfx",
-        "sha256": "104ypgiifh8s0l5kgn0ni31n7wcql20sf4gprccp42iylv3hk0wc"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Tilr/MIDI/GFX MIDI Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/766fa15d1159d26bd9bf6c7a1721e9fe0246696e/MIDI/GFX%20MIDI%20Filter.jsfx",
-        "sha256": "104ypgiifh8s0l5kgn0ni31n7wcql20sf4gprccp42iylv3hk0wc"
-      }
-    ]
-  },
-  "Notes to 12 channel.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
       }
     ]
   },
@@ -323,6 +323,22 @@
       }
     ]
   },
+  "Albeton - Autopan.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Modulation/Albeton - Autopan.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/228ee2e902dd448478cc7723db49242e1cc39301/Modulation/Albeton%20-%20Autopan.jsfx",
+        "sha256": "1jh4zj1pb46awdrr22pb2qwm4j9psgbsxv1vw4kwfarlg2cj7m9n"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Tilr/Modulation/Albeton - Autopan.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/228ee2e902dd448478cc7723db49242e1cc39301/Modulation/Albeton%20-%20Autopan.jsfx",
+        "sha256": "1jh4zj1pb46awdrr22pb2qwm4j9psgbsxv1vw4kwfarlg2cj7m9n"
+      }
+    ]
+  },
   "distr.jsfx": {
     "latest": [
       {
@@ -482,22 +498,6 @@
         "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
         "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ]
-  },
-  "Albeton - Autopan.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Modulation/Albeton - Autopan.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/228ee2e902dd448478cc7723db49242e1cc39301/Modulation/Albeton%20-%20Autopan.jsfx",
-        "sha256": "1jh4zj1pb46awdrr22pb2qwm4j9psgbsxv1vw4kwfarlg2cj7m9n"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Tilr/Modulation/Albeton - Autopan.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/228ee2e902dd448478cc7723db49242e1cc39301/Modulation/Albeton%20-%20Autopan.jsfx",
-        "sha256": "1jh4zj1pb46awdrr22pb2qwm4j9psgbsxv1vw4kwfarlg2cj7m9n"
       }
     ]
   },
