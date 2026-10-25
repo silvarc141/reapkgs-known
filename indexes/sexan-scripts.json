@@ -32868,22 +32868,6 @@
       }
     ]
   },
-  "Sexan_Show midi note name in tooltip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
-        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
-        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
-        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
-      }
-    ]
-  },
   "Sexan_Remove in order time selection items tracks.lua": {
     "latest": [
       {
@@ -32897,6 +32881,22 @@
         "path": "Scripts/Sexan_Scripts/Other/Sexan_Remove in order time selection items tracks.lua",
         "url": "https://github.com/GoranKovac/ReaScripts/raw/e46e203d5b205689742ae26940d8ce4b7addc5de/Other/Sexan_Remove%20in%20order%20time%20selection%20items%20tracks.lua",
         "sha256": "0f6mb4gn9spgck1b77dpnq6jclrizmibpzzw269x1c06vwh5wkk2"
+      }
+    ]
+  },
+  "Sexan_Show midi note name in tooltip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
+        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Sexan_Scripts/Other/Sexan_Show midi note name in tooltip.lua",
+        "url": "https://github.com/GoranKovac/ReaScripts/raw/117d9cf9c81e4438589d5033829d085c102d1242/Other/Sexan_Show%20midi%20note%20name%20in%20tooltip.lua",
+        "sha256": "0sblswnsb4knqyzaj6p4yppfqzzxgw7dy65wg5zhwx2x0vq124mk"
       }
     ]
   },
