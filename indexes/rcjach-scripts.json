@@ -15,6 +15,45 @@
       }
     ]
   },
+  "RCBitRangeGain.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx",
+        "sha256": "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk"
+      }
+    ]
+  },
+  "NoiseBuzz.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
+        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
+        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
+      }
+    ]
+  },
   "RCInflator.jsfx": {
     "latest": [
       {
@@ -66,6 +105,29 @@
       }
     ]
   },
+  "RCNoiseBuzz.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx",
+        "sha256": "1d94izbhy8h1gxh2ahshpwz0mnd0k4na5xn0vqzfkwjqm9maqhls"
+      }
+    ]
+  },
   "AB Comparison.jsfx": {
     "latest": [
       {
@@ -86,29 +148,6 @@
         "path": "Effects/RCJacH Scripts/JSFX/Audio/AB Comparison.jsfx",
         "url": "https://github.com/RCJacH/ReaScripts/raw/6c435acc784b9ed67a126ba2701493b11679a95c/JSFX/Audio/AB%20Comparison.jsfx",
         "sha256": "14y3cg6355cw31kkqw9j16426lvwy91p5ranv6r2lnwxqan3mf6v"
-      }
-    ]
-  },
-  "RCBitRangeGain.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1cfarlllg540119qkapy6vmw6zkk50j4ds71lqy6bsisy3iqnag1"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCBitRangeGain.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx",
-        "sha256": "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk"
       }
     ]
   },
@@ -141,45 +180,6 @@
         "path": "Effects/RCJacH Scripts/JSFX/Audio/RCEveryGain.jsfx",
         "url": "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx",
         "sha256": "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698"
-      }
-    ]
-  },
-  "RCNoiseBuzz.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "15m36z224574pszjm5mkfrm8zsk15in9b8w2nzcvcj14zrx1y1m6"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx",
-        "sha256": "1d94izbhy8h1gxh2ahshpwz0mnd0k4na5xn0vqzfkwjqm9maqhls"
-      }
-    ]
-  },
-  "NoiseBuzz.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
-        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/RCJacH Scripts/JSFX/Audio/NoiseBuzz.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx",
-        "sha256": "19an4vhyz5s3xvhqi9jdrhnxpbkdmng5q3p89dgfl6y7h49qah3z"
       }
     ]
   },
@@ -273,102 +273,6 @@
       }
     ]
   },
-  "RCJacH_Select Tracks with Regex.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
-        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
-      }
-    ],
-    "1.0a": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
-        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
-      }
-    ]
-  },
-  "RCJacH_Quick add or edit take marker under mouse cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Quick add or edit take marker under mouse cursor.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Quick%20add%20or%20edit%20take%20marker%20under%20mouse%20cursor.lua",
-        "sha256": "0n2n53snzwfm2x1ncpl83cwxbihphvkk6s4lv46jqyfz47y8gzlf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Quick add or edit take marker under mouse cursor.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Quick%20add%20or%20edit%20take%20marker%20under%20mouse%20cursor.lua",
-        "sha256": "0n2n53snzwfm2x1ncpl83cwxbihphvkk6s4lv46jqyfz47y8gzlf"
-      }
-    ]
-  },
-  "RCJacH_Glue Selected Items Preserve First Item Name.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
-        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
-        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
-      }
-    ]
-  },
-  "RCJacH_Spread Items Horizontally.lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Spread Items Horizontally.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Spread%20Items%20Horizontally.lua",
-        "sha256": "1f47y6jlwwbzlgzi54a5pd2vkbssz6das9sq065gjbahy8ajziq9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Spread Items Horizontally.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Spread%20Items%20Horizontally.lua",
-        "sha256": "1f47y6jlwwbzlgzi54a5pd2vkbssz6das9sq065gjbahy8ajziq9"
-      }
-    ]
-  },
-  "RCJacH_Delete content under mouse (contextual).lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
-        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
-        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
-      }
-    ]
-  },
-  "RCJacH_Split items under mouse cursor (obey snapping and selection).lua": {
-    "latest": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
-        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
-        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
-      }
-    ]
-  },
   "RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua": {
     "latest": [
       {
@@ -382,6 +286,22 @@
         "path": "Scripts/RCJacH Scripts/Templating/RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua",
         "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Templating/RCJacH_Set%20Airwindows%20Console%20TrackFX%20Pin%20Mapping.lua",
         "sha256": "1xn757y6d4rc5f997ir8b7ilapy2x1ki7sa9q6c7m6ay05mjdd4k"
+      }
+    ]
+  },
+  "RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
+        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
+      }
+    ],
+    "1.0a": [
+      {
+        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
+        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
       }
     ]
   },
@@ -401,19 +321,99 @@
       }
     ]
   },
-  "RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua": {
+  "RCJacH_Split items under mouse cursor (obey snapping and selection).lua": {
     "latest": [
       {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
-        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
+        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Split items under mouse cursor (obey snapping and selection).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua",
+        "sha256": "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy"
+      }
+    ]
+  },
+  "RCJacH_Delete content under mouse (contextual).lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
+        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Delete content under mouse (contextual).lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua",
+        "sha256": "035ymva7qpahfsvx8kgilnrgyandr61kl42gfrqgd5f9nvsa0ax5"
+      }
+    ]
+  },
+  "RCJacH_Spread Items Horizontally.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Spread Items Horizontally.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Spread%20Items%20Horizontally.lua",
+        "sha256": "1f47y6jlwwbzlgzi54a5pd2vkbssz6das9sq065gjbahy8ajziq9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Spread Items Horizontally.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Spread%20Items%20Horizontally.lua",
+        "sha256": "1f47y6jlwwbzlgzi54a5pd2vkbssz6das9sq065gjbahy8ajziq9"
+      }
+    ]
+  },
+  "RCJacH_Quick add or edit take marker under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Quick add or edit take marker under mouse cursor.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Quick%20add%20or%20edit%20take%20marker%20under%20mouse%20cursor.lua",
+        "sha256": "0n2n53snzwfm2x1ncpl83cwxbihphvkk6s4lv46jqyfz47y8gzlf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Quick add or edit take marker under mouse cursor.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Quick%20add%20or%20edit%20take%20marker%20under%20mouse%20cursor.lua",
+        "sha256": "0n2n53snzwfm2x1ncpl83cwxbihphvkk6s4lv46jqyfz47y8gzlf"
+      }
+    ]
+  },
+  "RCJacH_Select Tracks with Regex.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
+        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
       }
     ],
     "1.0a": [
       {
-        "path": "Scripts/RCJacH Scripts/Track Properties/RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua",
-        "sha256": "166cpp5bimkqw05wpif1x5wf0bnmc3wxd507ahjmxqmkm05asb1f"
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Select Tracks with Regex.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua",
+        "sha256": "1imxdrwv8xwyzng3pw5jq8r3l9fypqsy2g3cxdn7ifh48rxxi255"
+      }
+    ]
+  },
+  "RCJacH_Glue Selected Items Preserve First Item Name.lua": {
+    "latest": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
+        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/RCJacH Scripts/Item Editing/RCJacH_Glue Selected Items Preserve First Item Name.lua",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua",
+        "sha256": "1pw43iqrj2kz5992m4xhfni4j0kpjfmhx6w5syrb10jsnvmbsd99"
       }
     ]
   },
@@ -714,297 +714,2139 @@
     "latest": [
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
-        "sha256": "1jy279awmgl5xlrvn1s1zqfa7vvnw6khx424iqk5lbys8kh72vr9"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "05km3l7ap66gsjnrb9p7abz59126hky5pdwpb2kivxy5nnq9jv3x"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
         "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
-        "sha256": "16g1b6gjvqq9pa2i42952z08h6x98zi98phd88ybdaid647i2266"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "0r6mkv5gm76daajazp0fzf1yrn4578175159gj92hcjh7rbwzgai"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
         "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
-        "sha256": "0maqhwnnymaljwjxipvvgaz5xsr1a1hsjc55z9px089l76r6b5sp"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "1n6j4lm90g782p36pzb5ixvjhybzkln7452b854dxg10q3j0p59y"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
-        "sha256": "0vq5vd3zpxsxfs94m1abalrf6cir22zrcmy1s7115f2135mdnah8"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0a64qh63hfb2igvf7had6fak7yd8qk571s128awl1rnppw4if0pb"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
-        "sha256": "15z8vdgsnr8ilv8kjghr9bfw7rx7z207179x5h2zyzckp99jfr9f"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
-        "sha256": "0z7k3p2qw0giir01a0yxwradyjqh8yhn5acaf54fa886p3d3g9hz"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "0li00kb358nf92fag2zdx5mm02kd41ybxnc8d4rfwambdl1kb5ll"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
-        "sha256": "0zsgzwyzax6wis1zjswm2dzmcy83l9yf5df5sf7ysixl2iqjdcs1"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "1kshvh4b22b4wa662q0cp4mxz24hfwiavfwc8m53rrxjvsqmg379"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
-        "sha256": "17if9y0qq0krwrh4px8wna46wzhjn2b5xd8pmn5z8qw96476lwmn"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "1jqj9lxszkiz399inrsk1fwpbspfvyi4xvziiwvbaixq3wmlijk2"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
         "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
         "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
-        "sha256": "0l7s1i82nrrqnaw5dfqgw4l4mp4cz2swj1vywpcvjlgk2nalcx43"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "0d0vpww5s4khigrscbrh83dfslrjzdizfcy2ffgj5a7k4i2m59la"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
         "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
-        "sha256": "0l08s61sxm9y298bfmwbsv9m8adi0l4aj2x4x6jk6p2rncpjdk8x"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "1s430n5y3ljyvj07q79yd3yvz709zid4cl90cbw4mz2aih8kz41v"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
         "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
       },
       {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "sha256": "072fj87p9kbivs36d5nsfjqm0hplcmgpyr1irgrv7xnkgyfsh69h"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "sha256": "1dzzy9z4fb8f1ddsbn4798c6klyilmikqkadkd4q828pgh5vyxa5"
+      },
+      {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
         "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
-        "sha256": "069rz3nrw0kpbpwdj1i1b31r82jiv0h911nh9piqk9pjvmmlak8r"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "1016fha7kc17ybrh16k6pzbc5zy9k6przizslyc0kxmy8yw83a07"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
-        "sha256": "0z97a34q5axi62adnlplvb2wzcfgd3sq2ya95jsgspk2zs5pjs7n"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "0i5gqwzgrknjcy76mcxxp7mz0cyymphpb0d0hwybnp59ac2nycgk"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
         "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
-        "sha256": "0i6h26ryi3q99x33y6130cv57yqvdz8p9zbrvbsypnp8g7ynkw8f"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "1ic1n816ri6mly4kd8q1752ysn19jgq8cm35hkffw59n0aamql8b"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
-        "sha256": "0shryi1g4z1kmmw106kfk0f0n8q5wsb2k3bxpa52wgyzj91l4562"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "0b1bdxh0cmygkwd4nnlg2rv83fbnaq944wzydd0r9nk10a1vr3bp"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
-        "sha256": "165x62s3h936ff9yam4m42rq49nwzqhq5bn88x6zjz2s5f8v44sw"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "0mnlaw3080m1kszi355bavbxqrsd5jm7bfv3fcnhp0dww1f18byi"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
-        "sha256": "1nfz50qlhz12rhc3nf7jpxnbjcsf8lzwm724k23sqvmqkrsc7v68"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "02hqnig8zp1f5qiplag2a5b0ga7m01y7fg2i26b7pnrsrjz3d94z"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
-        "sha256": "1hdn9fg8zaf9ckr72yliyvy7dkck7xp00mj37w47in2x2h2pwnyi"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "00jcym459hf1gnif50ngkdxx5h5mjl87b6mdg7c6icl2nw873axf"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
-        "sha256": "1kqsj7hii0qysaqbx8rjfppv7siy41gmwj4hf1qrii6qa0w9i3pb"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "052scbylj3h03q3yhhpc9hrnqgcnk5lzskgavik0kmj1ijdw7mzk"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
         "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
-        "sha256": "1fnnqzi99drnwxa5i5r76ip9dkr53nb389b9xjywam1nc59azv0p"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "0q5vylc7smnhk2wh5k3xs9rafnlqjpxhgb1y38h1hm98bl0zwwrj"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
         "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
         "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
-        "sha256": "0vwgnxvrj97plk9daj11gvddl2nb5szz32sg76wjc43gcsqn0ray"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "1dkfvzpfa585l3qy79j18vvl46vsjddchc2k139p4ypl3kxmay8v"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
         "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
-        "sha256": "13pd9pvdwbii2j4pm2ps3vp9qc46sv5a0bhfckwagcf8dk84x8gc"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "0fr1am9680s8vvhp4s9alyr0slrlp2406fgkcycw3lpnp9in3443"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
-        "sha256": "1yghjamd81rh3a2vf0r6yq7dsrscfiacqkdl4g2lxzxdn3iqgkq1"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "04zszcbm4mbybsbzhcivay755xnqpn2qnry6djhl4dj2xv7qjdxw"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
-        "sha256": "0f8b96873xz18n0vxlkc1v083gac9465w0plp8jl9c2vbshjjwvi"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "0dla1h2gv15x52h25kzhp864kxr4lblf0p2svjpi3jnlwxvhachh"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
-        "sha256": "0qyy3xjbhz69bi2z97kap5z94n2qdryaqfvb4aq39aslhs98gdrd"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "0w3i56q0pih2rsrpjlkzk5dgm5nbhl9pawybw8qb2rgqjfwq62mj"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
-        "sha256": "03r9r0bjg9lsb1d608ffhbsqmfz1zxjni07radaiamrdx1kpr4g2"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "186h2vp8khzxj3qqz44d0iz37lgddpj6cqpdy217zdw3a78vxz3r"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
-        "sha256": "089pj2rsdyf7dd1733f6my9w1b68mk6ciqflzndw0mac152vxwgr"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "18v06lyqwgjr38c7jwn98zncdbf9pprpwg4qprlyayqz5hcl3kgh"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
-        "sha256": "12g7z7hy54phpfdnwy4jinpsqzzqlwqblr9fbbs2k8gw9f3gl9xf"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "1iriz33rwx40507m3mlw3vgbvwaxq2z3pgsfs2vwr1f95gbssp0j"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
         "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
         "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
-        "sha256": "0bc7zwl4pj9c3c5p24n172qjw9wcy0sdppm8wi72d1aync1v44nk"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "00bvnr7szi5fl4bfwd67y5j93r3fgh21d74p5pv21cr4by3xhpqs"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
         "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
         "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
         "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
         "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
-        "sha256": "0452cy2zjy29312d2jc871gzcz477aw5q3im64njyn0jbdwfbfmh"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "16i7n1vdr338gsnpdhd7d69ycx57sd7ny3zwvr4cyf4bb3x0zc1i"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
-        "sha256": "08y4wjrnagp8fy2cmdad4kzav99vrxr17p8gyy799zb9dsn8bv9l"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "0wwlzdjn0z53fzzqa7kdk86hhnygq559shinqk0z19ifba7nx4cn"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
-        "sha256": "1kmnvi1i3klvb2axlz2rcc559rvr98nz7k9czy9x5h8g1wiz4sal"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "1vjnz9bwyhhr9c7qqr96svnd8alsnvx64j3nd1bzrzxczv4db2h0"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
-        "sha256": "0h9h4b8bsfyl9rvqbpakbm8kakkzhg6ij1zl6vr22jivxkw7kjyz"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "1kfhi30gz7j72ir6ayrcmb29vmh2b57cm8bp677py448fvngjh8b"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
         "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
-        "sha256": "15amfyjg8298pw2g469w5sv48qgqxy90zxysgkw2qladkh1jakzh"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "1h2q66g2hrk5r41kv698anv3qjbnchmzfpp7b34vg1w0dl5likhk"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
-        "sha256": "105wcfpp9i4k29dcz57v0fsqfgx7d1yramggv8l9v20aa3cp8gd5"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "1cf0vc51lskndnc7vqx9i0n9n024nkiv23awjhdf6l7np677ayag"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
-        "sha256": "0klsasz7a4d3np277b90jfrclsv0pyi7kq6qq1x10cn4idlfwv12"
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0r0sr467hr66qd8bmd5fyfsplsviy5xssl9ybfnr1am1a4qcfifi"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
         "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
         "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
         "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "sha256": "1mwr88zky8hq8cp1vdn9r5wqag162mnp461i7gfakp5y1mdzkwbf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "sha256": "08cn4hybym3f9hrq37pipawp5wmaqq076m715mkjl388rfscb8jk"
+      }
+    ],
+    "0.2.4": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "05km3l7ap66gsjnrb9p7abz59126hky5pdwpb2kivxy5nnq9jv3x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "0r6mkv5gm76daajazp0fzf1yrn4578175159gj92hcjh7rbwzgai"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "1n6j4lm90g782p36pzb5ixvjhybzkln7452b854dxg10q3j0p59y"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0a64qh63hfb2igvf7had6fak7yd8qk571s128awl1rnppw4if0pb"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "0li00kb358nf92fag2zdx5mm02kd41ybxnc8d4rfwambdl1kb5ll"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "1kshvh4b22b4wa662q0cp4mxz24hfwiavfwc8m53rrxjvsqmg379"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "1jqj9lxszkiz399inrsk1fwpbspfvyi4xvziiwvbaixq3wmlijk2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "0d0vpww5s4khigrscbrh83dfslrjzdizfcy2ffgj5a7k4i2m59la"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "1s430n5y3ljyvj07q79yd3yvz709zid4cl90cbw4mz2aih8kz41v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "sha256": "072fj87p9kbivs36d5nsfjqm0hplcmgpyr1irgrv7xnkgyfsh69h"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "sha256": "1dzzy9z4fb8f1ddsbn4798c6klyilmikqkadkd4q828pgh5vyxa5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "1016fha7kc17ybrh16k6pzbc5zy9k6przizslyc0kxmy8yw83a07"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "0i5gqwzgrknjcy76mcxxp7mz0cyymphpb0d0hwybnp59ac2nycgk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "1ic1n816ri6mly4kd8q1752ysn19jgq8cm35hkffw59n0aamql8b"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "0b1bdxh0cmygkwd4nnlg2rv83fbnaq944wzydd0r9nk10a1vr3bp"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "0mnlaw3080m1kszi355bavbxqrsd5jm7bfv3fcnhp0dww1f18byi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "02hqnig8zp1f5qiplag2a5b0ga7m01y7fg2i26b7pnrsrjz3d94z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "00jcym459hf1gnif50ngkdxx5h5mjl87b6mdg7c6icl2nw873axf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "052scbylj3h03q3yhhpc9hrnqgcnk5lzskgavik0kmj1ijdw7mzk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "0q5vylc7smnhk2wh5k3xs9rafnlqjpxhgb1y38h1hm98bl0zwwrj"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "1dkfvzpfa585l3qy79j18vvl46vsjddchc2k139p4ypl3kxmay8v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "0fr1am9680s8vvhp4s9alyr0slrlp2406fgkcycw3lpnp9in3443"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "04zszcbm4mbybsbzhcivay755xnqpn2qnry6djhl4dj2xv7qjdxw"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "0dla1h2gv15x52h25kzhp864kxr4lblf0p2svjpi3jnlwxvhachh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "0w3i56q0pih2rsrpjlkzk5dgm5nbhl9pawybw8qb2rgqjfwq62mj"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "186h2vp8khzxj3qqz44d0iz37lgddpj6cqpdy217zdw3a78vxz3r"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "18v06lyqwgjr38c7jwn98zncdbf9pprpwg4qprlyayqz5hcl3kgh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "1iriz33rwx40507m3mlw3vgbvwaxq2z3pgsfs2vwr1f95gbssp0j"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "00bvnr7szi5fl4bfwd67y5j93r3fgh21d74p5pv21cr4by3xhpqs"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "16i7n1vdr338gsnpdhd7d69ycx57sd7ny3zwvr4cyf4bb3x0zc1i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "0wwlzdjn0z53fzzqa7kdk86hhnygq559shinqk0z19ifba7nx4cn"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "1vjnz9bwyhhr9c7qqr96svnd8alsnvx64j3nd1bzrzxczv4db2h0"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "1kfhi30gz7j72ir6ayrcmb29vmh2b57cm8bp677py448fvngjh8b"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "1h2q66g2hrk5r41kv698anv3qjbnchmzfpp7b34vg1w0dl5likhk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "1cf0vc51lskndnc7vqx9i0n9n024nkiv23awjhdf6l7np677ayag"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0r0sr467hr66qd8bmd5fyfsplsviy5xssl9ybfnr1am1a4qcfifi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "sha256": "1mwr88zky8hq8cp1vdn9r5wqag162mnp461i7gfakp5y1mdzkwbf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4bae51116e7ffb0b7e6ecdcc28a79bbe24f5d66d/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "sha256": "08cn4hybym3f9hrq37pipawp5wmaqq076m715mkjl388rfscb8jk"
+      }
+    ],
+    "0.2.3": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "1h4d2yh7m3gv03xqziv2lb8bdn2jv2biai263nsjrgswny2na7pa"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "1y7bqjm74bacn1n659gv1xcb46c0m972dyw9s2bzxwdd4zsibva3"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "1n6j4lm90g782p36pzb5ixvjhybzkln7452b854dxg10q3j0p59y"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0a64qh63hfb2igvf7had6fak7yd8qk571s128awl1rnppw4if0pb"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "0li00kb358nf92fag2zdx5mm02kd41ybxnc8d4rfwambdl1kb5ll"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "1kshvh4b22b4wa662q0cp4mxz24hfwiavfwc8m53rrxjvsqmg379"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "1jqj9lxszkiz399inrsk1fwpbspfvyi4xvziiwvbaixq3wmlijk2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "0d0vpww5s4khigrscbrh83dfslrjzdizfcy2ffgj5a7k4i2m59la"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "1s430n5y3ljyvj07q79yd3yvz709zid4cl90cbw4mz2aih8kz41v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "sha256": "072fj87p9kbivs36d5nsfjqm0hplcmgpyr1irgrv7xnkgyfsh69h"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "sha256": "1dzzy9z4fb8f1ddsbn4798c6klyilmikqkadkd4q828pgh5vyxa5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "1016fha7kc17ybrh16k6pzbc5zy9k6przizslyc0kxmy8yw83a07"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "0i5gqwzgrknjcy76mcxxp7mz0cyymphpb0d0hwybnp59ac2nycgk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "1ic1n816ri6mly4kd8q1752ysn19jgq8cm35hkffw59n0aamql8b"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "0b1bdxh0cmygkwd4nnlg2rv83fbnaq944wzydd0r9nk10a1vr3bp"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "0mnlaw3080m1kszi355bavbxqrsd5jm7bfv3fcnhp0dww1f18byi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "02hqnig8zp1f5qiplag2a5b0ga7m01y7fg2i26b7pnrsrjz3d94z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "00jcym459hf1gnif50ngkdxx5h5mjl87b6mdg7c6icl2nw873axf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "052scbylj3h03q3yhhpc9hrnqgcnk5lzskgavik0kmj1ijdw7mzk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "1fnnqzi99drnwxa5i5r76ip9dkr53nb389b9xjywam1nc59azv0p"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "1dkfvzpfa585l3qy79j18vvl46vsjddchc2k139p4ypl3kxmay8v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "0fr1am9680s8vvhp4s9alyr0slrlp2406fgkcycw3lpnp9in3443"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "04zszcbm4mbybsbzhcivay755xnqpn2qnry6djhl4dj2xv7qjdxw"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "045vvxdpa82rfrmmw6hqnsbb2vq8x2agikjscs0mcxzdd69ia0yk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "0w3i56q0pih2rsrpjlkzk5dgm5nbhl9pawybw8qb2rgqjfwq62mj"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "1xdph59b1bx8mfgv2b3py4f7hv3cws6bnd513v9xnqc17nrc6853"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "18v06lyqwgjr38c7jwn98zncdbf9pprpwg4qprlyayqz5hcl3kgh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "1iriz33rwx40507m3mlw3vgbvwaxq2z3pgsfs2vwr1f95gbssp0j"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "00bvnr7szi5fl4bfwd67y5j93r3fgh21d74p5pv21cr4by3xhpqs"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "16i7n1vdr338gsnpdhd7d69ycx57sd7ny3zwvr4cyf4bb3x0zc1i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "0wwlzdjn0z53fzzqa7kdk86hhnygq559shinqk0z19ifba7nx4cn"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "1vjnz9bwyhhr9c7qqr96svnd8alsnvx64j3nd1bzrzxczv4db2h0"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "1kfhi30gz7j72ir6ayrcmb29vmh2b57cm8bp677py448fvngjh8b"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "1h2q66g2hrk5r41kv698anv3qjbnchmzfpp7b34vg1w0dl5likhk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "1cf0vc51lskndnc7vqx9i0n9n024nkiv23awjhdf6l7np677ayag"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0r0sr467hr66qd8bmd5fyfsplsviy5xssl9ybfnr1am1a4qcfifi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "sha256": "1mwr88zky8hq8cp1vdn9r5wqag162mnp461i7gfakp5y1mdzkwbf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/4636e82f9ad7761165fbea6c26cf7f24a2aaf231/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "sha256": "08cn4hybym3f9hrq37pipawp5wmaqq076m715mkjl388rfscb8jk"
+      }
+    ],
+    "0.2.2": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "121ypyrd76m9hyks2x6n6scd7hddpl57j3j1x988zi6j8aaagyyw"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "16g1b6gjvqq9pa2i42952z08h6x98zi98phd88ybdaid647i2266"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "1n6j4lm90g782p36pzb5ixvjhybzkln7452b854dxg10q3j0p59y"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0a64qh63hfb2igvf7had6fak7yd8qk571s128awl1rnppw4if0pb"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "1734rim1wsjznsvhg31lld201m6lhkm7jnm3lxyl27pv8c0f5kq4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "00i3n0k0s1q4b2anq2rc14z9c6g6x7ah38ddfbsc9lq58n99azbv"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "1ql910bw64fwiw99w77bqnas8bxxaqqqn1v07xgipfr70q68jfjc"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "1pxzj1x11bmwwwalmz2c9qivrz37x6x0vmk4c64psizvm3avqgsa"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "1s430n5y3ljyvj07q79yd3yvz709zid4cl90cbw4mz2aih8kz41v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "sha256": "072fj87p9kbivs36d5nsfjqm0hplcmgpyr1irgrv7xnkgyfsh69h"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "sha256": "1dzzy9z4fb8f1ddsbn4798c6klyilmikqkadkd4q828pgh5vyxa5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "069rz3nrw0kpbpwdj1i1b31r82jiv0h911nh9piqk9pjvmmlak8r"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "16znrifp2gjb05869zs82z31i0rkb0rgaz64433gp0zy4m86mb43"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "0i6h26ryi3q99x33y6130cv57yqvdz8p9zbrvbsypnp8g7ynkw8f"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "0azgf5mdzshab21ia4wkbscdriz0i6a7sil77hj5vpnsbpjzzdig"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "1k72qc531wcx2znpy3hx8qfqr2as1dnyz5p1nw36i2rdww2j9gml"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "1z32g35ra5cq1gaklva09sxdqpapscs2rb9xrj0y8i43sanbwa6z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "1hdn9fg8zaf9ckr72yliyvy7dkck7xp00mj37w47in2x2h2pwnyi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "052scbylj3h03q3yhhpc9hrnqgcnk5lzskgavik0kmj1ijdw7mzk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "1fnnqzi99drnwxa5i5r76ip9dkr53nb389b9xjywam1nc59azv0p"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "078gndgq5z3z21p4rswjwzxhc79zlmxjzzrwgsxd0l65dlappv61"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "13pd9pvdwbii2j4pm2ps3vp9qc46sv5a0bhfckwagcf8dk84x8gc"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "0hkc94mkzcz0467q74295fglsg77knrw37c30vbwdfxgfpfn7aq9"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "0f8b96873xz18n0vxlkc1v083gac9465w0plp8jl9c2vbshjjwvi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "1v0kc4jgw714kak39jm657vvzjy1h6rlyn51w63yl4qvq1nfzbwh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "1axavflpif8n6dirxnizp6lkqppl0lq5dkc8bg3xby3cdxz66jnz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "0s03i5miydcp3a7g3rdpi7pi8rmb8ibddkrwycy1y4wybif7h6ff"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "12g7z7hy54phpfdnwy4jinpsqzzqlwqblr9fbbs2k8gw9f3gl9xf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "00bvnr7szi5fl4bfwd67y5j93r3fgh21d74p5pv21cr4by3xhpqs"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "16i7n1vdr338gsnpdhd7d69ycx57sd7ny3zwvr4cyf4bb3x0zc1i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "08y4wjrnagp8fy2cmdad4kzav99vrxr17p8gyy799zb9dsn8bv9l"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "0kqn8pp4jqzlm5x4qdv9qkl8q0hlbvaxw1v1y97k46crjbkqpbnq"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "0dgfgjklmkbk9bnhdycvk35q04rm40kgna6f2vhyxiivsc2863q4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "1hk0jm0kd5vj7nqb8c7lxixb8qpa2qk78k9h4kpvmcjkyfiql7q2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "1cf0vc51lskndnc7vqx9i0n9n024nkiv23awjhdf6l7np677ayag"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0dk0a2kmf78syjxvn1r31kssqc5xwr47r5l8l43rwwwyl9a0fh7x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "sha256": "1mwr88zky8hq8cp1vdn9r5wqag162mnp461i7gfakp5y1mdzkwbf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/87fc2058537661f312319a49f51469450117bbf5/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "sha256": "08cn4hybym3f9hrq37pipawp5wmaqq076m715mkjl388rfscb8jk"
+      }
+    ],
+    "0.2.1": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "0xx1rz2c1n63r55z8h2jbkhnvfrms0978195ljymwdpi5gkb6w7b"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "16g1b6gjvqq9pa2i42952z08h6x98zi98phd88ybdaid647i2266"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "1n6j4lm90g782p36pzb5ixvjhybzkln7452b854dxg10q3j0p59y"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0a64qh63hfb2igvf7had6fak7yd8qk571s128awl1rnppw4if0pb"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "1734rim1wsjznsvhg31lld201m6lhkm7jnm3lxyl27pv8c0f5kq4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "00i3n0k0s1q4b2anq2rc14z9c6g6x7ah38ddfbsc9lq58n99azbv"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "1ql910bw64fwiw99w77bqnas8bxxaqqqn1v07xgipfr70q68jfjc"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "1pxzj1x11bmwwwalmz2c9qivrz37x6x0vmk4c64psizvm3avqgsa"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "1s430n5y3ljyvj07q79yd3yvz709zid4cl90cbw4mz2aih8kz41v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "sha256": "1rsfsrg5m7x2487l419dkqacnk7k7fzriw8wm37a2whqjiidng1w"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "sha256": "1zcxkifm1v8ag6dfab3k712yyjcn0lsxn8vq6js0dp43ix8gcsp3"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "069rz3nrw0kpbpwdj1i1b31r82jiv0h911nh9piqk9pjvmmlak8r"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "16znrifp2gjb05869zs82z31i0rkb0rgaz64433gp0zy4m86mb43"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "0i6h26ryi3q99x33y6130cv57yqvdz8p9zbrvbsypnp8g7ynkw8f"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "0azgf5mdzshab21ia4wkbscdriz0i6a7sil77hj5vpnsbpjzzdig"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "1k72qc531wcx2znpy3hx8qfqr2as1dnyz5p1nw36i2rdww2j9gml"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "1z32g35ra5cq1gaklva09sxdqpapscs2rb9xrj0y8i43sanbwa6z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "1hdn9fg8zaf9ckr72yliyvy7dkck7xp00mj37w47in2x2h2pwnyi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "1zvf4k1h88a8bxvawcykkskjwi33bdfzlw7lqmlcr502c39zbydr"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "1fnnqzi99drnwxa5i5r76ip9dkr53nb389b9xjywam1nc59azv0p"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "078gndgq5z3z21p4rswjwzxhc79zlmxjzzrwgsxd0l65dlappv61"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "13pd9pvdwbii2j4pm2ps3vp9qc46sv5a0bhfckwagcf8dk84x8gc"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "0hkc94mkzcz0467q74295fglsg77knrw37c30vbwdfxgfpfn7aq9"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "0f8b96873xz18n0vxlkc1v083gac9465w0plp8jl9c2vbshjjwvi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "1v0kc4jgw714kak39jm657vvzjy1h6rlyn51w63yl4qvq1nfzbwh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "1axavflpif8n6dirxnizp6lkqppl0lq5dkc8bg3xby3cdxz66jnz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "0s03i5miydcp3a7g3rdpi7pi8rmb8ibddkrwycy1y4wybif7h6ff"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "12g7z7hy54phpfdnwy4jinpsqzzqlwqblr9fbbs2k8gw9f3gl9xf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "00bvnr7szi5fl4bfwd67y5j93r3fgh21d74p5pv21cr4by3xhpqs"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "16i7n1vdr338gsnpdhd7d69ycx57sd7ny3zwvr4cyf4bb3x0zc1i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "08y4wjrnagp8fy2cmdad4kzav99vrxr17p8gyy799zb9dsn8bv9l"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "0kqn8pp4jqzlm5x4qdv9qkl8q0hlbvaxw1v1y97k46crjbkqpbnq"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "03j4pzyhp805i0vzs32pva01qla8wynjnj4as2dv4kszraqcvbq1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "1hk0jm0kd5vj7nqb8c7lxixb8qpa2qk78k9h4kpvmcjkyfiql7q2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "1cf0vc51lskndnc7vqx9i0n9n024nkiv23awjhdf6l7np677ayag"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0dk0a2kmf78syjxvn1r31kssqc5xwr47r5l8l43rwwwyl9a0fh7x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "sha256": "1mwr88zky8hq8cp1vdn9r5wqag162mnp461i7gfakp5y1mdzkwbf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/55ada9f0fab2ec87649156b5dc150f36ebc58eba/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "sha256": "08cn4hybym3f9hrq37pipawp5wmaqq076m715mkjl388rfscb8jk"
+      }
+    ],
+    "0.2.0": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "0h1yp943vqcwhb1yzkvwbwykaiy741gyxbc52s5fl1ikgvg2mrh0"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "16g1b6gjvqq9pa2i42952z08h6x98zi98phd88ybdaid647i2266"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "1n6j4lm90g782p36pzb5ixvjhybzkln7452b854dxg10q3j0p59y"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0a64qh63hfb2igvf7had6fak7yd8qk571s128awl1rnppw4if0pb"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "1734rim1wsjznsvhg31lld201m6lhkm7jnm3lxyl27pv8c0f5kq4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "00i3n0k0s1q4b2anq2rc14z9c6g6x7ah38ddfbsc9lq58n99azbv"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "0r4bhbq708r4nfm8vybxa5da4hap9gsk7kcg24fwsyvhxbkxs3qj"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "1pxzj1x11bmwwwalmz2c9qivrz37x6x0vmk4c64psizvm3avqgsa"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "1s430n5y3ljyvj07q79yd3yvz709zid4cl90cbw4mz2aih8kz41v"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fretless.jsfx-inc",
+        "sha256": "1rsfsrg5m7x2487l419dkqacnk7k7fzriw8wm37a2whqjiidng1w"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fretless_state.jsfx-inc",
+        "sha256": "1zcxkifm1v8ag6dfab3k712yyjcn0lsxn8vq6js0dp43ix8gcsp3"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "069rz3nrw0kpbpwdj1i1b31r82jiv0h911nh9piqk9pjvmmlak8r"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "0z97a34q5axi62adnlplvb2wzcfgd3sq2ya95jsgspk2zs5pjs7n"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "0i6h26ryi3q99x33y6130cv57yqvdz8p9zbrvbsypnp8g7ynkw8f"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "0azgf5mdzshab21ia4wkbscdriz0i6a7sil77hj5vpnsbpjzzdig"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "14zvqszxsl0095nbcx1ks0zcgdrc2zqgxa8jn656s5bdkry06vlq"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "15cq12maa0m3dw0gyfwb3yg58p2wj1a9whnj2fbchqphy626dn24"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "1hdn9fg8zaf9ckr72yliyvy7dkck7xp00mj37w47in2x2h2pwnyi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "1zvf4k1h88a8bxvawcykkskjwi33bdfzlw7lqmlcr502c39zbydr"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "1fnnqzi99drnwxa5i5r76ip9dkr53nb389b9xjywam1nc59azv0p"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "078gndgq5z3z21p4rswjwzxhc79zlmxjzzrwgsxd0l65dlappv61"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "13pd9pvdwbii2j4pm2ps3vp9qc46sv5a0bhfckwagcf8dk84x8gc"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "0hkc94mkzcz0467q74295fglsg77knrw37c30vbwdfxgfpfn7aq9"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "0f8b96873xz18n0vxlkc1v083gac9465w0plp8jl9c2vbshjjwvi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "1v0kc4jgw714kak39jm657vvzjy1h6rlyn51w63yl4qvq1nfzbwh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "0kfnvbkgw2syx041xmkiz8vmjapzbjxs6z3d5wd60yd4mg1xr09g"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "0s03i5miydcp3a7g3rdpi7pi8rmb8ibddkrwycy1y4wybif7h6ff"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "12g7z7hy54phpfdnwy4jinpsqzzqlwqblr9fbbs2k8gw9f3gl9xf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "00bvnr7szi5fl4bfwd67y5j93r3fgh21d74p5pv21cr4by3xhpqs"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "16i7n1vdr338gsnpdhd7d69ycx57sd7ny3zwvr4cyf4bb3x0zc1i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "08y4wjrnagp8fy2cmdad4kzav99vrxr17p8gyy799zb9dsn8bv9l"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "0kqn8pp4jqzlm5x4qdv9qkl8q0hlbvaxw1v1y97k46crjbkqpbnq"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "03j4pzyhp805i0vzs32pva01qla8wynjnj4as2dv4kszraqcvbq1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "15amfyjg8298pw2g469w5sv48qgqxy90zxysgkw2qladkh1jakzh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "1cf0vc51lskndnc7vqx9i0n9n024nkiv23awjhdf6l7np677ayag"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0dk0a2kmf78syjxvn1r31kssqc5xwr47r5l8l43rwwwyl9a0fh7x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "sha256": "1mwr88zky8hq8cp1vdn9r5wqag162mnp461i7gfakp5y1mdzkwbf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/ac8492a18f5dc0a19fda9eddc255ee25c4c8985f/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "sha256": "08cn4hybym3f9hrq37pipawp5wmaqq076m715mkjl388rfscb8jk"
+      }
+    ],
+    "0.1.2": [
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/RCModalBass.jsfx",
+        "sha256": "1zqxqm0wz9lnp0kyz8b61mp1r5hkrliqhmkp9glacw92d6j60kpn"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/active.jsfx-inc",
+        "sha256": "1wgr047ikkxbf0brzayzgyvxw728mvwgh5vsvd3zl9lc7vf94v8z"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/articulation.jsfx-inc",
+        "sha256": "16g1b6gjvqq9pa2i42952z08h6x98zi98phd88ybdaid647i2266"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/circuit.jsfx-inc",
+        "sha256": "03gypyjbc1nv6g4y3s0drr3rh14z7bq8bjslcl44329zjcgizhaz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/configuration.jsfx-inc",
+        "sha256": "0maqhwnnymaljwjxipvvgaz5xsr1a1hsjc55z9px089l76r6b5sp"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/contact_idle.jsfx-inc",
+        "sha256": "0vq5vd3zpxsxfs94m1abalrf6cir22zrcmy1s7115f2135mdnah8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/damping.jsfx-inc",
+        "sha256": "0346j72x41z58idjykac4nskvdy899wz2q8acdmz3vq8br39cpva"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/engine.jsfx-inc",
+        "sha256": "1qvcp3c3mdmgv31g5fbc9qbhsff937q2vp5rwasann1614cqwcyk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/events.jsfx-inc",
+        "sha256": "00i3n0k0s1q4b2anq2rc14z9c6g6x7ah38ddfbsc9lq58n99azbv"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/excitation.jsfx-inc",
+        "sha256": "00ikg7p8pjhb5sj3lgzz0riw1kgvrnf96q0mf6k7mv1m14dnxfxl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/finger_friction.jsfx-inc",
+        "sha256": "0r18li4bv9d6641f2d79nym1q0vylcr5qxv2zsn61vrpfk5y98j8"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/fingering.jsfx-inc",
+        "sha256": "0y06y099dbznsl4ilxm5r429sgi6d4yknkqwhmkw7ia7nqn850m7"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/fingers.jsfx-inc",
+        "sha256": "1pxzj1x11bmwwwalmz2c9qivrz37x6x0vmk4c64psizvm3avqgsa"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/force_string.jsfx-inc",
+        "sha256": "1136ad2d1gwgy47ga85c24frj49jr5gl97lcq0n6wxlx93wa0mmf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/fret_contact.jsfx-inc",
+        "sha256": "0l08s61sxm9y298bfmwbsv9m8adi0l4aj2x4x6jk6p2rncpjdk8x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/fret_response.jsfx-inc",
+        "sha256": "0ikwy4jnd5w5a4n68n2bgmcm37c29f7vvggijblgwkghghjqlx9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/fretting.jsfx-inc",
+        "sha256": "0s01aqsl5z4x9gk1v1n7ip7pyh0dj7dqpgd98przfmp1346763w4"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/gui.jsfx-inc",
+        "sha256": "069rz3nrw0kpbpwdj1i1b31r82jiv0h911nh9piqk9pjvmmlak8r"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/gui_fretboard.jsfx-inc",
+        "sha256": "0z97a34q5axi62adnlplvb2wzcfgd3sq2ya95jsgspk2zs5pjs7n"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/gui_primitives.jsfx-inc",
+        "sha256": "129y9h6rxb3gn2f2x62vfq7xyzq15ivd1d4qqr0xkf2vrfdi203i"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/hand.jsfx-inc",
+        "sha256": "0i6h26ryi3q99x33y6130cv57yqvdz8p9zbrvbsypnp8g7ynkw8f"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/hopo.jsfx-inc",
+        "sha256": "09524jzy38ak1cnfl2vhq53nhdzv7ybqgkn4x48msz6y8ljvlw6x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/instrument.jsfx-inc",
+        "sha256": "14zvqszxsl0095nbcx1ks0zcgdrc2zqgxa8jn656s5bdkry06vlq"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/layout.jsfx-inc",
+        "sha256": "08q6wrlzajz7h8ijijqwfyg4bqsy1qnhihg56p5spp1vi4kwfjxh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/legato.jsfx-inc",
+        "sha256": "1hdn9fg8zaf9ckr72yliyvy7dkck7xp00mj37w47in2x2h2pwnyi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/live.jsfx-inc",
+        "sha256": "1zvf4k1h88a8bxvawcykkskjwi33bdfzlw7lqmlcr502c39zbydr"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/magnet.jsfx-inc",
+        "sha256": "0k8i4k6w1hzbl2iwyplf0w9wfxfqn5dnmbappda6mkb47pvxab81"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/midi_control.jsfx-inc",
+        "sha256": "1fnnqzi99drnwxa5i5r76ip9dkr53nb389b9xjywam1nc59azv0p"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/modal.jsfx-inc",
+        "sha256": "1cvrikx6ia319mz6vng9dpkdc3b8b9lavwss22wdkx1szbis5w2m"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/motion.jsfx-inc",
+        "sha256": "080i2mxb7i3ia15bpcw3q40j189zm6ic6x2vq1hmjlm4wzicnzc5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/native_controls.jsfx-inc",
+        "sha256": "0g4hws6cz1hbrvz2c2k7ga1ivmahnh72lffcpikymmgyqs47z7h1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/note_registry.jsfx-inc",
+        "sha256": "0q4y90jw424p7p3qwg3q6r4ifp0mrp55fbc50x3jw1ag22gldkpg"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/output.jsfx-inc",
+        "sha256": "13pd9pvdwbii2j4pm2ps3vp9qc46sv5a0bhfckwagcf8dk84x8gc"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/parameter_ids.jsfx-inc",
+        "sha256": "0v1ngl345vpgjglbd9dvh94wpq0mx8cng2ivjyfp32hmz6gfccq0"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/parameters.jsfx-inc",
+        "sha256": "0f8b96873xz18n0vxlkc1v083gac9465w0plp8jl9c2vbshjjwvi"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/passthrough.jsfx-inc",
+        "sha256": "1v0kc4jgw714kak39jm657vvzjy1h6rlyn51w63yl4qvq1nfzbwh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/performance.jsfx-inc",
+        "sha256": "16q4b1hh4w4h8m0a6cgff8nlligbidbzalvdgcl8frb8ndqfdk9a"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/performance_state.jsfx-inc",
+        "sha256": "0zshwa29fsxz5j6c8hfrc3h7wsy4knjnwkqmgqz4jpnczb8wdv2r"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pick.jsfx-inc",
+        "sha256": "12g7z7hy54phpfdnwy4jinpsqzzqlwqblr9fbbs2k8gw9f3gl9xf"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pick_friction.jsfx-inc",
+        "sha256": "1ypy5rg0zi1sh6y4gr706iyzb4rh5crf7j20mfamdcsxqb2xk3g2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pick_scrape.jsfx-inc",
+        "sha256": "07c66wigd393vlhk26nx5dzd3mwwclq4qvhasvwwxgn99p6kw6ah"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pick_state.jsfx-inc",
+        "sha256": "0bc7zwl4pj9c3c5p24n172qjw9wcy0sdppm8wi72d1aync1v44nk"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pickup.jsfx-inc",
+        "sha256": "0781y18lhi6wv4rfrbh42a45xd0rkd7i8gy5xplss8bvqadvdxjl"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pickup_coils.jsfx-inc",
+        "sha256": "1v0sb6sbwn9qi6fyy2r4wp5185pin5dgvfq957s4c6zyxgvacx37"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pickup_nonlinear.jsfx-inc",
+        "sha256": "1xsfd0hhb3xg0lg19j3nxw455w774pbk8hfwa683smxqkyvbk364"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pickup_profiles.jsfx-inc",
+        "sha256": "145ah05b5xp0fndvnm9smdf33z05xypnbrgd7nq5gw62pwn540d2"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/pop_contact.jsfx-inc",
+        "sha256": "0452cy2zjy29312d2jc871gzcz477aw5q3im64njyn0jbdwfbfmh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/rack.jsfx-inc",
+        "sha256": "08y4wjrnagp8fy2cmdad4kzav99vrxr17p8gyy799zb9dsn8bv9l"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/release.jsfx-inc",
+        "sha256": "0kqn8pp4jqzlm5x4qdv9qkl8q0hlbvaxw1v1y97k46crjbkqpbnq"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/render.jsfx-inc",
+        "sha256": "0h9h4b8bsfyl9rvqbpakbm8kakkzhg6ij1zl6vr22jivxkw7kjyz"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/repluck.jsfx-inc",
+        "sha256": "01ckr80lxn3qvyvxk0sp359g6yas5cdvypwr8dgcvcyc2ghlm0b1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/routing.jsfx-inc",
+        "sha256": "15amfyjg8298pw2g469w5sv48qgqxy90zxysgkw2qladkh1jakzh"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/slap_pop.jsfx-inc",
+        "sha256": "105wcfpp9i4k29dcz57v0fsqfgx7d1yramggv8l9v20aa3cp8gd5"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/spatial_damping.jsfx-inc",
+        "sha256": "0dk0a2kmf78syjxvn1r31kssqc5xwr47r5l8l43rwwwyl9a0fh7x"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/string_setup.jsfx-inc",
+        "sha256": "15z2ddxg9rfllm362xmy900i9r8lm4vr1cfcr0a1wby3gmn7bh39"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/tension.jsfx-inc",
+        "sha256": "0wd4369vqyrpig8jxfk5whpxp0zjk913gsn9mysc3q5rwcwr9yix"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/variation.jsfx-inc",
+        "sha256": "1awbq930p0f6zb0ycjrln7yd3cqvh7zjmhpwr5v475w5mrndj6v1"
+      },
+      {
+        "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/vibrato.jsfx-inc",
         "sha256": "0waiwpqlv0zca1914jf0bgflbr7qvka0dk27qbwb1dv43mmxphpn"
       },
       {
         "path": "Effects/RCJacH Scripts/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
-        "url": "https://github.com/RCJacH/ReaScripts/raw/bcde0e8c8b23d36a7ecf7e1416e612fd276297e7/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
+        "url": "https://github.com/RCJacH/ReaScripts/raw/f9102e307ac173195fceece83e7665e616e9fc86/JSFX/Synth/RCModalBass/modules/vibrato_state.jsfx-inc",
         "sha256": "006z1bhprxmmlvxmw1x33gi8il7v7j1mb0g2v1q06d9p46fyccsq"
       }
     ],

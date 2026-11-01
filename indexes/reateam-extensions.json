@@ -7542,28 +7542,55 @@
     "latest": [
       {
         "path": "UserPlugins/ReaSonus/en-US.ini",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/en-US.ini",
-        "sha256": "1hwhq7mzfvmb80s261y1kagrjw1lxp1dqbny9ikjw46bk7gi5mv0"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/en-US.ini",
+        "sha256": "1wckllyvzvvz8sjmnpi4awmkhvgyy8irwb4dywcigk1gl16bafsp"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "sha256": "0w0ig5r41q8jzg4nna4a8l0w512d6kajf0v73nlbh4q92507q8zw"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "12a0c64g207qa1yr2k67y1s9fqr1pa13cs9smdfsc6mxzb3k24bs"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "sha256": "0w0ig5r41q8jzg4nna4a8l0w512d6kajf0v73nlbh4q92507q8zw"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "12a0c64g207qa1yr2k67y1s9fqr1pa13cs9smdfsc6mxzb3k24bs"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-x64.dll",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-x64.dll",
-        "sha256": "0xz0nlv6j6pfahckhy84b5ccqdzwr5vklx5c3l7lyajfbj5jjrc3"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-x64.dll",
+        "sha256": "1hpdn7why478pjg50whn95a9mq79jmx67d7728angs9byxm48jhk"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-x86.dll",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.11.2/reaper_ReasonusNative-x86.dll",
-        "sha256": "17zp0fmwmpqs4p8fhlqw3qm9wlvh628vw77xidxc65hwvinz3yyk"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-x86.dll",
+        "sha256": "1zbc6bhzfq3pi7913z9l26gmwz1r0ykyqvxh8923cj4kgvdrsih6"
+      }
+    ],
+    "0.12.0": [
+      {
+        "path": "UserPlugins/ReaSonus/en-US.ini",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/en-US.ini",
+        "sha256": "1wckllyvzvvz8sjmnpi4awmkhvgyy8irwb4dywcigk1gl16bafsp"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "12a0c64g207qa1yr2k67y1s9fqr1pa13cs9smdfsc6mxzb3k24bs"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "12a0c64g207qa1yr2k67y1s9fqr1pa13cs9smdfsc6mxzb3k24bs"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-x64.dll",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-x64.dll",
+        "sha256": "1hpdn7why478pjg50whn95a9mq79jmx67d7728angs9byxm48jhk"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-x86.dll",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-x86.dll",
+        "sha256": "1zbc6bhzfq3pi7913z9l26gmwz1r0ykyqvxh8923cj4kgvdrsih6"
       }
     ],
     "0.11.2": [
@@ -10796,13 +10823,13 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",

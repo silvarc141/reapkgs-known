@@ -22,6 +22,28 @@
         "sha256": "17japdv7x9l24zax01d5xgwail7kjpbn2zbhy784r4qbqfjkybgk"
       }
     ],
+    "1.2.1": [
+      {
+        "path": "Effects/ReJJ/ReEQ/Dependencies/firhalfband.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/0f94ef04a7131df71b2ad2293ce312111073b871/ReEQ/Dependencies/firhalfband.jsfx-inc",
+        "sha256": "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ/Dependencies/spectrum.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/0f94ef04a7131df71b2ad2293ce312111073b871/ReEQ/Dependencies/spectrum.jsfx-inc",
+        "sha256": "17ivqk1ccgsps57zwsqhlyz2h9kf05w6x8gq418wij7mbpfqi8ya"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ/Dependencies/svf_filter.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/0f94ef04a7131df71b2ad2293ce312111073b871/ReEQ/Dependencies/svf_filter.jsfx-inc",
+        "sha256": "0drsig47f09gi444dmbnifsmljxwqjp5ssvi2kdpkx5n24j0wlr1"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ/ReEQ.jsfx",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/97769537b9c973281bbf9bdb8f870d26e5dfb231/ReEQ/ReEQ.jsfx",
+        "sha256": "17japdv7x9l24zax01d5xgwail7kjpbn2zbhy784r4qbqfjkybgk"
+      }
+    ],
     "1.2.0": [
       {
         "path": "Effects/ReJJ/ReEQ/Dependencies/firhalfband.jsfx-inc",
@@ -42,6 +64,288 @@
         "path": "Effects/ReJJ/ReEQ/ReEQ.jsfx",
         "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/97769537b9c973281bbf9bdb8f870d26e5dfb231/ReEQ/ReEQ.jsfx",
         "sha256": "17japdv7x9l24zax01d5xgwail7kjpbn2zbhy784r4qbqfjkybgk"
+      }
+    ]
+  },
+  "ReEQ2.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "sha256": "1xxa95jsg7ld2s9lja07adxsi6iw14kfc3ih40xhb2cr297dlbil"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "sha256": "16n5p3885pknxfzp7g0gz60hqgwx050hpyq4nhz39jqvi36q56dk"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ upgrade to ReEQ2.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/Scripts/ReEQ%20upgrade%20to%20ReEQ2.lua",
+        "sha256": "0ykgabqbpsr7qz5iys4kwxa7yh7iv3vwdf5pwa4dg4fnlz01pqym"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2 Theme Editor.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/Scripts/ReEQ2%20Theme%20Editor.lua",
+        "sha256": "1yzpbjga1nyaxkl8cmf8s559qzqaq1b3ainyv9ai1lgpc43r8g8d"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2.jsfx",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/ReEQ2.jsfx",
+        "sha256": "1yj8arz3i3ifxmxg6v5vzakv8jyh1fpjrp3kn6r8li1c9xnwl5q8"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Amber.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Amber.txt",
+        "sha256": "0yi3wcv7s8891dd63rcln9n2kiqcm7r1im7xcsbb95kwnf0vlmcd"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Default.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Default.txt",
+        "sha256": "0sdjxp59kjcw3h3f055ab8mfzmasfzi11kv00x95p07mxqpb455b"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Espresso.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Espresso.txt",
+        "sha256": "0ldrk6sk0ly3xj2b6dpkskd8jwxl47kbvhf6x7m45fhmz43v8lfv"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Fjord.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Fjord.txt",
+        "sha256": "0yasklkw9wvhm1ndks3855c5imf9zxb44cklvlcjn2mckgifgf32"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Forest.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Forest.txt",
+        "sha256": "0mzkw6rscahazf163arphd5q647pfp2mnrpzj2kmz2ns11b5zvg3"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Glacier.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Glacier.txt",
+        "sha256": "1768jzd0lrlkmdjnqjgv5qd3aad472wx6vsqcda9a56v9awmh79q"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/High Contrast.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/High%20Contrast.txt",
+        "sha256": "13x30yf2xp4c1g6pzm2zrf48syyb19r80pas7gpbvjbasvnyzdlh"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Matcha.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Matcha.txt",
+        "sha256": "015pdjm2r7wci467dib5k2xfd0c6p51c20zym8myyrl0pcijl8k8"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Midnight Neon.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Midnight%20Neon.txt",
+        "sha256": "1naydnkgw6lxqxvyb5gb4lc4gvjssal7lgdnnipa4nbrvxyq3hwr"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Mono.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Mono.txt",
+        "sha256": "0imwsxa0kzkmf5ax15jvxf9p352pmc86qslhbd77s7w69jb1j8gn"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Ocean.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Ocean.txt",
+        "sha256": "1lygf8mqg6hn0va9khs9bphcic0kjgksxsfmg1cjx50hshw3wis0"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Paper.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Paper.txt",
+        "sha256": "04yq3l0bzl9669icaml2fkxkwa4jkamnw6cfb9fjwylpl4f4nzzv"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Phosphor.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Phosphor.txt",
+        "sha256": "0m5mvsi233f9df7f27dy1ffk99y9apmj3gzckria1sjj34w1n3df"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Rose.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Rose.txt",
+        "sha256": "0km6p0h7blgwvia418488402r9fn58whrcxbq1cjpk6c9s2brayc"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Sunset.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Sunset.txt",
+        "sha256": "1j99s5qrbsqgq1qknx9zcwwj5yz059z3kqmjzcf15rm6h68gby13"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Synthwave.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Synthwave.txt",
+        "sha256": "1sdkdhg3rrja0q4a7vk1fgcmkhw5cwyb0409lhr5zbapapfapmym"
+      }
+    ],
+    "2.1.0": [
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "sha256": "1xxa95jsg7ld2s9lja07adxsi6iw14kfc3ih40xhb2cr297dlbil"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "sha256": "16n5p3885pknxfzp7g0gz60hqgwx050hpyq4nhz39jqvi36q56dk"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ upgrade to ReEQ2.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/Scripts/ReEQ%20upgrade%20to%20ReEQ2.lua",
+        "sha256": "0ykgabqbpsr7qz5iys4kwxa7yh7iv3vwdf5pwa4dg4fnlz01pqym"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2 Theme Editor.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/Scripts/ReEQ2%20Theme%20Editor.lua",
+        "sha256": "1yzpbjga1nyaxkl8cmf8s559qzqaq1b3ainyv9ai1lgpc43r8g8d"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2.jsfx",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/ReEQ2.jsfx",
+        "sha256": "1yj8arz3i3ifxmxg6v5vzakv8jyh1fpjrp3kn6r8li1c9xnwl5q8"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Amber.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Amber.txt",
+        "sha256": "0yi3wcv7s8891dd63rcln9n2kiqcm7r1im7xcsbb95kwnf0vlmcd"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Default.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Default.txt",
+        "sha256": "0sdjxp59kjcw3h3f055ab8mfzmasfzi11kv00x95p07mxqpb455b"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Espresso.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Espresso.txt",
+        "sha256": "0ldrk6sk0ly3xj2b6dpkskd8jwxl47kbvhf6x7m45fhmz43v8lfv"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Fjord.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Fjord.txt",
+        "sha256": "0yasklkw9wvhm1ndks3855c5imf9zxb44cklvlcjn2mckgifgf32"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Forest.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Forest.txt",
+        "sha256": "0mzkw6rscahazf163arphd5q647pfp2mnrpzj2kmz2ns11b5zvg3"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Glacier.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Glacier.txt",
+        "sha256": "1768jzd0lrlkmdjnqjgv5qd3aad472wx6vsqcda9a56v9awmh79q"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/High Contrast.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/High%20Contrast.txt",
+        "sha256": "13x30yf2xp4c1g6pzm2zrf48syyb19r80pas7gpbvjbasvnyzdlh"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Matcha.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Matcha.txt",
+        "sha256": "015pdjm2r7wci467dib5k2xfd0c6p51c20zym8myyrl0pcijl8k8"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Midnight Neon.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Midnight%20Neon.txt",
+        "sha256": "1naydnkgw6lxqxvyb5gb4lc4gvjssal7lgdnnipa4nbrvxyq3hwr"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Mono.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Mono.txt",
+        "sha256": "0imwsxa0kzkmf5ax15jvxf9p352pmc86qslhbd77s7w69jb1j8gn"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Ocean.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Ocean.txt",
+        "sha256": "1lygf8mqg6hn0va9khs9bphcic0kjgksxsfmg1cjx50hshw3wis0"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Paper.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Paper.txt",
+        "sha256": "04yq3l0bzl9669icaml2fkxkwa4jkamnw6cfb9fjwylpl4f4nzzv"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Phosphor.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Phosphor.txt",
+        "sha256": "0m5mvsi233f9df7f27dy1ffk99y9apmj3gzckria1sjj34w1n3df"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Rose.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Rose.txt",
+        "sha256": "0km6p0h7blgwvia418488402r9fn58whrcxbq1cjpk6c9s2brayc"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Sunset.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Sunset.txt",
+        "sha256": "1j99s5qrbsqgq1qknx9zcwwj5yz059z3kqmjzcf15rm6h68gby13"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2/Themes/Synthwave.txt",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.1.0/ReEQ2/Themes/Synthwave.txt",
+        "sha256": "1sdkdhg3rrja0q4a7vk1fgcmkhw5cwyb0409lhr5zbapapfapmym"
+      }
+    ],
+    "2.0.2": [
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.2/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "sha256": "0sk1dsvbds1c5zs7vwllwvrvk575fni50rrj0h8x21npdjg2ppwb"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.2/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "sha256": "16n5p3885pknxfzp7g0gz60hqgwx050hpyq4nhz39jqvi36q56dk"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ upgrade to ReEQ2.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.2/Scripts/ReEQ%20upgrade%20to%20ReEQ2.lua",
+        "sha256": "0ykgabqbpsr7qz5iys4kwxa7yh7iv3vwdf5pwa4dg4fnlz01pqym"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2.jsfx",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.2/ReEQ2/ReEQ2.jsfx",
+        "sha256": "071hy4ppy6xjz6in16crrhvvm2sss1ah48g6p4k4hy9j35mvvdlf"
+      }
+    ],
+    "2.0.1": [
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.1/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "sha256": "0sk1dsvbds1c5zs7vwllwvrvk575fni50rrj0h8x21npdjg2ppwb"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.1/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "sha256": "16n5p3885pknxfzp7g0gz60hqgwx050hpyq4nhz39jqvi36q56dk"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ upgrade to ReEQ2.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.1/Scripts/ReEQ%20upgrade%20to%20ReEQ2.lua",
+        "sha256": "0ykgabqbpsr7qz5iys4kwxa7yh7iv3vwdf5pwa4dg4fnlz01pqym"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2.jsfx",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.1/ReEQ2/ReEQ2.jsfx",
+        "sha256": "00r0dcdx36sj15846a6pvjcxkq8fagljp58cbzyfchcc2acmbdj0"
+      }
+    ],
+    "2.0.0": [
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.0/ReEQ2/Dependencies/ivantsov_filter.jsfx-inc",
+        "sha256": "0pkwyhn5cp37y59f8a9za6j31sjkrssc8d3xbzfj4ww8lmmaa0ng"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.0/ReEQ2/Dependencies/spectrum.jsfx-inc",
+        "sha256": "16n5p3885pknxfzp7g0gz60hqgwx050hpyq4nhz39jqvi36q56dk"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ upgrade to ReEQ2.lua",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.0/Scripts/ReEQ%20upgrade%20to%20ReEQ2.lua",
+        "sha256": "0ykgabqbpsr7qz5iys4kwxa7yh7iv3vwdf5pwa4dg4fnlz01pqym"
+      },
+      {
+        "path": "Effects/ReJJ/ReEQ2/ReEQ2.jsfx",
+        "url": "https://raw.githubusercontent.com/Justin-Johnson/ReJJ/v2.0.0/ReEQ2/ReEQ2.jsfx",
+        "sha256": "0rq6bpxlbp483bavkq9dlyvhw1w8jx8by00wq582s5qgg2c768w1"
       }
     ]
   },
