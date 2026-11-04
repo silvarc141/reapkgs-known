@@ -7542,28 +7542,55 @@
     "latest": [
       {
         "path": "UserPlugins/ReaSonus/en-US.ini",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/en-US.ini",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/en-US.ini",
         "sha256": "1wckllyvzvvz8sjmnpi4awmkhvgyy8irwb4dywcigk1gl16bafsp"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "sha256": "12a0c64g207qa1yr2k67y1s9fqr1pa13cs9smdfsc6mxzb3k24bs"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "1k06sqdirw3560r4nkwqn1n24a0sxyc1xcd6dga8l36khmrnpi66"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-arm64-x86_64.dylib",
-        "sha256": "12a0c64g207qa1yr2k67y1s9fqr1pa13cs9smdfsc6mxzb3k24bs"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "1k06sqdirw3560r4nkwqn1n24a0sxyc1xcd6dga8l36khmrnpi66"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-x64.dll",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-x64.dll",
-        "sha256": "1hpdn7why478pjg50whn95a9mq79jmx67d7728angs9byxm48jhk"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-x64.dll",
+        "sha256": "1g9riba6d4x62aybzdrlxz5lychz67sf4cv390fk4bkxzyq880z9"
       },
       {
         "path": "UserPlugins/reaper_ReasonusNative-x86.dll",
-        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.0/reaper_ReasonusNative-x86.dll",
-        "sha256": "1zbc6bhzfq3pi7913z9l26gmwz1r0ykyqvxh8923cj4kgvdrsih6"
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-x86.dll",
+        "sha256": "09vyjmxg7079jdypbr55k4hzy5zn7gdp7v08id7vw0g6g92kn10i"
+      }
+    ],
+    "0.12.1": [
+      {
+        "path": "UserPlugins/ReaSonus/en-US.ini",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/en-US.ini",
+        "sha256": "1wckllyvzvvz8sjmnpi4awmkhvgyy8irwb4dywcigk1gl16bafsp"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "1k06sqdirw3560r4nkwqn1n24a0sxyc1xcd6dga8l36khmrnpi66"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-arm64-x86_64.dylib",
+        "sha256": "1k06sqdirw3560r4nkwqn1n24a0sxyc1xcd6dga8l36khmrnpi66"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-x64.dll",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-x64.dll",
+        "sha256": "1g9riba6d4x62aybzdrlxz5lychz67sf4cv390fk4bkxzyq880z9"
+      },
+      {
+        "path": "UserPlugins/reaper_ReasonusNative-x86.dll",
+        "url": "https://github.com/navelpluisje/Reasonus-Native/releases/download/0.12.1/reaper_ReasonusNative-x86.dll",
+        "sha256": "09vyjmxg7079jdypbr55k4hzy5zn7gdp7v08id7vw0g6g92kn10i"
       }
     ],
     "0.12.0": [

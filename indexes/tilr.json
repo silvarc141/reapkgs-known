@@ -284,22 +284,6 @@
       }
     ]
   },
-  "Vel to CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
-      }
-    ],
-    "2.0.0": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
-      }
-    ]
-  },
   "GFX MIDI Filter.jsfx": {
     "latest": [
       {
@@ -329,6 +313,22 @@
         "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
         "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+      }
+    ]
+  },
+  "Vel to CC.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
+      }
+    ],
+    "2.0.0": [
+      {
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/b1160b5d78ce3c25eebb5dcd98ff8c0220ff93c1/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0lbfxw945y3kpsljg204rvm04bx7cdv60nvdzcw319gkinrv0zhv"
       }
     ]
   },

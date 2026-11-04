@@ -570,52 +570,6 @@
       }
     ]
   },
-  "Copy Items to Selected Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
-      }
-    ]
-  },
-  "Create 4 Points Inside Time Selection Using Grid Values.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/214a498295287b8a9e794e17ee7697951f47f5ec/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "19j5pkchzdmyg7axh9qci3y0xsnsqyhwapb8jikgz1w4xa5dy9l4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f03f23d1f7dca9702ab5f41cc6e411e1286a1379/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
-        "sha256": "15vyyahj0g24q9hs5s07rf9n0b8hvlj83pl8z30ary0yw07vi3f1"
-      }
-    ]
-  },
   "Copy Paste MIDI.lua": {
     "latest": [
       {
@@ -1051,6 +1005,52 @@
         "path": "Scripts/Daniel Lumertz Scripts/MIDI/Copy Paste MIDI/Functions/MIDI Functions.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/0936dec3962cb3b694290f9dfc897c705abc81f0/MIDI/Copy%20Paste%20MIDI/Functions/MIDI%20Functions.lua",
         "sha256": "1x9sj4ariqi7lyb7cwqavvq6f4nx988bf6w9bji92s269sxr42jp"
+      }
+    ]
+  },
+  "Create 4 Points Inside Time Selection Using Grid Values.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/263195b013e02b5f3df55012358568e1d973d89e/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "02hhnbbrbbfbcbc3mx4z7y12xr9n4vdgmfdx27hicrbbf0rayrr4"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/214a498295287b8a9e794e17ee7697951f47f5ec/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "19j5pkchzdmyg7axh9qci3y0xsnsqyhwapb8jikgz1w4xa5dy9l4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Create 4 Points Inside Time Selection Using Grid Values.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f03f23d1f7dca9702ab5f41cc6e411e1286a1379/Misc/Create%204%20Points%20Inside%20Time%20Selection%20Using%20Grid%20Values.lua",
+        "sha256": "15vyyahj0g24q9hs5s07rf9n0b8hvlj83pl8z30ary0yw07vi3f1"
+      }
+    ]
+  },
+  "Copy Items to Selected Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
       }
     ]
   },
@@ -16149,7 +16149,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/User Settings/.gitkeep",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/40bef323fc71ee99fe7759d9a3150769cd02fde5/Generative/Clouds/User%20Settings/.gitkeep",
-        "sha256": "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds Generate for All Items Without Deleting.lua",
@@ -16623,7 +16623,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/User Settings/.gitkeep",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/90896d4779c2ca34f2d43c51237149e67c7928f4/Generative/Clouds/User%20Settings/.gitkeep",
-        "sha256": "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds Generate for All Items Without Deleting.lua",
@@ -18212,7 +18212,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/User Settings/.gitkeep",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/User%20Settings/.gitkeep",
-        "sha256": "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds Generate for All Items Without Deleting.lua",
@@ -19125,7 +19125,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/User Settings/.gitkeep",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ab74bee44e45c6dfd6165a58fb4097ab79bc9f8e/Generative/Clouds/User%20Settings/.gitkeep",
-        "sha256": "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds Generate for All Items Without Deleting.lua",
@@ -21108,7 +21108,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/User Settings/.gitkeep",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/37bff530b984505dd9f1040f640fb6102da62c92/Generative/Clouds/User%20Settings/.gitkeep",
-        "sha256": "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds.lua",
@@ -21522,7 +21522,7 @@
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/User Settings/.gitkeep",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/848d3be8eb2eb6dc905c737f7d0f9d18ea1e3f82/Generative/Clouds/User%20Settings/.gitkeep",
-        "sha256": "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73"
+        "sha256": ""
       },
       {
         "path": "Scripts/Daniel Lumertz Scripts/Generative/Clouds/daniellumertz_Clouds.lua",
